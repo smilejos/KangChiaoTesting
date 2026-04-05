@@ -15,7 +15,7 @@ import { I18nService } from '../../../core/services/i18n.service';
         [class.wrong]="answered && selected === true && question.answer !== true"
         [disabled]="answered"
         (click)="select(true)">
-        True
+        {{ i18n.t('true') }}
       </button>
       <button
         class="option"
@@ -24,7 +24,7 @@ import { I18nService } from '../../../core/services/i18n.service';
         [class.wrong]="answered && selected === false && question.answer !== false"
         [disabled]="answered"
         (click)="select(false)">
-        False
+        {{ i18n.t('false') }}
       </button>
     </div>
   `,
