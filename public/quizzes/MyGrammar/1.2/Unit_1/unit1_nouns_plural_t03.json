@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "id": "unit1_nouns_plural_t03",
+    "version": "1.0",
+    "title": "Unit 1 — Singular & Plural Nouns (Test 3)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Write and identify plural nouns using -s and -es rules."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "What is the plural of \"cookie\"?",
+      "options": ["cookis", "cookies", "cookys", "cookie"],
+      "answer": 1,
+      "explanation": "cookie → cookies. When a noun ends in a vowel + e, just add -s."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "singular"],
+      "question": "\"Pencil\" is a singular noun.",
+      "answer": true,
+      "explanation": "Yes! \"pencil\" means one pencil — singular."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"dog\".",
+      "answer": "dogs",
+      "acceptedAnswers": ["dogs", "Dogs"],
+      "hint": "Just add -s",
+      "explanation": "dog → dogs. Regular nouns add -s."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Joe watches a snail crawl down a ___. (log)",
+      "options": ["logs", "log", "loges", "logies"],
+      "answer": 1,
+      "explanation": "\"a\" tells us we need a singular noun: log (one log)."
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "The plural of \"fox\" is \"foxes\".",
+      "answer": true,
+      "explanation": "Yes! fox ends in -x, so we add -es: fox → foxes."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"bottle\".",
+      "answer": "bottles",
+      "acceptedAnswers": ["bottles", "Bottles"],
+      "hint": "Just add -s",
+      "explanation": "bottle → bottles. Regular nouns add -s."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Roy drinks a ___ of juice. (glass)",
+      "options": ["glasses", "glass", "glases", "glassies"],
+      "answer": 1,
+      "explanation": "\"a\" tells us we need a singular noun: a glass of juice."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "singular", "plural", "sorting"],
+      "question": "Sort these words: Singular or Plural?",
+      "items": ["rulers", "house", "cats", "pencil", "buses"],
+      "categories": [
+        { "label": "Singular", "answers": ["house", "pencil"] },
+        { "label": "Plural", "answers": ["rulers", "cats", "buses"] }
+      ],
+      "explanation": "house/pencil = one (singular). rulers/cats/buses = more than one (plural)."
+    },
+    {
+      "id": "q9",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["has", "She", "boxes", "three"],
+      "answer": ["She", "has", "three", "boxes"],
+      "explanation": "Correct sentence: \"She has three boxes.\""
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural"],
+      "question": "In the sentence \"Mom buys seven apples,\" the noun is plural.",
+      "answer": true,
+      "explanation": "\"apples\" is plural — seven tells us there is more than one."
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural of \"class\".",
+      "answer": "classes",
+      "acceptedAnswers": ["classes", "Classes"],
+      "hint": "Words ending in -ss get -es",
+      "explanation": "class → classes. Words ending in -ss add -es."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "rules"],
+      "question": "Which word uses the correct plural rule?",
+      "options": ["watchs", "watches", "watchies", "watchess"],
+      "answer": 1,
+      "explanation": "watch ends in -ch, so we add -es: watch → watches."
+    },
+    {
+      "id": "q13",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "rules", "sorting"],
+      "question": "Sort these plurals: did they add -s or -es?",
+      "items": ["trees", "dishes", "birds", "foxes", "cats"],
+      "categories": [
+        { "label": "Add -s", "answers": ["trees", "birds", "cats"] },
+        { "label": "Add -es", "answers": ["dishes", "foxes"] }
+      ],
+      "explanation": "Regular nouns add -s. Nouns ending in -sh or -x add -es."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural"],
+      "question": "\"Ants\" is the correct plural form of \"ant\".",
+      "answer": true,
+      "explanation": "Yes! ant → ants. A regular noun — just add -s."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["girls", "Four", "dance", "music", "to", "the"],
+      "answer": ["Four", "girls", "dance", "to", "the", "music"],
+      "explanation": "Correct sentence: \"Four girls dance to the music.\""
+    },
+    {
+      "id": "q16",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"toe\".",
+      "answer": "toes",
+      "acceptedAnswers": ["toes", "Toes"],
+      "hint": "Just add -s",
+      "explanation": "toe → toes. Regular nouns add -s."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Which sentence is correct?",
+      "options": [
+        "Some bears eat fish.",
+        "Some bear eat fish.",
+        "Some beares eat fish.",
+        "Some bearies eat fish."
+      ],
+      "answer": 0,
+      "explanation": "\"Some\" tells us we need a plural: bears. bear → bears."
+    },
+    {
+      "id": "q18",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "rules"],
+      "question": "What is the plural of \"cockroach\"?",
+      "options": ["cockroachs", "cockroaches", "cockroachies", "cockroach"],
+      "answer": 1,
+      "explanation": "cockroach ends in -ch, so we add -es: cockroach → cockroaches."
+    },
+    {
+      "id": "q19",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "In the sentence \"Three rocks are by the tree,\" the noun \"rocks\" is singular.",
+      "answer": false,
+      "explanation": "\"Three rocks\" means more than one rock — that's plural, not singular."
+    },
+    {
+      "id": "q20",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural of \"glass\".",
+      "answer": "glasses",
+      "acceptedAnswers": ["glasses", "Glasses"],
+      "hint": "Words ending in -ss get -es",
+      "explanation": "glass → glasses. Words ending in -ss add -es."
+    }
+  ]
+}

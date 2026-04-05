@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "id": "MyGrammar/Unit_3/verbs",
+    "version": "1.0",
+    "title": "Unit 3 — Action Verbs",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Learn to identify and use action verbs in sentences."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["verbs", "action"],
+      "question": "Which word is an action verb?",
+      "options": ["happy", "run", "blue", "tall"],
+      "answer": 1,
+      "explanation": "\"run\" is an action verb — it describes something you do."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["verbs", "action"],
+      "question": "Which word is an action verb?",
+      "options": ["sing", "pretty", "big", "round"],
+      "answer": 0,
+      "explanation": "\"sing\" is an action verb — it is something you can do."
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["verbs", "identification"],
+      "question": "\"Jump\" is an action verb.",
+      "answer": true,
+      "explanation": "Yes! \"Jump\" describes an action — something you can do."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["verbs", "identification"],
+      "question": "\"Beautiful\" is an action verb.",
+      "answer": false,
+      "explanation": "\"Beautiful\" is an adjective (a describing word), not a verb."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["verbs", "action"],
+      "question": "She ___ to school every day.",
+      "options": ["walks", "tall", "happy", "blue"],
+      "answer": 0,
+      "explanation": "\"walks\" is the action verb — it tells what she does."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["verbs", "past-tense"],
+      "question": "Yesterday, I ___ (walk) to school.",
+      "answer": "walked",
+      "acceptedAnswers": ["walked", "Walked"],
+      "hint": "Add -ed for regular past tense",
+      "explanation": "walk → walked (regular verb: add -ed for past tense)"
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["verbs", "past-tense"],
+      "question": "She ___ (play) with her friends after school.",
+      "answer": "played",
+      "acceptedAnswers": ["played", "Played"],
+      "hint": "Add -ed for regular past tense",
+      "explanation": "play → played (regular verb: add -ed)"
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["verbs", "nouns", "sorting"],
+      "question": "Sort each word — is it a verb or a noun?",
+      "items": ["run", "apple", "swim", "table", "sing"],
+      "categories": [
+        { "label": "Verb", "answers": ["run", "swim", "sing"] },
+        { "label": "Noun", "answers": ["apple", "table"] }
+      ],
+      "explanation": "run/swim/sing are actions (verbs). apple/table are things (nouns)."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["verbs", "adjectives", "sorting"],
+      "question": "Sort each word — is it a verb or an adjective?",
+      "items": ["eat", "red", "jump", "small", "cook"],
+      "categories": [
+        { "label": "Verb", "answers": ["eat", "jump", "cook"] },
+        { "label": "Adjective", "answers": ["red", "small"] }
+      ],
+      "explanation": "eat/jump/cook are actions (verbs). red/small describe things (adjectives)."
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["verbs", "sentence"],
+      "question": "Which sentence uses the verb correctly?",
+      "options": [
+        "He read a book yesterday.",
+        "He reads a book yesterday.",
+        "He reading a book yesterday.",
+        "He readed a book yesterday."
+      ],
+      "answer": 0,
+      "explanation": "\"read\" (past tense) is correct here. \"yesterday\" tells us it happened in the past."
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["verbs", "identification"],
+      "question": "In the sentence \"The dog eats food,\" the verb is \"dog.\"",
+      "answer": false,
+      "explanation": "\"dog\" is a noun. The verb is \"eats\" — it tells what the dog does."
+    },
+    {
+      "id": "q12",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["verbs", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["school", "to", "walks", "He"],
+      "answer": ["He", "walks", "to", "school"],
+      "explanation": "Correct sentence: \"He walks to school.\""
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": ["verbs", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["every", "She", "reads", "day", "books"],
+      "answer": ["She", "reads", "books", "every", "day"],
+      "explanation": "Correct sentence: \"She reads books every day.\""
+    },
+    {
+      "id": "q14",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["verbs", "present-tense"],
+      "question": "He ___ (like) ice cream.",
+      "answer": "likes",
+      "acceptedAnswers": ["likes", "Likes"],
+      "hint": "Add -s for he/she/it",
+      "explanation": "like → likes (add -s when the subject is he, she, or it)"
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["verbs", "tense"],
+      "question": "Which sentence is in the past tense?",
+      "options": [
+        "I eat breakfast.",
+        "I am eating breakfast.",
+        "I ate breakfast.",
+        "I will eat breakfast."
+      ],
+      "answer": 2,
+      "explanation": "\"ate\" is the past tense of \"eat.\" It tells us the action already happened."
+    }
+  ]
+}

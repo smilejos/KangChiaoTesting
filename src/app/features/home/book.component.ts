@@ -1,46 +1,46 @@
 import { Component, inject, OnInit, signal } from '@angular/core';
-import { RouterLink } from '@angular/router';
+import { ActivatedRoute, Router, RouterLink } from '@angular/router';
 import { QuizLoaderService } from '../../core/services/quiz-loader.service';
 import { I18nService } from '../../core/services/i18n.service';
-import { BookEntry } from '../../core/models/quiz-index.model';
+import { BookEntry, UnitEntry } from '../../core/models/quiz-index.model';
 
 @Component({
-  selector: 'app-home',
+  selector: 'app-book',
   standalone: true,
   imports: [RouterLink],
   template: `
-    <div class="home">
+    <div class="page">
       <header class="header">
         <div class="header-top">
-          <h1 class="title">{{ i18n.t('appTitle') }}</h1>
+          <button class="back-btn" (click)="goHome()">&larr;</button>
+          <h1 class="title">{{ bookName() }}</h1>
           <button class="lang-toggle" (click)="i18n.toggle()">
             {{ i18n.lang() === 'en' ? '中文' : 'EN' }}
           </button>
         </div>
-        <p class="subtitle">{{ i18n.t('appSubtitle') }}</p>
       </header>
 
-      <div class="book-list">
-        @for (book of books(); track book.id) {
-          <a class="book-card" [routerLink]="['/book', book.id]"
-             [style.--card-color]="book.color">
-            <div class="book-icon">📖</div>
-            <div class="book-body">
-              <h3 class="book-name">{{ book.name }}</h3>
-              <p class="book-meta">
-                {{ book.units.length }} {{ i18n.t('units') }}
+      <div class="unit-list">
+        @for (unit of units(); track unit.id) {
+          <a class="unit-card" [routerLink]="['/unit', bookId(), unit.id.split('/')[1]]"
+             [style.--card-color]="bookColor()">
+            <div class="unit-icon">📁</div>
+            <div class="unit-body">
+              <h3 class="unit-name">{{ unit.name }}</h3>
+              <p class="unit-meta">
+                {{ unit.quizzes.length }} {{ i18n.t('quizzes') }}
               </p>
             </div>
             <span class="arrow">&rarr;</span>
           </a>
         } @empty {
-          <p class="loading">{{ i18n.t('loading') }}</p>
+          <p class="empty">{{ i18n.t('noUnits') }}</p>
         }
       </div>
     </div>
   `,
   styles: [`
-    .home {
+    .page {
       max-width: 680px;
       margin: 0 auto;
       padding: var(--space-lg) var(--space-md);
@@ -50,17 +50,24 @@ import { BookEntry } from '../../core/models/quiz-index.model';
     .header-top {
       display: flex;
       align-items: center;
-      justify-content: space-between;
+      gap: var(--space-md);
+    }
+    .back-btn {
+      background: none;
+      border: 1px solid var(--color-border);
+      color: var(--color-text);
+      font-size: 1.2rem;
+      width: 44px;
+      height: 44px;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      flex-shrink: 0;
     }
     .title {
-      font-size: 1.75rem;
+      flex: 1;
+      font-size: 1.5rem;
       margin: 0;
       color: var(--color-text);
-    }
-    .subtitle {
-      margin: var(--space-xs) 0 0;
-      color: var(--color-muted);
-      font-size: 0.95rem;
     }
     .lang-toggle {
       background: var(--color-surface);
@@ -73,12 +80,12 @@ import { BookEntry } from '../../core/models/quiz-index.model';
       min-width: 44px;
       min-height: 44px;
     }
-    .book-list {
+    .unit-list {
       display: flex;
       flex-direction: column;
       gap: var(--space-md);
     }
-    .book-card {
+    .unit-card {
       display: flex;
       align-items: center;
       gap: var(--space-md);
@@ -88,24 +95,24 @@ import { BookEntry } from '../../core/models/quiz-index.model';
       border-radius: var(--radius-md);
       text-decoration: none;
       color: var(--color-text);
-      transition: transform 0.15s, box-shadow 0.15s;
+      transition: transform 0.15s;
       border-left: 4px solid var(--card-color, var(--color-accent));
       min-height: 44px;
     }
-    .book-card:active { transform: scale(0.98); }
-    .book-icon {
-      font-size: 2.5rem;
+    .unit-card:active { transform: scale(0.98); }
+    .unit-icon {
+      font-size: 2rem;
       flex-shrink: 0;
-      width: 56px;
+      width: 48px;
       text-align: center;
     }
-    .book-body { flex: 1; min-width: 0; }
-    .book-name {
+    .unit-body { flex: 1; min-width: 0; }
+    .unit-name {
       margin: 0;
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       font-weight: 600;
     }
-    .book-meta {
+    .unit-meta {
       margin: 4px 0 0;
       font-size: 0.85rem;
       color: var(--color-muted);
@@ -115,21 +122,41 @@ import { BookEntry } from '../../core/models/quiz-index.model';
       color: var(--card-color, var(--color-accent));
       flex-shrink: 0;
     }
-    .loading {
+    .empty {
       text-align: center;
       color: var(--color-muted);
       padding: var(--space-xl);
     }
   `],
 })
-export class HomeComponent implements OnInit {
+export class BookComponent implements OnInit {
+  private route = inject(ActivatedRoute);
+  private router = inject(Router);
   private loader = inject(QuizLoaderService);
   i18n = inject(I18nService);
-  books = signal<BookEntry[]>([]);
+
+  bookId = signal('');
+  bookName = signal('');
+  bookColor = signal('');
+  units = signal<UnitEntry[]>([]);
 
   ngOnInit(): void {
+    const id = this.route.snapshot.paramMap.get('bookId')!;
+    this.bookId.set(id);
+
     this.loader.loadIndex().subscribe(data => {
-      this.books.set(data.books);
+      const book = data.books.find((b: BookEntry) => b.id === id);
+      if (!book) {
+        this.router.navigate(['/']);
+        return;
+      }
+      this.bookName.set(book.name);
+      this.bookColor.set(book.color);
+      this.units.set(book.units);
     });
+  }
+
+  goHome(): void {
+    this.router.navigate(['/']);
   }
 }

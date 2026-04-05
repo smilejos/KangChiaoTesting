@@ -5,7 +5,11 @@ export type Lang = 'en' | 'zh';
 const translations: Record<Lang, Record<string, string>> = {
   en: {
     appTitle: 'MyGrammar Quiz',
-    appSubtitle: 'Tap a unit to start practicing',
+    appSubtitle: 'Choose a book to start',
+    units: 'units',
+    quizzes: 'quizzes',
+    noUnits: 'No units yet',
+    noQuizzes: 'No quizzes yet',
     questions: 'questions',
     next: 'Next Question',
     submit: 'Submit',
@@ -40,7 +44,11 @@ const translations: Record<Lang, Record<string, string>> = {
   },
   zh: {
     appTitle: 'MyGrammar 文法測驗',
-    appSubtitle: '點選單元開始練習',
+    appSubtitle: '選擇課本開始練習',
+    units: '個單元',
+    quizzes: '個測驗',
+    noUnits: '尚無單元',
+    noQuizzes: '尚無測驗',
     questions: '題',
     next: '下一題',
     submit: '送出',

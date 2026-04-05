@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "id": "unit1_nouns_plural_t01",
+    "version": "1.0",
+    "title": "Unit 1 — Singular & Plural Nouns (Test 1)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Identify singular and plural nouns and form plurals with -s and -es."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "singular", "plural"],
+      "question": "Which word is a singular noun?",
+      "options": ["cats", "boxes", "dog", "buses"],
+      "answer": 2,
+      "explanation": "\"dog\" is a singular noun — it means just one dog."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "What is the plural of \"cat\"?",
+      "options": ["cates", "cates", "cats", "caties"],
+      "answer": 2,
+      "explanation": "Add -s to most nouns to make them plural. cat → cats."
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "\"Buses\" is the correct plural form of \"bus\".",
+      "answer": true,
+      "explanation": "Yes! Words ending in -s get -es added: bus → buses."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "The plural of \"box\" is \"boxs\".",
+      "answer": false,
+      "explanation": "Words ending in -x get -es added: box → boxes, not boxs."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "There are many ___ in the sky. (star)",
+      "options": ["star", "stars", "stares", "staries"],
+      "answer": 1,
+      "explanation": "\"many\" tells us we need a plural. star → stars (add -s)."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural form of \"watch\".",
+      "answer": "watches",
+      "acceptedAnswers": ["watches", "Watches"],
+      "hint": "Words ending in -ch get -es",
+      "explanation": "watch → watches. Words ending in -ch add -es to form the plural."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural form of \"tree\".",
+      "answer": "trees",
+      "acceptedAnswers": ["trees", "Trees"],
+      "hint": "Just add -s",
+      "explanation": "tree → trees. Regular nouns just add -s."
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "She has three ___. (dish)",
+      "options": ["dish", "dishs", "dishes", "dishies"],
+      "answer": 2,
+      "explanation": "dish → dishes. Words ending in -sh add -es."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "singular", "plural", "sorting"],
+      "question": "Sort these words into Singular or Plural.",
+      "items": ["cat", "boxes", "bird", "buses", "kite"],
+      "categories": [
+        { "label": "Singular", "answers": ["cat", "bird", "kite"] },
+        { "label": "Plural", "answers": ["boxes", "buses"] }
+      ],
+      "explanation": "cat/bird/kite = one thing (singular). boxes/buses = more than one (plural)."
+    },
+    {
+      "id": "q10",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "rules", "sorting"],
+      "question": "Sort these plurals: did they add -s or -es?",
+      "items": ["cats", "watches", "dogs", "classes", "trees"],
+      "categories": [
+        { "label": "Add -s", "answers": ["cats", "dogs", "trees"] },
+        { "label": "Add -es", "answers": ["watches", "classes"] }
+      ],
+      "explanation": "Regular nouns add -s. Nouns ending in -ch, -ss add -es."
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "The plural of \"class\" is \"classs\".",
+      "answer": false,
+      "explanation": "Words ending in -ss add -es: class → classes."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural form of \"box\".",
+      "answer": "boxes",
+      "acceptedAnswers": ["boxes", "Boxes"],
+      "hint": "Words ending in -x get -es",
+      "explanation": "box → boxes. Words ending in -x add -es."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "I see five ___ outside. (car)",
+      "options": ["car", "cares", "cars", "caries"],
+      "answer": 2,
+      "explanation": "Five tells us we need a plural. car → cars."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["by", "are", "Three", "the", "tree", "bears"],
+      "answer": ["Three", "bears", "are", "by", "the", "tree"],
+      "explanation": "Correct sentence: \"Three bears are by the tree.\""
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural"],
+      "question": "In the sentence \"Mom buys seven apples,\" the word \"apples\" is a plural noun.",
+      "answer": true,
+      "explanation": "Yes! \"apples\" is the plural form of \"apple\" — seven tells us there are many."
+    },
+    {
+      "id": "q16",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural form of \"brush\".",
+      "answer": "brushes",
+      "acceptedAnswers": ["brushes", "Brushes"],
+      "hint": "Words ending in -sh get -es",
+      "explanation": "brush → brushes. Words ending in -sh add -es."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Which sentence is correct?",
+      "options": [
+        "She finds ten shell on the beach.",
+        "She finds ten shells on the beach.",
+        "She finds ten shelles on the beach.",
+        "She finds ten shelves on the beach."
+      ],
+      "answer": 1,
+      "explanation": "shell → shells (add -s). \"ten\" tells us we need a plural."
+    },
+    {
+      "id": "q18",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["glasses", "Roy", "of", "has", "juice", "two"],
+      "answer": ["Roy", "has", "two", "glasses", "of", "juice"],
+      "explanation": "Correct sentence: \"Roy has two glasses of juice.\""
+    },
+    {
+      "id": "q19",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "rules"],
+      "question": "Which word follows the rule: 'ending in -sh → add -es'?",
+      "options": ["cats", "trees", "dishes", "dogs"],
+      "answer": 2,
+      "explanation": "dish ends in -sh, so it becomes dishes by adding -es."
+    },
+    {
+      "id": "q20",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "In the sentence \"We see many church,\" the noun is correctly written.",
+      "answer": false,
+      "explanation": "\"church\" ends in -ch, so its plural is \"churches\". We need \"many churches\"."
+    }
+  ]
+}

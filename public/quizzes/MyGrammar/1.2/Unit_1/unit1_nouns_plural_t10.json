@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "id": "unit1_nouns_plural_t10",
+    "version": "1.0",
+    "title": "Unit 1 — Singular & Plural Nouns (Test 10)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Final review: master singular and plural noun rules with challenging sentences."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "What is the plural of \"ant\"?",
+      "options": ["antes", "ants", "anties", "an"],
+      "answer": 1,
+      "explanation": "ant → ants. Regular nouns add -s."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "\"Houses\" is the plural of \"house\".",
+      "answer": true,
+      "explanation": "Yes! house → houses. Regular nouns add -s."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"bird\".",
+      "answer": "birds",
+      "acceptedAnswers": ["birds", "Birds"],
+      "hint": "Just add -s",
+      "explanation": "bird → birds. Regular nouns add -s."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "There are many ___ in the city. (church)",
+      "options": ["church", "churchs", "churches", "churchies"],
+      "answer": 2,
+      "explanation": "church → churches (add -es). \"many\" tells us we need a plural."
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "The plural of \"star\" is \"stars\".",
+      "answer": true,
+      "explanation": "Yes! star → stars. Regular nouns add -s."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural of \"box\".",
+      "answer": "boxes",
+      "acceptedAnswers": ["boxes", "Boxes"],
+      "hint": "Words ending in -x get -es",
+      "explanation": "box → boxes. Words ending in -x add -es."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Which sentence uses the correct plural noun?",
+      "options": [
+        "I plant two bush in the yard.",
+        "I plant two bushs in the yard.",
+        "I plant two bushes in the yard.",
+        "I plant two bushies in the yard."
+      ],
+      "answer": 2,
+      "explanation": "bush → bushes (add -es). \"two\" tells us we need a plural."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "singular", "plural", "sorting"],
+      "question": "Sort these words: Singular or Plural?",
+      "items": ["ant", "houses", "bird", "churches", "star"],
+      "categories": [
+        { "label": "Singular", "answers": ["ant", "bird", "star"] },
+        { "label": "Plural", "answers": ["houses", "churches"] }
+      ],
+      "explanation": "ant/bird/star = one (singular). houses/churches = more than one (plural)."
+    },
+    {
+      "id": "q9",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["glasses", "Roy", "two", "of", "has", "juice"],
+      "answer": ["Roy", "has", "two", "glasses", "of", "juice"],
+      "explanation": "Correct sentence: \"Roy has two glasses of juice.\""
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural"],
+      "question": "The plural of \"pencil\" is \"pencils\".",
+      "answer": true,
+      "explanation": "Yes! pencil → pencils. Regular nouns add -s."
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural of \"beach\".",
+      "answer": "beaches",
+      "acceptedAnswers": ["beaches", "Beaches"],
+      "hint": "Words ending in -ch get -es",
+      "explanation": "beach → beaches. Words ending in -ch add -es."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "rules"],
+      "question": "Which pair shows the correct singular → plural change?",
+      "options": ["ant → antes", "box → boxes", "tree → treees", "dog → doges"],
+      "answer": 1,
+      "explanation": "box → boxes is correct. box ends in -x, so add -es."
+    },
+    {
+      "id": "q13",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "rules", "sorting"],
+      "question": "Sort these plurals: did they add -s or -es?",
+      "items": ["ants", "boxes", "birds", "beaches", "stars"],
+      "categories": [
+        { "label": "Add -s", "answers": ["ants", "birds", "stars"] },
+        { "label": "Add -es", "answers": ["boxes", "beaches"] }
+      ],
+      "explanation": "Regular nouns add -s. Nouns ending in -x or -ch add -es."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "In the sentence \"The class has twenty students,\" the word \"class\" is a singular noun.",
+      "answer": true,
+      "explanation": "\"The class\" (one class) — that's singular. \"classes\" would be the plural."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["church", "We", "many", "city", "in", "the", "see"],
+      "answer": ["We", "see", "many", "churches", "in", "the", "city"],
+      "explanation": "Correct: \"We see many churches in the city.\" (church → churches)"
+    },
+    {
+      "id": "q16",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"ruler\".",
+      "answer": "rulers",
+      "acceptedAnswers": ["rulers", "Rulers"],
+      "hint": "Just add -s",
+      "explanation": "ruler → rulers. Regular nouns add -s."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        "I see five car outside.",
+        "I see five cares outside.",
+        "I see five cars outside.",
+        "I see car five outside."
+      ],
+      "answer": 2,
+      "explanation": "car → cars. \"five\" tells us we need a plural."
+    },
+    {
+      "id": "q18",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "rules"],
+      "question": "A noun ending in -ch will become plural by adding ___.",
+      "options": ["-s", "-es", "-ies", "-ss"],
+      "answer": 1,
+      "explanation": "Nouns ending in -ch add -es to form the plural (e.g., beach → beaches, church → churches)."
+    },
+    {
+      "id": "q19",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "The sentence \"Some bears eat fish\" uses the correct plural form.",
+      "answer": true,
+      "explanation": "bears is the correct plural of bear (add -s). \"Some\" tells us we need a plural."
+    },
+    {
+      "id": "q20",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural of \"bus\".",
+      "answer": "buses",
+      "acceptedAnswers": ["buses", "Buses"],
+      "hint": "Words ending in -s get -es",
+      "explanation": "bus → buses. Words ending in -s add -es."
+    }
+  ]
+}

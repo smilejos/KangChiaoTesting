@@ -8,7 +8,7 @@ import { I18nService } from '../../core/services/i18n.service';
   standalone: true,
   imports: [RouterLink],
   template: `
-    <a class="card" [routerLink]="['/quiz', quiz.id]"
+    <a class="card" [routerLink]="['/quiz', encodedId]"
        [style.--card-color]="quiz.color">
       <div class="card-emoji">{{ quiz.emoji }}</div>
       <div class="card-body">
@@ -79,6 +79,10 @@ export class QuizCardComponent {
   @Input({ required: true }) quiz!: QuizEntry;
 
   constructor(public i18n: I18nService) {}
+
+  get encodedId(): string {
+    return encodeURIComponent(this.quiz.id);
+  }
 
   get stars(): string {
     return '★'.repeat(this.quiz.difficulty) + '☆'.repeat(3 - this.quiz.difficulty);

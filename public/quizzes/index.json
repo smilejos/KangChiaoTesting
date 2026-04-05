@@ -1,27 +1,59 @@
 {
-  "version": "1.0",
-  "quizzes": [
+  "version": "2.0",
+  "generated": "2026-04-05T01:37:56.410Z",
+  "books": [
     {
-      "id": "unit1_plural",
-      "title": "Unit 1 — Singular & Plural",
-      "subtitle": "Adding -s and -es to nouns",
-      "emoji": "\ud83d\udcda",
+      "id": "MyGrammar",
+      "name": "MyGrammar",
       "color": "#10b981",
-      "tags": ["nouns", "plural"],
-      "difficulty": 1,
-      "file": "unit1_plural.json",
-      "questionCount": 15
-    },
-    {
-      "id": "unit2_nouns",
-      "title": "Unit 2 — Common & Proper Nouns",
-      "subtitle": "Naming regular vs. special things",
-      "emoji": "\ud83c\udfd9\ufe0f",
-      "color": "#6366f1",
-      "tags": ["nouns", "capitalization"],
-      "difficulty": 1,
-      "file": "unit2_nouns.json",
-      "questionCount": 13
+      "units": [
+        {
+          "id": "MyGrammar/Unit_1",
+          "name": "Unit 1",
+          "quizzes": [
+            {
+              "id": "MyGrammar/Unit_1/plural",
+              "title": "Unit 1 — Singular & Plural",
+              "subtitle": "Practice making nouns plural with -s and -es rules.",
+              "emoji": "📚",
+              "color": "#10b981",
+              "tags": [
+                "plural",
+                "-s",
+                "-es",
+                "sorting",
+                "sentence"
+              ],
+              "difficulty": 2,
+              "file": "MyGrammar/Unit_1/plural.json",
+              "questionCount": 15
+            }
+          ]
+        },
+        {
+          "id": "MyGrammar/Unit_2",
+          "name": "Unit 2",
+          "quizzes": [
+            {
+              "id": "MyGrammar/Unit_2/nouns",
+              "title": "Unit 2 — Common & Proper Nouns",
+              "subtitle": "Learn to tell the difference between common nouns and proper nouns.",
+              "emoji": "📚",
+              "color": "#10b981",
+              "tags": [
+                "nouns",
+                "proper",
+                "common",
+                "sorting",
+                "capitalization"
+              ],
+              "difficulty": 2,
+              "file": "MyGrammar/Unit_2/nouns.json",
+              "questionCount": 13
+            }
+          ]
+        }
+      ]
     }
   ]
 }

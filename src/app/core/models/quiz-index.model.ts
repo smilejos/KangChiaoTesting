@@ -1,5 +1,19 @@
 export interface QuizIndex {
   version: string;
+  generated: string;
+  books: BookEntry[];
+}
+
+export interface BookEntry {
+  id: string;
+  name: string;
+  color: string;
+  units: UnitEntry[];
+}
+
+export interface UnitEntry {
+  id: string;
+  name: string;
   quizzes: QuizEntry[];
 }
 

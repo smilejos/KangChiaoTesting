@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "id": "unit2_common_proper_t01",
+    "version": "1.0",
+    "title": "Unit 2 — Common & Proper Nouns (Test 1)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Identify common and proper nouns and understand capitalization rules."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "common", "proper"],
+      "question": "Which word is a proper noun?",
+      "options": ["girl", "city", "Japan", "teacher"],
+      "answer": 2,
+      "explanation": "\"Japan\" is a proper noun — it's the name of a specific country. It must be capitalized."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "common"],
+      "question": "\"Girl\" is a common noun.",
+      "answer": true,
+      "explanation": "Yes! \"girl\" is a common noun — it refers to any girl, not a specific one."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "Which word needs to be capitalized?",
+      "options": ["city", "park", "christmas", "dog"],
+      "answer": 2,
+      "explanation": "\"Christmas\" is a proper noun (a holiday name) and must always be capitalized."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "Proper nouns must always begin with a capital letter.",
+      "answer": true,
+      "explanation": "Yes! Proper nouns (names of specific people, places, things) always start with a capital letter."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "common"],
+      "question": "Which word is a common noun?",
+      "options": ["Monday", "Sharon", "teacher", "Taipei"],
+      "answer": 2,
+      "explanation": "\"teacher\" is a common noun — it refers to any teacher, not a specific one."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "days"],
+      "question": "What type of noun is \"Monday\"? (common or proper)",
+      "answer": "proper",
+      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "hint": "Days of the week are always capitalized",
+      "explanation": "Monday is a proper noun — days of the week are specific names and must be capitalized."
+    },
+    {
+      "id": "q7",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "common", "proper", "sorting"],
+      "question": "Sort these words: Common Noun or Proper Noun?",
+      "items": ["girl", "Japan", "teacher", "Monday", "city"],
+      "categories": [
+        { "label": "Common Noun", "answers": ["girl", "teacher", "city"] },
+        { "label": "Proper Noun", "answers": ["Japan", "Monday"] }
+      ],
+      "explanation": "girl/teacher/city = general nouns (common). Japan/Monday = specific names (proper)."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "In the sentence \"We go to the park on saturday,\" the word \"saturday\" is correctly written.",
+      "answer": false,
+      "explanation": "\"Saturday\" is a proper noun (day of the week) and must be capitalized: Saturday."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "Which sentence is written correctly?",
+      "options": [
+        "We go to the park on saturday.",
+        "We go to the park on Saturday.",
+        "we go to the park on Saturday.",
+        "We go to the Park on Saturday."
+      ],
+      "answer": 1,
+      "explanation": "\"Saturday\" must be capitalized (proper noun — day of the week). \"park\" is a common noun and stays lowercase."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "common", "proper"],
+      "question": "What type of noun is \"Steve\"? (common or proper)",
+      "answer": "proper",
+      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "hint": "It's a person's name",
+      "explanation": "Steve is a proper noun — it's a specific person's name and must be capitalized."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["in", "is", "Kang", "Linkou", "Chiao"],
+      "answer": ["Kang", "Chiao", "is", "in", "Linkou"],
+      "explanation": "Correct sentence: \"Kang Chiao is in Linkou.\" Both are proper nouns (capitalized)."
+    },
+    {
+      "id": "q12",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "common", "proper", "sorting"],
+      "question": "Sort these words: Common Noun or Proper Noun?",
+      "items": ["classroom", "Anna", "Taipei", "teacher", "monkey"],
+      "categories": [
+        { "label": "Common Noun", "answers": ["classroom", "teacher", "monkey"] },
+        { "label": "Proper Noun", "answers": ["Anna", "Taipei"] }
+      ],
+      "explanation": "classroom/teacher/monkey = general names (common). Anna/Taipei = specific names (proper)."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "months"],
+      "question": "\"July\" is a proper noun.",
+      "answer": true,
+      "explanation": "Yes! July is a month name — months are proper nouns and must be capitalized."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "Which sentence has the correct capitalization?",
+      "options": [
+        "It is very hot in july.",
+        "It is very hot in July.",
+        "it is very hot in July.",
+        "It is very hot in JULY."
+      ],
+      "answer": 1,
+      "explanation": "\"July\" is a proper noun (month name) and must be capitalized."
+    },
+    {
+      "id": "q15",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "proper", "holidays"],
+      "question": "What type of noun is \"Christmas\"? (common or proper)",
+      "answer": "proper",
+      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "hint": "It's a holiday name",
+      "explanation": "Christmas is a proper noun — it's a specific holiday name and must be capitalized."
+    },
+    {
+      "id": "q16",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": ["nouns", "proper", "capitalization", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["red", "for", "We", "wear", "New", "Year", "Chinese"],
+      "answer": ["We", "wear", "red", "for", "Chinese", "New", "Year"],
+      "explanation": "Correct sentence: \"We wear red for Chinese New Year.\" 'Chinese New Year' is a proper noun."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "common", "proper", "capitalization"],
+      "question": "Which word in this list is NOT correctly capitalized?",
+      "options": ["Monday", "december", "Christmas", "Taipei"],
+      "answer": 1,
+      "explanation": "\"december\" is wrong — December is a proper noun (month) and must be capitalized."
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["nouns", "common", "capitalization"],
+      "question": "In the sentence \"The Playground is big,\" the word \"Playground\" is correctly capitalized.",
+      "answer": false,
+      "explanation": "\"playground\" is a common noun — it should NOT be capitalized unless it starts a sentence."
+    },
+    {
+      "id": "q19",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": ["nouns", "common", "proper", "sorting"],
+      "question": "Sort these words: Common Noun or Proper Noun?",
+      "items": ["December", "beach", "Halloween", "hospital", "Sunday"],
+      "categories": [
+        { "label": "Common Noun", "answers": ["beach", "hospital"] },
+        { "label": "Proper Noun", "answers": ["December", "Halloween", "Sunday"] }
+      ],
+      "explanation": "beach/hospital = general words (common). December/Halloween/Sunday = specific names (proper)."
+    },
+    {
+      "id": "q20",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "The bear's name is max. Fix the proper noun: write the corrected name.",
+      "answer": "Max",
+      "acceptedAnswers": ["Max"],
+      "hint": "A name must start with a capital letter",
+      "explanation": "\"max\" should be \"Max\" — names are proper nouns and always start with a capital letter."
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "id": "unit1_nouns_plural_t06",
+    "version": "1.0",
+    "title": "Unit 1 — Singular & Plural Nouns (Test 6)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Identify and correct plural noun errors in sentences."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "What is the plural of \"boy\"?",
+      "options": ["boys", "boyes", "boyies", "boy"],
+      "answer": 0,
+      "explanation": "boy → boys. Regular nouns add -s."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "The plural of \"brush\" is \"brushes\".",
+      "answer": true,
+      "explanation": "Yes! brush ends in -sh, so we add -es: brush → brushes."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"boy\".",
+      "answer": "boys",
+      "acceptedAnswers": ["boys", "Boys"],
+      "hint": "Just add -s",
+      "explanation": "boy → boys. Regular nouns add -s."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Six ___ are on the rocks. (bug)",
+      "options": ["bug", "bugs", "buges", "bugies"],
+      "answer": 1,
+      "explanation": "\"Six\" tells us we need a plural. bug → bugs."
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "\"Cats\" and \"dogs\" are both plural nouns.",
+      "answer": true,
+      "explanation": "Yes! Both cat → cats and dog → dogs are plural forms."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural of \"fox\".",
+      "answer": "foxes",
+      "acceptedAnswers": ["foxes", "Foxes"],
+      "hint": "Words ending in -x get -es",
+      "explanation": "fox → foxes. Words ending in -x add -es."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Which sentence has the correct plural noun?",
+      "options": [
+        "Four girl dance to the music.",
+        "Four girls dance to the music.",
+        "Four girles dance to the music.",
+        "Four girlies dance to the music."
+      ],
+      "answer": 1,
+      "explanation": "girl → girls. \"Four\" tells us we need a plural."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "singular", "plural", "sorting"],
+      "question": "Sort these words: Singular or Plural?",
+      "items": ["brush", "boys", "bug", "foxes", "ruler"],
+      "categories": [
+        { "label": "Singular", "answers": ["brush", "bug", "ruler"] },
+        { "label": "Plural", "answers": ["boys", "foxes"] }
+      ],
+      "explanation": "brush/bug/ruler = one (singular). boys/foxes = more than one (plural)."
+    },
+    {
+      "id": "q9",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["two", "Ana", "some", "sees", "branches", "birds", "on"],
+      "answer": ["Ana", "sees", "some", "birds", "on", "two", "branches"],
+      "explanation": "Correct sentence: \"Ana sees some birds on two branches.\""
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural"],
+      "question": "The plural of \"kite\" is \"kites\".",
+      "answer": true,
+      "explanation": "Yes! kite → kites. Regular nouns add -s."
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"house\".",
+      "answer": "houses",
+      "acceptedAnswers": ["houses", "Houses"],
+      "hint": "Just add -s",
+      "explanation": "house → houses. Regular nouns add -s."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "rules"],
+      "question": "Which noun adds -es because it ends in -x?",
+      "options": ["dog", "cat", "fox", "bird"],
+      "answer": 2,
+      "explanation": "fox ends in -x, so fox → foxes (add -es)."
+    },
+    {
+      "id": "q13",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "rules", "sorting"],
+      "question": "Sort these plurals: did they add -s or -es?",
+      "items": ["boys", "brushes", "rulers", "foxes", "bugs"],
+      "categories": [
+        { "label": "Add -s", "answers": ["boys", "rulers", "bugs"] },
+        { "label": "Add -es", "answers": ["brushes", "foxes"] }
+      ],
+      "explanation": "Regular nouns add -s. Nouns ending in -sh or -x add -es."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "In the sentence \"There are many wishes,\" the noun \"wishes\" is plural.",
+      "answer": true,
+      "explanation": "Yes! \"many wishes\" — wishes is the plural of wish."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["roads", "near", "are", "houses", "the", "Three"],
+      "answer": ["Three", "houses", "are", "near", "the", "roads"],
+      "explanation": "Correct sentence: \"Three houses are near the roads.\""
+    },
+    {
+      "id": "q16",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural of \"bus\".",
+      "answer": "buses",
+      "acceptedAnswers": ["buses", "Buses"],
+      "hint": "Words ending in -s get -es",
+      "explanation": "bus → buses. Words ending in -s add -es."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Which sentence is correct?",
+      "options": [
+        "We see many church in the city.",
+        "We see many churches in the city.",
+        "We see many churchs in the city.",
+        "We see many churchies in the city."
+      ],
+      "answer": 1,
+      "explanation": "church → churches (add -es). \"many\" tells us we need a plural."
+    },
+    {
+      "id": "q18",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "rules"],
+      "question": "Which group shows the -es rule correctly applied?",
+      "options": ["cat → cates", "box → boxes", "dog → doges", "tree → trees"],
+      "answer": 1,
+      "explanation": "box ends in -x, so box → boxes (add -es). Only this one is correct."
+    },
+    {
+      "id": "q19",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "In the sentence \"My friend and I have two bags,\" the noun \"bags\" is singular.",
+      "answer": false,
+      "explanation": "\"two bags\" means more than one bag — that's plural, not singular."
+    },
+    {
+      "id": "q20",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"shell\".",
+      "answer": "shells",
+      "acceptedAnswers": ["shells", "Shells"],
+      "hint": "Just add -s",
+      "explanation": "shell → shells. Regular nouns add -s."
+    }
+  ]
+}

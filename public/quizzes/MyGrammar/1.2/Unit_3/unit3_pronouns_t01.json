@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "id": "unit3_pronouns_t01",
+    "version": "1.0",
+    "title": "Unit 3 — Pronouns & I/me (Test 1)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Identify and use singular and plural pronouns correctly in sentences."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "singular"],
+      "question": "Which pronoun replaces a female person (she, her)?",
+      "options": ["he", "it", "she", "they"],
+      "answer": 2,
+      "explanation": "\"she\" is used to replace a female person's name."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["pronouns", "singular"],
+      "question": "\"He\" is used to replace a male person's name.",
+      "answer": true,
+      "explanation": "Yes! We use \"he\" when talking about a male person."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "I-me"],
+      "question": "Which pronoun goes at the START of a sentence? (I or me)",
+      "options": ["me", "I", "My", "Mine"],
+      "answer": 1,
+      "explanation": "\"I\" is used as the subject (at the start/before the verb). \"me\" comes after the verb."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["pronouns", "I-me"],
+      "question": "\"I\" must always be written as a capital letter.",
+      "answer": true,
+      "explanation": "Yes! The pronoun \"I\" is ALWAYS capitalized, no matter where it appears in the sentence."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "singular"],
+      "question": "Mina goes on a trip. → ___ visits the desert.",
+      "options": ["He", "It", "She", "They"],
+      "answer": 2,
+      "explanation": "Mina is a female, so we use \"She\" as the pronoun."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "Fill in: ___ am Oliver the otter. (I or me)",
+      "answer": "I",
+      "acceptedAnswers": ["I"],
+      "hint": "This pronoun comes before the verb 'am'",
+      "explanation": "\"I\" is the subject — it comes before the verb. \"I am Oliver the otter.\""
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "sentence"],
+      "question": "The desert is hot and dry. → ___ is hot and dry.",
+      "options": ["She", "He", "It", "They"],
+      "answer": 2,
+      "explanation": "\"the desert\" is a place/thing — we replace it with \"It\"."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "plural", "sorting"],
+      "question": "Sort these pronouns: Singular or Plural?",
+      "items": ["I", "we", "she", "they", "it"],
+      "categories": [
+        { "label": "Singular", "answers": ["I", "she", "it"] },
+        { "label": "Plural", "answers": ["we", "they"] }
+      ],
+      "explanation": "I/she/it = one person or thing (singular). we/they = more than one (plural)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "In the sentence \"Rosa calls me,\" the word \"me\" is correct.",
+      "answer": true,
+      "explanation": "Yes! \"me\" comes after the verb (as the object). Rosa calls me → \"me\" is the receiver of the action."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "Fill in: A lion sees ___. (I or me)",
+      "answer": "me",
+      "acceptedAnswers": ["me"],
+      "hint": "This pronoun comes AFTER the verb 'sees'",
+      "explanation": "\"me\" is the object — it comes after the verb. A lion sees me."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["the", "It", "is", "soft", "grass", "but"],
+      "answer": ["It", "is", "soft", "but", "the", "grass"],
+      "explanation": "Correct: \"It is soft, but the grass...\" (It replaces 'the grass' — a thing.)"
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "plural", "sentence"],
+      "question": "Emma and I see a snake. → ___ see a snake.",
+      "options": ["I", "She", "We", "They"],
+      "answer": 2,
+      "explanation": "\"Emma and I\" = two people (including the speaker) → use \"We\"."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "In the sentence \"I call Rosa,\" the word \"I\" is used correctly.",
+      "answer": true,
+      "explanation": "Yes! \"I\" is the subject — it comes before the verb. \"I call Rosa\" is correct."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular"],
+      "question": "Alex visits the park. → ___ thinks it is great.",
+      "options": ["She", "He", "It", "We"],
+      "answer": 1,
+      "explanation": "Alex is a male name — we use \"He\" to replace it."
+    },
+    {
+      "id": "q15",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "Fill in: Rosa and ___ paint the basket. (I or me)",
+      "answer": "I",
+      "acceptedAnswers": ["I"],
+      "hint": "This comes before the verb 'paint'",
+      "explanation": "\"I\" is the subject — when combined with another noun (Rosa and I), it's still the subject."
+    },
+    {
+      "id": "q16",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": ["pronouns", "singular", "plural", "sorting"],
+      "question": "Sort these pronouns: Singular or Plural?",
+      "items": ["he", "they", "you", "it", "we"],
+      "categories": [
+        { "label": "Singular", "answers": ["he", "it"] },
+        { "label": "Plural", "answers": ["they", "we"] }
+      ],
+      "explanation": "Note: 'you' can be both singular and plural! he/it = singular. they/we = plural."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me", "sentence"],
+      "question": "Which sentence uses 'I' and 'me' correctly?",
+      "options": [
+        "Me am eight years old.",
+        "I am eight years old.",
+        "My am eight years old.",
+        "Mine am eight years old."
+      ],
+      "answer": 1,
+      "explanation": "\"I am\" is correct — \"I\" is the subject of the sentence."
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me"],
+      "question": "In the sentence \"She always helps I with homework,\" the pronoun is correct.",
+      "answer": false,
+      "explanation": "\"helps I\" is wrong — after a verb, we use \"me\" (the object): \"She always helps me with homework.\""
+    },
+    {
+      "id": "q19",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["the", "Rosa", "gives", "basket", "me"],
+      "answer": ["Rosa", "gives", "me", "the", "basket"],
+      "explanation": "Correct: \"Rosa gives me the basket.\" 'me' comes after the verb (object)."
+    },
+    {
+      "id": "q20",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["pronouns", "plural", "sentence"],
+      "question": "Snakes are dangerous. → ___ are dangerous.",
+      "options": ["It", "He", "She", "They"],
+      "answer": 3,
+      "explanation": "\"Snakes\" is plural — we use \"They\" to replace a plural noun."
+    }
+  ]
+}

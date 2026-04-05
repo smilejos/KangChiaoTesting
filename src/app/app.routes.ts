@@ -8,6 +8,18 @@ export const routes: Routes = [
     title: 'MyGrammar Quiz',
   },
   {
+    path: 'book/:bookId',
+    loadComponent: () =>
+      import('./features/home/book.component').then(m => m.BookComponent),
+    title: 'Units',
+  },
+  {
+    path: 'unit/:bookId/:unitId',
+    loadComponent: () =>
+      import('./features/home/unit.component').then(m => m.UnitComponent),
+    title: 'Quizzes',
+  },
+  {
     path: 'quiz/:quizId',
     loadComponent: () =>
       import('./features/quiz/quiz.component').then(m => m.QuizComponent),

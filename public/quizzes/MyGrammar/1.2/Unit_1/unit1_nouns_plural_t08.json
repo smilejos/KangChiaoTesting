@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "id": "unit1_nouns_plural_t08",
+    "version": "1.0",
+    "title": "Unit 1 — Singular & Plural Nouns (Test 8)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Advanced practice: choose singular or plural based on number clues."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "What is the plural of \"shell\"?",
+      "options": ["shelles", "shells", "shellies", "shell"],
+      "answer": 1,
+      "explanation": "shell → shells. Regular nouns add -s."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "\"Bottles\" is the plural of \"bottle\".",
+      "answer": true,
+      "explanation": "Yes! bottle → bottles. Regular nouns add -s."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"bear\".",
+      "answer": "bears",
+      "acceptedAnswers": ["bears", "Bears"],
+      "hint": "Just add -s",
+      "explanation": "bear → bears. Regular nouns add -s."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "She finds ten ___ on the beach. (shell)",
+      "options": ["shell", "shelles", "shells", "shellies"],
+      "answer": 2,
+      "explanation": "\"ten\" tells us we need a plural. shell → shells."
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "The plural of \"class\" is \"classs\".",
+      "answer": false,
+      "explanation": "class ends in -ss, so the plural is classes (add -es), not classs."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"bottle\".",
+      "answer": "bottles",
+      "acceptedAnswers": ["bottles", "Bottles"],
+      "hint": "Just add -s",
+      "explanation": "bottle → bottles. Regular nouns add -s."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Which sentence uses the correct plural?",
+      "options": [
+        "Mom buys seven apple.",
+        "Mom buys seven apples.",
+        "Mom buys seven appleies.",
+        "Mom buys seven apples's."
+      ],
+      "answer": 1,
+      "explanation": "apple → apples. \"seven\" tells us we need a plural."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "singular", "plural", "sorting"],
+      "question": "Sort these words: Singular or Plural?",
+      "items": ["shell", "bottles", "bear", "shells", "class"],
+      "categories": [
+        { "label": "Singular", "answers": ["shell", "bear", "class"] },
+        { "label": "Plural", "answers": ["bottles", "shells"] }
+      ],
+      "explanation": "shell/bear/class = one (singular). bottles/shells = more than one (plural)."
+    },
+    {
+      "id": "q9",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["bears", "by", "sat", "tree", "the", "Three"],
+      "answer": ["Three", "bears", "sat", "by", "the", "tree"],
+      "explanation": "Correct sentence: \"Three bears sat by the tree.\""
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural"],
+      "question": "The plural of \"dish\" is \"dishes\".",
+      "answer": true,
+      "explanation": "Yes! dish ends in -sh, so dish → dishes (add -es)."
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural of \"class\".",
+      "answer": "classes",
+      "acceptedAnswers": ["classes", "Classes"],
+      "hint": "Words ending in -ss get -es",
+      "explanation": "class → classes. Words ending in -ss add -es."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "rules"],
+      "question": "Which noun uses -es because it ends in -ss?",
+      "options": ["dog", "tree", "class", "bird"],
+      "answer": 2,
+      "explanation": "class ends in -ss, so class → classes (add -es)."
+    },
+    {
+      "id": "q13",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "rules", "sorting"],
+      "question": "Sort these plurals: did they add -s or -es?",
+      "items": ["shells", "dishes", "bottles", "classes", "bears"],
+      "categories": [
+        { "label": "Add -s", "answers": ["shells", "bottles", "bears"] },
+        { "label": "Add -es", "answers": ["dishes", "classes"] }
+      ],
+      "explanation": "Regular nouns add -s. Nouns ending in -sh or -ss add -es."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "In the sentence \"One bear sat by the tree,\" the noun \"bear\" is singular.",
+      "answer": true,
+      "explanation": "\"One bear\" means just one bear — that's singular."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["juice", "glass", "a", "drinks", "Roy", "of"],
+      "answer": ["Roy", "drinks", "a", "glass", "of", "juice"],
+      "explanation": "Correct sentence: \"Roy drinks a glass of juice.\""
+    },
+    {
+      "id": "q16",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"pencil\".",
+      "answer": "pencils",
+      "acceptedAnswers": ["pencils", "Pencils"],
+      "hint": "Just add -s",
+      "explanation": "pencil → pencils. Regular nouns add -s."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Which sentence is correct?",
+      "options": [
+        "I open my book to page 8.",
+        "I open my bookes to page 8.",
+        "I open my books to page 8.",
+        "I open my bookies to page 8."
+      ],
+      "answer": 0,
+      "explanation": "\"my book\" (singular, one book) is correct here — no number clue for plural."
+    },
+    {
+      "id": "q18",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "rules"],
+      "question": "Which rule explains why 'fox → foxes'?",
+      "options": [
+        "All nouns add -es",
+        "Nouns ending in -x add -es",
+        "Short nouns add -es",
+        "Nouns ending in vowels add -es"
+      ],
+      "answer": 1,
+      "explanation": "Words ending in -x (like fox) add -es to form the plural: foxes."
+    },
+    {
+      "id": "q19",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "In the sentence \"There are many star in the sky,\" the sentence is correct.",
+      "answer": false,
+      "explanation": "\"many\" tells us we need plural: stars (not star). Correct: \"There are many stars in the sky.\""
+    },
+    {
+      "id": "q20",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"road\".",
+      "answer": "roads",
+      "acceptedAnswers": ["roads", "Roads"],
+      "hint": "Just add -s",
+      "explanation": "road → roads. Regular nouns add -s."
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "id": "unit2_common_proper_t03",
+    "version": "1.0",
+    "title": "Unit 2 — Common & Proper Nouns (Test 3)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Focus on correcting capitalization errors in sentences."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "proper", "holidays"],
+      "question": "Which of these is a proper noun?",
+      "options": ["holiday", "festival", "Halloween", "party"],
+      "answer": 2,
+      "explanation": "\"Halloween\" is a proper noun — it's a specific holiday name and must be capitalized."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "common"],
+      "question": "\"City\" is a common noun.",
+      "answer": true,
+      "explanation": "Yes! \"city\" refers to any city — it's a common noun and does not need a capital letter."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": ["nouns", "common", "proper"],
+      "question": "What type of noun is \"Taipei\"? (common or proper)",
+      "answer": "proper",
+      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "hint": "It's the name of a specific city",
+      "explanation": "Taipei is a proper noun — it's the specific name of a city."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "common", "proper"],
+      "question": "Which word is a common noun?",
+      "options": ["Anna", "Taipei", "Monday", "street"],
+      "answer": 3,
+      "explanation": "\"street\" is a common noun — it refers to any street, not a specific one."
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "\"december\" is correctly written.",
+      "answer": false,
+      "explanation": "December is a month name — a proper noun. It must be capitalized: December."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "My teacher's name is ms. chen. Fix the name: write it correctly.",
+      "answer": "Ms. Chen",
+      "acceptedAnswers": ["Ms. Chen", "Ms Chen"],
+      "hint": "Both the title and surname need capital letters",
+      "explanation": "\"Ms. Chen\" is a proper noun — both the title (Ms.) and surname (Chen) need capital letters."
+    },
+    {
+      "id": "q7",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "common", "proper", "sorting"],
+      "question": "Sort these words: Common Noun or Proper Noun?",
+      "items": ["holiday", "Halloween", "newspaper", "Sunday", "hotel"],
+      "categories": [
+        { "label": "Common Noun", "answers": ["holiday", "newspaper", "hotel"] },
+        { "label": "Proper Noun", "answers": ["Halloween", "Sunday"] }
+      ],
+      "explanation": "holiday/newspaper/hotel = general words (common). Halloween/Sunday = specific names (proper)."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "In the sentence \"We sing songs on christmas,\" the capitalization is correct.",
+      "answer": false,
+      "explanation": "\"Christmas\" is a proper noun (holiday name) and must be capitalized: Christmas."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "Which sentence has correct capitalization?",
+      "options": [
+        "Ms. lee is my teacher.",
+        "ms. Lee is my teacher.",
+        "Ms. Lee is my teacher.",
+        "Ms. Lee is My Teacher."
+      ],
+      "answer": 2,
+      "explanation": "\"Ms. Lee\" is a proper noun. Only proper nouns get capitals — \"teacher\" stays lowercase."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "months"],
+      "question": "What type of noun is \"October\"? (common or proper)",
+      "answer": "proper",
+      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "hint": "It's a month name",
+      "explanation": "October is a proper noun — months are specific names and must be capitalized."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["songs", "on", "sing", "We", "Christmas"],
+      "answer": ["We", "sing", "songs", "on", "Christmas"],
+      "explanation": "Correct sentence: \"We sing songs on Christmas.\" Christmas is a proper noun."
+    },
+    {
+      "id": "q12",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "common", "proper", "sorting"],
+      "question": "Sort these words: Common Noun or Proper Noun?",
+      "items": ["friend", "Main Street", "girl", "Taipei 101", "city"],
+      "categories": [
+        { "label": "Common Noun", "answers": ["friend", "girl", "city"] },
+        { "label": "Proper Noun", "answers": ["Main Street", "Taipei 101"] }
+      ],
+      "explanation": "friend/girl/city = general words (common). Main Street/Taipei 101 = specific names (proper)."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "days"],
+      "question": "\"Wednesday\" is a proper noun.",
+      "answer": true,
+      "explanation": "Yes! Wednesday is a day of the week — days are proper nouns and must be capitalized."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "Which sentence has the correct capitalization?",
+      "options": [
+        "There are so many people on main street.",
+        "There are so many people on Main Street.",
+        "There Are so many people on Main Street.",
+        "There are so many people on Main street."
+      ],
+      "answer": 1,
+      "explanation": "\"Main Street\" is a proper noun — both words in a place name get capitals."
+    },
+    {
+      "id": "q15",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "proper", "holidays"],
+      "question": "What type of noun is \"Dragon Boat Festival\"? (common or proper)",
+      "answer": "proper",
+      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "hint": "It's a specific holiday name",
+      "explanation": "Dragon Boat Festival is a proper noun — it's a specific holiday name."
+    },
+    {
+      "id": "q16",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": ["nouns", "proper", "capitalization", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["teacher", "is", "Ms.", "Lee", "my"],
+      "answer": ["Ms.", "Lee", "is", "my", "teacher"],
+      "explanation": "Correct: \"Ms. Lee is my teacher.\" Ms. Lee is a proper noun."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "common", "proper", "capitalization"],
+      "question": "In the sentence \"The bear's name is max,\" which word has an error?",
+      "options": ["bear's", "name", "max", "is"],
+      "answer": 2,
+      "explanation": "\"max\" is a name — a proper noun. It must be capitalized: Max."
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "In the sentence \"They play in the Playground,\" the capitalization is correct.",
+      "answer": false,
+      "explanation": "\"Playground\" is a common noun — it should NOT be capitalized. Only proper nouns need capitals."
+    },
+    {
+      "id": "q19",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": ["nouns", "common", "proper", "sorting"],
+      "question": "Sort these words: Common Noun or Proper Noun?",
+      "items": ["school", "John", "Monday", "beach", "FamilyMart"],
+      "categories": [
+        { "label": "Common Noun", "answers": ["school", "beach"] },
+        { "label": "Proper Noun", "answers": ["John", "Monday", "FamilyMart"] }
+      ],
+      "explanation": "school/beach = general words (common). John/Monday/FamilyMart = specific names (proper)."
+    },
+    {
+      "id": "q20",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "My birthday is in march. Fix the month: write it correctly.",
+      "answer": "March",
+      "acceptedAnswers": ["March"],
+      "hint": "Month names are proper nouns",
+      "explanation": "March is a proper noun (month name) — it must start with a capital letter: March."
+    }
+  ]
+}

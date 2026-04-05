@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "id": "unit1_nouns_plural_t04",
+    "version": "1.0",
+    "title": "Unit 1 — Singular & Plural Nouns (Test 4)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Apply plural noun rules to animals and everyday objects."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "plural", "animals"],
+      "question": "What is the plural of \"panda\"?",
+      "options": ["pandas", "pandaes", "pandas", "pandies"],
+      "answer": 2,
+      "explanation": "panda → pandas. Regular nouns add -s."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "\"Owls\" is the plural form of \"owl\".",
+      "answer": true,
+      "explanation": "Yes! owl → owls. Regular nouns add -s."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": ["nouns", "plural"],
+      "question": "Write the plural of \"snake\".",
+      "answer": "snakes",
+      "acceptedAnswers": ["snakes", "Snakes"],
+      "hint": "Just add -s",
+      "explanation": "snake → snakes. Regular nouns add -s."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "singular", "sentence"],
+      "question": "The ___ eats the bugs. (frog — only one)",
+      "options": ["frogs", "frog", "froges", "frogies"],
+      "answer": 1,
+      "explanation": "\"One\" tells us we need a singular noun: frog."
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "The plural of \"octopus\" is \"octopuses\".",
+      "answer": true,
+      "explanation": "Yes! octopus ends in -s, so we add -es: octopus → octopuses."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "animals"],
+      "question": "Write the plural of \"fox\".",
+      "answer": "foxes",
+      "acceptedAnswers": ["foxes", "Foxes"],
+      "hint": "Words ending in -x get -es",
+      "explanation": "fox → foxes. Words ending in -x add -es."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "I plant two ___ in the yard. (bush)",
+      "options": ["bush", "bushs", "bushies", "bushes"],
+      "answer": 3,
+      "explanation": "bush → bushes. Words ending in -sh add -es."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "singular", "plural", "animals", "sorting"],
+      "question": "Sort these animal nouns: Singular or Plural?",
+      "items": ["panda", "foxes", "owls", "snake", "octopuses"],
+      "categories": [
+        { "label": "Singular", "answers": ["panda", "snake"] },
+        { "label": "Plural", "answers": ["foxes", "owls", "octopuses"] }
+      ],
+      "explanation": "panda/snake = one animal (singular). foxes/owls/octopuses = more than one (plural)."
+    },
+    {
+      "id": "q9",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["the", "eat", "Some", "fish", "bears"],
+      "answer": ["Some", "bears", "eat", "fish"],
+      "explanation": "Correct sentence: \"Some bears eat fish.\""
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural"],
+      "question": "The plural of \"road\" is \"roads\".",
+      "answer": true,
+      "explanation": "Yes! road → roads. Regular nouns add -s."
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural of \"dish\".",
+      "answer": "dishes",
+      "acceptedAnswers": ["dishes", "Dishes"],
+      "hint": "Words ending in -sh get -es",
+      "explanation": "dish → dishes. Words ending in -sh add -es."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "rules"],
+      "question": "Which plural follows the -es rule?",
+      "options": ["cats", "stars", "buses", "kites"],
+      "answer": 2,
+      "explanation": "bus ends in -s, so we add -es: bus → buses."
+    },
+    {
+      "id": "q13",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "rules", "sorting"],
+      "question": "Sort these plurals: did they add -s or -es?",
+      "items": ["pandas", "foxes", "snakes", "bushes", "owls"],
+      "categories": [
+        { "label": "Add -s", "answers": ["pandas", "snakes", "owls"] },
+        { "label": "Add -es", "answers": ["foxes", "bushes"] }
+      ],
+      "explanation": "Regular nouns add -s. Nouns ending in -x or -sh add -es."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "In the sentence \"There are many stars in the sky,\" the noun \"stars\" is singular.",
+      "answer": false,
+      "explanation": "\"many stars\" shows there are more than one — \"stars\" is plural."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["lily", "on", "the", "jumps", "pad", "frog", "The"],
+      "answer": ["The", "frog", "jumps", "on", "the", "lily", "pad"],
+      "explanation": "Correct sentence: \"The frog jumps on the lily pad.\""
+    },
+    {
+      "id": "q16",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "animals"],
+      "question": "Write the plural of \"ostrich\".",
+      "answer": "ostriches",
+      "acceptedAnswers": ["ostriches", "Ostriches"],
+      "hint": "Words ending in -ch get -es",
+      "explanation": "ostrich → ostriches. Words ending in -ch add -es."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "Which sentence is correct?",
+      "options": [
+        "I see five car outside.",
+        "I see five cars outside.",
+        "I see five cares outside.",
+        "I see five caries outside."
+      ],
+      "answer": 1,
+      "explanation": "\"five\" tells us we need plural. car → cars."
+    },
+    {
+      "id": "q18",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "animals"],
+      "question": "What is the plural of \"cockroach\"?",
+      "options": ["cockroachs", "cockroaches", "cockroachies", "cockroach"],
+      "answer": 1,
+      "explanation": "cockroach ends in -ch, so we add -es: cockroach → cockroaches."
+    },
+    {
+      "id": "q19",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "sentence"],
+      "question": "In the sentence \"The panda eats bamboo,\" the noun \"panda\" is plural.",
+      "answer": false,
+      "explanation": "\"The panda\" (with \"the\" and no number) means just one panda — singular."
+    },
+    {
+      "id": "q20",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "plural", "es-rule"],
+      "question": "Write the plural of \"bus\".",
+      "answer": "buses",
+      "acceptedAnswers": ["buses", "Buses"],
+      "hint": "Words ending in -s get -es",
+      "explanation": "bus → buses. Words ending in -s add -es."
+    }
+  ]
+}

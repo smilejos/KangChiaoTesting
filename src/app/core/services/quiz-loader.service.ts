@@ -18,9 +18,12 @@ export class QuizLoaderService {
     return this.indexCache$;
   }
 
-  loadQuiz(filename: string): Observable<QuizData> {
-    // Sanitize filename to prevent path traversal
-    const safe = filename.replace(/[^a-zA-Z0-9_\-\.]/g, '');
+  loadQuiz(filePath: string): Observable<QuizData> {
+    // Allow slashes for subfolder paths, but sanitize each segment
+    const safe = filePath
+      .split('/')
+      .map(seg => seg.replace(/[^a-zA-Z0-9_\-\.]/g, ''))
+      .join('/');
     return this.http.get<QuizData>(`quizzes/${safe}`);
   }
 }

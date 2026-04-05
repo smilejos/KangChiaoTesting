@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "id": "unit2_common_proper_t08",
+    "version": "1.0",
+    "title": "Unit 2 — Common & Proper Nouns (Test 8)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Mixed exercises with holidays, months, and place names."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "proper", "holidays"],
+      "question": "Which word is a proper noun?",
+      "options": ["holiday", "party", "Mother's Day", "dinner"],
+      "answer": 2,
+      "explanation": "\"Mother's Day\" is a proper noun — it's a specific holiday name."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "common"],
+      "question": "\"Beach\" is a common noun.",
+      "answer": true,
+      "explanation": "Yes! \"beach\" refers to any beach — it's a common noun."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": ["nouns", "proper", "days"],
+      "question": "What type of noun is \"Sunday\"? (common or proper)",
+      "answer": "proper",
+      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "hint": "Days of the week are always capitalized",
+      "explanation": "Sunday is a proper noun — days of the week must be capitalized."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["nouns", "common"],
+      "question": "Which word is a common noun?",
+      "options": ["Halloween", "Main Street", "Christmas", "beach"],
+      "answer": 3,
+      "explanation": "\"beach\" is a common noun — it refers to any beach, not a specific one."
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["nouns", "proper"],
+      "question": "\"New Taipei City\" is a proper noun.",
+      "answer": true,
+      "explanation": "Yes! New Taipei City is a proper noun — the specific name of a city in Taiwan."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "months"],
+      "question": "What type of noun is \"May\"? (common or proper)",
+      "answer": "proper",
+      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "hint": "It's a month name",
+      "explanation": "May is a proper noun — months are specific names that must be capitalized."
+    },
+    {
+      "id": "q7",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "common", "proper", "sorting"],
+      "question": "Sort these words: Common Noun or Proper Noun?",
+      "items": ["Mother's Day", "beach", "May", "New Taipei City", "holiday"],
+      "categories": [
+        { "label": "Common Noun", "answers": ["beach", "holiday"] },
+        { "label": "Proper Noun", "answers": ["Mother's Day", "May", "New Taipei City"] }
+      ],
+      "explanation": "beach/holiday = general words (common). Mother's Day/May/New Taipei City = specific names (proper)."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "In the sentence \"I live in New Taipei City,\" the capitalization is correct.",
+      "answer": true,
+      "explanation": "Yes! \"New Taipei City\" is a proper noun (specific city name) — all words are correctly capitalized."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "Which sentence has correct capitalization?",
+      "options": [
+        "My birthday is in november.",
+        "My Birthday is in November.",
+        "My birthday is in November.",
+        "My birthday Is In November."
+      ],
+      "answer": 2,
+      "explanation": "\"November\" is a proper noun (month name) and must be capitalized. \"birthday\" is a common noun."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["nouns", "common"],
+      "question": "What type of noun is \"friend\"? (common or proper)",
+      "answer": "common",
+      "acceptedAnswers": ["common", "Common", "common noun", "Common noun"],
+      "hint": "It's not a specific person's name",
+      "explanation": "friend is a common noun — it refers to any friend, not a specific person."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["in", "New", "live", "I", "Taipei", "City"],
+      "answer": ["I", "live", "in", "New", "Taipei", "City"],
+      "explanation": "Correct: \"I live in New Taipei City.\" New Taipei City is a proper noun."
+    },
+    {
+      "id": "q12",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["nouns", "common", "proper", "sorting"],
+      "question": "Sort these words: Common Noun or Proper Noun?",
+      "items": ["friend", "Sunday", "restaurant", "Halloween", "park"],
+      "categories": [
+        { "label": "Common Noun", "answers": ["friend", "restaurant", "park"] },
+        { "label": "Proper Noun", "answers": ["Sunday", "Halloween"] }
+      ],
+      "explanation": "friend/restaurant/park = general words (common). Sunday/Halloween = specific names (proper)."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "holidays"],
+      "question": "\"Chinese New Year\" is a proper noun.",
+      "answer": true,
+      "explanation": "Yes! Chinese New Year is a specific holiday name — all words must be capitalized."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "Which sentence shows the proper noun correctly?",
+      "options": [
+        "We wear red for chinese new year.",
+        "We wear red for Chinese new Year.",
+        "We wear red for Chinese New Year.",
+        "We wear red for Chinese New year."
+      ],
+      "answer": 2,
+      "explanation": "\"Chinese New Year\" is a proper noun — all three words must be capitalized."
+    },
+    {
+      "id": "q15",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "Fix this word: 'halloween'. Write it correctly.",
+      "answer": "Halloween",
+      "acceptedAnswers": ["Halloween"],
+      "hint": "Holiday names are proper nouns",
+      "explanation": "Halloween is a proper noun (holiday name) — it must start with a capital letter: Halloween."
+    },
+    {
+      "id": "q16",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": ["nouns", "proper", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["for", "Chinese", "wear", "We", "New", "Year", "red"],
+      "answer": ["We", "wear", "red", "for", "Chinese", "New", "Year"],
+      "explanation": "Correct: \"We wear red for Chinese New Year.\" All of 'Chinese New Year' is a proper noun."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["nouns", "common", "proper", "capitalization"],
+      "question": "Which list correctly groups common and proper nouns?",
+      "options": [
+        "Common: Beach, Holiday | Proper: Christmas, October",
+        "Common: Christmas, October | Proper: beach, holiday",
+        "Common: beach, holiday | Proper: Christmas, October",
+        "Common: beach, Christmas | Proper: holiday, October"
+      ],
+      "answer": 2,
+      "explanation": "beach and holiday are common nouns (lowercase). Christmas and October are proper nouns (capitalized)."
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "In the sentence \"A cow is cute,\" the word 'A' at the start must be upper-case because 'cow' is a proper noun.",
+      "answer": false,
+      "explanation": "\"A\" is uppercase because it starts the sentence — not because 'cow' is proper. 'cow' is actually a common noun."
+    },
+    {
+      "id": "q19",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": ["nouns", "common", "proper", "sorting"],
+      "question": "Sort these words: Common Noun or Proper Noun?",
+      "items": ["May", "restaurant", "Mother's Day", "city", "New Taipei City"],
+      "categories": [
+        { "label": "Common Noun", "answers": ["restaurant", "city"] },
+        { "label": "Proper Noun", "answers": ["May", "Mother's Day", "New Taipei City"] }
+      ],
+      "explanation": "restaurant/city = general words (common). May/Mother's Day/New Taipei City = specific names (proper)."
+    },
+    {
+      "id": "q20",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["nouns", "proper", "capitalization"],
+      "question": "Fix this sentence: 'my birthday is in march.' What is the correct month name?",
+      "answer": "March",
+      "acceptedAnswers": ["March"],
+      "hint": "Month names are proper nouns",
+      "explanation": "March is a proper noun (month name) — it must be capitalized: March."
+    }
+  ]
+}
