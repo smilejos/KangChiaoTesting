@@ -6,7 +6,8 @@
     "subject": "English Grammar",
     "level": "Elementary Grade 3–4",
     "created": "2026-04-05",
-    "description": "Sort and classify nouns from everyday Taiwanese school life."
+    "description": "Sort and classify nouns from everyday Taiwanese school life.",
+    "guid": "60510411-c017-42f0-a2e4-0136ca637663"
   },
   "settings": {
     "shuffle": true,
@@ -17,9 +18,17 @@
       "id": "q1",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "proper"],
+      "tags": [
+        "nouns",
+        "proper"
+      ],
       "question": "Which word is a proper noun?",
-      "options": ["book", "town", "Kang Chiao", "street"],
+      "options": [
+        "book",
+        "town",
+        "Kang Chiao",
+        "street"
+      ],
       "answer": 2,
       "explanation": "\"Kang Chiao\" is a proper noun — it's the specific name of a school."
     },
@@ -27,7 +36,10 @@
       "id": "q2",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "\"Boy\" is a common noun.",
       "answer": true,
       "explanation": "Yes! \"boy\" refers to any boy — it's a common noun."
@@ -36,10 +48,19 @@
       "id": "q3",
       "type": "fill-in",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "months"],
+      "tags": [
+        "nouns",
+        "proper",
+        "months"
+      ],
       "question": "What type of noun is \"September\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "It's a month name",
       "explanation": "September is a proper noun — month names must be capitalized."
     },
@@ -47,9 +68,17 @@
       "id": "q4",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "Which word is a common noun?",
-      "options": ["Kang Chiao", "Pikachu", "classroom", "Monday"],
+      "options": [
+        "Kang Chiao",
+        "Pikachu",
+        "classroom",
+        "Monday"
+      ],
       "answer": 2,
       "explanation": "\"classroom\" is a common noun — it refers to any classroom."
     },
@@ -57,7 +86,10 @@
       "id": "q5",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "proper"],
+      "tags": [
+        "nouns",
+        "proper"
+      ],
       "question": "\"Linkou\" is a proper noun.",
       "answer": true,
       "explanation": "Yes! Linkou is a proper noun — it's the name of a specific place."
@@ -66,10 +98,18 @@
       "id": "q6",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "What type of noun is \"classroom\"? (common or proper)",
       "answer": "common",
-      "acceptedAnswers": ["common", "Common", "common noun", "Common noun"],
+      "acceptedAnswers": [
+        "common",
+        "Common",
+        "common noun",
+        "Common noun"
+      ],
       "hint": "It's not a specific name",
       "explanation": "classroom is a common noun — it refers to any classroom, not a specific named room."
     },
@@ -77,12 +117,36 @@
       "id": "q7",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["Kang Chiao", "boy", "Linkou", "classroom", "September"],
+      "items": [
+        "Kang Chiao",
+        "boy",
+        "Linkou",
+        "classroom",
+        "September"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["boy", "classroom"] },
-        { "label": "Proper Noun", "answers": ["Kang Chiao", "Linkou", "September"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "boy",
+            "classroom"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Kang Chiao",
+            "Linkou",
+            "September"
+          ]
+        }
       ],
       "explanation": "boy/classroom = general words (common). Kang Chiao/Linkou/September = specific names (proper)."
     },
@@ -90,7 +154,11 @@
       "id": "q8",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "In the sentence \"Kang Chiao is in Linkou,\" both proper nouns are correctly capitalized.",
       "answer": true,
       "explanation": "Yes! \"Kang Chiao\" (school name) and \"Linkou\" (place name) are both properly capitalized."
@@ -99,7 +167,11 @@
       "id": "q9",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which sentence has correct capitalization?",
       "options": [
         "kang chiao is in linkou.",
@@ -114,10 +186,19 @@
       "id": "q10",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "days"],
+      "tags": [
+        "nouns",
+        "proper",
+        "days"
+      ],
       "question": "What type of noun is \"Wednesday\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "It's a day of the week",
       "explanation": "Wednesday is a proper noun — days of the week must be capitalized."
     },
@@ -125,22 +206,63 @@
       "id": "q11",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["is", "Kang", "Chiao", "Linkou", "in"],
-      "answer": ["Kang", "Chiao", "is", "in", "Linkou"],
+      "words": [
+        "is",
+        "Kang",
+        "Chiao",
+        "Linkou",
+        "in"
+      ],
+      "answer": [
+        "Kang",
+        "Chiao",
+        "is",
+        "in",
+        "Linkou"
+      ],
       "explanation": "Correct: \"Kang Chiao is in Linkou.\" Both are proper nouns."
     },
     {
       "id": "q12",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["town", "Taipei", "playground", "Pikachu", "street"],
+      "items": [
+        "town",
+        "Taipei",
+        "playground",
+        "Pikachu",
+        "street"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["town", "playground", "street"] },
-        { "label": "Proper Noun", "answers": ["Taipei", "Pikachu"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "town",
+            "playground",
+            "street"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Taipei",
+            "Pikachu"
+          ]
+        }
       ],
       "explanation": "town/playground/street = general words (common). Taipei/Pikachu = specific names (proper)."
     },
@@ -148,7 +270,11 @@
       "id": "q13",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "months"],
+      "tags": [
+        "nouns",
+        "proper",
+        "months"
+      ],
       "question": "\"April\" is a proper noun.",
       "answer": true,
       "explanation": "Yes! April is a month name — a proper noun that must be capitalized."
@@ -157,7 +283,11 @@
       "id": "q14",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper"
+      ],
       "question": "Which pair shows correct common → proper noun matching?",
       "options": [
         "school → kang chiao",
@@ -172,10 +302,16 @@
       "id": "q15",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Fix this word: 'sosa street'. Write the correct form.",
       "answer": "Sosa Street",
-      "acceptedAnswers": ["Sosa Street"],
+      "acceptedAnswers": [
+        "Sosa Street"
+      ],
       "hint": "A specific street name is a proper noun — capitalize both words",
       "explanation": "\"Sosa Street\" is a proper noun — both words in a specific street name must be capitalized."
     },
@@ -183,19 +319,46 @@
       "id": "q16",
       "type": "reorder",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["my", "is", "Ms.", "Li", "teacher"],
-      "answer": ["Ms.", "Li", "is", "my", "teacher"],
+      "words": [
+        "my",
+        "is",
+        "Ms.",
+        "Li",
+        "teacher"
+      ],
+      "answer": [
+        "Ms.",
+        "Li",
+        "is",
+        "my",
+        "teacher"
+      ],
       "explanation": "Correct: \"Ms. Li is my teacher.\" Ms. Li is a proper noun."
     },
     {
       "id": "q17",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which word in this sentence needs a capital letter? \"we go to school every tuesday.\"",
-      "options": ["go", "school", "every", "tuesday"],
+      "options": [
+        "go",
+        "school",
+        "every",
+        "tuesday"
+      ],
       "answer": 3,
       "explanation": "\"tuesday\" should be \"Tuesday\" — it's a day of the week (proper noun)."
     },
@@ -203,7 +366,11 @@
       "id": "q18",
       "type": "true-false",
       "difficulty": 3,
-      "tags": ["nouns", "common", "capitalization"],
+      "tags": [
+        "nouns",
+        "common",
+        "capitalization"
+      ],
       "question": "In the sentence \"My pencil is yellow,\" the noun \"pencil\" should NOT be capitalized.",
       "answer": true,
       "explanation": "\"pencil\" is a common noun — it stays lowercase (unless starting a sentence)."
@@ -212,12 +379,36 @@
       "id": "q19",
       "type": "categorize",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["September", "park", "Kang Chiao", "dog", "Sosa Street"],
+      "items": [
+        "September",
+        "park",
+        "Kang Chiao",
+        "dog",
+        "Sosa Street"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["park", "dog"] },
-        { "label": "Proper Noun", "answers": ["September", "Kang Chiao", "Sosa Street"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "park",
+            "dog"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "September",
+            "Kang Chiao",
+            "Sosa Street"
+          ]
+        }
       ],
       "explanation": "park/dog = general words (common). September/Kang Chiao/Sosa Street = specific names (proper)."
     },
@@ -225,10 +416,19 @@
       "id": "q20",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Fix this sentence: 'The park is on the busy street.' Is 'park' a common or proper noun?",
       "answer": "common",
-      "acceptedAnswers": ["common", "Common", "common noun", "Common noun"],
+      "acceptedAnswers": [
+        "common",
+        "Common",
+        "common noun",
+        "Common noun"
+      ],
       "hint": "Is it a specific named park?",
       "explanation": "\"park\" (without a specific name) is a common noun — it stays lowercase."
     }

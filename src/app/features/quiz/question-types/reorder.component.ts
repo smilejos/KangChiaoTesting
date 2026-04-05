@@ -1,4 +1,4 @@
-import { Component, Input, Output, EventEmitter, inject, signal, computed } from '@angular/core';
+import { Component, Input, Output, EventEmitter, inject, signal, computed, OnChanges } from '@angular/core';
 import { ReorderQuestion } from '../../../core/models/question.model';
 import { I18nService } from '../../../core/services/i18n.service';
 
@@ -29,7 +29,7 @@ import { I18nService } from '../../../core/services/i18n.service';
     <!-- Available words -->
     <div class="word-bank">
       @for (word of remaining(); track word + $index) {
-        <button class="word" [disabled]="answered" (click)="addWord(word, $index)">
+        <button class="word" [disabled]="answered" (click)="addWord(word)">
           {{ word }}
         </button>
       }
@@ -97,7 +97,7 @@ import { I18nService } from '../../../core/services/i18n.service';
     .btn-reset { background: var(--color-surface); color: var(--color-muted); border: 1px solid var(--color-border); }
   `],
 })
-export class ReorderComponent {
+export class ReorderComponent implements OnChanges {
   @Input({ required: true }) question!: ReorderQuestion;
   @Input() answered = false;
   @Output() answer = new EventEmitter<string[]>();
@@ -108,24 +108,18 @@ export class ReorderComponent {
   // Track which indices from the original words array have been used
   private usedIndices = signal<Set<number>>(new Set());
 
+  ngOnChanges(): void {
+    this.selected.set([]);
+    this.usedIndices.set(new Set());
+  }
+
   remaining = computed(() => {
     const used = this.usedIndices();
     return this.question.words.filter((_, i) => !used.has(i));
   });
 
-  addWord(word: string, bankIndex: number): void {
-    // Find the original index for this word
+  addWord(word: string): void {
     const used = this.usedIndices();
-    let count = 0;
-    for (let i = 0; i < this.question.words.length; i++) {
-      if (!used.has(i) && this.question.words[i] === word) {
-        if (count === bankIndex - [...used].filter(u => u < i).length) {
-          // Actually let's just find the first unused occurrence
-          break;
-        }
-      }
-    }
-    // Simpler: find first unused index of this word
     const origIndex = this.question.words.findIndex(
       (w, i) => w === word && !used.has(i)
     );

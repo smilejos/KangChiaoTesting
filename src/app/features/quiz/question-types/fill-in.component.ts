@@ -1,4 +1,4 @@
-import { Component, Input, Output, EventEmitter, inject, signal } from '@angular/core';
+import { Component, Input, Output, EventEmitter, inject, signal, OnChanges } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { FillInQuestion } from '../../../core/models/question.model';
 import { I18nService } from '../../../core/services/i18n.service';
@@ -125,7 +125,7 @@ import { I18nService } from '../../../core/services/i18n.service';
     }
   `],
 })
-export class FillInComponent {
+export class FillInComponent implements OnChanges {
   @Input({ required: true }) question!: FillInQuestion;
   @Output() selfGraded = new EventEmitter<boolean>();
 
@@ -133,6 +133,13 @@ export class FillInComponent {
   userInput = '';
   revealed = signal(false);
   graded = signal(false);
+
+  ngOnChanges(): void {
+    this.userInput = '';
+    this.revealed.set(false);
+    this.graded.set(false);
+    (document.activeElement as HTMLElement)?.blur();
+  }
 
   reveal(): void {
     this.revealed.set(true);

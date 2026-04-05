@@ -25,6 +25,7 @@ export interface UnitEntry {
 
 export interface QuizEntry {
   id: string;
+  guid: string;
   title: string;
   subtitle: string;
   emoji: string;

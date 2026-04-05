@@ -14,10 +14,12 @@ export class QuizEngineService {
   private questions: Question[] = [];
   private quizTitle = '';
   private quizId = '';
+  private quizGuid = '';
 
   init(quiz: QuizData): void {
     this.quizTitle = quiz.meta.title;
     this.quizId = quiz.meta.id;
+    this.quizGuid = quiz.meta.guid ?? '';
     this.questions = quiz.settings.shuffle
       ? this.shuffle([...quiz.questions])
       : [...quiz.questions];
@@ -71,6 +73,7 @@ export class QuizEngineService {
     return {
       quizTitle: this.quizTitle,
       quizId: this.quizId,
+      quizGuid: this.quizGuid,
       total,
       correct,
       percentage: total > 0 ? Math.round((correct / total) * 100) : 0,
@@ -91,9 +94,11 @@ export class QuizEngineService {
         );
       case 'categorize': {
         const userMap = answer as Record<string, string[]>;
-        return q.categories.every(cat =>
-          cat.answers.every(a => userMap[cat.label]?.includes(a))
-        );
+        return q.categories.every(cat => {
+          const placed = userMap[cat.label] ?? [];
+          return placed.length === cat.answers.length &&
+            cat.answers.every(a => placed.includes(a));
+        });
       }
       case 'reorder': {
         const userOrder = answer as string[];

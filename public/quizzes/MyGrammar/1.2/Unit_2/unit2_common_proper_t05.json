@@ -6,7 +6,8 @@
     "subject": "English Grammar",
     "level": "Elementary Grade 3–4",
     "created": "2026-04-05",
-    "description": "Advanced practice: identify errors and classify nouns from a variety of contexts."
+    "description": "Advanced practice: identify errors and classify nouns from a variety of contexts.",
+    "guid": "b00728fe-9d30-4657-996e-8d0bc6abbf85"
   },
   "settings": {
     "shuffle": true,
@@ -17,9 +18,18 @@
       "id": "q1",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "common", "proper"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper"
+      ],
       "question": "Which word is a proper noun?",
-      "options": ["park", "teacher", "Taipei", "book"],
+      "options": [
+        "park",
+        "teacher",
+        "Taipei",
+        "book"
+      ],
       "answer": 2,
       "explanation": "\"Taipei\" is a proper noun — the specific name of a city."
     },
@@ -27,7 +37,10 @@
       "id": "q2",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "\"Hospital\" is a common noun.",
       "answer": true,
       "explanation": "Yes! \"hospital\" refers to any hospital — it's a common noun."
@@ -36,10 +49,19 @@
       "id": "q3",
       "type": "fill-in",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "days"],
+      "tags": [
+        "nouns",
+        "proper",
+        "days"
+      ],
       "question": "What type of noun is \"Saturday\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "Days of the week are always capitalized",
       "explanation": "Saturday is a proper noun — days of the week must always be capitalized."
     },
@@ -47,9 +69,17 @@
       "id": "q4",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "proper"],
+      "tags": [
+        "nouns",
+        "proper"
+      ],
       "question": "Which of these is a proper noun?",
-      "options": ["song", "corn", "home", "December"],
+      "options": [
+        "song",
+        "corn",
+        "home",
+        "December"
+      ],
       "answer": 3,
       "explanation": "\"December\" is a proper noun — it's a month name and must be capitalized."
     },
@@ -57,7 +87,11 @@
       "id": "q5",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "\"sunday\" is correctly written.",
       "answer": false,
       "explanation": "Sunday is a proper noun (day of the week) — must be capitalized: Sunday."
@@ -66,10 +100,18 @@
       "id": "q6",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "proper"],
+      "tags": [
+        "nouns",
+        "proper"
+      ],
       "question": "What type of noun is \"Children's Day\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "It's a specific holiday",
       "explanation": "Children's Day is a proper noun — specific holiday names must be capitalized."
     },
@@ -77,12 +119,36 @@
       "id": "q7",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["park", "Taipei", "hospital", "December", "teacher"],
+      "items": [
+        "park",
+        "Taipei",
+        "hospital",
+        "December",
+        "teacher"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["park", "hospital", "teacher"] },
-        { "label": "Proper Noun", "answers": ["Taipei", "December"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "park",
+            "hospital",
+            "teacher"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Taipei",
+            "December"
+          ]
+        }
       ],
       "explanation": "park/hospital/teacher = general words (common). Taipei/December = specific names (proper)."
     },
@@ -90,7 +156,11 @@
       "id": "q8",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "In the sentence \"Daan Park is big,\" the capitalization is correct.",
       "answer": true,
       "explanation": "Yes! \"Daan Park\" is a proper noun (specific park name) — both words are correctly capitalized."
@@ -99,7 +169,11 @@
       "id": "q9",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which sentence has correct capitalization?",
       "options": [
         "We wear red for chinese new year.",
@@ -114,10 +188,19 @@
       "id": "q10",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "holidays"],
+      "tags": [
+        "nouns",
+        "proper",
+        "holidays"
+      ],
       "question": "What type of noun is \"Teacher's Day\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "It's a specific holiday name",
       "explanation": "Teacher's Day is a proper noun — a specific holiday name that must be capitalized."
     },
@@ -125,22 +208,62 @@
       "id": "q11",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["big", "Park", "is", "Daan"],
-      "answer": ["Daan", "Park", "is", "big"],
+      "words": [
+        "big",
+        "Park",
+        "is",
+        "Daan"
+      ],
+      "answer": [
+        "Daan",
+        "Park",
+        "is",
+        "big"
+      ],
       "explanation": "Correct: \"Daan Park is big.\" Daan Park is a proper noun."
     },
     {
       "id": "q12",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["Children's Day", "school", "Halloween", "newspaper", "Saturday"],
+      "items": [
+        "Children's Day",
+        "school",
+        "Halloween",
+        "newspaper",
+        "Saturday"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["school", "newspaper"] },
-        { "label": "Proper Noun", "answers": ["Children's Day", "Halloween", "Saturday"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "school",
+            "newspaper"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Children's Day",
+            "Halloween",
+            "Saturday"
+          ]
+        }
       ],
       "explanation": "school/newspaper = general words (common). Children's Day/Halloween/Saturday = specific names (proper)."
     },
@@ -148,7 +271,11 @@
       "id": "q13",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "months"],
+      "tags": [
+        "nouns",
+        "proper",
+        "months"
+      ],
       "question": "\"August\" is a proper noun.",
       "answer": true,
       "explanation": "Yes! August is a month name — months are proper nouns and must be capitalized."
@@ -157,9 +284,18 @@
       "id": "q14",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which word in this sentence is a proper noun? \"Ms. Lee is my teacher.\"",
-      "options": ["is", "my", "Ms. Lee", "teacher"],
+      "options": [
+        "is",
+        "my",
+        "Ms. Lee",
+        "teacher"
+      ],
       "answer": 2,
       "explanation": "\"Ms. Lee\" is a proper noun — it's a specific person's name."
     },
@@ -167,10 +303,16 @@
       "id": "q15",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Fix this sentence: 'we love going to jiufen village.' What is the correct capitalization of the place?",
       "answer": "Jiufen Village",
-      "acceptedAnswers": ["Jiufen Village"],
+      "acceptedAnswers": [
+        "Jiufen Village"
+      ],
       "hint": "Both words in a place name need capitals",
       "explanation": "\"Jiufen Village\" is a proper noun — capitalize both words."
     },
@@ -178,19 +320,46 @@
       "id": "q16",
       "type": "reorder",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["Lee", "teacher", "my", "is", "Ms."],
-      "answer": ["Ms.", "Lee", "is", "my", "teacher"],
+      "words": [
+        "Lee",
+        "teacher",
+        "my",
+        "is",
+        "Ms."
+      ],
+      "answer": [
+        "Ms.",
+        "Lee",
+        "is",
+        "my",
+        "teacher"
+      ],
       "explanation": "Correct: \"Ms. Lee is my teacher.\" Ms. Lee is a proper noun."
     },
     {
       "id": "q17",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which word in this list is a common noun that does NOT need a capital letter?",
-      "options": ["Monday", "Christmas", "school", "January"],
+      "options": [
+        "Monday",
+        "Christmas",
+        "school",
+        "January"
+      ],
       "answer": 2,
       "explanation": "\"school\" is a common noun — it does NOT need a capital unless it starts a sentence."
     },
@@ -198,7 +367,11 @@
       "id": "q18",
       "type": "true-false",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "The sentence \"I have a class every monday\" has an error.",
       "answer": true,
       "explanation": "\"monday\" should be \"Monday\" — days of the week are proper nouns and must be capitalized."
@@ -207,12 +380,36 @@
       "id": "q19",
       "type": "categorize",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["December", "friend", "Christmas", "hospital", "Tuesday"],
+      "items": [
+        "December",
+        "friend",
+        "Christmas",
+        "hospital",
+        "Tuesday"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["friend", "hospital"] },
-        { "label": "Proper Noun", "answers": ["December", "Christmas", "Tuesday"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "friend",
+            "hospital"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "December",
+            "Christmas",
+            "Tuesday"
+          ]
+        }
       ],
       "explanation": "friend/hospital = general words (common). December/Christmas/Tuesday = specific names (proper)."
     },
@@ -220,10 +417,16 @@
       "id": "q20",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Fix the error: 'We sing songs on christmas.' Write the corrected holiday name.",
       "answer": "Christmas",
-      "acceptedAnswers": ["Christmas"],
+      "acceptedAnswers": [
+        "Christmas"
+      ],
       "hint": "Holiday names are proper nouns",
       "explanation": "Christmas is a proper noun (holiday name) — it must be capitalized: Christmas."
     }

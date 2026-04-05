@@ -6,7 +6,8 @@
     "subject": "English Grammar",
     "level": "Elementary Grade 3–4",
     "created": "2026-04-05",
-    "description": "Final mastery test: all pronoun types and I vs. me in varied contexts."
+    "description": "Final mastery test: all pronoun types and I vs. me in varied contexts.",
+    "guid": "3ba6f8ef-c439-4403-8643-1231a1511609"
   },
   "settings": {
     "shuffle": true,
@@ -17,7 +18,10 @@
       "id": "q1",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["pronouns", "definition"],
+      "tags": [
+        "pronouns",
+        "definition"
+      ],
       "question": "A pronoun is a word that ___.",
       "options": [
         "describes a noun",
@@ -32,7 +36,10 @@
       "id": "q2",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["pronouns", "I-me"],
+      "tags": [
+        "pronouns",
+        "I-me"
+      ],
       "question": "The pronoun \"I\" is always written as a capital letter.",
       "answer": true,
       "explanation": "Yes! The pronoun \"I\" is ALWAYS capitalized — no exceptions."
@@ -41,9 +48,17 @@
       "id": "q3",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["pronouns", "singular"],
+      "tags": [
+        "pronouns",
+        "singular"
+      ],
       "question": "Tom likes to play basketball. → ___ likes to play basketball.",
-      "options": ["She", "He", "It", "They"],
+      "options": [
+        "She",
+        "He",
+        "It",
+        "They"
+      ],
       "answer": 1,
       "explanation": "Tom is male → use 'He'."
     },
@@ -51,7 +66,10 @@
       "id": "q4",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["pronouns", "I-me"],
+      "tags": [
+        "pronouns",
+        "I-me"
+      ],
       "question": "\"Me am happy\" is a grammatically correct sentence.",
       "answer": false,
       "explanation": "'Me' cannot be the subject. Correct: \"I am happy.\""
@@ -60,9 +78,17 @@
       "id": "q5",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["pronouns", "plural"],
+      "tags": [
+        "pronouns",
+        "plural"
+      ],
       "question": "Lisa and Amy are best friends. → ___ are best friends.",
-      "options": ["I", "She", "We", "They"],
+      "options": [
+        "I",
+        "She",
+        "We",
+        "They"
+      ],
       "answer": 3,
       "explanation": "Lisa and Amy = two people → use 'They'."
     },
@@ -70,10 +96,15 @@
       "id": "q6",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["pronouns", "I-me"],
+      "tags": [
+        "pronouns",
+        "I-me"
+      ],
       "question": "Fill in: ___ am Oliver the otter. (I or me)",
       "answer": "I",
-      "acceptedAnswers": ["I"],
+      "acceptedAnswers": [
+        "I"
+      ],
       "hint": "Subject of the sentence — comes before the verb",
       "explanation": "'I' is the subject — it goes before the verb 'am'. I am Oliver the otter."
     },
@@ -81,9 +112,18 @@
       "id": "q7",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["pronouns", "singular", "sentence"],
+      "tags": [
+        "pronouns",
+        "singular",
+        "sentence"
+      ],
       "question": "The bird is very small. → ___ is very small.",
-      "options": ["He", "She", "It", "They"],
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
       "answer": 2,
       "explanation": "\"The bird\" is an animal (gender not specified) → use 'It'."
     },
@@ -91,14 +131,42 @@
       "id": "q8",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["pronouns", "sorting"],
+      "tags": [
+        "pronouns",
+        "sorting"
+      ],
       "question": "Sort these nouns: which pronoun replaces each one?",
-      "items": ["Tom (male)", "Lisa and Amy", "The bird (animal)", "Mom (female)"],
+      "items": [
+        "Tom (male)",
+        "Lisa and Amy",
+        "The bird (animal)",
+        "Mom (female)"
+      ],
       "categories": [
-        { "label": "He", "answers": ["Tom (male)"] },
-        { "label": "They", "answers": ["Lisa and Amy"] },
-        { "label": "It", "answers": ["The bird (animal)"] },
-        { "label": "She", "answers": ["Mom (female)"] }
+        {
+          "label": "He",
+          "answers": [
+            "Tom (male)"
+          ]
+        },
+        {
+          "label": "They",
+          "answers": [
+            "Lisa and Amy"
+          ]
+        },
+        {
+          "label": "It",
+          "answers": [
+            "The bird (animal)"
+          ]
+        },
+        {
+          "label": "She",
+          "answers": [
+            "Mom (female)"
+          ]
+        }
       ],
       "explanation": "He = male. They = plural. It = animal/thing. She = female."
     },
@@ -106,7 +174,10 @@
       "id": "q9",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["pronouns", "I-me"],
+      "tags": [
+        "pronouns",
+        "I-me"
+      ],
       "question": "In the sentence \"Can you give me the pencil?,\" 'me' is correctly used after the verb.",
       "answer": true,
       "explanation": "Yes! 'me' comes after the verb 'give' as the object. This is correct."
@@ -115,10 +186,15 @@
       "id": "q10",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["pronouns", "I-me"],
+      "tags": [
+        "pronouns",
+        "I-me"
+      ],
       "question": "Fill in: Rosa gives ___ the basket. (I or me)",
       "answer": "me",
-      "acceptedAnswers": ["me"],
+      "acceptedAnswers": [
+        "me"
+      ],
       "hint": "This comes after the verb 'gives'",
       "explanation": "'me' is the object — it comes after the verb. Rosa gives me the basket."
     },
@@ -126,17 +202,40 @@
       "id": "q11",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["pronouns", "I-me", "sentence", "word-order"],
+      "tags": [
+        "pronouns",
+        "I-me",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["pencil", "the", "give", "Can", "me", "you"],
-      "answer": ["Can", "you", "give", "me", "the", "pencil"],
+      "words": [
+        "pencil",
+        "the",
+        "give",
+        "Can",
+        "me",
+        "you"
+      ],
+      "answer": [
+        "Can",
+        "you",
+        "give",
+        "me",
+        "the",
+        "pencil"
+      ],
       "explanation": "Correct: \"Can you give me the pencil?\" 'me' is the object."
     },
     {
       "id": "q12",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["pronouns", "I-me", "sentence"],
+      "tags": [
+        "pronouns",
+        "I-me",
+        "sentence"
+      ],
       "question": "Which sentence uses 'I' correctly?",
       "options": [
         "Rosa calls I.",
@@ -151,7 +250,10 @@
       "id": "q13",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["pronouns", "I-me"],
+      "tags": [
+        "pronouns",
+        "I-me"
+      ],
       "question": "The sentence \"She always helps me with homework\" is correct.",
       "answer": true,
       "explanation": "Yes! 'me' comes after the verb 'helps' (object). This is correct."
@@ -160,9 +262,18 @@
       "id": "q14",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["pronouns", "plural", "sentence"],
+      "tags": [
+        "pronouns",
+        "plural",
+        "sentence"
+      ],
       "question": "The students are in the classroom. → ___ are in the classroom.",
-      "options": ["He", "She", "It", "They"],
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
       "answer": 3,
       "explanation": "\"The students\" is plural → use 'They'."
     },
@@ -170,10 +281,15 @@
       "id": "q15",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["pronouns", "I-me"],
+      "tags": [
+        "pronouns",
+        "I-me"
+      ],
       "question": "Fill in: ___ live in the ranch. (I or me)",
       "answer": "I",
-      "acceptedAnswers": ["I"],
+      "acceptedAnswers": [
+        "I"
+      ],
       "hint": "This goes before the verb 'live'",
       "explanation": "'I' is the subject — it goes before the verb. I live in the ranch."
     },
@@ -181,12 +297,33 @@
       "id": "q16",
       "type": "categorize",
       "difficulty": 3,
-      "tags": ["pronouns", "I-me", "sorting"],
+      "tags": [
+        "pronouns",
+        "I-me",
+        "sorting"
+      ],
       "question": "Sort these: which blank needs 'I', and which needs 'me'?",
-      "items": ["___ am happy.", "Rosa calls ___.", "___ live in the ranch.", "A lion sees ___."],
+      "items": [
+        "___ am happy.",
+        "Rosa calls ___.",
+        "___ live in the ranch.",
+        "A lion sees ___."
+      ],
       "categories": [
-        { "label": "Use 'I'", "answers": ["___ am happy.", "___ live in the ranch."] },
-        { "label": "Use 'me'", "answers": ["Rosa calls ___.", "A lion sees ___."] }
+        {
+          "label": "Use 'I'",
+          "answers": [
+            "___ am happy.",
+            "___ live in the ranch."
+          ]
+        },
+        {
+          "label": "Use 'me'",
+          "answers": [
+            "Rosa calls ___.",
+            "A lion sees ___."
+          ]
+        }
       ],
       "explanation": "'I' = subject (before verb). 'me' = object (after verb)."
     },
@@ -194,7 +331,11 @@
       "id": "q17",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["pronouns", "I-me", "sentence"],
+      "tags": [
+        "pronouns",
+        "I-me",
+        "sentence"
+      ],
       "question": "Which sentence has a mistake?",
       "options": [
         "I am Oliver the otter.",
@@ -209,7 +350,10 @@
       "id": "q18",
       "type": "true-false",
       "difficulty": 3,
-      "tags": ["pronouns", "I-me"],
+      "tags": [
+        "pronouns",
+        "I-me"
+      ],
       "question": "In the sentence \"Mommy and I put our clothes in it,\" all pronouns are used correctly.",
       "answer": true,
       "explanation": "Yes! 'I' = subject in 'Mommy and I'. 'it' = object pronoun replacing the basket. Both correct."
@@ -218,17 +362,42 @@
       "id": "q19",
       "type": "reorder",
       "difficulty": 3,
-      "tags": ["pronouns", "I-me", "sentence", "word-order"],
+      "tags": [
+        "pronouns",
+        "I-me",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["scared", "not", "I", "of", "the", "lion", "am"],
-      "answer": ["I", "am", "not", "scared", "of", "the", "lion"],
+      "words": [
+        "scared",
+        "not",
+        "I",
+        "of",
+        "the",
+        "lion",
+        "am"
+      ],
+      "answer": [
+        "I",
+        "am",
+        "not",
+        "scared",
+        "of",
+        "the",
+        "lion"
+      ],
       "explanation": "Correct: \"I am not scared of the lion.\" 'I' is the subject."
     },
     {
       "id": "q20",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["pronouns", "singular", "sentence"],
+      "tags": [
+        "pronouns",
+        "singular",
+        "sentence"
+      ],
       "question": "Which sentence correctly uses the pronoun 'it'?",
       "options": [
         "Mina is surprised. It is surprised.",

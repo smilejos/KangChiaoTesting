@@ -1,4 +1,4 @@
-import { Component, Input, Output, EventEmitter } from '@angular/core';
+import { Component, Input, Output, EventEmitter, OnChanges } from '@angular/core';
 import { MultipleChoiceQuestion } from '../../../core/models/question.model';
 
 @Component({
@@ -67,13 +67,17 @@ import { MultipleChoiceQuestion } from '../../../core/models/question.model';
     .option.wrong .option-letter { background: var(--color-wrong); color: #fff; }
   `],
 })
-export class MultipleChoiceComponent {
+export class MultipleChoiceComponent implements OnChanges {
   @Input({ required: true }) question!: MultipleChoiceQuestion;
   @Input() answered = false;
   @Output() answer = new EventEmitter<number>();
 
   letters = ['A', 'B', 'C', 'D', 'E', 'F'];
   selectedIndex: number | null = null;
+
+  ngOnChanges(): void {
+    this.selectedIndex = null;
+  }
 
   select(index: number): void {
     if (this.answered) return;

@@ -64,6 +64,7 @@ export interface ReorderQuestion {
 export interface QuizData {
   meta: {
     id: string;
+    guid?: string;
     version: string;
     title: string;
     subject: string;
@@ -87,6 +88,7 @@ export interface QuizResult {
 export interface ResultSummary {
   quizTitle: string;
   quizId: string;
+  quizGuid?: string;
   total: number;
   correct: number;
   percentage: number;

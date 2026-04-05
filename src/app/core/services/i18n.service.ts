@@ -44,6 +44,10 @@ const translations: Record<Lang, Record<string, string>> = {
     correctAnswer: 'Correct answer',
     review: 'Review',
     loading: 'Loading...',
+    bestScore: 'Best',
+    attempts: 'attempts',
+    resetScores: 'Reset All Scores',
+    resetConfirm: 'Reset all quiz scores? This cannot be undone.',
   },
   zh: {
     appTitle: 'MyGrammar 文法測驗',
@@ -86,6 +90,10 @@ const translations: Record<Lang, Record<string, string>> = {
     correctAnswer: '正確答案',
     review: '複習',
     loading: '載入中...',
+    bestScore: '最佳',
+    attempts: '次',
+    resetScores: '清除所有成績',
+    resetConfirm: '確定清除所有測驗成績？此操作無法復原。',
   },
 };
 

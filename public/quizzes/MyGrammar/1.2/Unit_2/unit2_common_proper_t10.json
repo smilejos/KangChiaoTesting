@@ -6,7 +6,8 @@
     "subject": "English Grammar",
     "level": "Elementary Grade 3–4",
     "created": "2026-04-05",
-    "description": "Final review: mastery test for common and proper nouns with capitalization."
+    "description": "Final review: mastery test for common and proper nouns with capitalization.",
+    "guid": "360db067-c52f-46c6-b421-e580d0a43120"
   },
   "settings": {
     "shuffle": true,
@@ -17,9 +18,18 @@
       "id": "q1",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "common", "proper"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper"
+      ],
       "question": "Which word is a proper noun?",
-      "options": ["dog", "teacher", "city", "Taipei"],
+      "options": [
+        "dog",
+        "teacher",
+        "city",
+        "Taipei"
+      ],
       "answer": 3,
       "explanation": "\"Taipei\" is a proper noun — the specific name of a city in Taiwan."
     },
@@ -27,7 +37,10 @@
       "id": "q2",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "\"School\" is a common noun.",
       "answer": true,
       "explanation": "Yes! \"school\" refers to any school — it's a common noun."
@@ -36,10 +49,19 @@
       "id": "q3",
       "type": "fill-in",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "holidays"],
+      "tags": [
+        "nouns",
+        "proper",
+        "holidays"
+      ],
       "question": "What type of noun is \"Halloween\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "It's a holiday name",
       "explanation": "Halloween is a proper noun — specific holiday names must be capitalized."
     },
@@ -47,9 +69,17 @@
       "id": "q4",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "Which word is a common noun?",
-      "options": ["Linkou", "Christmas", "April", "school"],
+      "options": [
+        "Linkou",
+        "Christmas",
+        "April",
+        "school"
+      ],
       "answer": 3,
       "explanation": "\"school\" is a common noun — it refers to any school."
     },
@@ -57,7 +87,11 @@
       "id": "q5",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "In a sentence, \"christmas\" should have a capital C.",
       "answer": true,
       "explanation": "Christmas is a proper noun (holiday name) — it must always be capitalized: Christmas."
@@ -66,10 +100,19 @@
       "id": "q6",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "days"],
+      "tags": [
+        "nouns",
+        "proper",
+        "days"
+      ],
       "question": "What type of noun is \"Thursday\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "Days of the week are always capitalized",
       "explanation": "Thursday is a proper noun — days of the week must be capitalized."
     },
@@ -77,12 +120,36 @@
       "id": "q7",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["Taipei", "school", "Halloween", "April", "dog"],
+      "items": [
+        "Taipei",
+        "school",
+        "Halloween",
+        "April",
+        "dog"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["school", "dog"] },
-        { "label": "Proper Noun", "answers": ["Taipei", "Halloween", "April"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "school",
+            "dog"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Taipei",
+            "Halloween",
+            "April"
+          ]
+        }
       ],
       "explanation": "school/dog = general words (common). Taipei/Halloween/April = specific names (proper)."
     },
@@ -90,7 +157,11 @@
       "id": "q8",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "In the sentence \"Pikachu is cute and yellow,\" the capitalization is correct.",
       "answer": true,
       "explanation": "Yes! \"Pikachu\" is a proper noun (character name) — it's correctly capitalized."
@@ -99,7 +170,11 @@
       "id": "q9",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which sentence has correct capitalization?",
       "options": [
         "My teacher's name is ms. chen.",
@@ -114,10 +189,18 @@
       "id": "q10",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "What type of noun is \"singer\"? (common or proper)",
       "answer": "common",
-      "acceptedAnswers": ["common", "Common", "common noun", "Common noun"],
+      "acceptedAnswers": [
+        "common",
+        "Common",
+        "common noun",
+        "Common noun"
+      ],
       "hint": "It's not a specific person's name",
       "explanation": "singer is a common noun — it refers to any singer, not a specific person."
     },
@@ -125,22 +208,63 @@
       "id": "q11",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["is", "yellow", "cute", "Pikachu", "and"],
-      "answer": ["Pikachu", "is", "cute", "and", "yellow"],
+      "words": [
+        "is",
+        "yellow",
+        "cute",
+        "Pikachu",
+        "and"
+      ],
+      "answer": [
+        "Pikachu",
+        "is",
+        "cute",
+        "and",
+        "yellow"
+      ],
       "explanation": "Correct: \"Pikachu is cute and yellow.\" Pikachu is a proper noun."
     },
     {
       "id": "q12",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["singer", "Pikachu", "FamilyMart", "school", "Thursday"],
+      "items": [
+        "singer",
+        "Pikachu",
+        "FamilyMart",
+        "school",
+        "Thursday"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["singer", "school"] },
-        { "label": "Proper Noun", "answers": ["Pikachu", "FamilyMart", "Thursday"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "singer",
+            "school"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Pikachu",
+            "FamilyMart",
+            "Thursday"
+          ]
+        }
       ],
       "explanation": "singer/school = general words (common). Pikachu/FamilyMart/Thursday = specific names (proper)."
     },
@@ -148,7 +272,11 @@
       "id": "q13",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "months"],
+      "tags": [
+        "nouns",
+        "proper",
+        "months"
+      ],
       "question": "\"March\" is a proper noun.",
       "answer": true,
       "explanation": "Yes! March is a month name — a proper noun that must be capitalized."
@@ -157,9 +285,18 @@
       "id": "q14",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which word needs a capital in this sentence? \"kang chiao is our school.\"",
-      "options": ["is", "our", "school", "kang chiao"],
+      "options": [
+        "is",
+        "our",
+        "school",
+        "kang chiao"
+      ],
       "answer": 3,
       "explanation": "\"Kang Chiao\" is a proper noun (school name) — it needs to be capitalized."
     },
@@ -167,10 +304,16 @@
       "id": "q15",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Fix this word: 'monday'. Write it correctly.",
       "answer": "Monday",
-      "acceptedAnswers": ["Monday"],
+      "acceptedAnswers": [
+        "Monday"
+      ],
       "hint": "Days of the week are proper nouns",
       "explanation": "Monday is a proper noun (day of the week) — it must be capitalized: Monday."
     },
@@ -178,17 +321,41 @@
       "id": "q16",
       "type": "reorder",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["Chen", "name", "teacher's", "is", "My", "Ms."],
-      "answer": ["My", "teacher's", "name", "is", "Ms.", "Chen"],
+      "words": [
+        "Chen",
+        "name",
+        "teacher's",
+        "is",
+        "My",
+        "Ms."
+      ],
+      "answer": [
+        "My",
+        "teacher's",
+        "name",
+        "is",
+        "Ms.",
+        "Chen"
+      ],
       "explanation": "Correct: \"My teacher's name is Ms. Chen.\" Ms. Chen is a proper noun."
     },
     {
       "id": "q17",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which sentence has ALL nouns correctly capitalized?",
       "options": [
         "We like to go to Costco.",
@@ -203,7 +370,11 @@
       "id": "q18",
       "type": "true-false",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "In the sentence \"A cow is cute,\" the word 'cow' is a proper noun.",
       "answer": false,
       "explanation": "\"cow\" is a common noun — it refers to any cow. Common nouns don't need capitals."
@@ -212,12 +383,36 @@
       "id": "q19",
       "type": "categorize",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["beach", "Tuesday", "Halloween", "home", "Taipei"],
+      "items": [
+        "beach",
+        "Tuesday",
+        "Halloween",
+        "home",
+        "Taipei"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["beach", "home"] },
-        { "label": "Proper Noun", "answers": ["Tuesday", "Halloween", "Taipei"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "beach",
+            "home"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Tuesday",
+            "Halloween",
+            "Taipei"
+          ]
+        }
       ],
       "explanation": "beach/home = general words (common). Tuesday/Halloween/Taipei = specific names (proper)."
     },
@@ -225,10 +420,16 @@
       "id": "q20",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Fix this sentence: 'the bear's name is max.' Write the corrected name.",
       "answer": "Max",
-      "acceptedAnswers": ["Max"],
+      "acceptedAnswers": [
+        "Max"
+      ],
       "hint": "A name is a proper noun",
       "explanation": "\"Max\" is a proper noun (a name) — it must start with a capital letter."
     }

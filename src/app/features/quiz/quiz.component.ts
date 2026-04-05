@@ -9,6 +9,7 @@ import { CategorizeComponent } from './question-types/categorize.component';
 import { ReorderComponent } from './question-types/reorder.component';
 import { QuizLoaderService } from '../../core/services/quiz-loader.service';
 import { QuizEngineService } from '../../core/services/quiz-engine.service';
+import { ScoreService } from '../../core/services/score.service';
 import { I18nService } from '../../core/services/i18n.service';
 import { QuizEntry } from '../../core/models/quiz-index.model';
 
@@ -174,13 +175,14 @@ export class QuizComponent implements OnInit {
   private route = inject(ActivatedRoute);
   private router = inject(Router);
   private loader = inject(QuizLoaderService);
+  private scoreService = inject(ScoreService);
   engine = inject(QuizEngineService);
   i18n = inject(I18nService);
 
   loading = signal(true);
 
-  get isLast() {
-    return () => this.engine.currentIndex() >= this.engine.totalQuestions() - 1;
+  isLast(): boolean {
+    return this.engine.currentIndex() >= this.engine.totalQuestions() - 1;
   }
 
   ngOnInit(): void {
@@ -226,12 +228,15 @@ export class QuizComponent implements OnInit {
   }
 
   next(): void {
+    (document.activeElement as HTMLElement)?.blur();
     if (!this.engine.nextQuestion()) {
+      const summary = this.engine.getResultSummary();
+      // Save score to localStorage
+      if (summary.quizGuid) {
+        this.scoreService.recordScore(summary.quizGuid, summary.correct, summary.total);
+      }
       // Store summary in sessionStorage for refresh resilience
-      sessionStorage.setItem(
-        'quizResult',
-        JSON.stringify(this.engine.getResultSummary())
-      );
+      sessionStorage.setItem('quizResult', JSON.stringify(summary));
       this.router.navigate(['/result']);
     }
   }

@@ -6,7 +6,8 @@
     "subject": "English Grammar",
     "level": "Elementary Grade 3–4",
     "created": "2026-04-05",
-    "description": "Reorder sentences and identify correct plurals with -s and -es rules."
+    "description": "Reorder sentences and identify correct plurals with -s and -es rules.",
+    "guid": "3274c3b1-3e8a-4228-8023-c1d963674a42"
   },
   "settings": {
     "shuffle": true,
@@ -17,9 +18,17 @@
       "id": "q1",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "What is the plural of \"rock\"?",
-      "options": ["roces", "rocks", "rockies", "rockes"],
+      "options": [
+        "roces",
+        "rocks",
+        "rockies",
+        "rockes"
+      ],
       "answer": 1,
       "explanation": "rock → rocks. Regular nouns add -s."
     },
@@ -27,7 +36,10 @@
       "id": "q2",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "The plural of \"tree\" is \"trees\".",
       "answer": true,
       "explanation": "Yes! tree → trees. Regular nouns add -s."
@@ -36,10 +48,16 @@
       "id": "q3",
       "type": "fill-in",
       "difficulty": 1,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "Write the plural of \"car\".",
       "answer": "cars",
-      "acceptedAnswers": ["cars", "Cars"],
+      "acceptedAnswers": [
+        "cars",
+        "Cars"
+      ],
       "hint": "Just add -s",
       "explanation": "car → cars. Regular nouns add -s."
     },
@@ -47,9 +65,18 @@
       "id": "q4",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "singular", "sentence"],
+      "tags": [
+        "nouns",
+        "singular",
+        "sentence"
+      ],
       "question": "Three ___ are by the tree. (rock)",
-      "options": ["rock", "rocks", "roces", "rockies"],
+      "options": [
+        "rock",
+        "rocks",
+        "roces",
+        "rockies"
+      ],
       "answer": 1,
       "explanation": "\"Three\" tells us we need plural: rocks."
     },
@@ -57,7 +84,11 @@
       "id": "q5",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "plural", "es-rule"],
+      "tags": [
+        "nouns",
+        "plural",
+        "es-rule"
+      ],
       "question": "The plural of \"beach\" is \"beachs\".",
       "answer": false,
       "explanation": "beach ends in -ch, so we add -es: beach → beaches."
@@ -66,10 +97,16 @@
       "id": "q6",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "Write the plural of \"bird\".",
       "answer": "birds",
-      "acceptedAnswers": ["birds", "Birds"],
+      "acceptedAnswers": [
+        "birds",
+        "Birds"
+      ],
       "hint": "Just add -s",
       "explanation": "bird → birds. Regular nouns add -s."
     },
@@ -77,7 +114,11 @@
       "id": "q7",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "Which sentence uses the correct plural?",
       "options": [
         "Three rock are by the tree.",
@@ -92,12 +133,36 @@
       "id": "q8",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "singular", "plural", "sorting"],
+      "tags": [
+        "nouns",
+        "singular",
+        "plural",
+        "sorting"
+      ],
       "question": "Sort these words: Singular or Plural?",
-      "items": ["rock", "trees", "car", "birds", "beach"],
+      "items": [
+        "rock",
+        "trees",
+        "car",
+        "birds",
+        "beach"
+      ],
       "categories": [
-        { "label": "Singular", "answers": ["rock", "car", "beach"] },
-        { "label": "Plural", "answers": ["trees", "birds"] }
+        {
+          "label": "Singular",
+          "answers": [
+            "rock",
+            "car",
+            "beach"
+          ]
+        },
+        {
+          "label": "Plural",
+          "answers": [
+            "trees",
+            "birds"
+          ]
+        }
       ],
       "explanation": "rock/car/beach = one (singular). trees/birds = more than one (plural)."
     },
@@ -105,17 +170,42 @@
       "id": "q9",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["the", "sky", "are", "in", "stars", "many", "There"],
-      "answer": ["There", "are", "many", "stars", "in", "the", "sky"],
+      "words": [
+        "the",
+        "sky",
+        "are",
+        "in",
+        "stars",
+        "many",
+        "There"
+      ],
+      "answer": [
+        "There",
+        "are",
+        "many",
+        "stars",
+        "in",
+        "the",
+        "sky"
+      ],
       "explanation": "Correct sentence: \"There are many stars in the sky.\""
     },
     {
       "id": "q10",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "In the sentence \"Six bugs are on the rocks,\" both \"bugs\" and \"rocks\" are plural nouns.",
       "answer": true,
       "explanation": "Yes! bugs (plural of bug) and rocks (plural of rock) are both plural."
@@ -124,10 +214,17 @@
       "id": "q11",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "es-rule"],
+      "tags": [
+        "nouns",
+        "plural",
+        "es-rule"
+      ],
       "question": "Write the plural of \"beach\".",
       "answer": "beaches",
-      "acceptedAnswers": ["beaches", "Beaches"],
+      "acceptedAnswers": [
+        "beaches",
+        "Beaches"
+      ],
       "hint": "Words ending in -ch get -es",
       "explanation": "beach → beaches. Words ending in -ch add -es."
     },
@@ -135,9 +232,18 @@
       "id": "q12",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "rules"],
+      "tags": [
+        "nouns",
+        "plural",
+        "rules"
+      ],
       "question": "Which noun does NOT need -es to be plural?",
-      "options": ["watch", "bus", "class", "tree"],
+      "options": [
+        "watch",
+        "bus",
+        "class",
+        "tree"
+      ],
       "answer": 3,
       "explanation": "tree → trees (just add -s). The others need -es."
     },
@@ -145,12 +251,36 @@
       "id": "q13",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "rules", "sorting"],
+      "tags": [
+        "nouns",
+        "plural",
+        "rules",
+        "sorting"
+      ],
       "question": "Sort these plurals: did they add -s or -es?",
-      "items": ["rocks", "beaches", "cars", "bushes", "birds"],
+      "items": [
+        "rocks",
+        "beaches",
+        "cars",
+        "bushes",
+        "birds"
+      ],
       "categories": [
-        { "label": "Add -s", "answers": ["rocks", "cars", "birds"] },
-        { "label": "Add -es", "answers": ["beaches", "bushes"] }
+        {
+          "label": "Add -s",
+          "answers": [
+            "rocks",
+            "cars",
+            "birds"
+          ]
+        },
+        {
+          "label": "Add -es",
+          "answers": [
+            "beaches",
+            "bushes"
+          ]
+        }
       ],
       "explanation": "Regular nouns add -s. Nouns ending in -ch or -sh add -es."
     },
@@ -158,7 +288,11 @@
       "id": "q14",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "es-rule"],
+      "tags": [
+        "nouns",
+        "plural",
+        "es-rule"
+      ],
       "question": "The plural of \"wish\" is \"wishs\".",
       "answer": false,
       "explanation": "wish ends in -sh, so we add -es: wish → wishes."
@@ -167,20 +301,43 @@
       "id": "q15",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["cars", "I", "five", "outside", "see"],
-      "answer": ["I", "see", "five", "cars", "outside"],
+      "words": [
+        "cars",
+        "I",
+        "five",
+        "outside",
+        "see"
+      ],
+      "answer": [
+        "I",
+        "see",
+        "five",
+        "cars",
+        "outside"
+      ],
       "explanation": "Correct sentence: \"I see five cars outside.\""
     },
     {
       "id": "q16",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "Write the plural of \"branch\".",
       "answer": "branches",
-      "acceptedAnswers": ["branches", "Branches"],
+      "acceptedAnswers": [
+        "branches",
+        "Branches"
+      ],
       "hint": "Words ending in -ch get -es",
       "explanation": "branch → branches. Words ending in -ch add -es."
     },
@@ -188,7 +345,11 @@
       "id": "q17",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "Which sentence is correct?",
       "options": [
         "I plant two bush in the yard.",
@@ -203,9 +364,18 @@
       "id": "q18",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "rules"],
+      "tags": [
+        "nouns",
+        "plural",
+        "rules"
+      ],
       "question": "Which word ends in -ch and adds -es to become plural?",
-      "options": ["dog", "bus", "watch", "ant"],
+      "options": [
+        "dog",
+        "bus",
+        "watch",
+        "ant"
+      ],
       "answer": 2,
       "explanation": "watch ends in -ch, so watch → watches (add -es)."
     },
@@ -213,7 +383,11 @@
       "id": "q19",
       "type": "true-false",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "In the sentence \"She has one box,\" changing to 'three' means the sentence becomes 'She has three box.'",
       "answer": false,
       "explanation": "\"three\" means plural: She has three boxes (box → boxes, add -es)."
@@ -222,10 +396,16 @@
       "id": "q20",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "Write the plural of \"log\".",
       "answer": "logs",
-      "acceptedAnswers": ["logs", "Logs"],
+      "acceptedAnswers": [
+        "logs",
+        "Logs"
+      ],
       "hint": "Just add -s",
       "explanation": "log → logs. Regular nouns add -s."
     }

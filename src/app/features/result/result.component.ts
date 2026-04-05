@@ -134,12 +134,14 @@ export class ResultComponent implements OnInit {
     if (fromEngine.total > 0) {
       this.summary.set(fromEngine);
     } else {
-      const stored = sessionStorage.getItem('quizResult');
-      if (stored) {
-        this.summary.set(JSON.parse(stored));
-      } else {
-        this.router.navigate(['/']);
-      }
+      try {
+        const stored = sessionStorage.getItem('quizResult');
+        if (stored) {
+          this.summary.set(JSON.parse(stored));
+          return;
+        }
+      } catch { /* corrupted sessionStorage */ }
+      this.router.navigate(['/']);
     }
   }
 

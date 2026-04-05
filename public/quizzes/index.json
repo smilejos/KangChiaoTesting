@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "generated": "2026-04-05T01:55:46.433Z",
+  "generated": "2026-04-05T22:22:03.498Z",
   "books": [
     {
       "id": "MyGrammar",
@@ -17,6 +17,7 @@
               "quizzes": [
                 {
                   "id": "unit1_nouns_plural_t01",
+                  "guid": "0ef33ea9-9d09-4ad7-a8d4-06f646f32ce9",
                   "title": "Unit 1 — Singular & Plural Nouns (Test 1)",
                   "subtitle": "Identify singular and plural nouns and form plurals with -s and -es.",
                   "emoji": "📚",
@@ -34,6 +35,7 @@
                 },
                 {
                   "id": "unit1_nouns_plural_t02",
+                  "guid": "2acddadd-3ab0-4437-b40c-a2d8a2c6053e",
                   "title": "Unit 1 — Singular & Plural Nouns (Test 2)",
                   "subtitle": "Practice choosing the correct singular or plural noun in sentences.",
                   "emoji": "📚",
@@ -51,6 +53,7 @@
                 },
                 {
                   "id": "unit1_nouns_plural_t03",
+                  "guid": "5328b614-6483-40c7-ae7b-a26811e9aa20",
                   "title": "Unit 1 — Singular & Plural Nouns (Test 3)",
                   "subtitle": "Write and identify plural nouns using -s and -es rules.",
                   "emoji": "📚",
@@ -68,6 +71,7 @@
                 },
                 {
                   "id": "unit1_nouns_plural_t04",
+                  "guid": "697cab20-1ddb-4f58-af24-63847bbc63ff",
                   "title": "Unit 1 — Singular & Plural Nouns (Test 4)",
                   "subtitle": "Apply plural noun rules to animals and everyday objects.",
                   "emoji": "📚",
@@ -85,6 +89,7 @@
                 },
                 {
                   "id": "unit1_nouns_plural_t05",
+                  "guid": "9741fa54-f019-4b5c-8447-a71939b331ad",
                   "title": "Unit 1 — Singular & Plural Nouns (Test 5)",
                   "subtitle": "Mix of plural rules: choose the correct form in context sentences.",
                   "emoji": "📚",
@@ -102,6 +107,7 @@
                 },
                 {
                   "id": "unit1_nouns_plural_t06",
+                  "guid": "324928d8-95b8-4a9b-93b3-e90bf53afba4",
                   "title": "Unit 1 — Singular & Plural Nouns (Test 6)",
                   "subtitle": "Identify and correct plural noun errors in sentences.",
                   "emoji": "📚",
@@ -119,6 +125,7 @@
                 },
                 {
                   "id": "unit1_nouns_plural_t07",
+                  "guid": "3274c3b1-3e8a-4228-8023-c1d963674a42",
                   "title": "Unit 1 — Singular & Plural Nouns (Test 7)",
                   "subtitle": "Reorder sentences and identify correct plurals with -s and -es rules.",
                   "emoji": "📚",
@@ -136,6 +143,7 @@
                 },
                 {
                   "id": "unit1_nouns_plural_t08",
+                  "guid": "ccd79fad-2f2c-4162-acd5-ae6dcab315e6",
                   "title": "Unit 1 — Singular & Plural Nouns (Test 8)",
                   "subtitle": "Advanced practice: choose singular or plural based on number clues.",
                   "emoji": "📚",
@@ -153,6 +161,7 @@
                 },
                 {
                   "id": "unit1_nouns_plural_t09",
+                  "guid": "08cb94b4-d790-4b3b-8247-022840bdd901",
                   "title": "Unit 1 — Singular & Plural Nouns (Test 9)",
                   "subtitle": "Review test: singular and plural nouns with all question types.",
                   "emoji": "📚",
@@ -170,6 +179,7 @@
                 },
                 {
                   "id": "unit1_nouns_plural_t10",
+                  "guid": "a8667980-4004-4ee9-ab00-53528c0d12c3",
                   "title": "Unit 1 — Singular & Plural Nouns (Test 10)",
                   "subtitle": "Final review: master singular and plural noun rules with challenging sentences.",
                   "emoji": "📚",
@@ -193,6 +203,7 @@
               "quizzes": [
                 {
                   "id": "unit2_common_proper_t01",
+                  "guid": "74319482-90f9-440f-8786-20788f49ed61",
                   "title": "Unit 2 — Common & Proper Nouns (Test 1)",
                   "subtitle": "Identify common and proper nouns and understand capitalization rules.",
                   "emoji": "📚",
@@ -210,6 +221,7 @@
                 },
                 {
                   "id": "unit2_common_proper_t02",
+                  "guid": "c80a4ed4-ab68-4bb6-ada0-b6b5634fd941",
                   "title": "Unit 2 — Common & Proper Nouns (Test 2)",
                   "subtitle": "Practice recognizing proper nouns including days, months, and holidays.",
                   "emoji": "📚",
@@ -227,6 +239,7 @@
                 },
                 {
                   "id": "unit2_common_proper_t03",
+                  "guid": "7f77bc31-f941-4309-b7fa-6df070d21073",
                   "title": "Unit 2 — Common & Proper Nouns (Test 3)",
                   "subtitle": "Focus on correcting capitalization errors in sentences.",
                   "emoji": "📚",
@@ -244,6 +257,7 @@
                 },
                 {
                   "id": "unit2_common_proper_t04",
+                  "guid": "8f3df1c7-a129-4223-9c42-fbfe7587385d",
                   "title": "Unit 2 — Common & Proper Nouns (Test 4)",
                   "subtitle": "Classify nouns and fix capitalization errors in sentences.",
                   "emoji": "📚",
@@ -261,6 +275,7 @@
                 },
                 {
                   "id": "unit2_common_proper_t05",
+                  "guid": "b00728fe-9d30-4657-996e-8d0bc6abbf85",
                   "title": "Unit 2 — Common & Proper Nouns (Test 5)",
                   "subtitle": "Advanced practice: identify errors and classify nouns from a variety of contexts.",
                   "emoji": "📚",
@@ -278,6 +293,7 @@
                 },
                 {
                   "id": "unit2_common_proper_t06",
+                  "guid": "2b802081-f240-434d-8f0d-cde4c09f0a3e",
                   "title": "Unit 2 — Common & Proper Nouns (Test 6)",
                   "subtitle": "Identify common and proper nouns using context clues and real-life examples.",
                   "emoji": "📚",
@@ -295,6 +311,7 @@
                 },
                 {
                   "id": "unit2_common_proper_t07",
+                  "guid": "60510411-c017-42f0-a2e4-0136ca637663",
                   "title": "Unit 2 — Common & Proper Nouns (Test 7)",
                   "subtitle": "Sort and classify nouns from everyday Taiwanese school life.",
                   "emoji": "📚",
@@ -312,6 +329,7 @@
                 },
                 {
                   "id": "unit2_common_proper_t08",
+                  "guid": "a9fcdf2f-9248-4ce7-9198-1c4b36ce2a22",
                   "title": "Unit 2 — Common & Proper Nouns (Test 8)",
                   "subtitle": "Mixed exercises with holidays, months, and place names.",
                   "emoji": "📚",
@@ -329,6 +347,7 @@
                 },
                 {
                   "id": "unit2_common_proper_t09",
+                  "guid": "6d6ee5ba-6b1e-430c-be3f-7ccde953bf1e",
                   "title": "Unit 2 — Common & Proper Nouns (Test 9)",
                   "subtitle": "Review test with a focus on locating proper nouns in contexts.",
                   "emoji": "📚",
@@ -346,6 +365,7 @@
                 },
                 {
                   "id": "unit2_common_proper_t10",
+                  "guid": "360db067-c52f-46c6-b421-e580d0a43120",
                   "title": "Unit 2 — Common & Proper Nouns (Test 10)",
                   "subtitle": "Final review: mastery test for common and proper nouns with capitalization.",
                   "emoji": "📚",
@@ -369,6 +389,7 @@
               "quizzes": [
                 {
                   "id": "unit3_pronouns_t01",
+                  "guid": "ec940d65-b8ec-4798-a8a1-1269baa587bc",
                   "title": "Unit 3 — Pronouns & I/me (Test 1)",
                   "subtitle": "Identify and use singular and plural pronouns correctly in sentences.",
                   "emoji": "📚",
@@ -386,6 +407,7 @@
                 },
                 {
                   "id": "unit3_pronouns_t02",
+                  "guid": "1db3d056-94b7-43ca-a4d7-47b8949deee3",
                   "title": "Unit 3 — Pronouns & I/me (Test 2)",
                   "subtitle": "Practice choosing the right pronoun to replace nouns in sentences.",
                   "emoji": "📚",
@@ -403,6 +425,7 @@
                 },
                 {
                   "id": "unit3_pronouns_t03",
+                  "guid": "2fd5fb7a-038f-40e3-8fe3-60e33287f21a",
                   "title": "Unit 3 — Pronouns & I/me (Test 3)",
                   "subtitle": "Focus on I vs. me and replacing nouns with the correct pronouns.",
                   "emoji": "📚",
@@ -420,6 +443,7 @@
                 },
                 {
                   "id": "unit3_pronouns_t04",
+                  "guid": "e8d27063-b34b-414c-8c2f-148c0e893b25",
                   "title": "Unit 3 — Pronouns & I/me (Test 4)",
                   "subtitle": "Replace nouns with correct singular and plural pronouns in context.",
                   "emoji": "📚",
@@ -437,6 +461,7 @@
                 },
                 {
                   "id": "unit3_pronouns_t05",
+                  "guid": "ac2ed302-7cb8-49ee-a127-d1aa969804ee",
                   "title": "Unit 3 — Pronouns & I/me (Test 5)",
                   "subtitle": "Identify pronouns in sentences and practice correct usage.",
                   "emoji": "📚",
@@ -454,6 +479,7 @@
                 },
                 {
                   "id": "unit3_pronouns_t06",
+                  "guid": "2d432f10-b334-4e4e-810c-5d08c2e818b8",
                   "title": "Unit 3 — Pronouns & I/me (Test 6)",
                   "subtitle": "Identify pronoun errors and replace nouns with the best pronoun.",
                   "emoji": "📚",
@@ -471,6 +497,7 @@
                 },
                 {
                   "id": "unit3_pronouns_t07",
+                  "guid": "c98be1a1-d629-4ecb-ac0f-3cdc09fe03db",
                   "title": "Unit 3 — Pronouns & I/me (Test 7)",
                   "subtitle": "Advanced pronoun practice with subject/object distinction and sentence construction.",
                   "emoji": "📚",
@@ -484,6 +511,60 @@
                   ],
                   "difficulty": 2,
                   "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t07.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit3_pronouns_t08",
+                  "guid": "a19dcc11-0a5a-41f6-85de-a7ab633f4127",
+                  "title": "Unit 3 — Pronouns & I/me (Test 8)",
+                  "subtitle": "Mixed pronoun exercises with animals, classmates, and story sentences.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "pronouns",
+                    "plural",
+                    "I-me",
+                    "singular",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t08.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit3_pronouns_t09",
+                  "guid": "8f5628e4-2c59-4142-a51a-8059aa477b31",
+                  "title": "Unit 3 — Pronouns & I/me (Test 9)",
+                  "subtitle": "Review test: choose, identify, and correct pronoun usage.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "pronouns",
+                    "singular",
+                    "I-me",
+                    "plural",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t09.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit3_pronouns_t10",
+                  "guid": "3ba6f8ef-c439-4403-8643-1231a1511609",
+                  "title": "Unit 3 — Pronouns & I/me (Test 10)",
+                  "subtitle": "Final mastery test: all pronoun types and I vs. me in varied contexts.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "pronouns",
+                    "definition",
+                    "I-me",
+                    "singular",
+                    "plural"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t10.json",
                   "questionCount": 20
                 }
               ]

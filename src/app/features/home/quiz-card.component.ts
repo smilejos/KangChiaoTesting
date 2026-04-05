@@ -1,22 +1,31 @@
-import { Component, Input } from '@angular/core';
+import { Component, input, inject, computed } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { QuizEntry } from '../../core/models/quiz-index.model';
 import { I18nService } from '../../core/services/i18n.service';
+import { ScoreService } from '../../core/services/score.service';
 
 @Component({
   selector: 'app-quiz-card',
   standalone: true,
   imports: [RouterLink],
   template: `
-    <a class="card" [routerLink]="['/quiz', encodedId]"
-       [style.--card-color]="quiz.color">
-      <div class="card-emoji">{{ quiz.emoji }}</div>
+    <a class="card" [routerLink]="['/quiz', encodedId()]"
+       [style.--card-color]="quiz().color">
+      <div class="card-emoji">{{ quiz().emoji }}</div>
       <div class="card-body">
-        <h3 class="card-title">{{ quiz.title }}</h3>
-        <p class="card-subtitle">{{ quiz.subtitle }}</p>
+        <h3 class="card-title">{{ quiz().title }}</h3>
+        <p class="card-subtitle">{{ quiz().subtitle }}</p>
         <div class="card-meta">
-          <span class="stars">{{ stars }}</span>
-          <span class="count">{{ quiz.questionCount }} {{ i18n.t('questions') }}</span>
+          <span class="stars">{{ stars() }}</span>
+          <span class="count">{{ quiz().questionCount }} {{ i18n.t('questions') }}</span>
+          @if (scoreRecord(); as sr) {
+            <span class="prev-score"
+                  [class.high]="sr.bestScore >= 80"
+                  [class.mid]="sr.bestScore >= 50 && sr.bestScore < 80"
+                  [class.low]="sr.bestScore < 50">
+              {{ sr.bestScore }}% · {{ sr.attempts }}x
+            </span>
+          }
           <span class="arrow">&rarr;</span>
         </div>
       </div>
@@ -68,6 +77,16 @@ import { I18nService } from '../../core/services/i18n.service';
       color: var(--color-muted);
     }
     .stars { color: #facc15; }
+    .prev-score {
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .prev-score.high { background: rgba(16,185,129,0.15); color: #059669; }
+    .prev-score.mid { background: rgba(250,204,21,0.2); color: #a16207; }
+    .prev-score.low { background: rgba(239,68,68,0.15); color: #dc2626; }
     .arrow {
       margin-left: auto;
       font-size: 1.2rem;
@@ -76,15 +95,12 @@ import { I18nService } from '../../core/services/i18n.service';
   `],
 })
 export class QuizCardComponent {
-  @Input({ required: true }) quiz!: QuizEntry;
+  quiz = input.required<QuizEntry>();
 
-  constructor(public i18n: I18nService) {}
+  private scoreService = inject(ScoreService);
+  i18n = inject(I18nService);
 
-  get encodedId(): string {
-    return encodeURIComponent(this.quiz.id);
-  }
-
-  get stars(): string {
-    return '★'.repeat(this.quiz.difficulty) + '☆'.repeat(3 - this.quiz.difficulty);
-  }
+  encodedId = computed(() => encodeURIComponent(this.quiz().id));
+  stars = computed(() => '★'.repeat(this.quiz().difficulty) + '☆'.repeat(3 - this.quiz().difficulty));
+  scoreRecord = computed(() => this.scoreService.getQuizScore(this.quiz().guid));
 }

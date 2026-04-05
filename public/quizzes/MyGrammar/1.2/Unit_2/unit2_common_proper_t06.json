@@ -6,7 +6,8 @@
     "subject": "English Grammar",
     "level": "Elementary Grade 3–4",
     "created": "2026-04-05",
-    "description": "Identify common and proper nouns using context clues and real-life examples."
+    "description": "Identify common and proper nouns using context clues and real-life examples.",
+    "guid": "2b802081-f240-434d-8f0d-cde4c09f0a3e"
   },
   "settings": {
     "shuffle": true,
@@ -17,9 +18,18 @@
       "id": "q1",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "common", "proper"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper"
+      ],
       "question": "Which word is a proper noun?",
-      "options": ["singer", "band", "song", "Taipei 101"],
+      "options": [
+        "singer",
+        "band",
+        "song",
+        "Taipei 101"
+      ],
       "answer": 3,
       "explanation": "\"Taipei 101\" is a proper noun — it's the specific name of a building."
     },
@@ -27,7 +37,11 @@
       "id": "q2",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "days"],
+      "tags": [
+        "nouns",
+        "proper",
+        "days"
+      ],
       "question": "\"Tuesday\" is a proper noun.",
       "answer": true,
       "explanation": "Yes! Tuesday is a day of the week — a proper noun that must be capitalized."
@@ -36,10 +50,18 @@
       "id": "q3",
       "type": "fill-in",
       "difficulty": 1,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "What type of noun is \"newspaper\"? (common or proper)",
       "answer": "common",
-      "acceptedAnswers": ["common", "Common", "common noun", "Common noun"],
+      "acceptedAnswers": [
+        "common",
+        "Common",
+        "common noun",
+        "Common noun"
+      ],
       "hint": "It's not a specific name",
       "explanation": "newspaper is a common noun — it refers to any newspaper."
     },
@@ -47,9 +69,17 @@
       "id": "q4",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "Which word is a common noun?",
-      "options": ["Taipei", "Tuesday", "Sunday", "newspaper"],
+      "options": [
+        "Taipei",
+        "Tuesday",
+        "Sunday",
+        "newspaper"
+      ],
       "answer": 3,
       "explanation": "\"newspaper\" is a common noun — it refers to any newspaper."
     },
@@ -57,7 +87,11 @@
       "id": "q5",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "\"Costco\" is a proper noun.",
       "answer": true,
       "explanation": "Yes! Costco is a proper noun — it's the specific name of a store."
@@ -66,10 +100,19 @@
       "id": "q6",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "months"],
+      "tags": [
+        "nouns",
+        "proper",
+        "months"
+      ],
       "question": "What type of noun is \"November\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "It's a month name",
       "explanation": "November is a proper noun — months are specific names and must be capitalized."
     },
@@ -77,12 +120,36 @@
       "id": "q7",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["newspaper", "Taipei 101", "Costco", "singer", "November"],
+      "items": [
+        "newspaper",
+        "Taipei 101",
+        "Costco",
+        "singer",
+        "November"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["newspaper", "singer"] },
-        { "label": "Proper Noun", "answers": ["Taipei 101", "Costco", "November"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "newspaper",
+            "singer"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Taipei 101",
+            "Costco",
+            "November"
+          ]
+        }
       ],
       "explanation": "newspaper/singer = general words (common). Taipei 101/Costco/November = specific names (proper)."
     },
@@ -90,7 +157,11 @@
       "id": "q8",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "common", "capitalization"],
+      "tags": [
+        "nouns",
+        "common",
+        "capitalization"
+      ],
       "question": "In the sentence \"The library is very quiet,\" the word \"library\" should be capitalized.",
       "answer": false,
       "explanation": "\"library\" is a common noun — it stays lowercase unless it's a specific library name."
@@ -99,7 +170,11 @@
       "id": "q9",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which sentence has correct capitalization?",
       "options": [
         "I like to play uno with my friends.",
@@ -114,10 +189,18 @@
       "id": "q10",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "What type of noun is \"hotel\"? (common or proper)",
       "answer": "common",
-      "acceptedAnswers": ["common", "Common", "common noun", "Common noun"],
+      "acceptedAnswers": [
+        "common",
+        "Common",
+        "common noun",
+        "Common noun"
+      ],
       "hint": "It's a general type of building, not a specific name",
       "explanation": "hotel is a common noun — it refers to any hotel. A specific hotel name (like Marriott) would be proper."
     },
@@ -125,22 +208,66 @@
       "id": "q11",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["to", "like", "I", "Costco", "go", "to"],
-      "answer": ["I", "like", "to", "go", "to", "Costco"],
+      "words": [
+        "to",
+        "like",
+        "I",
+        "Costco",
+        "go",
+        "to"
+      ],
+      "answer": [
+        "I",
+        "like",
+        "to",
+        "go",
+        "to",
+        "Costco"
+      ],
       "explanation": "Correct: \"I like to go to Costco.\" Costco is a proper noun."
     },
     {
       "id": "q12",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["Ms. Betty", "hotel", "city", "Taipei 101", "Monday"],
+      "items": [
+        "Ms. Betty",
+        "hotel",
+        "city",
+        "Taipei 101",
+        "Monday"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["hotel", "city"] },
-        { "label": "Proper Noun", "answers": ["Ms. Betty", "Taipei 101", "Monday"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "hotel",
+            "city"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Ms. Betty",
+            "Taipei 101",
+            "Monday"
+          ]
+        }
       ],
       "explanation": "hotel/city = general words (common). Ms. Betty/Taipei 101/Monday = specific names (proper)."
     },
@@ -148,7 +275,11 @@
       "id": "q13",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "holidays"],
+      "tags": [
+        "nouns",
+        "proper",
+        "holidays"
+      ],
       "question": "\"Father's Day\" is a proper noun.",
       "answer": true,
       "explanation": "Yes! Father's Day is a specific holiday name — a proper noun that must be capitalized."
@@ -157,7 +288,11 @@
       "id": "q14",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which sentence is written correctly?",
       "options": [
         "We go to school on tuesday.",
@@ -172,10 +307,17 @@
       "id": "q15",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Fix this sentence: 'We buy snacks at familymart.' Write the store name correctly.",
       "answer": "FamilyMart",
-      "acceptedAnswers": ["FamilyMart", "Familymart"],
+      "acceptedAnswers": [
+        "FamilyMart",
+        "Familymart"
+      ],
       "hint": "The store name is a proper noun",
       "explanation": "FamilyMart is a proper noun (specific store name) — it must be capitalized."
     },
@@ -183,17 +325,39 @@
       "id": "q16",
       "type": "reorder",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["snacks", "We", "FamilyMart", "buy", "at"],
-      "answer": ["We", "buy", "snacks", "at", "FamilyMart"],
+      "words": [
+        "snacks",
+        "We",
+        "FamilyMart",
+        "buy",
+        "at"
+      ],
+      "answer": [
+        "We",
+        "buy",
+        "snacks",
+        "at",
+        "FamilyMart"
+      ],
       "explanation": "Correct: \"We buy snacks at FamilyMart.\" FamilyMart is a proper noun."
     },
     {
       "id": "q17",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which sentence has ALL nouns correctly capitalized?",
       "options": [
         "The bus is very big.",
@@ -208,7 +372,11 @@
       "id": "q18",
       "type": "true-false",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "In the sentence \"My pencil is yellow,\" the noun \"pencil\" should be capitalized.",
       "answer": false,
       "explanation": "\"pencil\" is a common noun — it does NOT need a capital letter."
@@ -217,12 +385,36 @@
       "id": "q19",
       "type": "categorize",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["John", "band", "FamilyMart", "Friday", "song"],
+      "items": [
+        "John",
+        "band",
+        "FamilyMart",
+        "Friday",
+        "song"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["band", "song"] },
-        { "label": "Proper Noun", "answers": ["John", "FamilyMart", "Friday"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "band",
+            "song"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "John",
+            "FamilyMart",
+            "Friday"
+          ]
+        }
       ],
       "explanation": "band/song = general words (common). John/FamilyMart/Friday = specific names (proper)."
     },
@@ -230,10 +422,19 @@
       "id": "q20",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Fix the sentence: 'a cow is cute.' What type of noun is 'cow'? (common or proper)",
       "answer": "common",
-      "acceptedAnswers": ["common", "Common", "common noun", "Common noun"],
+      "acceptedAnswers": [
+        "common",
+        "Common",
+        "common noun",
+        "Common noun"
+      ],
       "hint": "Does 'cow' name a specific animal?",
       "explanation": "cow is a common noun — it refers to any cow. Only the first word of the sentence needs a capital."
     }

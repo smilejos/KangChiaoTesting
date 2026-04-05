@@ -11,6 +11,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 
 const QUIZZES_DIR = path.join(__dirname, '..', 'public', 'quizzes');
 const OUTPUT = path.join(QUIZZES_DIR, 'index.json');
@@ -66,11 +67,21 @@ function scanQuizzes() {
           try {
             const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
             const meta = data.meta || {};
+
+            // Auto-assign GUID if missing
+            if (!meta.guid) {
+              meta.guid = crypto.randomUUID();
+              data.meta = meta;
+              fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + '\n');
+              console.log(`  + Assigned GUID ${meta.guid} to ${file}`);
+            }
+
             const questionCount = (data.questions || []).length;
             const relativePath = `${bookDir.name}/${versionDir.name}/${unitDir.name}/${file}`;
 
             unit.quizzes.push({
               id: meta.id || relativePath.replace('.json', ''),
+              guid: meta.guid,
               title: meta.title || file.replace('.json', ''),
               subtitle: meta.description || '',
               emoji: meta.emoji || DEFAULT_EMOJI,
@@ -103,11 +114,21 @@ function scanQuizzes() {
           try {
             const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
             const meta = data.meta || {};
+
+            // Auto-assign GUID if missing
+            if (!meta.guid) {
+              meta.guid = crypto.randomUUID();
+              data.meta = meta;
+              fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + '\n');
+              console.log(`  + Assigned GUID ${meta.guid} to ${file.name}`);
+            }
+
             const questionCount = (data.questions || []).length;
             const relativePath = `${bookDir.name}/${versionDir.name}/${file.name}`;
 
             directUnit.quizzes.push({
               id: meta.id || relativePath.replace('.json', ''),
+              guid: meta.guid,
               title: meta.title || file.name.replace('.json', ''),
               subtitle: meta.description || '',
               emoji: meta.emoji || DEFAULT_EMOJI,

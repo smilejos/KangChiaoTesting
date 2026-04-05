@@ -1,7 +1,8 @@
-import { Component, inject, OnInit, signal } from '@angular/core';
+import { Component, inject, OnInit, signal, computed } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { QuizLoaderService } from '../../core/services/quiz-loader.service';
 import { I18nService } from '../../core/services/i18n.service';
+import { ScoreService } from '../../core/services/score.service';
 import { BookEntry } from '../../core/models/quiz-index.model';
 
 @Component({
@@ -19,6 +20,12 @@ import { BookEntry } from '../../core/models/quiz-index.model';
         </div>
         <p class="subtitle">{{ i18n.t('appSubtitle') }}</p>
       </header>
+
+      @if (hasScores()) {
+        <button class="reset-btn" (click)="resetScores()">
+          {{ i18n.t('resetScores') }}
+        </button>
+      }
 
       <div class="book-list">
         @for (book of books(); track book.id) {
@@ -115,6 +122,19 @@ import { BookEntry } from '../../core/models/quiz-index.model';
       color: var(--card-color, var(--color-accent));
       flex-shrink: 0;
     }
+    .reset-btn {
+      display: block;
+      margin: 0 auto var(--space-lg);
+      background: none;
+      border: 1px solid var(--color-border);
+      color: var(--color-muted);
+      padding: var(--space-xs) var(--space-md);
+      border-radius: var(--radius-sm);
+      font-size: 0.82rem;
+      cursor: pointer;
+      min-height: 36px;
+    }
+    .reset-btn:active { opacity: 0.7; }
     .loading {
       text-align: center;
       color: var(--color-muted);
@@ -124,6 +144,7 @@ import { BookEntry } from '../../core/models/quiz-index.model';
 })
 export class HomeComponent implements OnInit {
   private loader = inject(QuizLoaderService);
+  private scoreService = inject(ScoreService);
   i18n = inject(I18nService);
   books = signal<BookEntry[]>([]);
 
@@ -131,5 +152,13 @@ export class HomeComponent implements OnInit {
     this.loader.loadIndex().subscribe(data => {
       this.books.set(data.books);
     });
+  }
+
+  hasScores = computed(() => Object.keys(this.scoreService.allScores()).length > 0);
+
+  resetScores(): void {
+    if (confirm(this.i18n.t('resetConfirm'))) {
+      this.scoreService.resetAll();
+    }
   }
 }

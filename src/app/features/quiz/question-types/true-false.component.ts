@@ -1,4 +1,4 @@
-import { Component, Input, Output, EventEmitter, inject } from '@angular/core';
+import { Component, Input, Output, EventEmitter, inject, OnChanges } from '@angular/core';
 import { TrueFalseQuestion } from '../../../core/models/question.model';
 import { I18nService } from '../../../core/services/i18n.service';
 
@@ -57,13 +57,17 @@ import { I18nService } from '../../../core/services/i18n.service';
     .option.wrong { border-color: var(--color-wrong); background: rgba(239, 68, 68, 0.1); }
   `],
 })
-export class TrueFalseComponent {
+export class TrueFalseComponent implements OnChanges {
   @Input({ required: true }) question!: TrueFalseQuestion;
   @Input() answered = false;
   @Output() answer = new EventEmitter<boolean>();
 
   i18n = inject(I18nService);
   selected: boolean | null = null;
+
+  ngOnChanges(): void {
+    this.selected = null;
+  }
 
   select(value: boolean): void {
     if (this.answered) return;

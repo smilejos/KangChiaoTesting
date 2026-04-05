@@ -6,7 +6,8 @@
     "subject": "English Grammar",
     "level": "Elementary Grade 3–4",
     "created": "2026-04-05",
-    "description": "Classify nouns and fix capitalization errors in sentences."
+    "description": "Classify nouns and fix capitalization errors in sentences.",
+    "guid": "8f3df1c7-a129-4223-9c42-fbfe7587385d"
   },
   "settings": {
     "shuffle": true,
@@ -17,9 +18,18 @@
       "id": "q1",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "common", "proper"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper"
+      ],
       "question": "Which word is a proper noun?",
-      "options": ["friend", "home", "Pikachu", "book"],
+      "options": [
+        "friend",
+        "home",
+        "Pikachu",
+        "book"
+      ],
       "answer": 2,
       "explanation": "\"Pikachu\" is a proper noun — it's the specific name of a character."
     },
@@ -27,7 +37,11 @@
       "id": "q2",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "months"],
+      "tags": [
+        "nouns",
+        "proper",
+        "months"
+      ],
       "question": "\"February\" is a proper noun.",
       "answer": true,
       "explanation": "Yes! February is a month name — a proper noun that must be capitalized."
@@ -36,10 +50,19 @@
       "id": "q3",
       "type": "fill-in",
       "difficulty": 1,
-      "tags": ["nouns", "common", "proper"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper"
+      ],
       "question": "What type of noun is \"Costco\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "It's the name of a specific store",
       "explanation": "Costco is a proper noun — it's the specific name of a store."
     },
@@ -47,9 +70,17 @@
       "id": "q4",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "Which word is a common noun?",
-      "options": ["Monday", "Pikachu", "dog", "America"],
+      "options": [
+        "Monday",
+        "Pikachu",
+        "dog",
+        "America"
+      ],
       "answer": 2,
       "explanation": "\"dog\" is a common noun — it refers to any dog, not a specific one."
     },
@@ -57,7 +88,11 @@
       "id": "q5",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "In a sentence, the word \"america\" should have a capital A.",
       "answer": true,
       "explanation": "Yes! America is a proper noun (country name) — it must be capitalized: America."
@@ -66,10 +101,19 @@
       "id": "q6",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "What type of noun is \"Mother's Day\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "It's a specific holiday name",
       "explanation": "Mother's Day is a proper noun — specific holiday names must be capitalized."
     },
@@ -77,12 +121,36 @@
       "id": "q7",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["dog", "Pikachu", "Costco", "book", "America"],
+      "items": [
+        "dog",
+        "Pikachu",
+        "Costco",
+        "book",
+        "America"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["dog", "book"] },
-        { "label": "Proper Noun", "answers": ["Pikachu", "Costco", "America"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "dog",
+            "book"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Pikachu",
+            "Costco",
+            "America"
+          ]
+        }
       ],
       "explanation": "dog/book = general words (common). Pikachu/Costco/America = specific names (proper)."
     },
@@ -90,7 +158,11 @@
       "id": "q8",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "In the sentence \"Pikachu is cute and yellow,\" the word \"Pikachu\" is correctly capitalized.",
       "answer": true,
       "explanation": "Yes! Pikachu is a proper noun (a character name) — it must be capitalized."
@@ -99,7 +171,11 @@
       "id": "q9",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which sentence has correct capitalization?",
       "options": [
         "This summer, I will take a trip to america.",
@@ -114,10 +190,19 @@
       "id": "q10",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "days"],
+      "tags": [
+        "nouns",
+        "proper",
+        "days"
+      ],
       "question": "What type of noun is \"Thursday\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "Days of the week are proper nouns",
       "explanation": "Thursday is a proper noun — days of the week are specific names and must be capitalized."
     },
@@ -125,22 +210,64 @@
       "id": "q11",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["cute", "is", "yellow", "and", "Pikachu"],
-      "answer": ["Pikachu", "is", "cute", "and", "yellow"],
+      "words": [
+        "cute",
+        "is",
+        "yellow",
+        "and",
+        "Pikachu"
+      ],
+      "answer": [
+        "Pikachu",
+        "is",
+        "cute",
+        "and",
+        "yellow"
+      ],
       "explanation": "Correct sentence: \"Pikachu is cute and yellow.\" Pikachu is a proper noun."
     },
     {
       "id": "q12",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["home", "Ms. Jane", "corn", "Father's Day", "hotel"],
+      "items": [
+        "home",
+        "Ms. Jane",
+        "corn",
+        "Father's Day",
+        "hotel"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["home", "corn", "hotel"] },
-        { "label": "Proper Noun", "answers": ["Ms. Jane", "Father's Day"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "home",
+            "corn",
+            "hotel"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Ms. Jane",
+            "Father's Day"
+          ]
+        }
       ],
       "explanation": "home/corn/hotel = general words (common). Ms. Jane/Father's Day = specific names (proper)."
     },
@@ -148,7 +275,11 @@
       "id": "q13",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "holidays"],
+      "tags": [
+        "nouns",
+        "proper",
+        "holidays"
+      ],
       "question": "\"Moon Festival\" is a proper noun.",
       "answer": true,
       "explanation": "Yes! Moon Festival is a specific holiday name — a proper noun that must be capitalized."
@@ -157,9 +288,18 @@
       "id": "q14",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which word in this sentence is a proper noun? \"We like to go to Costco.\"",
-      "options": ["We", "like", "go", "Costco"],
+      "options": [
+        "We",
+        "like",
+        "go",
+        "Costco"
+      ],
       "answer": 3,
       "explanation": "\"Costco\" is a proper noun — the specific name of a store."
     },
@@ -167,10 +307,17 @@
       "id": "q15",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "We like to play uno. Fix the game name: write it correctly.",
       "answer": "Uno",
-      "acceptedAnswers": ["Uno", "UNO"],
+      "acceptedAnswers": [
+        "Uno",
+        "UNO"
+      ],
       "hint": "A specific game name is a proper noun",
       "explanation": "\"Uno\" is a proper noun (specific game name) — it should be capitalized."
     },
@@ -178,17 +325,42 @@
       "id": "q16",
       "type": "reorder",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["Costco", "go", "like", "to", "We", "to"],
-      "answer": ["We", "like", "to", "go", "to", "Costco"],
+      "words": [
+        "Costco",
+        "go",
+        "like",
+        "to",
+        "We",
+        "to"
+      ],
+      "answer": [
+        "We",
+        "like",
+        "to",
+        "go",
+        "to",
+        "Costco"
+      ],
       "explanation": "Correct: \"We like to go to Costco.\" Costco is a proper noun."
     },
     {
       "id": "q17",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which sentence has ALL words correctly capitalized?",
       "options": [
         "My teacher's name is Ms. Chen.",
@@ -203,7 +375,11 @@
       "id": "q18",
       "type": "true-false",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "In the sentence \"I like to play Uno with my friends,\" every word is correctly capitalized.",
       "answer": true,
       "explanation": "Yes! \"Uno\" is a proper noun (game name) and is correctly capitalized. Other words are common nouns."
@@ -212,12 +388,36 @@
       "id": "q19",
       "type": "categorize",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["Pickachu", "friend", "June", "school", "FamilyMart"],
+      "items": [
+        "Pickachu",
+        "friend",
+        "June",
+        "school",
+        "FamilyMart"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["friend", "school"] },
-        { "label": "Proper Noun", "answers": ["Pickachu", "June", "FamilyMart"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "friend",
+            "school"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Pickachu",
+            "June",
+            "FamilyMart"
+          ]
+        }
       ],
       "explanation": "friend/school = general words (common). Pikachu/June/FamilyMart = specific names (proper)."
     },
@@ -225,10 +425,17 @@
       "id": "q20",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "We love going to jiufen village. Fix the place name.",
       "answer": "Jiufen Village",
-      "acceptedAnswers": ["Jiufen Village", "Jiufen village"],
+      "acceptedAnswers": [
+        "Jiufen Village",
+        "Jiufen village"
+      ],
       "hint": "A specific place name is a proper noun — capitalize key words",
       "explanation": "\"Jiufen Village\" is a proper noun (specific place name) — capitalize both words."
     }

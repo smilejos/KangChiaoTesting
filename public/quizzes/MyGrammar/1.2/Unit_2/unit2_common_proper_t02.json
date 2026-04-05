@@ -6,7 +6,8 @@
     "subject": "English Grammar",
     "level": "Elementary Grade 3–4",
     "created": "2026-04-05",
-    "description": "Practice recognizing proper nouns including days, months, and holidays."
+    "description": "Practice recognizing proper nouns including days, months, and holidays.",
+    "guid": "c80a4ed4-ab68-4bb6-ada0-b6b5634fd941"
   },
   "settings": {
     "shuffle": true,
@@ -17,9 +18,18 @@
       "id": "q1",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "days"],
+      "tags": [
+        "nouns",
+        "proper",
+        "days"
+      ],
       "question": "Which of these is a proper noun?",
-      "options": ["park", "street", "Monday", "city"],
+      "options": [
+        "park",
+        "street",
+        "Monday",
+        "city"
+      ],
       "answer": 2,
       "explanation": "\"Monday\" is a proper noun — days of the week are specific names and must be capitalized."
     },
@@ -27,7 +37,10 @@
       "id": "q2",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "common"],
+      "tags": [
+        "nouns",
+        "common"
+      ],
       "question": "\"Monkey\" is a common noun.",
       "answer": true,
       "explanation": "Yes! \"monkey\" refers to any monkey — that's a common noun."
@@ -36,7 +49,11 @@
       "id": "q3",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which sentence is correct?",
       "options": [
         "I live in new taipei city.",
@@ -51,7 +68,11 @@
       "id": "q4",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "proper", "months"],
+      "tags": [
+        "nouns",
+        "proper",
+        "months"
+      ],
       "question": "\"January\" is a proper noun.",
       "answer": true,
       "explanation": "Yes! January is a month name — months are proper nouns and must be capitalized."
@@ -60,9 +81,18 @@
       "id": "q5",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "common", "proper"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper"
+      ],
       "question": "Which word is a common noun?",
-      "options": ["Steve", "Taipei", "Christmas", "teacher"],
+      "options": [
+        "Steve",
+        "Taipei",
+        "Christmas",
+        "teacher"
+      ],
       "answer": 3,
       "explanation": "\"teacher\" is a common noun — it refers to any teacher, not a specific person."
     },
@@ -70,10 +100,19 @@
       "id": "q6",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "months"],
+      "tags": [
+        "nouns",
+        "proper",
+        "months"
+      ],
       "question": "What type of noun is \"March\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "It's a month name",
       "explanation": "March is a proper noun — months are specific names and must be capitalized."
     },
@@ -81,12 +120,36 @@
       "id": "q7",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["city", "Sharon", "park", "Christmas", "teacher"],
+      "items": [
+        "city",
+        "Sharon",
+        "park",
+        "Christmas",
+        "teacher"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["city", "park", "teacher"] },
-        { "label": "Proper Noun", "answers": ["Sharon", "Christmas"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "city",
+            "park",
+            "teacher"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Sharon",
+            "Christmas"
+          ]
+        }
       ],
       "explanation": "city/park/teacher = general words (common). Sharon/Christmas = specific names (proper)."
     },
@@ -94,7 +157,11 @@
       "id": "q8",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "In the sentence \"I live in New Taipei City,\" the capitalization is correct.",
       "answer": true,
       "explanation": "Yes! New Taipei City is a proper noun — all words in this place name are correctly capitalized."
@@ -103,7 +170,11 @@
       "id": "q9",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which sentence has correct capitalization?",
       "options": [
         "My birthday is in march.",
@@ -118,10 +189,16 @@
       "id": "q10",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "We sing songs on ___ (the holiday, write correctly). Clue: The word should be 'Christmas'.",
       "answer": "Christmas",
-      "acceptedAnswers": ["Christmas"],
+      "acceptedAnswers": [
+        "Christmas"
+      ],
       "hint": "This holiday name must start with a capital C",
       "explanation": "Christmas is a proper noun (holiday name) — it must be capitalized: Christmas."
     },
@@ -129,22 +206,66 @@
       "id": "q11",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "capitalization", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["is", "hot", "very", "July", "in", "It"],
-      "answer": ["It", "is", "very", "hot", "in", "July"],
+      "words": [
+        "is",
+        "hot",
+        "very",
+        "July",
+        "in",
+        "It"
+      ],
+      "answer": [
+        "It",
+        "is",
+        "very",
+        "hot",
+        "in",
+        "July"
+      ],
       "explanation": "Correct sentence: \"It is very hot in July.\" July is a proper noun (month)."
     },
     {
       "id": "q12",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["Monday", "girl", "Taipei", "hospital", "January"],
+      "items": [
+        "Monday",
+        "girl",
+        "Taipei",
+        "hospital",
+        "January"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["girl", "hospital"] },
-        { "label": "Proper Noun", "answers": ["Monday", "Taipei", "January"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "girl",
+            "hospital"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Monday",
+            "Taipei",
+            "January"
+          ]
+        }
       ],
       "explanation": "girl/hospital = general words (common). Monday/Taipei/January = specific names (proper)."
     },
@@ -152,7 +273,11 @@
       "id": "q13",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "common", "capitalization"],
+      "tags": [
+        "nouns",
+        "common",
+        "capitalization"
+      ],
       "question": "In the sentence \"The library is very quiet,\" the word \"library\" should be capitalized.",
       "answer": false,
       "explanation": "\"library\" is a common noun — it stays lowercase (unless it's a specific library name like 'Taipei City Library')."
@@ -161,7 +286,12 @@
       "id": "q14",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "proper", "days", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "days",
+        "capitalization"
+      ],
       "question": "Which sentence is correct?",
       "options": [
         "We go to the park on saturday.",
@@ -176,10 +306,19 @@
       "id": "q15",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "days"],
+      "tags": [
+        "nouns",
+        "proper",
+        "days"
+      ],
       "question": "What type of noun is \"Friday\"? (common or proper)",
       "answer": "proper",
-      "acceptedAnswers": ["proper", "Proper", "proper noun", "Proper noun"],
+      "acceptedAnswers": [
+        "proper",
+        "Proper",
+        "proper noun",
+        "Proper noun"
+      ],
       "hint": "Days of the week are always capitalized",
       "explanation": "Friday is a proper noun — days of the week are specific names and must be capitalized."
     },
@@ -187,19 +326,55 @@
       "id": "q16",
       "type": "reorder",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["to", "will", "summer", "trip", "America", "This", "I", "take", "a"],
-      "answer": ["This", "summer", "I", "will", "take", "a", "trip", "to", "America"],
+      "words": [
+        "to",
+        "will",
+        "summer",
+        "trip",
+        "America",
+        "This",
+        "I",
+        "take",
+        "a"
+      ],
+      "answer": [
+        "This",
+        "summer",
+        "I",
+        "will",
+        "take",
+        "a",
+        "trip",
+        "to",
+        "America"
+      ],
       "explanation": "Correct: \"This summer I will take a trip to America.\" America is a proper noun."
     },
     {
       "id": "q17",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "capitalization"
+      ],
       "question": "Which word in this list IS a common noun?",
-      "options": ["Sharon", "Linkou", "December", "newspaper"],
+      "options": [
+        "Sharon",
+        "Linkou",
+        "December",
+        "newspaper"
+      ],
       "answer": 3,
       "explanation": "\"newspaper\" is a common noun — it refers to any newspaper. The others are proper nouns."
     },
@@ -207,7 +382,11 @@
       "id": "q18",
       "type": "true-false",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "In the sentence \"We love going to jiufen village,\" the capitalization is correct.",
       "answer": false,
       "explanation": "\"Jiufen Village\" is a proper noun (a specific place name) — both words should be capitalized."
@@ -216,12 +395,36 @@
       "id": "q19",
       "type": "categorize",
       "difficulty": 3,
-      "tags": ["nouns", "common", "proper", "sorting"],
+      "tags": [
+        "nouns",
+        "common",
+        "proper",
+        "sorting"
+      ],
       "question": "Sort these words: Common Noun or Proper Noun?",
-      "items": ["song", "Taiwan", "corn", "Dragon Boat Festival", "dog"],
+      "items": [
+        "song",
+        "Taiwan",
+        "corn",
+        "Dragon Boat Festival",
+        "dog"
+      ],
       "categories": [
-        { "label": "Common Noun", "answers": ["song", "corn", "dog"] },
-        { "label": "Proper Noun", "answers": ["Taiwan", "Dragon Boat Festival"] }
+        {
+          "label": "Common Noun",
+          "answers": [
+            "song",
+            "corn",
+            "dog"
+          ]
+        },
+        {
+          "label": "Proper Noun",
+          "answers": [
+            "Taiwan",
+            "Dragon Boat Festival"
+          ]
+        }
       ],
       "explanation": "song/corn/dog = general words (common). Taiwan/Dragon Boat Festival = specific names (proper)."
     },
@@ -229,10 +432,17 @@
       "id": "q20",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "proper", "capitalization"],
+      "tags": [
+        "nouns",
+        "proper",
+        "capitalization"
+      ],
       "question": "Fix this proper noun: 'daan park'. Write it correctly.",
       "answer": "Daan Park",
-      "acceptedAnswers": ["Daan Park", "Da'an Park"],
+      "acceptedAnswers": [
+        "Daan Park",
+        "Da'an Park"
+      ],
       "hint": "Both words in a place name need capital letters",
       "explanation": "\"Daan Park\" is a proper noun — both words start with capital letters."
     }

@@ -6,7 +6,8 @@
     "subject": "English Grammar",
     "level": "Elementary Grade 3–4",
     "created": "2026-04-05",
-    "description": "Practice choosing the correct singular or plural noun in sentences."
+    "description": "Practice choosing the correct singular or plural noun in sentences.",
+    "guid": "2acddadd-3ab0-4437-b40c-a2d8a2c6053e"
   },
   "settings": {
     "shuffle": true,
@@ -17,9 +18,17 @@
       "id": "q1",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "What is the plural of \"bear\"?",
-      "options": ["beares", "bears", "bearies", "bearses"],
+      "options": [
+        "beares",
+        "bears",
+        "bearies",
+        "bearses"
+      ],
       "answer": 1,
       "explanation": "bear → bears. Regular nouns just add -s."
     },
@@ -27,7 +36,10 @@
       "id": "q2",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "singular"],
+      "tags": [
+        "nouns",
+        "singular"
+      ],
       "question": "\"Apple\" is a singular noun.",
       "answer": true,
       "explanation": "Yes! \"apple\" means one apple — that makes it singular."
@@ -36,9 +48,18 @@
       "id": "q3",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "My friend and I have two ___. (bag)",
-      "options": ["bag", "bags", "bages", "bagies"],
+      "options": [
+        "bag",
+        "bags",
+        "bages",
+        "bagies"
+      ],
       "answer": 1,
       "explanation": "\"two\" tells us we need a plural. bag → bags."
     },
@@ -46,7 +67,11 @@
       "id": "q4",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "plural", "es-rule"],
+      "tags": [
+        "nouns",
+        "plural",
+        "es-rule"
+      ],
       "question": "The plural of \"dish\" is \"dishes\".",
       "answer": true,
       "explanation": "Yes! dish ends in -sh, so we add -es: dish → dishes."
@@ -55,10 +80,16 @@
       "id": "q5",
       "type": "fill-in",
       "difficulty": 1,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "Write the plural of \"kite\".",
       "answer": "kites",
-      "acceptedAnswers": ["kites", "Kites"],
+      "acceptedAnswers": [
+        "kites",
+        "Kites"
+      ],
       "hint": "Just add -s",
       "explanation": "kite → kites. Regular nouns just add -s."
     },
@@ -66,9 +97,18 @@
       "id": "q6",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "Ana sees some birds on the tree ___. (branch)",
-      "options": ["branch", "branchs", "branches", "branchies"],
+      "options": [
+        "branch",
+        "branchs",
+        "branches",
+        "branchies"
+      ],
       "answer": 2,
       "explanation": "branch → branches. Words ending in -ch add -es."
     },
@@ -76,10 +116,17 @@
       "id": "q7",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "es-rule"],
+      "tags": [
+        "nouns",
+        "plural",
+        "es-rule"
+      ],
       "question": "Write the plural of \"fox\".",
       "answer": "foxes",
-      "acceptedAnswers": ["foxes", "Foxes"],
+      "acceptedAnswers": [
+        "foxes",
+        "Foxes"
+      ],
       "hint": "Words ending in -x get -es",
       "explanation": "fox → foxes. Words ending in -x add -es."
     },
@@ -87,12 +134,36 @@
       "id": "q8",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "singular", "plural", "sorting"],
+      "tags": [
+        "nouns",
+        "singular",
+        "plural",
+        "sorting"
+      ],
       "question": "Sort these words: Singular or Plural?",
-      "items": ["dog", "watches", "fox", "dishes", "tree"],
+      "items": [
+        "dog",
+        "watches",
+        "fox",
+        "dishes",
+        "tree"
+      ],
       "categories": [
-        { "label": "Singular", "answers": ["dog", "fox", "tree"] },
-        { "label": "Plural", "answers": ["watches", "dishes"] }
+        {
+          "label": "Singular",
+          "answers": [
+            "dog",
+            "fox",
+            "tree"
+          ]
+        },
+        {
+          "label": "Plural",
+          "answers": [
+            "watches",
+            "dishes"
+          ]
+        }
       ],
       "explanation": "dog/fox/tree = one (singular). watches/dishes = more than one (plural)."
     },
@@ -100,7 +171,10 @@
       "id": "q9",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "In the sentence \"Luke and Ella ride their bikes home,\" the word \"bikes\" is a plural noun.",
       "answer": true,
       "explanation": "Yes! \"bikes\" is the plural of \"bike\". Luke AND Ella each have a bike."
@@ -109,19 +183,47 @@
       "id": "q10",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["the", "on", "rocks", "bugs", "six", "are"],
-      "answer": ["Six", "bugs", "are", "on", "the", "rocks"],
+      "words": [
+        "the",
+        "on",
+        "rocks",
+        "bugs",
+        "six",
+        "are"
+      ],
+      "answer": [
+        "Six",
+        "bugs",
+        "are",
+        "on",
+        "the",
+        "rocks"
+      ],
       "explanation": "Correct sentence: \"Six bugs are on the rocks.\""
     },
     {
       "id": "q11",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "rules"],
+      "tags": [
+        "nouns",
+        "plural",
+        "rules"
+      ],
       "question": "Which noun follows the rule 'ending in -ss → add -es'?",
-      "options": ["dogs", "classes", "kites", "birds"],
+      "options": [
+        "dogs",
+        "classes",
+        "kites",
+        "birds"
+      ],
       "answer": 1,
       "explanation": "class ends in -ss, so its plural is classes (add -es)."
     },
@@ -129,10 +231,16 @@
       "id": "q12",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "Write the plural of \"star\".",
       "answer": "stars",
-      "acceptedAnswers": ["stars", "Stars"],
+      "acceptedAnswers": [
+        "stars",
+        "Stars"
+      ],
       "hint": "Just add -s",
       "explanation": "star → stars. Regular nouns add -s."
     },
@@ -140,12 +248,36 @@
       "id": "q13",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "rules", "sorting"],
+      "tags": [
+        "nouns",
+        "plural",
+        "rules",
+        "sorting"
+      ],
       "question": "Sort these plurals: did they add -s or -es?",
-      "items": ["bears", "foxes", "kites", "buses", "dogs"],
+      "items": [
+        "bears",
+        "foxes",
+        "kites",
+        "buses",
+        "dogs"
+      ],
       "categories": [
-        { "label": "Add -s", "answers": ["bears", "kites", "dogs"] },
-        { "label": "Add -es", "answers": ["foxes", "buses"] }
+        {
+          "label": "Add -s",
+          "answers": [
+            "bears",
+            "kites",
+            "dogs"
+          ]
+        },
+        {
+          "label": "Add -es",
+          "answers": [
+            "foxes",
+            "buses"
+          ]
+        }
       ],
       "explanation": "Regular nouns add -s. Nouns ending in -x or -s add -es."
     },
@@ -153,7 +285,11 @@
       "id": "q14",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "Which sentence is correct?",
       "options": [
         "I open my books to page 8.",
@@ -168,7 +304,11 @@
       "id": "q15",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "es-rule"],
+      "tags": [
+        "nouns",
+        "plural",
+        "es-rule"
+      ],
       "question": "The plural of \"class\" is \"classes\".",
       "answer": true,
       "explanation": "Yes! class ends in -ss, so we add -es: class → classes."
@@ -177,10 +317,17 @@
       "id": "q16",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "es-rule"],
+      "tags": [
+        "nouns",
+        "plural",
+        "es-rule"
+      ],
       "question": "Write the plural of \"beach\".",
       "answer": "beaches",
-      "acceptedAnswers": ["beaches", "Beaches"],
+      "acceptedAnswers": [
+        "beaches",
+        "Beaches"
+      ],
       "hint": "Words ending in -ch get -es",
       "explanation": "beach → beaches. Words ending in -ch add -es."
     },
@@ -188,19 +335,49 @@
       "id": "q17",
       "type": "reorder",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["the", "plant", "I", "yard", "in", "bushes", "two"],
-      "answer": ["I", "plant", "two", "bushes", "in", "the", "yard"],
+      "words": [
+        "the",
+        "plant",
+        "I",
+        "yard",
+        "in",
+        "bushes",
+        "two"
+      ],
+      "answer": [
+        "I",
+        "plant",
+        "two",
+        "bushes",
+        "in",
+        "the",
+        "yard"
+      ],
       "explanation": "Correct sentence: \"I plant two bushes in the yard.\""
     },
     {
       "id": "q18",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "rules"],
+      "tags": [
+        "nouns",
+        "plural",
+        "rules"
+      ],
       "question": "What is the plural of \"ostrich\"?",
-      "options": ["ostrichs", "ostriches", "ostrichies", "ostrich"],
+      "options": [
+        "ostrichs",
+        "ostriches",
+        "ostrichies",
+        "ostrich"
+      ],
       "answer": 1,
       "explanation": "ostrich ends in -ch, so we add -es: ostrich → ostriches."
     },
@@ -208,7 +385,11 @@
       "id": "q19",
       "type": "true-false",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "In the sentence \"One frog eats the bugs,\" the noun \"frog\" is plural.",
       "answer": false,
       "explanation": "\"One frog\" means just one frog — that's singular, not plural."
@@ -217,9 +398,18 @@
       "id": "q20",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "We see many ___ in the city. (church)",
-      "options": ["church", "churchs", "churches", "churchies"],
+      "options": [
+        "church",
+        "churchs",
+        "churches",
+        "churchies"
+      ],
       "answer": 2,
       "explanation": "church → churches. Words ending in -ch add -es. \"many\" tells us we need a plural."
     }

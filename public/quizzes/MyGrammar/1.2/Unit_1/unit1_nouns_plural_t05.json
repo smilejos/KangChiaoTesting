@@ -6,7 +6,8 @@
     "subject": "English Grammar",
     "level": "Elementary Grade 3–4",
     "created": "2026-04-05",
-    "description": "Mix of plural rules: choose the correct form in context sentences."
+    "description": "Mix of plural rules: choose the correct form in context sentences.",
+    "guid": "9741fa54-f019-4b5c-8447-a71939b331ad"
   },
   "settings": {
     "shuffle": true,
@@ -17,9 +18,17 @@
       "id": "q1",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "What is the plural of \"book\"?",
-      "options": ["bookes", "bookies", "books", "booksies"],
+      "options": [
+        "bookes",
+        "bookies",
+        "books",
+        "booksies"
+      ],
       "answer": 2,
       "explanation": "book → books. Regular nouns add -s."
     },
@@ -27,7 +36,10 @@
       "id": "q2",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "\"Glasses\" is the plural of \"glass\".",
       "answer": true,
       "explanation": "Yes! glass ends in -ss, so we add -es: glass → glasses."
@@ -36,10 +48,16 @@
       "id": "q3",
       "type": "fill-in",
       "difficulty": 1,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "Write the plural of \"apple\".",
       "answer": "apples",
-      "acceptedAnswers": ["apples", "Apples"],
+      "acceptedAnswers": [
+        "apples",
+        "Apples"
+      ],
       "hint": "Just add -s",
       "explanation": "apple → apples. Regular nouns add -s."
     },
@@ -47,9 +65,18 @@
       "id": "q4",
       "type": "multiple-choice",
       "difficulty": 1,
-      "tags": ["nouns", "singular", "sentence"],
+      "tags": [
+        "nouns",
+        "singular",
+        "sentence"
+      ],
       "question": "Mom buys ___ apple. (one apple)",
-      "options": ["an", "many", "some", "three"],
+      "options": [
+        "an",
+        "many",
+        "some",
+        "three"
+      ],
       "answer": 0,
       "explanation": "\"one apple\" needs the article \"an\" before a singular vowel-sound noun."
     },
@@ -57,7 +84,10 @@
       "id": "q5",
       "type": "true-false",
       "difficulty": 1,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "\"Cats\" is a plural noun.",
       "answer": true,
       "explanation": "Yes! \"cats\" is the plural of \"cat\" — more than one cat."
@@ -66,10 +96,17 @@
       "id": "q6",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "es-rule"],
+      "tags": [
+        "nouns",
+        "plural",
+        "es-rule"
+      ],
       "question": "Write the plural of \"wish\".",
       "answer": "wishes",
-      "acceptedAnswers": ["wishes", "Wishes"],
+      "acceptedAnswers": [
+        "wishes",
+        "Wishes"
+      ],
       "hint": "Words ending in -sh get -es",
       "explanation": "wish → wishes. Words ending in -sh add -es."
     },
@@ -77,9 +114,18 @@
       "id": "q7",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "Luke and Ella ride their ___ home. (bike)",
-      "options": ["bike", "bikes", "bikeys", "bikees"],
+      "options": [
+        "bike",
+        "bikes",
+        "bikeys",
+        "bikees"
+      ],
       "answer": 1,
       "explanation": "Two people means they each have a bike: bikes (plural)."
     },
@@ -87,12 +133,36 @@
       "id": "q8",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "singular", "plural", "sorting"],
+      "tags": [
+        "nouns",
+        "singular",
+        "plural",
+        "sorting"
+      ],
       "question": "Sort these words: Singular or Plural?",
-      "items": ["apple", "wishes", "book", "glasses", "boy"],
+      "items": [
+        "apple",
+        "wishes",
+        "book",
+        "glasses",
+        "boy"
+      ],
       "categories": [
-        { "label": "Singular", "answers": ["apple", "book", "boy"] },
-        { "label": "Plural", "answers": ["wishes", "glasses"] }
+        {
+          "label": "Singular",
+          "answers": [
+            "apple",
+            "book",
+            "boy"
+          ]
+        },
+        {
+          "label": "Plural",
+          "answers": [
+            "wishes",
+            "glasses"
+          ]
+        }
       ],
       "explanation": "apple/book/boy = one (singular). wishes/glasses = more than one (plural)."
     },
@@ -100,17 +170,41 @@
       "id": "q9",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["shells", "ten", "finds", "She", "beach", "on", "the"],
-      "answer": ["She", "finds", "ten", "shells", "on", "the", "beach"],
+      "words": [
+        "shells",
+        "ten",
+        "finds",
+        "She",
+        "beach",
+        "on",
+        "the"
+      ],
+      "answer": [
+        "She",
+        "finds",
+        "ten",
+        "shells",
+        "on",
+        "the",
+        "beach"
+      ],
       "explanation": "Correct sentence: \"She finds ten shells on the beach.\""
     },
     {
       "id": "q10",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "The plural of \"road\" is \"roades\".",
       "answer": false,
       "explanation": "road → roads. Regular nouns just add -s; no -es needed here."
@@ -119,10 +213,16 @@
       "id": "q11",
       "type": "fill-in",
       "difficulty": 2,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "Write the plural of \"ant\".",
       "answer": "ants",
-      "acceptedAnswers": ["ants", "Ants"],
+      "acceptedAnswers": [
+        "ants",
+        "Ants"
+      ],
       "hint": "Just add -s",
       "explanation": "ant → ants. Regular nouns add -s."
     },
@@ -130,9 +230,18 @@
       "id": "q12",
       "type": "multiple-choice",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "rules"],
+      "tags": [
+        "nouns",
+        "plural",
+        "rules"
+      ],
       "question": "Which noun does NOT add -es to form its plural?",
-      "options": ["box", "watch", "bus", "tree"],
+      "options": [
+        "box",
+        "watch",
+        "bus",
+        "tree"
+      ],
       "answer": 3,
       "explanation": "tree → trees (just add -s). The others end in -x, -ch, -s and need -es."
     },
@@ -140,12 +249,36 @@
       "id": "q13",
       "type": "categorize",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "rules", "sorting"],
+      "tags": [
+        "nouns",
+        "plural",
+        "rules",
+        "sorting"
+      ],
       "question": "Sort these plurals: did they add -s or -es?",
-      "items": ["apples", "wishes", "books", "glasses", "ants"],
+      "items": [
+        "apples",
+        "wishes",
+        "books",
+        "glasses",
+        "ants"
+      ],
       "categories": [
-        { "label": "Add -s", "answers": ["apples", "books", "ants"] },
-        { "label": "Add -es", "answers": ["wishes", "glasses"] }
+        {
+          "label": "Add -s",
+          "answers": [
+            "apples",
+            "books",
+            "ants"
+          ]
+        },
+        {
+          "label": "Add -es",
+          "answers": [
+            "wishes",
+            "glasses"
+          ]
+        }
       ],
       "explanation": "Regular nouns add -s. Nouns ending in -sh or -ss add -es."
     },
@@ -153,7 +286,11 @@
       "id": "q14",
       "type": "true-false",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "In the sentence \"I open my book to page 8,\" the noun \"book\" is singular.",
       "answer": true,
       "explanation": "\"my book\" — just one book. That's singular."
@@ -162,20 +299,41 @@
       "id": "q15",
       "type": "reorder",
       "difficulty": 2,
-      "tags": ["nouns", "plural", "sentence", "word-order"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence",
+        "word-order"
+      ],
       "question": "Arrange the words to form a correct sentence:",
-      "words": ["Mom", "seven", "buys", "apples"],
-      "answer": ["Mom", "buys", "seven", "apples"],
+      "words": [
+        "Mom",
+        "seven",
+        "buys",
+        "apples"
+      ],
+      "answer": [
+        "Mom",
+        "buys",
+        "seven",
+        "apples"
+      ],
       "explanation": "Correct sentence: \"Mom buys seven apples.\""
     },
     {
       "id": "q16",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "plural"],
+      "tags": [
+        "nouns",
+        "plural"
+      ],
       "question": "Write the plural of \"ruler\".",
       "answer": "rulers",
-      "acceptedAnswers": ["rulers", "Rulers"],
+      "acceptedAnswers": [
+        "rulers",
+        "Rulers"
+      ],
       "hint": "Just add -s",
       "explanation": "ruler → rulers. Regular nouns add -s."
     },
@@ -183,7 +341,11 @@
       "id": "q17",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "Which sentence is correct?",
       "options": [
         "Roy has two glass of juice.",
@@ -198,9 +360,18 @@
       "id": "q18",
       "type": "multiple-choice",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "rules"],
+      "tags": [
+        "nouns",
+        "plural",
+        "rules"
+      ],
       "question": "Which word ends in -sh and adds -es to become plural?",
-      "options": ["fox", "class", "brush", "dog"],
+      "options": [
+        "fox",
+        "class",
+        "brush",
+        "dog"
+      ],
       "answer": 2,
       "explanation": "brush ends in -sh, so brush → brushes (add -es)."
     },
@@ -208,7 +379,11 @@
       "id": "q19",
       "type": "true-false",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "sentence"],
+      "tags": [
+        "nouns",
+        "plural",
+        "sentence"
+      ],
       "question": "In the sentence \"She has one box,\" the noun \"box\" is plural.",
       "answer": false,
       "explanation": "\"one box\" means just one box — that's singular."
@@ -217,10 +392,17 @@
       "id": "q20",
       "type": "fill-in",
       "difficulty": 3,
-      "tags": ["nouns", "plural", "es-rule"],
+      "tags": [
+        "nouns",
+        "plural",
+        "es-rule"
+      ],
       "question": "Write the plural of \"watch\".",
       "answer": "watches",
-      "acceptedAnswers": ["watches", "Watches"],
+      "acceptedAnswers": [
+        "watches",
+        "Watches"
+      ],
       "hint": "Words ending in -ch get -es",
       "explanation": "watch → watches. Words ending in -ch add -es."
     }
