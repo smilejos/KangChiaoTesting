@@ -1,0 +1,11 @@
+@mixin touch-target {
+  min-width: 44px;
+  min-height: 44px;
+}
+
+@mixin card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-md);
+}

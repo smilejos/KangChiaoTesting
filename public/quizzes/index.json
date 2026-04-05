@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "quizzes": [
+    {
+      "id": "unit1_plural",
+      "title": "Unit 1 — Singular & Plural",
+      "subtitle": "Adding -s and -es to nouns",
+      "emoji": "\ud83d\udcda",
+      "color": "#10b981",
+      "tags": ["nouns", "plural"],
+      "difficulty": 1,
+      "file": "unit1_plural.json",
+      "questionCount": 15
+    },
+    {
+      "id": "unit2_nouns",
+      "title": "Unit 2 — Common & Proper Nouns",
+      "subtitle": "Naming regular vs. special things",
+      "emoji": "\ud83c\udfd9\ufe0f",
+      "color": "#6366f1",
+      "tags": ["nouns", "capitalization"],
+      "difficulty": 1,
+      "file": "unit2_nouns.json",
+      "questionCount": 13
+    }
+  ]
+}

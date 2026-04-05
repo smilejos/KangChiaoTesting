@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "id": "unit1_plural",
+    "version": "1.0",
+    "title": "Unit 1 — Singular & Plural",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Practice making nouns plural with -s and -es rules."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["plural", "-s"],
+      "question": "My friend and I have two ___.",
+      "options": ["bag", "bags", "bagges", "baggs"],
+      "answer": 1,
+      "explanation": "More than one bag → bags (general rule: add -s)."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["plural", "-es"],
+      "question": "\"Watchs\" is the correct plural of \"watch\".",
+      "answer": false,
+      "explanation": "Words ending in -ch add -es. The correct plural is \"watches\"."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["plural", "-es"],
+      "question": "One watch → Two ___.",
+      "answer": "watches",
+      "acceptedAnswers": ["watches", "Watches"],
+      "hint": "Hint: words ending in -ch add -es",
+      "explanation": "watch → watches (ends in -ch, so add -es)"
+    },
+    {
+      "id": "q4",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["plural", "sorting"],
+      "question": "Sort each word into the correct plural rule:",
+      "items": ["cat", "box", "dog", "watch", "dish"],
+      "categories": [
+        { "label": "Add -s", "answers": ["cat", "dog"] },
+        { "label": "Add -es", "answers": ["box", "watch", "dish"] }
+      ],
+      "explanation": "cat/dog → add -s;  box/watch/dish → add -es (ending in -x, -ch, -sh)"
+    },
+    {
+      "id": "q5",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": ["sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["apple", "I", "an", "eat"],
+      "answer": ["I", "eat", "an", "apple"],
+      "explanation": "Correct sentence: \"I eat an apple.\""
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["plural", "-s"],
+      "question": "There are three ___ on the table.",
+      "options": ["cup", "cups", "cupes", "cupp"],
+      "answer": 1,
+      "explanation": "cup → cups (just add -s for most nouns)."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["plural", "-es"],
+      "question": "She washed all the ___.",
+      "options": ["dish", "dishs", "dishes", "dished"],
+      "answer": 2,
+      "explanation": "dish ends in -sh, so we add -es → dishes."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["plural", "-s"],
+      "question": "The plural of \"book\" is \"books\".",
+      "answer": true,
+      "explanation": "book → books (regular noun, just add -s)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["plural", "-es"],
+      "question": "The plural of \"bus\" is \"buss\".",
+      "answer": false,
+      "explanation": "bus ends in -s, so we add -es → buses."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": ["plural", "-s"],
+      "question": "One car → Five ___.",
+      "answer": "cars",
+      "acceptedAnswers": ["cars", "Cars"],
+      "hint": "Most nouns just add -s",
+      "explanation": "car → cars (regular rule: add -s)"
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["plural", "-es"],
+      "question": "One fox → Three ___.",
+      "answer": "foxes",
+      "acceptedAnswers": ["foxes", "Foxes"],
+      "hint": "Words ending in -x add -es",
+      "explanation": "fox → foxes (ends in -x, so add -es)"
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["plural", "-es"],
+      "question": "Which word needs -es to become plural?",
+      "options": ["hat", "lunch", "pen", "bed"],
+      "answer": 1,
+      "explanation": "lunch ends in -ch, so it needs -es → lunches. The others just add -s."
+    },
+    {
+      "id": "q13",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["plural", "sorting"],
+      "question": "Sort each word: does it add -s or -es?",
+      "items": ["bus", "tree", "glass", "bird", "brush"],
+      "categories": [
+        { "label": "Add -s", "answers": ["tree", "bird"] },
+        { "label": "Add -es", "answers": ["bus", "glass", "brush"] }
+      ],
+      "explanation": "tree/bird → add -s;  bus (-s), glass (-ss), brush (-sh) → add -es"
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["sentence", "plural"],
+      "question": "Put the words in order to make a sentence:",
+      "words": ["boxes", "two", "has", "she"],
+      "answer": ["she", "has", "two", "boxes"],
+      "explanation": "Correct sentence: \"She has two boxes.\""
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["plural", "-es"],
+      "question": "How do you make \"class\" plural?",
+      "options": ["classs", "classes", "class", "clases"],
+      "answer": 1,
+      "explanation": "class ends in -ss, so we add -es → classes."
+    }
+  ]
+}
