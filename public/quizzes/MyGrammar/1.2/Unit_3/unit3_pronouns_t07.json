@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "id": "unit3_pronouns_t07",
+    "version": "1.0",
+    "title": "Unit 3 — Pronouns & I/me (Test 7)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Advanced pronoun practice with subject/object distinction and sentence construction."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "I-me"],
+      "question": "Which pronoun is always capitalized?",
+      "options": ["me", "he", "I", "we"],
+      "answer": 2,
+      "explanation": "The pronoun \"I\" is always written as a capital letter."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["pronouns", "singular"],
+      "question": "\"She\" is used for female people.",
+      "answer": true,
+      "explanation": "Yes! 'She' replaces a female person's name (e.g., Amy → She)."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "I-me"],
+      "question": "Which sentence is correct?",
+      "options": [
+        "Me have a class every Monday.",
+        "I have a class every Monday.",
+        "My have a class every Monday.",
+        "Mine have a class every Monday."
+      ],
+      "answer": 1,
+      "explanation": "\"I have\" — 'I' is the subject before the verb 'have'."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["pronouns", "plural"],
+      "question": "\"They\" can replace a group of animals.",
+      "answer": true,
+      "explanation": "Yes! 'They' replaces plural nouns — including groups of animals."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "singular"],
+      "question": "Mina's dad is surprised. → ___ is surprised.",
+      "options": ["She", "He", "It", "They"],
+      "answer": 1,
+      "explanation": "Mina's dad is male → use 'He'."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "Fill in: ___ am eight years old. (I or me)",
+      "answer": "I",
+      "acceptedAnswers": ["I"],
+      "hint": "This goes before the verb 'am'",
+      "explanation": "'I' is the subject — it comes before the verb. I am eight years old."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "plural", "sentence"],
+      "question": "How big does a wolf grow? → How big does ___ grow?",
+      "options": ["they", "it", "we", "she"],
+      "answer": 1,
+      "explanation": "\"a wolf\" is a singular animal → use 'it'."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["pronouns", "sorting"],
+      "question": "Sort these pronouns: which come BEFORE the verb (subject)?",
+      "items": ["I", "me", "she", "we", "they"],
+      "categories": [
+        { "label": "Before Verb (Subject)", "answers": ["I", "she", "we", "they"] },
+        { "label": "After Verb (Object)", "answers": ["me"] }
+      ],
+      "explanation": "I/she/we/they = subject pronouns. me = object pronoun."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "In the sentence \"She always helps me with homework,\" the pronoun 'me' is correct.",
+      "answer": true,
+      "explanation": "Yes! 'me' comes after the verb 'helps' (as the object). This is correct."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "plural"],
+      "question": "Emma and I see a snake. → ___ see a snake. (one word)",
+      "answer": "We",
+      "acceptedAnswers": ["We", "we"],
+      "hint": "Emma + I (the speaker) = two people",
+      "explanation": "Emma and I = two people (including the speaker) → use 'We'."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["me", "gives", "basket", "the", "Rosa"],
+      "answer": ["Rosa", "gives", "me", "the", "basket"],
+      "explanation": "Correct: \"Rosa gives me the basket.\" 'me' is object after the verb."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "sentence"],
+      "question": "Which pronoun is used in this sentence? \"Spotty is my dog. It likes to play fetch.\"",
+      "options": ["Spotty", "dog", "It", "play"],
+      "answer": 2,
+      "explanation": "\"It\" is the pronoun — it replaces 'Spotty' (a dog = animal)."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "The sentence \"Rosa and I paint it\" uses pronouns correctly.",
+      "answer": true,
+      "explanation": "Yes! 'I' is part of the subject 'Rosa and I' (before verb). 'it' replaces an object."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me", "sentence"],
+      "question": "Which sentence uses 'me' correctly?",
+      "options": [
+        "Me am Oliver.",
+        "Me love cats.",
+        "Can you give me the pencil?",
+        "Me go to the park."
+      ],
+      "answer": 2,
+      "explanation": "\"give me\" — 'me' is correctly used as the object after the verb 'give'."
+    },
+    {
+      "id": "q15",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me"],
+      "question": "Fill in: My mom calls ___ every day. (I or me)",
+      "answer": "me",
+      "acceptedAnswers": ["me"],
+      "hint": "This comes after the verb 'calls'",
+      "explanation": "'me' is the object — it comes after the verb. My mom calls me."
+    },
+    {
+      "id": "q16",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me", "sorting"],
+      "question": "Sort these: which blank needs 'I', and which needs 'me'?",
+      "items": ["___ am Oliver.", "A lion sees ___.", "Rosa and ___ paint.", "The basket helps ___."],
+      "categories": [
+        { "label": "Use 'I'", "answers": ["___ am Oliver.", "Rosa and ___ paint."] },
+        { "label": "Use 'me'", "answers": ["A lion sees ___.", "The basket helps ___."] }
+      ],
+      "explanation": "'I' = subject (before verb). 'me' = object (after verb or preposition)."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me", "sentence"],
+      "question": "Which sentence is CORRECT?",
+      "options": [
+        "A lion sees I.",
+        "The lion roars at I.",
+        "Rosa gives I the basket.",
+        "I have so much fun in the desert."
+      ],
+      "answer": 3,
+      "explanation": "\"I have so much fun\" — 'I' is the subject before the verb. All others need 'me' instead."
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["pronouns", "plural"],
+      "question": "In the sentence \"Wolves don't eat people, so we are not in danger,\" the pronoun 'we' is correct.",
+      "answer": true,
+      "explanation": "Yes! 'we' includes the speaker and other people — it's used correctly here."
+    },
+    {
+      "id": "q19",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": ["pronouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["are", "in", "the", "library", "We", "go", "to"],
+      "answer": ["We", "go", "to", "the", "library"],
+      "explanation": "Correct: \"We go to the library.\" 'We' is the subject pronoun."
+    },
+    {
+      "id": "q20",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["pronouns", "singular", "sentence"],
+      "question": "Which sentence has the WRONG pronoun?",
+      "options": [
+        "I have a class every Monday.",
+        "They are in the classroom.",
+        "We go to the library.",
+        "Me go to school by bus."
+      ],
+      "answer": 3,
+      "explanation": "\"Me go\" is wrong — 'Me' cannot be the subject. Correct: \"I go to school by bus.\""
+    }
+  ]
+}

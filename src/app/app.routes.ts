@@ -11,10 +11,16 @@ export const routes: Routes = [
     path: 'book/:bookId',
     loadComponent: () =>
       import('./features/home/book.component').then(m => m.BookComponent),
+    title: 'Versions',
+  },
+  {
+    path: 'version/:bookId/:versionId',
+    loadComponent: () =>
+      import('./features/home/version.component').then(m => m.VersionComponent),
     title: 'Units',
   },
   {
-    path: 'unit/:bookId/:unitId',
+    path: 'unit/:bookId/:versionId/:unitId',
     loadComponent: () =>
       import('./features/home/unit.component').then(m => m.UnitComponent),
     title: 'Quizzes',

@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "id": "unit3_pronouns_t06",
+    "version": "1.0",
+    "title": "Unit 3 — Pronouns & I/me (Test 6)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Identify pronoun errors and replace nouns with the best pronoun."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "singular"],
+      "question": "Which pronoun replaces a male person?",
+      "options": ["she", "it", "they", "he"],
+      "answer": 3,
+      "explanation": "\"he\" is used to replace a male person's name."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["pronouns", "I-me"],
+      "question": "In the sentence \"I call Rosa,\" 'I' is the subject.",
+      "answer": true,
+      "explanation": "Yes! 'I' comes before the verb 'call' — it's the subject of the sentence."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "I-me"],
+      "question": "Rosa calls ___. (I or me)",
+      "options": ["I", "me", "my", "mine"],
+      "answer": 1,
+      "explanation": "\"me\" comes after the verb (object). Rosa calls me."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["pronouns", "plural"],
+      "question": "\"We\" is a plural pronoun.",
+      "answer": true,
+      "explanation": "Yes! 'we' = the speaker + others — it's a plural pronoun."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "singular", "sentence"],
+      "question": "Do you know that a camel can eat a cactus? → Do you know that ___ can eat a cactus?",
+      "options": ["they", "he", "it", "she"],
+      "answer": 2,
+      "explanation": "\"a camel\" is an animal → replace it with \"it\"."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "Fill in: ___ call Rosa. (I or me)",
+      "answer": "I",
+      "acceptedAnswers": ["I"],
+      "hint": "This goes before the verb 'call'",
+      "explanation": "\"I\" is the subject — it goes before the verb. I call Rosa."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "sentence"],
+      "question": "Mina is surprised! → ___ is surprised!",
+      "options": ["He", "It", "She", "They"],
+      "answer": 2,
+      "explanation": "Mina is female — we use 'She' to replace Mina's name."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "plural", "sorting"],
+      "question": "Sort these: subject pronoun or object pronoun?",
+      "items": ["I", "me", "he", "she", "we"],
+      "categories": [
+        { "label": "Subject Pronoun (before verb)", "answers": ["I", "he", "she", "we"] },
+        { "label": "Object Pronoun (after verb)", "answers": ["me"] }
+      ],
+      "explanation": "I/he/she/we = subject pronouns. me = object pronoun (comes after verbs)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["pronouns", "plural"],
+      "question": "In the sentence \"Do you all want some juice?,\" 'you' here means more than one person.",
+      "answer": true,
+      "explanation": "Yes! When we say 'you all,' 'you' is used as a plural pronoun meaning multiple people."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular"],
+      "question": "My sister is kind. → ___ is kind. (one word)",
+      "answer": "She",
+      "acceptedAnswers": ["She", "she"],
+      "hint": "My sister = female",
+      "explanation": "My sister is female — we use 'She' to replace 'My sister'."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["I", "Rosa", "call"],
+      "answer": ["I", "call", "Rosa"],
+      "explanation": "Correct: \"I call Rosa.\" 'I' is the subject before the verb."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "plural", "sentence"],
+      "question": "Wolves don't eat people, so ___ are not in danger.",
+      "options": ["it", "he", "we", "she"],
+      "answer": 2,
+      "explanation": "'we' = the speaker and others, showing that people (us) are not in danger."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "The sentence \"Me am Oliver the otter\" is correct.",
+      "answer": false,
+      "explanation": "'Me' cannot be the subject. Correct: \"I am Oliver the otter.\""
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "sentence"],
+      "question": "which pronoun is used in this sentence? \"Do you go to school by bus?\"",
+      "options": ["go", "school", "bus", "you"],
+      "answer": 3,
+      "explanation": "\"you\" is the pronoun — it refers to the person being spoken to."
+    },
+    {
+      "id": "q15",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "Fill in: Rosa gives ___ the basket. (I or me)",
+      "answer": "me",
+      "acceptedAnswers": ["me"],
+      "hint": "This goes after the verb 'gives'",
+      "explanation": "\"me\" is the object — it goes after the verb. Rosa gives me the basket."
+    },
+    {
+      "id": "q16",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": ["pronouns", "singular", "plural", "sorting"],
+      "question": "Match the noun phrase with the correct pronoun:",
+      "items": ["Mina's dad (male)", "The apples", "My sister and I", "The cactus (thing)"],
+      "categories": [
+        { "label": "He", "answers": ["Mina's dad (male)"] },
+        { "label": "They", "answers": ["The apples", "My sister and I"] },
+        { "label": "It", "answers": ["The cactus (thing)"] }
+      ],
+      "explanation": "He = male. They = plural. It = thing/animal."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me", "sentence"],
+      "question": "Which sentence uses 'I' correctly?",
+      "options": [
+        "Rosa calls I.",
+        "The lion roars at I.",
+        "I am not scared of the lion.",
+        "Give I the book."
+      ],
+      "answer": 2,
+      "explanation": "\"I am not scared\" — 'I' is the subject before the verb 'am'. The others need 'me' (after verb/preposition)."
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["pronouns", "plural", "sentence"],
+      "question": "In the sentence \"When do they come out at night?,\" 'they' correctly replaces 'wolves'.",
+      "answer": true,
+      "explanation": "Yes! 'wolves' is plural — 'they' is the correct replacement."
+    },
+    {
+      "id": "q19",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["me", "roars", "lion", "at", "The"],
+      "answer": ["The", "lion", "roars", "at", "me"],
+      "explanation": "Correct: \"The lion roars at me.\" 'me' after the preposition 'at'."
+    },
+    {
+      "id": "q20",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me", "sentence"],
+      "question": "Which sentence has a mistake?",
+      "options": [
+        "I am not scared of the lion.",
+        "Rosa gives me the basket.",
+        "I live in the ranch.",
+        "A lion sees I."
+      ],
+      "answer": 3,
+      "explanation": "\"sees I\" is wrong — after a verb, use 'me': \"A lion sees me.\""
+    }
+  ]
+}

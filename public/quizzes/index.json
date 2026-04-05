@@ -1,55 +1,492 @@
 {
-  "version": "2.0",
-  "generated": "2026-04-05T01:37:56.410Z",
+  "version": "3.0",
+  "generated": "2026-04-05T01:55:46.433Z",
   "books": [
     {
       "id": "MyGrammar",
       "name": "MyGrammar",
       "color": "#10b981",
-      "units": [
+      "versions": [
         {
-          "id": "MyGrammar/Unit_1",
-          "name": "Unit 1",
-          "quizzes": [
+          "id": "MyGrammar/1.2",
+          "name": "1.2",
+          "units": [
             {
-              "id": "MyGrammar/Unit_1/plural",
-              "title": "Unit 1 — Singular & Plural",
-              "subtitle": "Practice making nouns plural with -s and -es rules.",
-              "emoji": "📚",
-              "color": "#10b981",
-              "tags": [
-                "plural",
-                "-s",
-                "-es",
-                "sorting",
-                "sentence"
-              ],
-              "difficulty": 2,
-              "file": "MyGrammar/Unit_1/plural.json",
-              "questionCount": 15
-            }
-          ]
-        },
-        {
-          "id": "MyGrammar/Unit_2",
-          "name": "Unit 2",
-          "quizzes": [
+              "id": "MyGrammar/1.2/Unit_1",
+              "name": "Unit 1",
+              "quizzes": [
+                {
+                  "id": "unit1_nouns_plural_t01",
+                  "title": "Unit 1 — Singular & Plural Nouns (Test 1)",
+                  "subtitle": "Identify singular and plural nouns and form plurals with -s and -es.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "singular",
+                    "plural",
+                    "sentence",
+                    "es-rule"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_1/unit1_nouns_plural_t01.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit1_nouns_plural_t02",
+                  "title": "Unit 1 — Singular & Plural Nouns (Test 2)",
+                  "subtitle": "Practice choosing the correct singular or plural noun in sentences.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "plural",
+                    "singular",
+                    "sentence",
+                    "es-rule"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_1/unit1_nouns_plural_t02.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit1_nouns_plural_t03",
+                  "title": "Unit 1 — Singular & Plural Nouns (Test 3)",
+                  "subtitle": "Write and identify plural nouns using -s and -es rules.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "plural",
+                    "singular",
+                    "sentence",
+                    "es-rule"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_1/unit1_nouns_plural_t03.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit1_nouns_plural_t04",
+                  "title": "Unit 1 — Singular & Plural Nouns (Test 4)",
+                  "subtitle": "Apply plural noun rules to animals and everyday objects.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "plural",
+                    "animals",
+                    "singular",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_1/unit1_nouns_plural_t04.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit1_nouns_plural_t05",
+                  "title": "Unit 1 — Singular & Plural Nouns (Test 5)",
+                  "subtitle": "Mix of plural rules: choose the correct form in context sentences.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "plural",
+                    "singular",
+                    "sentence",
+                    "es-rule"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_1/unit1_nouns_plural_t05.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit1_nouns_plural_t06",
+                  "title": "Unit 1 — Singular & Plural Nouns (Test 6)",
+                  "subtitle": "Identify and correct plural noun errors in sentences.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "plural",
+                    "es-rule",
+                    "sentence",
+                    "singular"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_1/unit1_nouns_plural_t06.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit1_nouns_plural_t07",
+                  "title": "Unit 1 — Singular & Plural Nouns (Test 7)",
+                  "subtitle": "Reorder sentences and identify correct plurals with -s and -es rules.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "plural",
+                    "singular",
+                    "sentence",
+                    "es-rule"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_1/unit1_nouns_plural_t07.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit1_nouns_plural_t08",
+                  "title": "Unit 1 — Singular & Plural Nouns (Test 8)",
+                  "subtitle": "Advanced practice: choose singular or plural based on number clues.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "plural",
+                    "sentence",
+                    "es-rule",
+                    "singular"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_1/unit1_nouns_plural_t08.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit1_nouns_plural_t09",
+                  "title": "Unit 1 — Singular & Plural Nouns (Test 9)",
+                  "subtitle": "Review test: singular and plural nouns with all question types.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "plural",
+                    "singular",
+                    "sentence",
+                    "es-rule"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_1/unit1_nouns_plural_t09.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit1_nouns_plural_t10",
+                  "title": "Unit 1 — Singular & Plural Nouns (Test 10)",
+                  "subtitle": "Final review: master singular and plural noun rules with challenging sentences.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "plural",
+                    "sentence",
+                    "es-rule",
+                    "singular"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_1/unit1_nouns_plural_t10.json",
+                  "questionCount": 20
+                }
+              ]
+            },
             {
-              "id": "MyGrammar/Unit_2/nouns",
-              "title": "Unit 2 — Common & Proper Nouns",
-              "subtitle": "Learn to tell the difference between common nouns and proper nouns.",
-              "emoji": "📚",
-              "color": "#10b981",
-              "tags": [
-                "nouns",
-                "proper",
-                "common",
-                "sorting",
-                "capitalization"
-              ],
-              "difficulty": 2,
-              "file": "MyGrammar/Unit_2/nouns.json",
-              "questionCount": 13
+              "id": "MyGrammar/1.2/Unit_2",
+              "name": "Unit 2",
+              "quizzes": [
+                {
+                  "id": "unit2_common_proper_t01",
+                  "title": "Unit 2 — Common & Proper Nouns (Test 1)",
+                  "subtitle": "Identify common and proper nouns and understand capitalization rules.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "common",
+                    "proper",
+                    "capitalization",
+                    "days"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_2/unit2_common_proper_t01.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit2_common_proper_t02",
+                  "title": "Unit 2 — Common & Proper Nouns (Test 2)",
+                  "subtitle": "Practice recognizing proper nouns including days, months, and holidays.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "proper",
+                    "days",
+                    "common",
+                    "capitalization"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_2/unit2_common_proper_t02.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit2_common_proper_t03",
+                  "title": "Unit 2 — Common & Proper Nouns (Test 3)",
+                  "subtitle": "Focus on correcting capitalization errors in sentences.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "proper",
+                    "holidays",
+                    "common",
+                    "capitalization"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_2/unit2_common_proper_t03.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit2_common_proper_t04",
+                  "title": "Unit 2 — Common & Proper Nouns (Test 4)",
+                  "subtitle": "Classify nouns and fix capitalization errors in sentences.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "common",
+                    "proper",
+                    "months",
+                    "capitalization"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_2/unit2_common_proper_t04.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit2_common_proper_t05",
+                  "title": "Unit 2 — Common & Proper Nouns (Test 5)",
+                  "subtitle": "Advanced practice: identify errors and classify nouns from a variety of contexts.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "common",
+                    "proper",
+                    "days",
+                    "capitalization"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_2/unit2_common_proper_t05.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit2_common_proper_t06",
+                  "title": "Unit 2 — Common & Proper Nouns (Test 6)",
+                  "subtitle": "Identify common and proper nouns using context clues and real-life examples.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "common",
+                    "proper",
+                    "days",
+                    "capitalization"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_2/unit2_common_proper_t06.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit2_common_proper_t07",
+                  "title": "Unit 2 — Common & Proper Nouns (Test 7)",
+                  "subtitle": "Sort and classify nouns from everyday Taiwanese school life.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "proper",
+                    "common",
+                    "months",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_2/unit2_common_proper_t07.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit2_common_proper_t08",
+                  "title": "Unit 2 — Common & Proper Nouns (Test 8)",
+                  "subtitle": "Mixed exercises with holidays, months, and place names.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "proper",
+                    "holidays",
+                    "common",
+                    "days"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_2/unit2_common_proper_t08.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit2_common_proper_t09",
+                  "title": "Unit 2 — Common & Proper Nouns (Test 9)",
+                  "subtitle": "Review test with a focus on locating proper nouns in contexts.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "common",
+                    "proper",
+                    "months",
+                    "days"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_2/unit2_common_proper_t09.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit2_common_proper_t10",
+                  "title": "Unit 2 — Common & Proper Nouns (Test 10)",
+                  "subtitle": "Final review: mastery test for common and proper nouns with capitalization.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "nouns",
+                    "common",
+                    "proper",
+                    "holidays",
+                    "capitalization"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_2/unit2_common_proper_t10.json",
+                  "questionCount": 20
+                }
+              ]
+            },
+            {
+              "id": "MyGrammar/1.2/Unit_3",
+              "name": "Unit 3",
+              "quizzes": [
+                {
+                  "id": "unit3_pronouns_t01",
+                  "title": "Unit 3 — Pronouns & I/me (Test 1)",
+                  "subtitle": "Identify and use singular and plural pronouns correctly in sentences.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "pronouns",
+                    "singular",
+                    "I-me",
+                    "sentence",
+                    "plural"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t01.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit3_pronouns_t02",
+                  "title": "Unit 3 — Pronouns & I/me (Test 2)",
+                  "subtitle": "Practice choosing the right pronoun to replace nouns in sentences.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "pronouns",
+                    "singular",
+                    "plural",
+                    "I-me",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t02.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit3_pronouns_t03",
+                  "title": "Unit 3 — Pronouns & I/me (Test 3)",
+                  "subtitle": "Focus on I vs. me and replacing nouns with the correct pronouns.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "pronouns",
+                    "I-me",
+                    "singular",
+                    "sentence",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t03.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit3_pronouns_t04",
+                  "title": "Unit 3 — Pronouns & I/me (Test 4)",
+                  "subtitle": "Replace nouns with correct singular and plural pronouns in context.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "pronouns",
+                    "plural",
+                    "singular",
+                    "I-me",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t04.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit3_pronouns_t05",
+                  "title": "Unit 3 — Pronouns & I/me (Test 5)",
+                  "subtitle": "Identify pronouns in sentences and practice correct usage.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "pronouns",
+                    "definition",
+                    "I-me",
+                    "singular",
+                    "plural"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t05.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit3_pronouns_t06",
+                  "title": "Unit 3 — Pronouns & I/me (Test 6)",
+                  "subtitle": "Identify pronoun errors and replace nouns with the best pronoun.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "pronouns",
+                    "singular",
+                    "I-me",
+                    "plural",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t06.json",
+                  "questionCount": 20
+                },
+                {
+                  "id": "unit3_pronouns_t07",
+                  "title": "Unit 3 — Pronouns & I/me (Test 7)",
+                  "subtitle": "Advanced pronoun practice with subject/object distinction and sentence construction.",
+                  "emoji": "📚",
+                  "color": "#10b981",
+                  "tags": [
+                    "pronouns",
+                    "I-me",
+                    "singular",
+                    "plural",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t07.json",
+                  "questionCount": 20
+                }
+              ]
             }
           ]
         }

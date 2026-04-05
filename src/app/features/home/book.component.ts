@@ -2,7 +2,7 @@ import { Component, inject, OnInit, signal } from '@angular/core';
 import { ActivatedRoute, Router, RouterLink } from '@angular/router';
 import { QuizLoaderService } from '../../core/services/quiz-loader.service';
 import { I18nService } from '../../core/services/i18n.service';
-import { BookEntry, UnitEntry } from '../../core/models/quiz-index.model';
+import { BookEntry, VersionEntry } from '../../core/models/quiz-index.model';
 
 @Component({
   selector: 'app-book',
@@ -20,21 +20,21 @@ import { BookEntry, UnitEntry } from '../../core/models/quiz-index.model';
         </div>
       </header>
 
-      <div class="unit-list">
-        @for (unit of units(); track unit.id) {
-          <a class="unit-card" [routerLink]="['/unit', bookId(), unit.id.split('/')[1]]"
+      <div class="version-list">
+        @for (ver of versions(); track ver.id) {
+          <a class="version-card" [routerLink]="['/version', bookId(), ver.name]"
              [style.--card-color]="bookColor()">
-            <div class="unit-icon">📁</div>
-            <div class="unit-body">
-              <h3 class="unit-name">{{ unit.name }}</h3>
-              <p class="unit-meta">
-                {{ unit.quizzes.length }} {{ i18n.t('quizzes') }}
+            <div class="version-icon">📘</div>
+            <div class="version-body">
+              <h3 class="version-name">{{ i18n.t('version') }} {{ ver.name }}</h3>
+              <p class="version-meta">
+                {{ ver.units.length }} {{ i18n.t('units') }}
               </p>
             </div>
             <span class="arrow">&rarr;</span>
           </a>
         } @empty {
-          <p class="empty">{{ i18n.t('noUnits') }}</p>
+          <p class="empty">{{ i18n.t('noVersions') }}</p>
         }
       </div>
     </div>
@@ -80,12 +80,12 @@ import { BookEntry, UnitEntry } from '../../core/models/quiz-index.model';
       min-width: 44px;
       min-height: 44px;
     }
-    .unit-list {
+    .version-list {
       display: flex;
       flex-direction: column;
       gap: var(--space-md);
     }
-    .unit-card {
+    .version-card {
       display: flex;
       align-items: center;
       gap: var(--space-md);
@@ -99,20 +99,20 @@ import { BookEntry, UnitEntry } from '../../core/models/quiz-index.model';
       border-left: 4px solid var(--card-color, var(--color-accent));
       min-height: 44px;
     }
-    .unit-card:active { transform: scale(0.98); }
-    .unit-icon {
+    .version-card:active { transform: scale(0.98); }
+    .version-icon {
       font-size: 2rem;
       flex-shrink: 0;
       width: 48px;
       text-align: center;
     }
-    .unit-body { flex: 1; min-width: 0; }
-    .unit-name {
+    .version-body { flex: 1; min-width: 0; }
+    .version-name {
       margin: 0;
       font-size: 1.1rem;
       font-weight: 600;
     }
-    .unit-meta {
+    .version-meta {
       margin: 4px 0 0;
       font-size: 0.85rem;
       color: var(--color-muted);
@@ -138,7 +138,7 @@ export class BookComponent implements OnInit {
   bookId = signal('');
   bookName = signal('');
   bookColor = signal('');
-  units = signal<UnitEntry[]>([]);
+  versions = signal<VersionEntry[]>([]);
 
   ngOnInit(): void {
     const id = this.route.snapshot.paramMap.get('bookId')!;
@@ -152,7 +152,7 @@ export class BookComponent implements OnInit {
       }
       this.bookName.set(book.name);
       this.bookColor.set(book.color);
-      this.units.set(book.units);
+      this.versions.set(book.versions);
     });
   }
 

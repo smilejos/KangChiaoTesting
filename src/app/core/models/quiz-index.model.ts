@@ -8,6 +8,12 @@ export interface BookEntry {
   id: string;
   name: string;
   color: string;
+  versions: VersionEntry[];
+}
+
+export interface VersionEntry {
+  id: string;
+  name: string;
   units: UnitEntry[];
 }
 

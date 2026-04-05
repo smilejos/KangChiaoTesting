@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "id": "unit3_pronouns_t05",
+    "version": "1.0",
+    "title": "Unit 3 — Pronouns & I/me (Test 5)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Identify pronouns in sentences and practice correct usage."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "definition"],
+      "question": "What is a pronoun?",
+      "options": [
+        "A word that describes a noun",
+        "A word that replaces a noun",
+        "A word that shows action",
+        "A word that names a specific place"
+      ],
+      "answer": 1,
+      "explanation": "A pronoun replaces a noun to avoid repeating the same noun in a sentence."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["pronouns", "I-me"],
+      "question": "\"Me\" can be used at the beginning of a sentence as the subject.",
+      "answer": false,
+      "explanation": "\"Me\" is an object pronoun — it cannot be used as the subject. Use \"I\" at the start."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "singular"],
+      "question": "The grass is tall, but ___ is soft.",
+      "options": ["he", "she", "they", "it"],
+      "answer": 3,
+      "explanation": "\"the grass\" is a thing — we replace it with \"it\"."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["pronouns", "plural"],
+      "question": "\"We\" includes the speaker and other people.",
+      "answer": true,
+      "explanation": "Yes! \"we\" = the speaker + at least one other person."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "I-me"],
+      "question": "Which pronoun correctly fills this blank? ___ love dogs and cats.",
+      "options": ["Me", "I", "My", "Mine"],
+      "answer": 1,
+      "explanation": "\"I love\" — 'I' is the subject before the verb."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular"],
+      "question": "Tom likes basketball. → ___ likes basketball. (one-word pronoun)",
+      "answer": "He",
+      "acceptedAnswers": ["He", "he"],
+      "hint": "Tom is a male name",
+      "explanation": "Tom is male — we use \"He\" to replace Tom."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "plural", "sentence"],
+      "question": "They are in the classroom. What noun could 'They' replace?",
+      "options": ["A cat", "A teacher", "The students", "My mom"],
+      "answer": 2,
+      "explanation": "\"They\" replaces a plural noun. \"The students\" is plural — it could become \"They\"."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me", "sorting"],
+      "question": "Sort these: does the blank need 'I' or 'me'?",
+      "items": ["___ am Oliver.", "___ gave the book to ___.", "___ love cats.", "Give ___ the pen."],
+      "categories": [
+        { "label": "Use 'I'", "answers": ["___ am Oliver.", "___ love cats."] },
+        { "label": "Use 'me'", "answers": ["Give ___ the pen."] }
+      ],
+      "explanation": "'I' = subject (before verb). 'me' = object (after verb). Note: '___ gave... to ___' uses I then me."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "In the sentence \"Please give me the book,\" the pronoun 'me' is used correctly.",
+      "answer": true,
+      "explanation": "Yes! 'me' comes after the verb 'give' (as the object). This is correct."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "plural"],
+      "question": "Lisa and Amy are best friends. → ___ are best friends. (one-word pronoun)",
+      "answer": "They",
+      "acceptedAnswers": ["They", "they"],
+      "hint": "Two people = plural pronoun",
+      "explanation": "Lisa and Amy = two people → use \"They\"."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["pronouns", "plural", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["are", "the", "They", "in", "classroom"],
+      "answer": ["They", "are", "in", "the", "classroom"],
+      "explanation": "Correct: \"They are in the classroom.\" 'They' is the subject pronoun."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me", "sentence"],
+      "question": "Which sentence uses 'me' correctly?",
+      "options": [
+        "Me goes to school.",
+        "My mom calls me every day.",
+        "Me is happy.",
+        "Me love dogs."
+      ],
+      "answer": 1,
+      "explanation": "\"My mom calls me\" — 'me' is the object after the verb 'calls'. This is correct."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular"],
+      "question": "In the sentence \"Spotty is my dog. It likes to play fetch,\" the pronoun 'It' correctly replaces 'Spotty'.",
+      "answer": true,
+      "explanation": "Yes! 'It' is used to replace an animal when gender isn't specified. This is correct."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "sentence"],
+      "question": "What is the pronoun in this sentence? \"Andy is my friend. He is kind.\"",
+      "options": ["Andy", "friend", "He", "kind"],
+      "answer": 2,
+      "explanation": "\"He\" is the pronoun — it replaces \"Andy\" to avoid repeating his name."
+    },
+    {
+      "id": "q15",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me"],
+      "question": "Fill in: ___ love dogs and cats. (I or me)",
+      "answer": "I",
+      "acceptedAnswers": ["I"],
+      "hint": "This goes before the verb 'love'",
+      "explanation": "\"I\" is the subject — it goes before the verb. \"I love dogs and cats.\""
+    },
+    {
+      "id": "q16",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": ["pronouns", "singular", "plural", "sorting"],
+      "question": "Sort each pronoun: does it replace one person/thing or many?",
+      "items": ["I", "we", "she", "they", "he"],
+      "categories": [
+        { "label": "Replaces 1 (Singular)", "answers": ["I", "she", "he"] },
+        { "label": "Replaces Many (Plural)", "answers": ["we", "they"] }
+      ],
+      "explanation": "I/she/he = singular. we/they = plural."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me", "sentence"],
+      "question": "Which sentence has a mistake?",
+      "options": [
+        "I am eight years old.",
+        "She always helps me with homework.",
+        "My mom calls me every day.",
+        "Me love dogs and cats."
+      ],
+      "answer": 3,
+      "explanation": "\"Me love\" is wrong — 'Me' cannot be the subject. Correct: \"I love dogs and cats.\""
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["pronouns", "plural"],
+      "question": "In the sentence \"We go to the library,\" the pronoun 'We' includes the speaker.",
+      "answer": true,
+      "explanation": "Yes! 'We' = the speaker + other people. The speaker is always included in 'we'."
+    },
+    {
+      "id": "q19",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["dogs", "and", "I", "love", "cats"],
+      "answer": ["I", "love", "dogs", "and", "cats"],
+      "explanation": "Correct: \"I love dogs and cats.\" 'I' is the subject pronoun."
+    },
+    {
+      "id": "q20",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["pronouns", "singular"],
+      "question": "The bird is very small. → ___ is very small.",
+      "options": ["He", "She", "It", "They"],
+      "answer": 2,
+      "explanation": "\"The bird\" is an animal (not specified as male or female) → use \"It\"."
+    }
+  ]
+}

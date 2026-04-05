@@ -1,22 +1,21 @@
 import { Component, inject, OnInit, signal } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
-import { QuizCardComponent } from './quiz-card.component';
+import { ActivatedRoute, Router, RouterLink } from '@angular/router';
 import { QuizLoaderService } from '../../core/services/quiz-loader.service';
 import { I18nService } from '../../core/services/i18n.service';
-import { BookEntry, QuizEntry, UnitEntry } from '../../core/models/quiz-index.model';
+import { BookEntry, UnitEntry } from '../../core/models/quiz-index.model';
 
 @Component({
-  selector: 'app-unit',
+  selector: 'app-version',
   standalone: true,
-  imports: [QuizCardComponent],
+  imports: [RouterLink],
   template: `
     <div class="page">
       <header class="header">
         <div class="header-top">
           <button class="back-btn" (click)="goBack()">&larr;</button>
           <div class="header-titles">
-            <h1 class="title">{{ unitName() }}</h1>
-            <p class="breadcrumb">{{ bookName() }} · {{ i18n.t('version') }} {{ versionId() }}</p>
+            <h1 class="title">{{ i18n.t('version') }} {{ versionName() }}</h1>
+            <p class="breadcrumb">{{ bookName() }}</p>
           </div>
           <button class="lang-toggle" (click)="i18n.toggle()">
             {{ i18n.lang() === 'en' ? '中文' : 'EN' }}
@@ -24,11 +23,21 @@ import { BookEntry, QuizEntry, UnitEntry } from '../../core/models/quiz-index.mo
         </div>
       </header>
 
-      <div class="quiz-list">
-        @for (quiz of quizzes(); track quiz.id) {
-          <app-quiz-card [quiz]="quiz" />
+      <div class="unit-list">
+        @for (unit of units(); track unit.id) {
+          <a class="unit-card" [routerLink]="['/unit', bookId(), versionName(), unitSlug(unit)]"
+             [style.--card-color]="bookColor()">
+            <div class="unit-icon">📁</div>
+            <div class="unit-body">
+              <h3 class="unit-name">{{ unit.name }}</h3>
+              <p class="unit-meta">
+                {{ unit.quizzes.length }} {{ i18n.t('quizzes') }}
+              </p>
+            </div>
+            <span class="arrow">&rarr;</span>
+          </a>
         } @empty {
-          <p class="empty">{{ i18n.t('noQuizzes') }}</p>
+          <p class="empty">{{ i18n.t('noUnits') }}</p>
         }
       </div>
     </div>
@@ -79,10 +88,47 @@ import { BookEntry, QuizEntry, UnitEntry } from '../../core/models/quiz-index.mo
       min-width: 44px;
       min-height: 44px;
     }
-    .quiz-list {
+    .unit-list {
       display: flex;
       flex-direction: column;
       gap: var(--space-md);
+    }
+    .unit-card {
+      display: flex;
+      align-items: center;
+      gap: var(--space-md);
+      padding: var(--space-lg);
+      background: var(--color-surface);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-md);
+      text-decoration: none;
+      color: var(--color-text);
+      transition: transform 0.15s;
+      border-left: 4px solid var(--card-color, var(--color-accent));
+      min-height: 44px;
+    }
+    .unit-card:active { transform: scale(0.98); }
+    .unit-icon {
+      font-size: 2rem;
+      flex-shrink: 0;
+      width: 48px;
+      text-align: center;
+    }
+    .unit-body { flex: 1; min-width: 0; }
+    .unit-name {
+      margin: 0;
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+    .unit-meta {
+      margin: 4px 0 0;
+      font-size: 0.85rem;
+      color: var(--color-muted);
+    }
+    .arrow {
+      font-size: 1.2rem;
+      color: var(--card-color, var(--color-accent));
+      flex-shrink: 0;
     }
     .empty {
       text-align: center;
@@ -91,24 +137,23 @@ import { BookEntry, QuizEntry, UnitEntry } from '../../core/models/quiz-index.mo
     }
   `],
 })
-export class UnitComponent implements OnInit {
+export class VersionComponent implements OnInit {
   private route = inject(ActivatedRoute);
   private router = inject(Router);
   private loader = inject(QuizLoaderService);
   i18n = inject(I18nService);
 
   bookId = signal('');
-  versionId = signal('');
   bookName = signal('');
-  unitName = signal('');
-  quizzes = signal<QuizEntry[]>([]);
+  bookColor = signal('');
+  versionName = signal('');
+  units = signal<UnitEntry[]>([]);
 
   ngOnInit(): void {
     const bookId = this.route.snapshot.paramMap.get('bookId')!;
     const versionId = this.route.snapshot.paramMap.get('versionId')!;
-    const unitId = this.route.snapshot.paramMap.get('unitId')!;
     this.bookId.set(bookId);
-    this.versionId.set(versionId);
+    this.versionName.set(versionId);
 
     this.loader.loadIndex().subscribe(data => {
       const book = data.books.find((b: BookEntry) => b.id === bookId);
@@ -117,25 +162,24 @@ export class UnitComponent implements OnInit {
         return;
       }
       this.bookName.set(book.name);
+      this.bookColor.set(book.color);
 
       const version = book.versions.find(v => v.name === versionId);
       if (!version) {
         this.router.navigate(['/book', bookId]);
         return;
       }
-
-      const fullUnitId = `${bookId}/${versionId}/${unitId}`;
-      const unit = version.units.find((u: UnitEntry) => u.id === fullUnitId);
-      if (!unit) {
-        this.router.navigate(['/version', bookId, versionId]);
-        return;
-      }
-      this.unitName.set(unit.name);
-      this.quizzes.set(unit.quizzes);
+      this.units.set(version.units);
     });
   }
 
+  unitSlug(unit: UnitEntry): string {
+    // unit.id is "Book/Version/Unit_Name", extract last segment
+    const parts = unit.id.split('/');
+    return parts[parts.length - 1];
+  }
+
   goBack(): void {
-    this.router.navigate(['/version', this.bookId(), this.versionId()]);
+    this.router.navigate(['/book', this.bookId()]);
   }
 }

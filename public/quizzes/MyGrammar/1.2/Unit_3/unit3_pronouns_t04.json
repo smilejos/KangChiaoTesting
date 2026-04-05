@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "id": "unit3_pronouns_t04",
+    "version": "1.0",
+    "title": "Unit 3 — Pronouns & I/me (Test 4)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-05",
+    "description": "Replace nouns with correct singular and plural pronouns in context."
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "plural"],
+      "question": "Which pronoun is a plural pronoun?",
+      "options": ["she", "he", "it", "they"],
+      "answer": 3,
+      "explanation": "\"they\" is a plural pronoun — it replaces a group of people or things."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["pronouns", "singular"],
+      "question": "\"It\" is used to replace an animal or thing.",
+      "answer": true,
+      "explanation": "Yes! \"it\" is used to replace a thing or animal when gender is not specified."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "I-me"],
+      "question": "Which sentence is correct?",
+      "options": ["The lion roars at I.", "The lion roars at me.", "The lion roars at my.", "The lion roars at mine."],
+      "answer": 1,
+      "explanation": "\"me\" is the object (after the verb/preposition). The lion roars at me."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": ["pronouns", "I-me"],
+      "question": "The letter 'i' in the pronoun can sometimes be lowercase.",
+      "answer": false,
+      "explanation": "The pronoun \"I\" is ALWAYS written as a capital letter. It is never \"i\"."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": ["pronouns", "plural", "sentence"],
+      "question": "Meet Abigail and Ian. ___ both wear glasses.",
+      "options": ["She", "He", "It", "They"],
+      "answer": 3,
+      "explanation": "Abigail and Ian = two people → we use \"They\"."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "Fill in: ___ see an old basket. (I or me)",
+      "answer": "I",
+      "acceptedAnswers": ["I"],
+      "hint": "This goes before the verb 'see'",
+      "explanation": "\"I\" is the subject — it comes before the verb. I see an old basket."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "sentence"],
+      "question": "Carly wears a hat. ___ is red.",
+      "options": ["He", "She", "It", "They"],
+      "answer": 2,
+      "explanation": "\"the hat\" is a thing — we replace it with \"It\"."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "plural", "sorting"],
+      "question": "Sort these pronouns: Singular or Plural?",
+      "items": ["she", "they", "it", "we", "he"],
+      "categories": [
+        { "label": "Singular", "answers": ["she", "it", "he"] },
+        { "label": "Plural", "answers": ["they", "we"] }
+      ],
+      "explanation": "she/it/he = one person or thing (singular). they/we = more than one (plural)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "In the sentence \"Mommy and I put our clothes in it,\" the pronoun 'I' is used correctly.",
+      "answer": true,
+      "explanation": "Yes! 'Mommy and I' is the subject of the sentence — 'I' is correctly used before the verb."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular"],
+      "question": "The apples are yummy! → ___ are yummy! (one word)",
+      "answer": "They",
+      "acceptedAnswers": ["They", "they"],
+      "hint": "Apples = more than one thing",
+      "explanation": "\"The apples\" is plural — use \"They\" to replace it."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["to", "by", "school", "go", "bus", "Do", "you"],
+      "answer": ["Do", "you", "go", "to", "school", "by", "bus"],
+      "explanation": "Correct: \"Do you go to school by bus?\" 'you' is the subject pronoun."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular"],
+      "question": "My sister and I like going to the park. → ___ like going to the park.",
+      "options": ["I", "She", "We", "They"],
+      "answer": 2,
+      "explanation": "\"My sister and I\" = two people (including the speaker) → use \"We\"."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular"],
+      "question": "\"The boys are playing soccer. They are playing soccer.\" The pronoun 'They' is correct here.",
+      "answer": true,
+      "explanation": "Yes! \"The boys\" is plural — we correctly replace it with \"They\"."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": ["pronouns", "singular", "sentence"],
+      "question": "The dog barks loudly. → ___ barks loudly.",
+      "options": ["We", "They", "It", "She"],
+      "answer": 2,
+      "explanation": "\"The dog\" is an animal — we use \"It\" to replace it."
+    },
+    {
+      "id": "q15",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": ["pronouns", "I-me"],
+      "question": "Fill in: The lion roars at ___. (I or me)",
+      "answer": "me",
+      "acceptedAnswers": ["me"],
+      "hint": "This comes after the preposition 'at'",
+      "explanation": "\"me\" is the object — it comes after prepositions like 'at'. The lion roars at me."
+    },
+    {
+      "id": "q16",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": ["pronouns", "sorting"],
+      "question": "Match each noun to the correct pronoun:",
+      "items": ["Olivia (female)", "Abigail and Ian", "My dad (male)", "The cat"],
+      "categories": [
+        { "label": "She", "answers": ["Olivia (female)"] },
+        { "label": "They", "answers": ["Abigail and Ian"] },
+        { "label": "He", "answers": ["My dad (male)"] },
+        { "label": "It", "answers": ["The cat"] }
+      ],
+      "explanation": "She = female. They = multiple people. He = male. It = animal/thing."
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me", "sentence"],
+      "question": "Which sentence uses pronouns correctly?",
+      "options": [
+        "Me am eight years old.",
+        "I am eight years old.",
+        "My am eight years old.",
+        "Mine am eight years old."
+      ],
+      "answer": 1,
+      "explanation": "\"I am\" is correct — 'I' is the subject before the verb."
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me"],
+      "question": "In the sentence \"She always helps I with homework,\" the pronoun is correct.",
+      "answer": false,
+      "explanation": "\"helps I\" is wrong. After a verb, use 'me': \"She always helps me with homework.\""
+    },
+    {
+      "id": "q19",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": ["pronouns", "I-me", "sentence", "word-order"],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": ["eight", "I", "years", "am", "old"],
+      "answer": ["I", "am", "eight", "years", "old"],
+      "explanation": "Correct: \"I am eight years old.\" 'I' is the subject pronoun."
+    },
+    {
+      "id": "q20",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": ["pronouns", "singular", "sentence"],
+      "question": "Which sentence has the WRONG pronoun?",
+      "options": [
+        "The dog eats food. It eats food.",
+        "Olivia is a friend. She is a friend.",
+        "My dad cooks dinner. He cooks dinner.",
+        "The children play outside. He plays outside."
+      ],
+      "answer": 3,
+      "explanation": "\"The children\" is plural — the correct pronoun is \"They\", not \"He\"."
+    }
+  ]
+}

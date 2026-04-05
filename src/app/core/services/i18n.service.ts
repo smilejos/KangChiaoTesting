@@ -6,6 +6,9 @@ const translations: Record<Lang, Record<string, string>> = {
   en: {
     appTitle: 'MyGrammar Quiz',
     appSubtitle: 'Choose a book to start',
+    version: 'Version',
+    versions: 'versions',
+    noVersions: 'No versions yet',
     units: 'units',
     quizzes: 'quizzes',
     noUnits: 'No units yet',
@@ -45,6 +48,9 @@ const translations: Record<Lang, Record<string, string>> = {
   zh: {
     appTitle: 'MyGrammar 文法測驗',
     appSubtitle: '選擇課本開始練習',
+    version: '版本',
+    versions: '個版本',
+    noVersions: '尚無版本',
     units: '個單元',
     quizzes: '個測驗',
     noUnits: '尚無單元',

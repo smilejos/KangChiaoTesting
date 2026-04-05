@@ -28,7 +28,7 @@ import { BookEntry } from '../../core/models/quiz-index.model';
             <div class="book-body">
               <h3 class="book-name">{{ book.name }}</h3>
               <p class="book-meta">
-                {{ book.units.length }} {{ i18n.t('units') }}
+                {{ book.versions.length }} {{ book.versions.length === 1 ? i18n.t('version') : i18n.t('versions') }}
               </p>
             </div>
             <span class="arrow">&rarr;</span>

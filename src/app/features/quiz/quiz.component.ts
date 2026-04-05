@@ -10,7 +10,7 @@ import { ReorderComponent } from './question-types/reorder.component';
 import { QuizLoaderService } from '../../core/services/quiz-loader.service';
 import { QuizEngineService } from '../../core/services/quiz-engine.service';
 import { I18nService } from '../../core/services/i18n.service';
-import { BookEntry, QuizEntry, UnitEntry } from '../../core/models/quiz-index.model';
+import { QuizEntry } from '../../core/models/quiz-index.model';
 
 @Component({
   selector: 'app-quiz',
@@ -190,11 +190,14 @@ export class QuizComponent implements OnInit {
           const quizId = decodeURIComponent(params.get('quizId')!);
           return this.loader.loadIndex().pipe(
             switchMap(index => {
-              // Search all books/units for the quiz
+              // Search all books/versions/units for the quiz
               let entry: QuizEntry | undefined;
               for (const book of index.books) {
-                for (const unit of book.units) {
-                  entry = unit.quizzes.find((q: QuizEntry) => q.id === quizId);
+                for (const version of book.versions) {
+                  for (const unit of version.units) {
+                    entry = unit.quizzes.find((q: QuizEntry) => q.id === quizId);
+                    if (entry) break;
+                  }
                   if (entry) break;
                 }
                 if (entry) break;
