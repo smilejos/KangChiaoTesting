@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "id": "clever_monkey_set1",
+    "version": "1.0",
+    "title": "The Clever Monkey — Set 1",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Reading comprehension quiz for 'The Clever Monkey' — story understanding.",
+    "guid": "35b5c15c-7cb6-45ac-ac09-fb490a7e8ce6"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "comprehension",
+        "setting"
+      ],
+      "question": "Where does the story 'The Clever Monkey' take place?",
+      "options": [
+        "A desert",
+        "A jungle in West Africa",
+        "A farm in Asia",
+        "A forest in Europe"
+      ],
+      "answer": 1,
+      "explanation": "The story begins: 'In a jungle in West Africa, two cats found a large piece of cheese.'"
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "comprehension",
+        "character"
+      ],
+      "question": "What did the two cats find in the jungle?",
+      "options": [
+        "A banana",
+        "A fish",
+        "A large piece of cheese",
+        "A small piece of bread"
+      ],
+      "answer": 2,
+      "explanation": "The cats found 'a large piece of cheese.' They loved cheese more than anything."
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "comprehension"
+      ],
+      "question": "The monkey was sitting on the ground when he saw the two cats.",
+      "answer": false,
+      "explanation": "The monkey was in the tree above the two cats, not on the ground."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "comprehension"
+      ],
+      "question": "The monkey offered to divide the cheese into two equal parts.",
+      "answer": true,
+      "explanation": "The monkey said, 'I will be happy to divide the cheese into two equal parts for you.'"
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "comprehension",
+        "plot"
+      ],
+      "question": "Why did the monkey keep eating the cheese?",
+      "options": [
+        "He was very hungry",
+        "He said the pieces were not equal and he needed to fix them",
+        "The cats asked him to eat some",
+        "He wanted to share the cheese"
+      ],
+      "answer": 1,
+      "explanation": "Each time he ate some cheese, the monkey said the pieces were not equal and he needed to 'fix' them — this was his clever trick."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "The story takes place in a _______ in West Africa.",
+      "answer": "jungle",
+      "acceptedAnswers": [
+        "jungle",
+        "Jungle"
+      ],
+      "hint": "A tropical forest with many trees and animals",
+      "explanation": "'Jungle' means a thick tropical forest. The story begins in a jungle in West Africa."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "comprehension",
+        "ending"
+      ],
+      "question": "What happened at the end of the story?",
+      "options": [
+        "The cats ate all their cheese happily",
+        "The monkey gave back all the cheese",
+        "The cats were left with two tiny pieces of cheese",
+        "The monkey shared the cheese equally"
+      ],
+      "answer": 2,
+      "explanation": "After all the monkey's 'fixing,' the two cats were left with only two tiny pieces of cheese."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "comprehension",
+        "character"
+      ],
+      "question": "At the end, the two cats agreed that the pieces of cheese were the same size.",
+      "answer": false,
+      "explanation": "At the end, the first cat said 'Your piece is bigger,' and the second cat said 'No, your piece is bigger.' They were still arguing!"
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort each word — is it a noun (person/place/thing) or an adjective (describing word)?",
+      "items": [
+        "jungle",
+        "equal",
+        "tricky",
+        "mistake",
+        "fortune"
+      ],
+      "categories": [
+        {
+          "label": "Noun",
+          "answers": [
+            "jungle",
+            "mistake",
+            "fortune"
+          ]
+        },
+        {
+          "label": "Adjective",
+          "answers": [
+            "equal",
+            "tricky"
+          ]
+        }
+      ],
+      "explanation": "Jungle/mistake/fortune are things (nouns). Equal and tricky describe things (adjectives)."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "sentence",
+        "word-order"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "the",
+        "monkey",
+        "tree",
+        "was",
+        "in",
+        "the"
+      ],
+      "answer": [
+        "The",
+        "monkey",
+        "was",
+        "in",
+        "the",
+        "tree"
+      ],
+      "explanation": "Correct sentence: 'The monkey was in the tree.' He watched the cats from above."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "What does the word 'divide' mean?",
+      "options": [
+        "To eat",
+        "To cut into parts",
+        "To watch carefully",
+        "To believe something"
+      ],
+      "answer": 1,
+      "explanation": "'Divide' means to cut or split something into parts. The monkey 'divided' the cheese into two pieces."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "The monkey made a _______ — the pieces were not equal.",
+      "answer": "mistake",
+      "acceptedAnswers": [
+        "mistake",
+        "Mistake"
+      ],
+      "hint": "When something goes wrong",
+      "explanation": "'Mistake' means an error. The monkey said 'I have made a mistake' to trick the cats."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "inference",
+        "theme"
+      ],
+      "question": "What is the main lesson of 'The Clever Monkey'?",
+      "options": [
+        "Always share your food with others",
+        "Fighting over things can make you lose everything",
+        "Monkeys are smarter than cats",
+        "Cheese is the best food in the jungle"
+      ],
+      "answer": 1,
+      "explanation": "Because the cats kept arguing about who should divide the cheese, the monkey took advantage of them. The lesson is that fighting over things can cause you to lose everything."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "sentence",
+        "word-order"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "cheese",
+        "The",
+        "smaller",
+        "became",
+        "smaller",
+        "and"
+      ],
+      "answer": [
+        "The",
+        "cheese",
+        "became",
+        "smaller",
+        "and",
+        "smaller"
+      ],
+      "explanation": "Correct sentence: 'The cheese became smaller and smaller.' This happened as the monkey kept 'fixing' the pieces."
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "inference"
+      ],
+      "question": "The monkey was truly trying to help the cats divide the cheese fairly.",
+      "answer": false,
+      "explanation": "The monkey was being clever and tricky. He used the cats' argument as a chance to eat the cheese for himself. He was not really helping them."
+    }
+  ]
+}

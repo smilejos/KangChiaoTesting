@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "id": "cow_tiger_set2",
+    "version": "1.0",
+    "title": "The Cow and the Tiger — Set 2",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Vocabulary quiz for 'The Cow and the Tiger' — key words and meanings.",
+    "guid": "faa72e52-80d3-436e-a19c-b5f41931b588"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "What does 'beautiful' mean?",
+      "options": [
+        "Ugly and scary",
+        "Very pretty or lovely",
+        "Fast and strong",
+        "Sad and tired"
+      ],
+      "answer": 1,
+      "explanation": "'Beautiful' means very pretty or lovely. Bala 'had a beautiful calf' — her baby was very lovely."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "'Angry' means very upset or mad.",
+      "answer": true,
+      "explanation": "Yes! 'Angry' means very upset or mad. The tiger was 'angry' when he caught Bala — he was mad and ready to attack."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "The tiger caught Bala because he was very _______.",
+      "answer": "angry",
+      "acceptedAnswers": [
+        "angry",
+        "Angry"
+      ],
+      "hint": "The opposite of calm; very upset",
+      "explanation": "'Angry' means very upset or mad. The tiger was angry when he caught Bala in the forest."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "What does 'attack' mean?",
+      "options": [
+        "To be friendly",
+        "To suddenly hurt or try to hurt someone",
+        "To run away quickly",
+        "To eat grass"
+      ],
+      "answer": 1,
+      "explanation": "'Attack' means to suddenly try to hurt someone. Bala asked the tiger not to attack her — not to try to hurt her."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "What does 'sad' mean?",
+      "options": [
+        "Very happy",
+        "Feeling unhappy or full of sorrow",
+        "Feeling angry and upset",
+        "Feeling tired and sleepy"
+      ],
+      "answer": 1,
+      "explanation": "'Sad' means feeling unhappy or full of sorrow. 'Sad Bala cried' — she was very unhappy when the tiger caught her."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "Tiger _______ to let Bala go. He said yes to her request.",
+      "answer": "agreed",
+      "acceptedAnswers": [
+        "agreed",
+        "Agreed"
+      ],
+      "hint": "Said yes; accepted the request",
+      "explanation": "'Agreed' means said yes or accepted. The tiger 'agreed' — he said yes and let Bala go to feed her calf."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "'Grassy' means covered in grass.",
+      "answer": true,
+      "explanation": "Yes! 'Grassy' means covered with grass. Bala's home was in a 'grassy' area — an open field with lots of grass."
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "The tiger was 'surprised' when Bala came back. What does 'surprised' mean?",
+      "options": [
+        "Feeling angry",
+        "Feeling shocked or amazed by something unexpected",
+        "Feeling happy and grateful",
+        "Feeling tired after a long wait"
+      ],
+      "answer": 1,
+      "explanation": "'Surprised' means feeling shocked or amazed by something unexpected. The tiger did not expect Bala to come back — so he was very surprised."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words — are they describing FEELINGS or describing PLACES/SETTINGS?",
+      "items": [
+        "angry",
+        "shadowy",
+        "surprised",
+        "grassy",
+        "happy"
+      ],
+      "categories": [
+        {
+          "label": "Feeling (how a character feels)",
+          "answers": [
+            "angry",
+            "surprised",
+            "happy"
+          ]
+        },
+        {
+          "label": "Setting/Place (what a place looks like)",
+          "answers": [
+            "shadowy",
+            "grassy"
+          ]
+        }
+      ],
+      "explanation": "'Angry,' 'surprised,' and 'happy' describe feelings. 'Shadowy' (full of shadows) and 'grassy' (covered in grass) describe places in the story."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "The tiger decided to _______ Bala from other animals — he kept her safe.",
+      "answer": "protect",
+      "acceptedAnswers": [
+        "protect",
+        "Protect"
+      ],
+      "hint": "To keep someone safe from danger",
+      "explanation": "'Protect' means to keep someone safe. The tiger promised to 'protect Bala from other animals' at the end of the story."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "Bala told the tiger the _______ — she really came back just as she said.",
+      "options": [
+        "lie",
+        "truth",
+        "joke",
+        "story"
+      ],
+      "answer": 1,
+      "explanation": "'Truth' means what is real and honest. The tiger said 'You told the truth' because Bala really did come back as she promised."
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "'Named' is a verb — it means being called by a name.",
+      "answer": true,
+      "explanation": "Yes! 'Named' is a verb meaning 'called by a name.' The story begins 'Once there was a cow named Bala' — her name was Bala."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "the",
+        "Tiger",
+        "pleased",
+        "word",
+        "was",
+        "Bala",
+        "kept",
+        "her",
+        "that"
+      ],
+      "answer": [
+        "Tiger",
+        "was",
+        "pleased",
+        "that",
+        "Bala",
+        "kept",
+        "her",
+        "word"
+      ],
+      "explanation": "Correct sentence: 'Tiger was pleased that Bala kept her word.' Keeping her word means doing what she promised."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "Which sentence uses 'beautiful' correctly?",
+      "options": [
+        "The tiger was beautiful to catch Bala.",
+        "Bala had a beautiful calf with soft, lovely fur.",
+        "The calf beautifully the forest.",
+        "Bala graze beautiful in the forest."
+      ],
+      "answer": 1,
+      "explanation": "'Beautiful' is an adjective used to describe the calf. 'Bala had a beautiful calf' — the calf was lovely. This is the correct use of the word."
+    },
+    {
+      "id": "q15",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort the vocabulary from the story by their part of speech.",
+      "items": [
+        "promise",
+        "shadowy",
+        "truth",
+        "protect",
+        "grassy"
+      ],
+      "categories": [
+        {
+          "label": "Noun (a thing)",
+          "answers": [
+            "promise",
+            "truth"
+          ]
+        },
+        {
+          "label": "Verb (an action)",
+          "answers": [
+            "protect"
+          ]
+        },
+        {
+          "label": "Adjective (a describing word)",
+          "answers": [
+            "shadowy",
+            "grassy"
+          ]
+        }
+      ],
+      "explanation": "'Promise' and 'truth' are things (nouns). 'Protect' is an action (verb). 'Shadowy' and 'grassy' describe how things look (adjectives)."
+    }
+  ]
+}

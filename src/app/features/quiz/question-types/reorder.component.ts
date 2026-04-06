@@ -1,4 +1,4 @@
-import { Component, Input, Output, EventEmitter, inject, signal, computed, OnChanges } from '@angular/core';
+import { Component, Input, Output, EventEmitter, inject, signal, computed, OnChanges, SimpleChanges } from '@angular/core';
 import { ReorderQuestion } from '../../../core/models/question.model';
 import { I18nService } from '../../../core/services/i18n.service';
 
@@ -108,9 +108,11 @@ export class ReorderComponent implements OnChanges {
   // Track which indices from the original words array have been used
   private usedIndices = signal<Set<number>>(new Set());
 
-  ngOnChanges(): void {
-    this.selected.set([]);
-    this.usedIndices.set(new Set());
+  ngOnChanges(changes: SimpleChanges): void {
+    if (changes['question']) {
+      this.selected.set([]);
+      this.usedIndices.set(new Set());
+    }
   }
 
   remaining = computed(() => {

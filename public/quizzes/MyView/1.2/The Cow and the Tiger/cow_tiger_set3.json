@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "id": "cow_tiger_set3",
+    "version": "1.0",
+    "title": "The Cow and the Tiger — Set 3",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Sequence and character quiz for 'The Cow and the Tiger.'",
+    "guid": "27e13a34-0692-4c04-84ce-6d9c7936fa5c"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "sequencing"
+      ],
+      "question": "What happened FIRST in the story?",
+      "options": [
+        "The tiger let Bala go",
+        "Bala came back to the tiger",
+        "Bala grazed in the forest and was caught by the tiger",
+        "The tiger promised to protect Bala"
+      ],
+      "answer": 2,
+      "explanation": "First, Bala went to graze in the shadowy forest, and then an angry tiger caught her. This is the beginning of the story."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "sequencing"
+      ],
+      "question": "Bala fed her calf BEFORE the tiger caught her.",
+      "answer": false,
+      "explanation": "The tiger caught Bala BEFORE she could feed her calf. She asked the tiger to let her go so she COULD go feed her calf."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "sequence"
+      ],
+      "question": "What did Bala do AFTER the tiger agreed to let her go?",
+      "options": [
+        "She ran away and never came back",
+        "She went home, fed her calf, and then returned to the forest",
+        "She called for help from other cows",
+        "She hid in the forest"
+      ],
+      "answer": 1,
+      "explanation": "After the tiger let her go, 'Bala went back to her grassy home. She quickly fed her calf. Then she returned to the shadowy forest.'"
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "comprehension"
+      ],
+      "question": "Bala had a young animal called a _______.",
+      "answer": "calf",
+      "acceptedAnswers": [
+        "calf",
+        "Calf"
+      ],
+      "hint": "A baby cow",
+      "explanation": "A 'calf' is a baby cow. Bala wanted to go home to feed her calf — her baby cow."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "character"
+      ],
+      "question": "How did the tiger feel at the START of the story?",
+      "options": [
+        "Happy",
+        "Sad",
+        "Angry",
+        "Surprised"
+      ],
+      "answer": 2,
+      "explanation": "At the start, the tiger was 'angry.' He caught Bala when she came to graze in the forest."
+    },
+    {
+      "id": "q6",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a sentence about what Bala did:",
+      "words": [
+        "calf",
+        "her",
+        "She",
+        "fed",
+        "quickly"
+      ],
+      "answer": [
+        "She",
+        "quickly",
+        "fed",
+        "her",
+        "calf"
+      ],
+      "explanation": "Correct sentence: 'She quickly fed her calf.' After the tiger let her go, Bala hurried home and fed her baby."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "comprehension"
+      ],
+      "question": "The tiger was happy to see Bala return because he was still hungry.",
+      "answer": false,
+      "explanation": "The tiger was 'pleased' (happy/impressed) because Bala kept her promise — not because he was hungry. He was amazed by her honesty."
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "character"
+      ],
+      "question": "Which word BEST describes Bala in this story?",
+      "options": [
+        "Tricky and sneaky",
+        "Honest and brave",
+        "Lazy and slow",
+        "Angry and fierce"
+      ],
+      "answer": 1,
+      "explanation": "Bala was 'honest' — she told the truth and kept her promise. She was 'brave' — she went back to the tiger even though it was scary."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "sequencing",
+        "sorting"
+      ],
+      "question": "Sort these events — did they happen at the BEGINNING, MIDDLE, or END of the story?",
+      "items": [
+        "Tiger caught Bala",
+        "Tiger promised to protect Bala",
+        "Bala returned to the forest",
+        "Tiger agreed to let Bala go"
+      ],
+      "categories": [
+        {
+          "label": "Beginning",
+          "answers": [
+            "Tiger caught Bala"
+          ]
+        },
+        {
+          "label": "Middle",
+          "answers": [
+            "Tiger agreed to let Bala go",
+            "Bala returned to the forest"
+          ]
+        },
+        {
+          "label": "End",
+          "answers": [
+            "Tiger promised to protect Bala"
+          ]
+        }
+      ],
+      "explanation": "Beginning: the tiger catches Bala. Middle: the tiger lets her go and she returns. End: the tiger promises to protect Bala."
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "character"
+      ],
+      "question": "How did the tiger CHANGE from the beginning to the end of the story?",
+      "options": [
+        "He became more angry and dangerous",
+        "He changed from angry to grateful and protective",
+        "He stayed angry the whole time",
+        "He became sad and lonely"
+      ],
+      "answer": 1,
+      "explanation": "At the beginning, the tiger was 'angry.' At the end, he was pleased, forgiving, and even promised to protect Bala. He changed completely because of her honesty."
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "comprehension"
+      ],
+      "question": "The tiger was _______ to see Bala — he did not expect her to come back.",
+      "answer": "surprised",
+      "acceptedAnswers": [
+        "surprised",
+        "Surprised"
+      ],
+      "hint": "Shocked and amazed by something unexpected",
+      "explanation": "'Surprised' means shocked by something unexpected. The tiger didn't expect Bala to keep her promise, so he was very surprised when she returned."
+    },
+    {
+      "id": "q12",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "sentence"
+      ],
+      "question": "Arrange the words to form the tiger's final promise:",
+      "words": [
+        "protect",
+        "promised",
+        "Bala",
+        "Tiger",
+        "to"
+      ],
+      "answer": [
+        "Tiger",
+        "promised",
+        "to",
+        "protect",
+        "Bala"
+      ],
+      "explanation": "Correct sentence: 'Tiger promised to protect Bala.' At the end, the tiger became Bala's protector because she kept her promise."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "inference"
+      ],
+      "question": "Bala was brave because it was scary to go back to the tiger, but she did it anyway.",
+      "answer": true,
+      "explanation": "Returning to the tiger was very dangerous and scary, but Bala did it because she had made a promise. This shows true bravery and honesty."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "inference"
+      ],
+      "question": "Why did the tiger decide NOT to eat Bala?",
+      "options": [
+        "He was not hungry anymore",
+        "Bala was too big to eat",
+        "He was so impressed by Bala's honesty that he changed his mind",
+        "Other tigers told him not to"
+      ],
+      "answer": 2,
+      "explanation": "The tiger said 'You told the truth. Now I won't attack.' He was so impressed by Bala's courage and honesty in keeping her promise that he changed his heart."
+    },
+    {
+      "id": "q15",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "character",
+        "sorting"
+      ],
+      "question": "Sort these traits — do they describe BALA (the cow) or TIGER?",
+      "items": [
+        "honesty",
+        "became protective",
+        "kept her promise",
+        "was surprised",
+        "was brave"
+      ],
+      "categories": [
+        {
+          "label": "Bala (the Cow)",
+          "answers": [
+            "honesty",
+            "kept her promise",
+            "was brave"
+          ]
+        },
+        {
+          "label": "Tiger",
+          "answers": [
+            "became protective",
+            "was surprised"
+          ]
+        }
+      ],
+      "explanation": "Bala showed honesty, kept her promise, and was brave. The tiger was surprised by her return and became protective of her in the end."
+    }
+  ]
+}

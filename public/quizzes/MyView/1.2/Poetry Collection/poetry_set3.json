@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "id": "poetry_set3",
+    "version": "1.0",
+    "title": "Poetry Collection — Set 3",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Poem 'The Box' deep dive — imagination, sequence, and vocabulary.",
+    "guid": "31b29e5b-12f8-471e-aa5d-32c6f6681513"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "the-box",
+        "comprehension"
+      ],
+      "question": "In 'The Box', who brought the big box home?",
+      "options": [
+        "Mom",
+        "Dad",
+        "A friend",
+        "The teacher"
+      ],
+      "answer": 1,
+      "explanation": "The poem says 'When Dad brought home the great big box.' The father brought the box."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "the-box",
+        "sequencing"
+      ],
+      "question": "In 'The Box', the child first imagined being a fox, then a dragon.",
+      "answer": false,
+      "explanation": "It was the opposite! The child first imagined being a DRAGON in a cave, and THEN (when Dad carved a hole) the cave became a fox's den and the child became a fox."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "the-box",
+        "vocabulary"
+      ],
+      "question": "The child pretended the box was a _______ cave and roared loudly.",
+      "answer": "dragon",
+      "acceptedAnswers": [
+        "dragon",
+        "Dragon"
+      ],
+      "hint": "A large, fire-breathing mythical creature",
+      "explanation": "A 'dragon' is a mythical creature that breathes fire. The child pretended the box was a cave and 'roared a dragon's roar' — pretending to be a fierce dragon."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "the-box",
+        "sequencing"
+      ],
+      "question": "In 'The Box', what happened AFTER the father cut some doors and windows?",
+      "options": [
+        "The box became a fox's den",
+        "The box became a dragon's cave",
+        "The box became a little house and the child 'was being me'",
+        "The child roared a dragon's roar"
+      ],
+      "answer": 2,
+      "explanation": "After the child drew flowers and Dad cut doors and windows, the box was like a little house — and the poem ends with 'now I'm being me.' The child is just themselves in their own little space."
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "the-box",
+        "vocabulary"
+      ],
+      "question": "In 'The Box', 'cardboard' is the material the box is made from.",
+      "answer": true,
+      "explanation": "Yes! The box is described as a 'cardboard cave' — cardboard is the thick stiff paper material that shipping boxes are made from."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "the-box",
+        "comprehension"
+      ],
+      "question": "What did the child draw on the outside of the box?",
+      "options": [
+        "A dragon and a cave",
+        "A fox and a forest",
+        "Flowers and a tree",
+        "Stars and the moon"
+      ],
+      "answer": 2,
+      "explanation": "The poem says 'I drew flowers on the cardboard, and a tree.' The child decorated the box by drawing flowers and a tree on it."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "the-box",
+        "vocabulary"
+      ],
+      "question": "The child 'crawled inside' the box. 'Crawled' means the child moved on their hands and _______.",
+      "answer": "knees",
+      "acceptedAnswers": [
+        "knees",
+        "Knees",
+        "feet",
+        "Feet"
+      ],
+      "hint": "You do this when the space is too small to walk",
+      "explanation": "'Crawled' means moved on hands and knees, like a baby. The box was on the floor, so the child had to crawl to get inside it."
+    },
+    {
+      "id": "q8",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "the-box",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a line from 'The Box':",
+      "words": [
+        "a",
+        "dragon's",
+        "I",
+        "roared",
+        "roar"
+      ],
+      "answer": [
+        "I",
+        "roared",
+        "a",
+        "dragon's",
+        "roar"
+      ],
+      "explanation": "Correct line: 'I roared a dragon's roar.' The child pretended to be a dragon inside the cardboard cave."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "the-box",
+        "sorting"
+      ],
+      "question": "Sort these — what did the BOX become in the child's imagination vs. what did the CHILD become?",
+      "items": [
+        "a cardboard cave",
+        "a dragon",
+        "a fox's den",
+        "a fox",
+        "a little house"
+      ],
+      "categories": [
+        {
+          "label": "What the BOX became",
+          "answers": [
+            "a cardboard cave",
+            "a fox's den",
+            "a little house"
+          ]
+        },
+        {
+          "label": "What the CHILD became",
+          "answers": [
+            "a dragon",
+            "a fox"
+          ]
+        }
+      ],
+      "explanation": "The box transformed: cave → den → house. The child transformed: dragon → fox → just 'me.' The child's imagination changed both!"
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "the-box",
+        "vocabulary"
+      ],
+      "question": "Dad 'carved' a little hole in the box. Which tool might he have used?",
+      "options": [
+        "A paintbrush",
+        "A knife or scissors",
+        "A pencil",
+        "A hammer"
+      ],
+      "answer": 1,
+      "explanation": "'Carved' means to cut carefully. To carve a hole in a cardboard box, you would use a knife or scissors — tools that cut."
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "the-box",
+        "theme"
+      ],
+      "question": "The main theme of 'The Box' is that imagination can turn ordinary things into something magical.",
+      "answer": true,
+      "explanation": "Absolutely! An ordinary cardboard box becomes a dragon's cave, a fox's den, and finally a little house. The child's imagination is the magic that transforms it."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "the-box",
+        "vocabulary"
+      ],
+      "question": "After the father carved a hole in the box, the cave became a fox's _______.",
+      "answer": "den",
+      "acceptedAnswers": [
+        "den",
+        "Den"
+      ],
+      "hint": "A hidden home for an animal like a fox",
+      "explanation": "A 'den' is an animal's hidden home, especially for foxes. After Dad carved a hole, the box became a fox's den — the child became a fox."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "the-box",
+        "sentence"
+      ],
+      "question": "Arrange the words to form the last line of 'The Box':",
+      "words": [
+        "now",
+        "me",
+        "being",
+        "And",
+        "I'm"
+      ],
+      "answer": [
+        "And",
+        "now",
+        "I'm",
+        "being",
+        "me"
+      ],
+      "explanation": "Correct line: 'And now I'm being me.' After all the pretending, the child is just themselves in their own special space. The poem connects back to 'Me!' — being yourself is special."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "the-box",
+        "inference"
+      ],
+      "question": "Why does the poem end with 'And now I'm being me'?",
+      "options": [
+        "The child got bored and stopped playing",
+        "The box is now a real house with real doors and windows",
+        "After all the imaginative play, the box became a personal space where the child can just be themselves",
+        "The child is waiting for Dad to bring more boxes"
+      ],
+      "answer": 2,
+      "explanation": "After being a dragon, then a fox, the box finally becomes a personal space with flowers, doors, and windows. Now the child doesn't need to imagine being anything else — they just get to be themselves. It connects back to the theme of 'Me!'"
+    },
+    {
+      "id": "q15",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "the-box",
+        "sequence"
+      ],
+      "question": "Put these events from 'The Box' in the correct order (1st, 2nd, 3rd).",
+      "items": [
+        "Dad cuts doors and windows — it becomes a house",
+        "Dad brings home the box — it becomes a cave",
+        "Dad carves a hole — it becomes a fox's den"
+      ],
+      "categories": [
+        {
+          "label": "1st",
+          "answers": [
+            "Dad brings home the box — it becomes a cave"
+          ]
+        },
+        {
+          "label": "2nd",
+          "answers": [
+            "Dad carves a hole — it becomes a fox's den"
+          ]
+        },
+        {
+          "label": "3rd",
+          "answers": [
+            "Dad cuts doors and windows — it becomes a house"
+          ]
+        }
+      ],
+      "explanation": "The order is: 1st — the box arrives and becomes a cave. 2nd — Dad carves a hole, it becomes a den. 3rd — Dad cuts doors and windows, it becomes a little house."
+    }
+  ]
+}

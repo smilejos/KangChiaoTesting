@@ -19,11 +19,10 @@ export class QuizLoaderService {
   }
 
   loadQuiz(filePath: string): Observable<QuizData> {
-    // Allow slashes for subfolder paths, but sanitize each segment
-    const safe = filePath
+    const encoded = filePath
       .split('/')
-      .map(seg => seg.replace(/[^a-zA-Z0-9_\-\.]/g, ''))
+      .map(seg => encodeURIComponent(seg))
       .join('/');
-    return this.http.get<QuizData>(`quizzes/${safe}`);
+    return this.http.get<QuizData>(`quizzes/${encoded}`);
   }
 }

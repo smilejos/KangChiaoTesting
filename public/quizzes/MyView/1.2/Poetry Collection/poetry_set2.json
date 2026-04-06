@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "id": "poetry_set2",
+    "version": "1.0",
+    "title": "Poetry Collection — Set 2",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Vocabulary quiz for the Poetry Collection — key words from 'Me!', 'The Box', and 'Sandcastle'.",
+    "guid": "776384ef-3082-46a8-88be-e59df480e9f7"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "What does 'might' mean in 'It might be fun to be a fish'?",
+      "options": [
+        "It will definitely happen",
+        "It is possible or maybe",
+        "It cannot happen",
+        "It has already happened"
+      ],
+      "answer": 1,
+      "explanation": "'Might' means 'maybe' or 'it is possible.' The speaker says it 'might' be fun — it could be fun, but maybe not. They are just imagining."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "'Deep' in 'the deep, blue sea' means the sea is very far below the surface.",
+      "answer": true,
+      "explanation": "Yes! 'Deep' means very far below the surface. The deep blue sea is the part of the ocean that goes down very far."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "Dad _______ home a great big box. He carried it all the way to the door.",
+      "answer": "brought",
+      "acceptedAnswers": [
+        "brought",
+        "Brought"
+      ],
+      "hint": "Past tense of 'bring'",
+      "explanation": "'Brought' is the past tense of 'bring.' Dad 'brought home the great big box' — he carried it home with him."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "In 'Me!', a fish can 'swim.' What does 'skip' mean?",
+      "options": [
+        "Move through water",
+        "Jump lightly on one foot",
+        "Climb up a tree",
+        "Swim very fast"
+      ],
+      "answer": 1,
+      "explanation": "'Skip' means to jump lightly, often on one foot in a playful way. In 'Me!,' the speaker notes that a fish can swim but cannot 'skip' — only people can skip!"
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "In 'The Box', Dad 'carved' a hole. What does 'carved' mean?",
+      "options": [
+        "Painted with colors",
+        "Cut carefully with a sharp tool",
+        "Made very loud noise",
+        "Wrote with a pencil"
+      ],
+      "answer": 1,
+      "explanation": "'Carved' means cut carefully, usually with a knife or sharp tool. Dad 'carved a little hole into the box' — he cut a hole to make a window or door."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "In 'Sandcastle', the sand feels soft and _______. It is wet and bendy.",
+      "answer": "squishy",
+      "acceptedAnswers": [
+        "squishy",
+        "Squishy"
+      ],
+      "hint": "Soft and wet; makes a squishing sound",
+      "explanation": "'Squishy' means soft and wet, like wet sand or mud. 'Soft and squishy, wet and brown' describes the wet sand on the beach."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "In 'The Box', the child 'roared a dragon's roar' — this means the child made a loud, fierce sound.",
+      "answer": true,
+      "explanation": "Yes! A 'roar' is the loud sound a fierce animal like a dragon or lion makes. The child pretended to be a dragon and made a loud roaring sound."
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "What is a 'moat'?",
+      "options": [
+        "A type of sand bucket",
+        "A deep trench of water surrounding a castle",
+        "A tall tower of a castle",
+        "A type of sand shell found on the beach"
+      ],
+      "answer": 1,
+      "explanation": "A 'moat' is a deep ditch of water that goes around a castle to protect it. In 'Sandcastle,' the children make 'a moat surrounds it all' — a water channel around their sand castle."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these poetry vocabulary words — are they VERBS (actions) or ADJECTIVES (descriptions)?",
+      "items": [
+        "skip",
+        "deep",
+        "zoom",
+        "squishy",
+        "brought",
+        "great"
+      ],
+      "categories": [
+        {
+          "label": "Verb (action word)",
+          "answers": [
+            "skip",
+            "zoom",
+            "brought"
+          ]
+        },
+        {
+          "label": "Adjective (describing word)",
+          "answers": [
+            "deep",
+            "squishy",
+            "great"
+          ]
+        }
+      ],
+      "explanation": "'Skip,' 'zoom,' and 'brought' are actions (verbs). 'Deep' (very far down), 'squishy' (soft and wet), and 'great' (very big) are describing words (adjectives)."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "The children used shells and stones to _______ their sandcastle — to make it look pretty.",
+      "answer": "decorate",
+      "acceptedAnswers": [
+        "decorate",
+        "Decorate"
+      ],
+      "hint": "To make something look nice by adding pretty things",
+      "explanation": "'Decorate' means to make something more beautiful by adding things. The children decorated with shells and stones."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "In 'Sandcastle', children 'scoop' the sand. What does 'scoop' mean?",
+      "options": [
+        "Throw sand up in the air",
+        "Push sand down hard",
+        "Pick up sand with a curved shape like a spoon",
+        "Mix sand with water"
+      ],
+      "answer": 2,
+      "explanation": "'Scoop' means to pick up something using a curved shape — like using a spoon or bucket. The children 'scoop the sand' to put it in their bucket."
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "In 'The Box', the word 'cave' and the word 'den' both mean a hiding place for an animal.",
+      "answer": true,
+      "explanation": "A 'cave' is a natural hollow place in rock or earth. A 'den' is an animal's hidden home. Both the dragon's cave and the fox's den are hiding places — the box became each of these in the child's imagination."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "sentence",
+        "vocabulary"
+      ],
+      "question": "Arrange the words to form a line from 'Sandcastle':",
+      "words": [
+        "down",
+        "and",
+        "Scoop",
+        "sand",
+        "pack",
+        "the",
+        "it"
+      ],
+      "answer": [
+        "Scoop",
+        "the",
+        "sand",
+        "and",
+        "pack",
+        "it",
+        "down"
+      ],
+      "explanation": "Correct line: 'Scoop the sand and pack it down.' This describes how to start building a sandcastle — scoop sand and press it down firmly."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "When the poem says the box became 'a great big box,' what does 'great' mean here?",
+      "options": [
+        "Very good or excellent",
+        "Very large or huge in size",
+        "Very heavy",
+        "Very colorful"
+      ],
+      "answer": 1,
+      "explanation": "Here, 'great' means very large or huge. 'The great big box' — Dad brought home a very large box. 'Great' and 'big' together emphasize how huge the box was."
+    },
+    {
+      "id": "q15",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words from the poems — which poem does each vocabulary word come from?",
+      "items": [
+        "zoom",
+        "cardboard",
+        "moat",
+        "skip",
+        "dragon",
+        "squishy"
+      ],
+      "categories": [
+        {
+          "label": "'Me!' — about a person",
+          "answers": [
+            "zoom",
+            "skip"
+          ]
+        },
+        {
+          "label": "'The Box' — about imagination",
+          "answers": [
+            "cardboard",
+            "dragon"
+          ]
+        },
+        {
+          "label": "'Sandcastle' — about the beach",
+          "answers": [
+            "moat",
+            "squishy"
+          ]
+        }
+      ],
+      "explanation": "'Zoom' and 'skip' come from 'Me!' 'Cardboard' and 'dragon' come from 'The Box.' 'Moat' and 'squishy' come from 'Sandcastle.'"
+    }
+  ]
+}

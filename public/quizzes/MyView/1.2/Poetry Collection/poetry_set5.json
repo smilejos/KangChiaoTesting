@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "id": "poetry_set5",
+    "version": "1.0",
+    "title": "Poetry Collection — Set 5",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Challenge quiz for the Poetry Collection — inference, rhyming, and cross-poem comparison.",
+    "guid": "031cff15-2f79-4fcf-b166-591fa1808ead"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "rhyming"
+      ],
+      "question": "In 'Me!', the words 'sea' and 'me' rhyme. Which other pair of words rhymes?",
+      "options": [
+        "'tree' and 'fish'",
+        "'run' and 'bird'",
+        "'tree' and 'me'",
+        "'skip' and 'swim'"
+      ],
+      "answer": 2,
+      "explanation": "'Tree' and 'me' rhyme — they both end in the same 'ee' sound. The poem uses a rhyming pattern: 'sea/me' and 'tree/me.'"
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "rhyming",
+        "sandcastle"
+      ],
+      "question": "In 'Sandcastle', the words 'down' and 'brown' rhyme.",
+      "answer": true,
+      "explanation": "Yes! 'Down' and 'brown' both end in the '-own' sound. 'Soft and squishy, wet and brown — Scoop the sand and pack it down.' The poem uses 'brown/down' as a rhyming pair."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "rhyming",
+        "the-box"
+      ],
+      "question": "In 'The Box', which two words rhyme?",
+      "options": [
+        "'box' and 'cave'",
+        "'box' and 'fox'",
+        "'box' and 'tree'",
+        "'box' and 'roar'"
+      ],
+      "answer": 1,
+      "explanation": "'Box' and 'fox' rhyme — they both end in the '-ox' sound. The poem says 'The cave became a fox's den' and uses 'box' and 'fox' as a rhyming pair."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "rhyming",
+        "sandcastle"
+      ],
+      "question": "In 'Sandcastle', the poem ends: 'Come and build another _______!' — this rhymes with 'away' earlier in the poem.",
+      "answer": "day",
+      "acceptedAnswers": [
+        "day",
+        "Day"
+      ],
+      "hint": "A word that rhymes with 'away'",
+      "explanation": "'Day' rhymes with 'away' — both end in the '-ay' sound. 'Soon it all will melt away ... Come and build another day!' This rhyming ending gives the poem a happy, hopeful feeling."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "theme",
+        "comparison"
+      ],
+      "question": "Which theme do ALL THREE poems share?",
+      "options": [
+        "The ocean is a beautiful place",
+        "Imagination and being yourself are wonderful",
+        "Animals are smarter than people",
+        "Building things is the best activity"
+      ],
+      "answer": 1,
+      "explanation": "All three poems celebrate imagination and being yourself. 'Me!' says be happy as you are. 'The Box' shows imagination turning objects into adventures. 'Sandcastle' celebrates creative building. All share the joy of imagination."
+    },
+    {
+      "id": "q6",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "rhyming",
+        "sorting"
+      ],
+      "question": "Sort these pairs of words — do they RHYME or NOT RHYME?",
+      "items": [
+        "sea / me",
+        "tree / fish",
+        "door / shore",
+        "box / zoom",
+        "brown / down"
+      ],
+      "categories": [
+        {
+          "label": "Rhyme ✓",
+          "answers": [
+            "sea / me",
+            "door / shore",
+            "brown / down"
+          ]
+        },
+        {
+          "label": "Do NOT Rhyme ✗",
+          "answers": [
+            "tree / fish",
+            "box / zoom"
+          ]
+        }
+      ],
+      "explanation": "'Sea/me,' 'door/shore,' and 'brown/down' all share the same ending sounds — they rhyme. 'Tree/fish' and 'box/zoom' have very different sounds — they do not rhyme."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "inference",
+        "me"
+      ],
+      "question": "The poem 'Me!' suggests that being a person is more special than being a fish or a bird.",
+      "answer": true,
+      "explanation": "Yes! Although it might seem fun to be a fish or bird, the speaker points out things only people can do: skip, run, and read. The poem celebrates the unique abilities of being human."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sandcastle"
+      ],
+      "question": "In 'Sandcastle', 'waves reach up and lick the _______' — this means the waves wash up to the beach.",
+      "answer": "shore",
+      "acceptedAnswers": [
+        "shore",
+        "Shore"
+      ],
+      "hint": "The edge of the beach, where the ocean meets the land",
+      "explanation": "The 'shore' is where the ocean meets the land — the beach's edge. The waves 'lick the shore' means they wash up on the beach."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "inference",
+        "the-box"
+      ],
+      "question": "Why did the child's imagination keep changing the box into different things?",
+      "options": [
+        "The child was bored with each idea",
+        "Each time Dad did something new to the box, it changed shape and gave a new idea",
+        "The child was trying to destroy the box",
+        "The child wanted a real castle"
+      ],
+      "answer": 1,
+      "explanation": "Each time Dad changed the box (carved a hole, cut doors and windows), it inspired a new imagination. The changes in the box led to new creative ideas."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "sentence",
+        "sandcastle"
+      ],
+      "question": "Arrange the words to form a line from 'Sandcastle':",
+      "words": [
+        "sticks",
+        "a",
+        "Gather",
+        "make",
+        "gate",
+        "to"
+      ],
+      "answer": [
+        "Gather",
+        "sticks",
+        "to",
+        "make",
+        "a",
+        "gate"
+      ],
+      "explanation": "Correct line: 'Gather sticks to make a gate.' In 'Sandcastle,' the children collect sticks to use as the gate of their sand castle."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "inference",
+        "me"
+      ],
+      "question": "In 'Me!', what is the PURPOSE of mentioning fish and birds if the poem is really about being a person?",
+      "options": [
+        "To show that fish and birds have sad lives",
+        "To compare things other animals can do with things only a person can do, making being human seem special",
+        "To teach students about animals",
+        "To show that fish are smarter than birds"
+      ],
+      "answer": 1,
+      "explanation": "By imagining being a fish or bird, the poem shows what it means to be a person. Fish can swim but can't skip. Birds can fly but can't read. Only people can do these special things — that's why 'I'm happy to be me!'"
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "inference",
+        "sandcastle"
+      ],
+      "question": "In 'Sandcastle,' the fact that the castle 'melts away' makes it a sad and unhappy poem.",
+      "answer": false,
+      "explanation": "The poem ends happily: 'Come and build another day!' Even though the castle is temporary and disappears, the poem celebrates joy in building and invites us to come back and do it again."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "comparison"
+      ],
+      "question": "Both 'Me!' and 'The Box' end with the idea of 'being me.' What does this tell us?",
+      "options": [
+        "Being yourself is the most important and special thing",
+        "Both poems are about the same character",
+        "Having a box and being a fish are similar",
+        "Dad is the hero of both poems"
+      ],
+      "answer": 0,
+      "explanation": "'Me!' says 'I'm happy to be me' and 'The Box' ends with 'now I'm being me.' Both poems celebrate being true to yourself after exploring possibilities through imagination."
+    },
+    {
+      "id": "q14",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "themes",
+        "sorting"
+      ],
+      "question": "Sort these themes — which poem does each theme BEST match?",
+      "items": [
+        "Be proud of who you are",
+        "Imagination can transform ordinary objects",
+        "Enjoy creating — even if things don't last forever",
+        "People have special abilities that animals don't"
+      ],
+      "categories": [
+        {
+          "label": "'Me!'",
+          "answers": [
+            "Be proud of who you are",
+            "People have special abilities that animals don't"
+          ]
+        },
+        {
+          "label": "'The Box'",
+          "answers": [
+            "Imagination can transform ordinary objects"
+          ]
+        },
+        {
+          "label": "'Sandcastle'",
+          "answers": [
+            "Enjoy creating — even if things don't last forever"
+          ]
+        }
+      ],
+      "explanation": "'Me!' celebrates being yourself and human abilities. 'The Box' is about imagination transforming ordinary things. 'Sandcastle' is about enjoying creativity even when things are temporary."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "sentence",
+        "me"
+      ],
+      "question": "Arrange the words to form a line from 'Me!' about a bird:",
+      "words": [
+        "from",
+        "zoom",
+        "tree",
+        "And",
+        "to",
+        "tree"
+      ],
+      "answer": [
+        "And",
+        "zoom",
+        "from",
+        "tree",
+        "to",
+        "tree"
+      ],
+      "explanation": "Correct line: 'And zoom from tree to tree.' This describes how birds can fly very fast from one tree to another — but they cannot read like people can!"
+    }
+  ]
+}

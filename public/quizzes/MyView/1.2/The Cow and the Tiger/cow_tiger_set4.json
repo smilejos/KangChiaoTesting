@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "id": "cow_tiger_set4",
+    "version": "1.0",
+    "title": "The Cow and the Tiger — Set 4",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Fill-in and sentence practice for 'The Cow and the Tiger.'",
+    "guid": "8472acb3-fc8c-4e24-b81d-91642d1ded8f"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "Once there was a cow _______ Bala. Her name was Bala.",
+      "answer": "named",
+      "acceptedAnswers": [
+        "named",
+        "Named"
+      ],
+      "hint": "Called by a name",
+      "explanation": "'Named' means called by a name. 'A cow named Bala' means a cow whose name was Bala."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "Which sentence uses 'sad' correctly?",
+      "options": [
+        "Bala sad the forest.",
+        "Bala was sad when the tiger caught her.",
+        "The tiger sadding Bala.",
+        "Sad the tiger let her go."
+      ],
+      "answer": 1,
+      "explanation": "'Sad' is an adjective meaning unhappy. 'Bala was sad' — she felt unhappy. This is the correct way to use 'sad.'"
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "comprehension"
+      ],
+      "question": "Bala's promise was: 'I will come back so you can attack me.'",
+      "answer": true,
+      "explanation": "Bala said: 'I promise, I promise to come back. I'll come back soon. Then you can attack!' She offered to return, which shows great bravery."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "The tiger was no longer _______. He became calm after Bala returned.",
+      "answer": "angry",
+      "acceptedAnswers": [
+        "angry",
+        "Angry",
+        "mad",
+        "Mad"
+      ],
+      "hint": "Very upset",
+      "explanation": "The tiger was 'not mad anymore' — he was no longer angry after Bala returned and proved she was honest."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "Bala went to the _______ forest every day to eat grass.",
+      "options": [
+        "grassy",
+        "shadowy",
+        "angry",
+        "beautiful"
+      ],
+      "answer": 1,
+      "explanation": "Bala liked to graze in the 'shadowy forest' — the dark, shaded forest. She grazed in her 'grassy home' but the forest she visited was 'shadowy.'"
+    },
+    {
+      "id": "q6",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "sentence"
+      ],
+      "question": "Arrange the words to form Bala's promise:",
+      "words": [
+        "back",
+        "promise",
+        "I",
+        "come",
+        "to"
+      ],
+      "answer": [
+        "I",
+        "promise",
+        "to",
+        "come",
+        "back"
+      ],
+      "explanation": "Correct sentence: 'I promise to come back.' Bala made this promise to the tiger, and she kept it!"
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "The tiger said he would _______ Bala — he would keep her safe from other animals.",
+      "answer": "protect",
+      "acceptedAnswers": [
+        "protect",
+        "Protect"
+      ],
+      "hint": "To keep someone safe",
+      "explanation": "'Protect' means to keep someone safe. The tiger promised to protect Bala — to keep her from harm."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "'Truth' and 'promise' are both nouns (things).",
+      "answer": true,
+      "explanation": "Yes! Both 'truth' (what is real and honest) and 'promise' (a commitment to do something) are nouns — they are things, not actions or descriptions."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "What does 'agreed' mean in the sentence 'Tiger agreed'?",
+      "options": [
+        "Tiger was angry",
+        "Tiger said yes and accepted",
+        "Tiger ran away",
+        "Tiger was tired"
+      ],
+      "answer": 1,
+      "explanation": "'Agreed' means said yes and accepted. When 'Tiger agreed,' he said yes to Bala's request to let her go."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "Bala was _______ because her calf was safe and the tiger would not hurt her.",
+      "answer": "happy",
+      "acceptedAnswers": [
+        "happy",
+        "Happy"
+      ],
+      "hint": "The opposite of sad",
+      "explanation": "'Happy' means feeling full of joy and pleasure. 'Bala was very happy' at the end — she was safe and her calf was safe too."
+    },
+    {
+      "id": "q11",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words — are they ADJECTIVES (describing how something is) or VERBS (action words)?",
+      "items": [
+        "caught",
+        "graze",
+        "beautiful",
+        "surprised",
+        "attack"
+      ],
+      "categories": [
+        {
+          "label": "Adjective (describing word)",
+          "answers": [
+            "beautiful",
+            "surprised"
+          ]
+        },
+        {
+          "label": "Verb (action word)",
+          "answers": [
+            "caught",
+            "graze",
+            "attack"
+          ]
+        }
+      ],
+      "explanation": "'Beautiful' and 'surprised' are adjectives (they describe how things look or feel). 'Caught,' 'graze,' and 'attack' are verbs (they are actions)."
+    },
+    {
+      "id": "q12",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a sentence from the story:",
+      "words": [
+        "truth",
+        "told",
+        "You",
+        "the"
+      ],
+      "answer": [
+        "You",
+        "told",
+        "the",
+        "truth"
+      ],
+      "explanation": "Correct sentence: 'You told the truth.' The tiger said this to Bala when she came back as promised."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "Which pair of vocabulary words from the story are OPPOSITES?",
+      "options": [
+        "angry and beautiful",
+        "sad and happy",
+        "promise and truth",
+        "shadowy and grassy"
+      ],
+      "answer": 1,
+      "explanation": "'Sad' and 'happy' are opposites. Bala started the story 'sad' (caught by the tiger) and ended the story 'very happy' (free and protected)."
+    },
+    {
+      "id": "q14",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "The tiger _______ Bala — he caught her suddenly with force.",
+      "answer": "caught",
+      "acceptedAnswers": [
+        "caught",
+        "Caught"
+      ],
+      "hint": "Past tense of 'catch'",
+      "explanation": "'Caught' is the past tense of 'catch.' The tiger 'caught' Bala — he grabbed her suddenly in the forest."
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "In the story, Bala's promise was: she would tell the truth AND she would come back.",
+      "answer": true,
+      "explanation": "Bala promised to come back — and she did. By returning, she showed she was telling the truth (that she would keep her promise). Both honesty and promise-keeping are shown in her actions."
+    }
+  ]
+}

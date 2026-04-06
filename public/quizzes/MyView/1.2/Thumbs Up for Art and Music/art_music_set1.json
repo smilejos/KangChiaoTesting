@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "art_music_set1",
+    "version": "1.0",
+    "title": "Thumbs Up for Art and Music — Set 1",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Reading comprehension quiz for 'Thumbs Up for Art and Music' — understanding the author's arguments.",
+    "guid": "c22edfb7-77e4-4b34-aec8-32008991a38a"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "comprehension"
+      ],
+      "question": "What is the main topic of 'Thumbs Up for Art and Music'?",
+      "options": [
+        "Why sports are important in school",
+        "Why art and music are important in school",
+        "How to paint a picture",
+        "How to learn math faster"
+      ],
+      "answer": 1,
+      "explanation": "The text argues that art AND music are both important school subjects. The title 'Thumbs Up' means the author agrees they are important."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "comprehension"
+      ],
+      "question": "The author thinks art and music are NOT important in school.",
+      "answer": false,
+      "explanation": "The author says 'Some people don't think art in school is important, but I do!' — the author believes art AND music are both very important."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "comprehension",
+        "art"
+      ],
+      "question": "According to the text, why is art important in school?",
+      "options": [
+        "Because it is easy",
+        "Because you learn to be creative and use your imagination",
+        "Because it makes you good at math",
+        "Because it is fun only"
+      ],
+      "answer": 1,
+      "explanation": "The text says 'Art is important because you learn to be creative. You have to use your imagination.' Creativity and imagination are the reasons for art."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "comprehension",
+        "music"
+      ],
+      "question": "Music is important because it helps you learn about teamwork.",
+      "answer": true,
+      "explanation": "Yes! The text says 'Music is important because you can play with others. You learn about teamwork.' Playing music together teaches you to work well with a team."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "comprehension"
+      ],
+      "question": "What does the author say is the BEST reason for having art and music in school?",
+      "options": [
+        "They make you smarter in math",
+        "They are fun!",
+        "They are easy to learn",
+        "They help you read faster"
+      ],
+      "answer": 1,
+      "explanation": "The last page says 'There are many reasons having art and music in school is important, but this is the best one. They are fun!' Fun is the author's best reason."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Art is _______ because you learn to be creative and use your imagination.",
+      "answer": "important",
+      "acceptedAnswers": [
+        "important",
+        "Important"
+      ],
+      "hint": "Something that really matters; not to be ignored",
+      "explanation": "'Important' means something that really matters. The text repeats 'Art is important' and 'Music is important' to make its argument."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "comprehension"
+      ],
+      "question": "According to the text, what do you need to use when making art?",
+      "options": [
+        "Your memory",
+        "Your imagination",
+        "Your teamwork skills",
+        "Your math skills"
+      ],
+      "answer": 1,
+      "explanation": "The text says 'Art is important because you learn to be creative. You have to use your imagination.' Imagination is needed for art."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "comprehension",
+        "music"
+      ],
+      "question": "Music is important because it makes you concentrate and remember a lot.",
+      "answer": true,
+      "explanation": "Yes! 'Music is important because it makes you concentrate. You have to remember a lot.' Music requires concentration and memory — these are important skills."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these reasons — are they reasons for ART or reasons for MUSIC?",
+      "items": [
+        "You learn to be creative",
+        "You learn to concentrate",
+        "You learn about teamwork",
+        "You use your imagination",
+        "You figure out how to make amazing things"
+      ],
+      "categories": [
+        {
+          "label": "Reasons for ART",
+          "answers": [
+            "You learn to be creative",
+            "You use your imagination",
+            "You figure out how to make amazing things"
+          ]
+        },
+        {
+          "label": "Reasons for MUSIC",
+          "answers": [
+            "You learn to concentrate",
+            "You learn about teamwork"
+          ]
+        }
+      ],
+      "explanation": "Art: creativity, imagination, making amazing things. Music: concentration, teamwork. Both are important, just for different reasons!"
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "When you play music with others, you learn about _______. You need to work well together.",
+      "answer": "teamwork",
+      "acceptedAnswers": [
+        "teamwork",
+        "Teamwork"
+      ],
+      "hint": "Working well together as a group",
+      "explanation": "'Teamwork' means working together as a group. Playing music with others requires teamwork — everyone has to listen and play together."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "genre"
+      ],
+      "question": "What type of text is 'Thumbs Up for Art and Music'?",
+      "options": [
+        "A poem",
+        "A folktale",
+        "An opinion/persuasive text",
+        "A news report"
+      ],
+      "answer": 2,
+      "explanation": "The text presents the author's opinion ('I do!' believe art and music are important) and tries to persuade the reader. This is an opinion or persuasive text."
+    },
+    {
+      "id": "q12",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a sentence from the text:",
+      "words": [
+        "you",
+        "important",
+        "Art",
+        "creative",
+        "because",
+        "is",
+        "be",
+        "learn",
+        "to"
+      ],
+      "answer": [
+        "Art",
+        "is",
+        "important",
+        "because",
+        "you",
+        "learn",
+        "to",
+        "be",
+        "creative"
+      ],
+      "explanation": "Correct sentence: 'Art is important because you learn to be creative.' This is the first reason given for why art matters in school."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "comprehension",
+        "genre"
+      ],
+      "question": "The author disagrees with some people who say art and music are not important.",
+      "answer": true,
+      "explanation": "The text says 'Some people don't think art in school is important, but I do!' and 'Some people don't think music in school is important, but I do!' The author directly disagrees with these people."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "inference"
+      ],
+      "question": "Why does the author start by saying 'In school you learn to read and write' and 'math problems' before talking about art?",
+      "options": [
+        "To show that reading and math are more important than art",
+        "To agree that core subjects matter before explaining that art matters too",
+        "To confuse the reader",
+        "To show that teachers only care about math"
+      ],
+      "answer": 1,
+      "explanation": "The author first agrees that reading, writing, and math are important — then says art and music are ALSO important. This is persuasive writing: show you understand both sides, then make your argument."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "sentence"
+      ],
+      "question": "Arrange the words to form the conclusion of the text:",
+      "words": [
+        "fun",
+        "are",
+        "They",
+        "one",
+        "best",
+        "the"
+      ],
+      "answer": [
+        "They",
+        "are",
+        "the",
+        "best",
+        "one",
+        "fun"
+      ],
+      "explanation": "The actual conclusion is: 'but this is the best one. They are fun!' Art and music being fun is the author's final and best argument."
+    }
+  ]
+}

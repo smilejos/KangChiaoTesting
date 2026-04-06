@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "art_music_set2",
+    "version": "1.0",
+    "title": "Thumbs Up for Art and Music — Set 2",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Vocabulary quiz for 'Thumbs Up for Art and Music' — key words and meanings.",
+    "guid": "71eb918f-d4a6-46da-8ab8-8638cd04d13f"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "What does 'art' mean in the context of school?",
+      "options": [
+        "Writing numbers and solving problems",
+        "Creating and making things like drawings, paintings, and crafts",
+        "Reading stories and books",
+        "Running and playing sports"
+      ],
+      "answer": 1,
+      "explanation": "'Art' is the creative making of things like drawings, paintings, and crafts. In school, art class is where students learn to draw, paint, and create."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "'Important' means something does NOT matter very much.",
+      "answer": false,
+      "explanation": "'Important' means something matters a lot and should not be ignored. The text repeatedly says art and music are 'important' — they matter a great deal!"
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Art helps you be _______. You can think of new and different ideas.",
+      "answer": "creative",
+      "acceptedAnswers": [
+        "creative",
+        "Creative"
+      ],
+      "hint": "Able to make new and original ideas",
+      "explanation": "'Creative' means able to think of and make new, original things. Art helps you be creative — you come up with your own artistic ideas."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "What does 'imagination' mean?",
+      "options": [
+        "The ability to remember facts",
+        "The ability to think of things that are not real or to think creatively",
+        "The ability to do math quickly",
+        "The ability to run fast"
+      ],
+      "answer": 1,
+      "explanation": "'Imagination' is the ability to think of things that are not real, or to think creatively. In art, you use your imagination to create new things."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "What does 'music' mean in the context of school?",
+      "options": [
+        "Writing and reading stories",
+        "Singing songs or playing musical instruments",
+        "Drawing and painting pictures",
+        "Learning to count numbers"
+      ],
+      "answer": 1,
+      "explanation": "'Music' refers to playing instruments or singing. In school music class, students sing songs and learn to play instruments together."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Music helps you _______. You must focus and pay close attention to the notes.",
+      "answer": "concentrate",
+      "acceptedAnswers": [
+        "concentrate",
+        "Concentrate"
+      ],
+      "hint": "To focus all your attention on something",
+      "explanation": "'Concentrate' means to focus all your attention. Music requires concentration — you must pay close attention to notes, rhythm, and timing."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "'Teamwork' means working alone to finish something.",
+      "answer": false,
+      "explanation": "'Teamwork' means working TOGETHER as a group. When you play music with others, you need teamwork — everyone has to work together to make the music sound good."
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "In the text, 'figure out' means what?",
+      "options": [
+        "To draw a picture",
+        "To solve a problem or find a way to do something",
+        "To sing a song",
+        "To memorize something"
+      ],
+      "answer": 1,
+      "explanation": "'Figure out' means to solve a problem or find how to do something. The text says 'You figure out how to make amazing things' — you solve creative problems in art."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these vocabulary words — are they NOUNS (things) or ADJECTIVES/VERBS (actions/descriptions)?",
+      "items": [
+        "art",
+        "creative",
+        "teamwork",
+        "concentrate",
+        "imagination",
+        "important"
+      ],
+      "categories": [
+        {
+          "label": "Noun (a thing)",
+          "answers": [
+            "art",
+            "teamwork",
+            "imagination"
+          ]
+        },
+        {
+          "label": "Adjective or Verb",
+          "answers": [
+            "creative",
+            "concentrate",
+            "important"
+          ]
+        }
+      ],
+      "explanation": "'Art,' 'teamwork,' and 'imagination' are things (nouns). 'Creative' (describing word), 'concentrate' (action word), and 'important' (describing word) are adjective/verb forms."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "The students _______ how to play the song — they worked hard to understand it.",
+      "answer": "figured out",
+      "acceptedAnswers": [
+        "figured out",
+        "Figured out",
+        "learned",
+        "Learned"
+      ],
+      "hint": "Discovered how to do something through effort",
+      "explanation": "'Figured out' means solved or discovered how. When you figure something out, you work through a problem until you understand it."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "The text says art makes 'amazing things.' What does 'amazing' mean?",
+      "options": [
+        "Very ugly and strange",
+        "Very simple and boring",
+        "Very impressive and wonderful",
+        "Very small and ordinary"
+      ],
+      "answer": 2,
+      "explanation": "'Amazing' means very impressive, wonderful, and surprising. In art, you create things that impress and delight people — amazing things!"
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "The phrase 'thumbs up' in the title means the author approves and supports art and music.",
+      "answer": true,
+      "explanation": "'Thumbs up' is an expression meaning you approve of something or give it a positive sign. The title means the author gives art and music a big approval!"
+    },
+    {
+      "id": "q13",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "When you play music, you have to _______ a lot — you must hold many notes and rhythms in your mind.",
+      "answer": "remember",
+      "acceptedAnswers": [
+        "remember",
+        "Remember"
+      ],
+      "hint": "To keep information in your mind",
+      "explanation": "'Remember' means to keep information in your mind and recall it. Music requires you to remember notes, rhythms, melodies, and lyrics — it trains your memory."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Which sentence uses 'concentrate' correctly?",
+      "options": [
+        "I concentrate my drawing very good.",
+        "You must concentrate when playing music — focus and pay close attention.",
+        "The music is concentrate and fun.",
+        "She concentrates the teamwork."
+      ],
+      "answer": 1,
+      "explanation": "'Concentrate' means to focus your attention. 'You must concentrate when playing music' correctly uses concentrate as an action — you are doing the concentrating."
+    },
+    {
+      "id": "q15",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these skills — are they skills you learn from ART or from MUSIC (according to the text)?",
+      "items": [
+        "how to be creative",
+        "how to concentrate",
+        "how to use your imagination",
+        "how to work as a team",
+        "how to make amazing things",
+        "how to remember a lot"
+      ],
+      "categories": [
+        {
+          "label": "Skills from ART",
+          "answers": [
+            "how to be creative",
+            "how to use your imagination",
+            "how to make amazing things"
+          ]
+        },
+        {
+          "label": "Skills from MUSIC",
+          "answers": [
+            "how to concentrate",
+            "how to work as a team",
+            "how to remember a lot"
+          ]
+        }
+      ],
+      "explanation": "Art teaches: creativity, imagination, making amazing things. Music teaches: concentration, teamwork, memory. Both are valuable skills!"
+    }
+  ]
+}

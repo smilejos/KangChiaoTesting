@@ -1,4 +1,4 @@
-import { Component, Input, Output, EventEmitter, inject, signal, computed, OnChanges } from '@angular/core';
+import { Component, Input, Output, EventEmitter, inject, signal, computed, OnChanges, SimpleChanges } from '@angular/core';
 import { CategorizeQuestion } from '../../../core/models/question.model';
 import { I18nService } from '../../../core/services/i18n.service';
 
@@ -124,9 +124,11 @@ export class CategorizeComponent implements OnChanges {
   selectedItem = signal<string | null>(null);
   placements = signal<Record<string, string[]>>({});
 
-  ngOnChanges(): void {
-    this.selectedItem.set(null);
-    this.placements.set({});
+  ngOnChanges(changes: SimpleChanges): void {
+    if (changes['question']) {
+      this.selectedItem.set(null);
+      this.placements.set({});
+    }
   }
 
   remainingItems = computed(() => {

@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "id": "art_music_set4",
+    "version": "1.0",
+    "title": "Thumbs Up for Art and Music — Set 4",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Fill-in and sentence practice for 'Thumbs Up for Art and Music.'",
+    "guid": "61d042b6-73c1-4fdd-be5f-113634556c43"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Reading, writing, and _______ are important subjects in school.",
+      "answer": "math",
+      "acceptedAnswers": [
+        "math",
+        "Math"
+      ],
+      "hint": "Numbers, addition, subtraction — this subject",
+      "explanation": "The text begins: 'You learn to do math problems.' Math (mathematics) involves working with numbers."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "What does 'learn' mean?",
+      "options": [
+        "To forget things quickly",
+        "To gain new knowledge or skills",
+        "To play games",
+        "To sleep"
+      ],
+      "answer": 1,
+      "explanation": "'Learn' means to gain new knowledge or skills. In school, 'you learn to read and write' — you gain new skills through study and practice."
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "'Problems' in 'math problems' means something is broken or wrong.",
+      "answer": false,
+      "explanation": "In school, 'math problems' means math questions or exercises to solve — like '2 + 3 = ?' It doesn't mean something is wrong. 'Problem' has different meanings in different contexts."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Art class is _______! It's the best reason to have art and music in school.",
+      "answer": "fun",
+      "acceptedAnswers": [
+        "fun",
+        "Fun"
+      ],
+      "hint": "Enjoyable and entertaining",
+      "explanation": "'Fun' means enjoyable. The last sentence of the text says 'They are fun!' — having a good time is the author's best reason for art and music."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Which sentence uses 'think' correctly?",
+      "options": [
+        "Art is important because it makes you think.",
+        "I think the music.",
+        "Think she arts the school.",
+        "The music thinks your imagination."
+      ],
+      "answer": 0,
+      "explanation": "'Think' means to use your mind. 'Art is important because it makes you think' — it causes you to use your mind and brain. This is the correct use from the text."
+    },
+    {
+      "id": "q6",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a sentence from the text:",
+      "words": [
+        "amazing",
+        "how",
+        "things",
+        "figure",
+        "out",
+        "to",
+        "You",
+        "make"
+      ],
+      "answer": [
+        "You",
+        "figure",
+        "out",
+        "how",
+        "to",
+        "make",
+        "amazing",
+        "things"
+      ],
+      "explanation": "Correct sentence: 'You figure out how to make amazing things.' This is a reason from the text for why art is important — you learn to create impressive things."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "In music class, you have to _______ a lot — you keep all the notes in your head.",
+      "answer": "remember",
+      "acceptedAnswers": [
+        "remember",
+        "Remember"
+      ],
+      "hint": "Keep something in your mind",
+      "explanation": "'Remember' means to keep knowledge in your mind. 'You have to remember a lot' means music requires you to hold notes, melodies, and timing in your memory."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "'Creative' means being able to make something new and original using your own ideas.",
+      "answer": true,
+      "explanation": "Yes! A 'creative' person thinks of new, original ideas and makes things that are unique. Art helps you be creative — you make things that come from your own imagination."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words — are they POSITIVE (good) or can they be a CHALLENGE (hard)?",
+      "items": [
+        "creative",
+        "amazing",
+        "concentrate",
+        "important",
+        "problems",
+        "remember"
+      ],
+      "categories": [
+        {
+          "label": "Positive / Good",
+          "answers": [
+            "creative",
+            "amazing",
+            "important"
+          ]
+        },
+        {
+          "label": "Also a Challenge (requires effort)",
+          "answers": [
+            "concentrate",
+            "problems",
+            "remember"
+          ]
+        }
+      ],
+      "explanation": "'Creative,' 'amazing,' and 'important' are clearly positive words. 'Concentrate,' 'problems,' and 'remember' describe things that require effort and hard work — they can be challenging!"
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Art makes you _______. You use your brain and come up with good ideas.",
+      "answer": "think",
+      "acceptedAnswers": [
+        "think",
+        "Think"
+      ],
+      "hint": "To use your brain and mind",
+      "explanation": "'Think' means to use your brain. The text says 'Art is important because it makes you think.' Art requires mental effort and creativity."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "The text says 'thumbs up' in the title. What is another expression with the same meaning?",
+      "options": [
+        "'No way!'",
+        "'I agree!' or 'Good job!'",
+        "'I don't know'",
+        "'That's too hard!'"
+      ],
+      "answer": 1,
+      "explanation": "'Thumbs up' means approval — 'I agree!' or 'Good job!' It's a positive gesture. The title 'Thumbs Up for Art and Music' means 'I approve of and support art and music!'"
+    },
+    {
+      "id": "q12",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a sentence about imagination:",
+      "words": [
+        "imagination",
+        "your",
+        "use",
+        "to",
+        "have",
+        "You"
+      ],
+      "answer": [
+        "You",
+        "have",
+        "to",
+        "use",
+        "your",
+        "imagination"
+      ],
+      "explanation": "Correct sentence: 'You have to use your imagination.' This is what the text says about art — it requires you to use your imagination and think creatively."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Which sentence uses 'concentrate' in the most natural way?",
+      "options": [
+        "I concentrate the music very pretty.",
+        "She concentrates her piano — it is beautiful.",
+        "In music class, students must concentrate and focus carefully on each note.",
+        "The art concentrates the imagination."
+      ],
+      "answer": 2,
+      "explanation": "'Concentrate' means to focus your attention. 'Students must concentrate and focus carefully' — this correctly uses 'concentrate' as an action that people do."
+    },
+    {
+      "id": "q14",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Art helps you be _______. This means you can think of new and different ways to do things.",
+      "answer": "creative",
+      "acceptedAnswers": [
+        "creative",
+        "Creative"
+      ],
+      "hint": "Able to make something new and original",
+      "explanation": "'Creative' means thinking in new and original ways. Art helps students be creative — to make things that are uniquely theirs, using imagination and original thinking."
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "The word 'important' appears many times in the text because the author wants to STRONGLY emphasize that art and music matter.",
+      "answer": true,
+      "explanation": "Repeating 'important' is a persuasive technique. By saying 'Art is important' and 'Music is important' multiple times, the author hammers home the message that these subjects truly matter."
+    }
+  ]
+}

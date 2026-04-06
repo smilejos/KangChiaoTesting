@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "id": "art_music_set5",
+    "version": "1.0",
+    "title": "Thumbs Up for Art and Music — Set 5",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Challenge quiz for 'Thumbs Up for Art and Music' — inference, opinion writing, and connections.",
+    "guid": "3cfc9639-d263-46fb-bb64-145f11c4aee2"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "opinion"
+      ],
+      "question": "Which sentence BEST shows that this is an opinion text?",
+      "options": [
+        "'In school you learn to read and write.'",
+        "'Some people don't think art in school is important, but I do!'",
+        "'You learn to do math problems.'",
+        "'Reading, writing, and math are important.'"
+      ],
+      "answer": 1,
+      "explanation": "'But I do!' is a clear personal opinion. This phrase shows the author is sharing THEIR belief, not a fact. Opinion words like 'I do' and 'I think' signal opinion writing."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "opinion"
+      ],
+      "question": "The statement 'Art is important because you learn to be creative' is a FACT that everyone agrees on.",
+      "answer": false,
+      "explanation": "This is actually the AUTHOR'S OPINION. The text mentions 'some people don't think art is important' — so not everyone agrees. It is the author's point of view, supported by reasons."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "inference"
+      ],
+      "question": "Why does the author mention 'some people don't think art/music is important'?",
+      "options": [
+        "To agree with those people",
+        "To show the author knows there are different opinions before arguing against them",
+        "To show that the author is confused",
+        "Because the author is not sure about their own opinion"
+      ],
+      "answer": 1,
+      "explanation": "Saying 'some people think...' is a persuasive technique — acknowledge the other side, then argue against it. 'But I do!' shows the author disagrees. This is called a 'counterargument.'"
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Art is important because it makes you _______. You have to use your brain.",
+      "answer": "think",
+      "acceptedAnswers": [
+        "think",
+        "Think"
+      ],
+      "hint": "To use your mind",
+      "explanation": "'Think' means to use your mind. The text says 'Art is important because it makes you think' — creating art requires mental effort and thinking."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "inference"
+      ],
+      "question": "How does playing music with others help students OUTSIDE of school?",
+      "options": [
+        "It helps them sing louder in class",
+        "It teaches them teamwork, which is useful in sports, work, and daily life",
+        "It only helps in music class",
+        "It helps them do math faster"
+      ],
+      "answer": 1,
+      "explanation": "Teamwork is a life skill! Students who learn teamwork in music class can apply it in sports teams, group projects, jobs, and friendships. Skills from music go beyond music class."
+    },
+    {
+      "id": "q6",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "sentence",
+        "opinion"
+      ],
+      "question": "Arrange the words to form the author's strong opinion:",
+      "words": [
+        "important",
+        "art",
+        "don't",
+        "Some",
+        "think",
+        "is",
+        "people",
+        "but",
+        "I",
+        "do"
+      ],
+      "answer": [
+        "Some",
+        "people",
+        "don't",
+        "think",
+        "art",
+        "is",
+        "important",
+        "but",
+        "I",
+        "do"
+      ],
+      "explanation": "Correct sentence: 'Some people don't think art is important, but I do!' This is the key opinion sentence of the text — the author clearly states their view."
+    },
+    {
+      "id": "q7",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "sorting",
+        "opinion"
+      ],
+      "question": "Sort these statements — are they FACTS (can be proven) or OPINIONS (personal beliefs)?",
+      "items": [
+        "In school you learn to read and write",
+        "Art is the most important subject",
+        "When you play music with others, you learn about teamwork",
+        "Art is more fun than music",
+        "You have to remember a lot in music"
+      ],
+      "categories": [
+        {
+          "label": "Fact (can be proven)",
+          "answers": [
+            "In school you learn to read and write",
+            "When you play music with others, you learn about teamwork",
+            "You have to remember a lot in music"
+          ]
+        },
+        {
+          "label": "Opinion (personal belief)",
+          "answers": [
+            "Art is the most important subject",
+            "Art is more fun than music"
+          ]
+        }
+      ],
+      "explanation": "Facts can be checked and proven. Opinions are personal beliefs that can't be proven right or wrong. 'Most important' and 'more fun than' are opinion phrases."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "inference"
+      ],
+      "question": "Based on the text, the author would probably agree that schools should have MORE art and music classes.",
+      "answer": true,
+      "explanation": "If the author believes art and music are very important for many reasons, they would likely support having more of these classes. This is a reasonable inference from the author's strong opinion."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "inference"
+      ],
+      "question": "Which student is BEST applying what the text says about art?",
+      "options": [
+        "A student who copies exactly what the teacher draws",
+        "A student who uses imagination to create a unique painting with new ideas",
+        "A student who skips art class",
+        "A student who talks during art class"
+      ],
+      "answer": 1,
+      "explanation": "The text says art helps you be creative and use imagination. A student using original ideas and imagination is putting the text's ideas into practice. Copying does not require creativity or imagination."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "The author says art and music are both _______ — she believes they really matter and students should have them in school.",
+      "answer": "important",
+      "acceptedAnswers": [
+        "important",
+        "Important"
+      ],
+      "hint": "They matter a lot",
+      "explanation": "'Important' is the key word the author uses again and again to support her opinion. She argues that art and music genuinely matter for students' development."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "inference"
+      ],
+      "question": "If you were writing a COUNTER-ARGUMENT to this text, which point might you make?",
+      "options": [
+        "Art and music are important and fun",
+        "Schools should spend more time on core subjects like math and reading since those are tested more",
+        "Students should have more art class every day",
+        "Music is better than art"
+      ],
+      "answer": 1,
+      "explanation": "A counter-argument is the opposite view. Someone who disagrees might say core subjects are more important because they prepare students for standardized tests and future careers — this is the opposing view."
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "comprehension"
+      ],
+      "question": "The author mentions only ONE reason why art is important and only ONE reason why music is important.",
+      "answer": false,
+      "explanation": "The text gives TWO reasons for art: 1) learning to be creative/use imagination, and 2) making you think/figure out amazing things. TWO reasons for music: 1) making you concentrate/remember, and 2) playing with others/teamwork."
+    },
+    {
+      "id": "q13",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "inference",
+        "sorting"
+      ],
+      "question": "Sort these — which skill from the text connects to the BRAIN (thinking skills) or to the HEART (social/emotional skills)?",
+      "items": [
+        "using imagination",
+        "learning teamwork",
+        "concentrating",
+        "being creative",
+        "playing with others"
+      ],
+      "categories": [
+        {
+          "label": "Brain (thinking skills)",
+          "answers": [
+            "using imagination",
+            "concentrating",
+            "being creative"
+          ]
+        },
+        {
+          "label": "Heart (social/emotional skills)",
+          "answers": [
+            "learning teamwork",
+            "playing with others"
+          ]
+        }
+      ],
+      "explanation": "Imagination, concentration, and creativity are thinking skills. Teamwork and playing with others are social/emotional skills. Art and music develop BOTH kinds of skills!"
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "sentence"
+      ],
+      "question": "Arrange the words to express a complete opinion from the text:",
+      "words": [
+        "music",
+        "school",
+        "in",
+        "are",
+        "fun",
+        "Art",
+        "and"
+      ],
+      "answer": [
+        "Art",
+        "and",
+        "music",
+        "in",
+        "school",
+        "are",
+        "fun"
+      ],
+      "explanation": "Correct sentence: 'Art and music in school are fun.' This captures the author's final and best reason — that art and music bring joy and enjoyment to school."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "connection"
+      ],
+      "question": "How does the skill of 'imagination' from art connect to reading and writing?",
+      "options": [
+        "Imagination is only useful in art class",
+        "Imagination helps in reading (picturing stories) and writing (creating story ideas)",
+        "Imagination makes you worse at math",
+        "Imagination is the same as concentration"
+      ],
+      "answer": 1,
+      "explanation": "Imagination is useful everywhere! When reading, you imagine the story. When writing, you imagine your own story ideas. Skills from art don't stay in art class — they help across all subjects."
+    }
+  ]
+}

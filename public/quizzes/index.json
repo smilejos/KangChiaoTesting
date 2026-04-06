@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "generated": "2026-04-05T22:22:03.498Z",
+  "generated": "2026-04-06T02:58:37.895Z",
   "books": [
     {
       "id": "MyGrammar",
@@ -566,6 +566,397 @@
                   "difficulty": 2,
                   "file": "MyGrammar/1.2/Unit_3/unit3_pronouns_t10.json",
                   "questionCount": 20
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MyView",
+      "name": "MyView",
+      "color": "#6366f1",
+      "versions": [
+        {
+          "id": "MyView/1.2",
+          "name": "1.2",
+          "units": [
+            {
+              "id": "MyView/1.2/Poetry Collection",
+              "name": "Poetry Collection",
+              "quizzes": [
+                {
+                  "id": "poetry_set1",
+                  "guid": "8de6c3dd-fa6d-44e0-b358-42c2cf6dbb05",
+                  "title": "Poetry Collection — Set 1",
+                  "subtitle": "Reading comprehension quiz for the Poetry Collection — understanding the poems 'Me!', 'The Box', and 'Sandcastle'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "poetry",
+                    "comprehension",
+                    "me",
+                    "the-box",
+                    "sandcastle"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Poetry Collection/poetry_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "poetry_set2",
+                  "guid": "776384ef-3082-46a8-88be-e59df480e9f7",
+                  "title": "Poetry Collection — Set 2",
+                  "subtitle": "Vocabulary quiz for the Poetry Collection — key words from 'Me!', 'The Box', and 'Sandcastle'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "poetry",
+                    "vocabulary",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Poetry Collection/poetry_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "poetry_set3",
+                  "guid": "31b29e5b-12f8-471e-aa5d-32c6f6681513",
+                  "title": "Poetry Collection — Set 3",
+                  "subtitle": "Poem 'The Box' deep dive — imagination, sequence, and vocabulary.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "poetry",
+                    "the-box",
+                    "comprehension",
+                    "sequencing",
+                    "vocabulary"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Poetry Collection/poetry_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "poetry_set4",
+                  "guid": "2342b837-fc0a-40eb-9e14-afa8aa5bdff7",
+                  "title": "Poetry Collection — Set 4",
+                  "subtitle": "Fill-in and sentence practice for the Poetry Collection — all three poems.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "poetry",
+                    "vocabulary",
+                    "me",
+                    "sandcastle",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Poetry Collection/poetry_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "poetry_set5",
+                  "guid": "031cff15-2f79-4fcf-b166-591fa1808ead",
+                  "title": "Poetry Collection — Set 5",
+                  "subtitle": "Challenge quiz for the Poetry Collection — inference, rhyming, and cross-poem comparison.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "poetry",
+                    "rhyming",
+                    "sandcastle",
+                    "the-box",
+                    "theme"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Poetry Collection/poetry_set5.json",
+                  "questionCount": 15
+                }
+              ]
+            },
+            {
+              "id": "MyView/1.2/The Clever Monkey",
+              "name": "The Clever Monkey",
+              "quizzes": [
+                {
+                  "id": "clever_monkey_set1",
+                  "guid": "35b5c15c-7cb6-45ac-ac09-fb490a7e8ce6",
+                  "title": "The Clever Monkey — Set 1",
+                  "subtitle": "Reading comprehension quiz for 'The Clever Monkey' — story understanding.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "clever-monkey",
+                    "comprehension",
+                    "setting",
+                    "character",
+                    "plot"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Clever Monkey/clever_monkey_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "clever_monkey_set2",
+                  "guid": "dab8385c-3c2a-4bd9-aed4-9f2a4cbc0317",
+                  "title": "The Clever Monkey — Set 2",
+                  "subtitle": "Vocabulary quiz for 'The Clever Monkey' — key words from the story.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "clever-monkey",
+                    "vocabulary",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Clever Monkey/clever_monkey_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "clever_monkey_set3",
+                  "guid": "e8940bfb-b816-4a68-bc73-27cb63ba986a",
+                  "title": "The Clever Monkey — Set 3",
+                  "subtitle": "Story sequence and character quiz for 'The Clever Monkey.'",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "clever-monkey",
+                    "characters",
+                    "sequencing",
+                    "character-traits",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Clever Monkey/clever_monkey_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "clever_monkey_set4",
+                  "guid": "b7554ac8-20b7-40df-8e27-a92363f04866",
+                  "title": "The Clever Monkey — Set 4",
+                  "subtitle": "Mixed fill-in and sentence practice for 'The Clever Monkey.'",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "clever-monkey",
+                    "vocabulary",
+                    "comprehension",
+                    "sentence",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Clever Monkey/clever_monkey_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "clever_monkey_set5",
+                  "guid": "211e551e-c483-4dc3-8707-f995ad883e3d",
+                  "title": "The Clever Monkey — Set 5",
+                  "subtitle": "Challenge quiz for 'The Clever Monkey' — inference, theme, and advanced vocabulary.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "clever-monkey",
+                    "comprehension",
+                    "setting",
+                    "vocabulary",
+                    "inference"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Clever Monkey/clever_monkey_set5.json",
+                  "questionCount": 15
+                }
+              ]
+            },
+            {
+              "id": "MyView/1.2/The Cow and the Tiger",
+              "name": "The Cow and the Tiger",
+              "quizzes": [
+                {
+                  "id": "cow_tiger_set1",
+                  "guid": "a74ad8d2-421f-432d-ba11-2cc619a4bc31",
+                  "title": "The Cow and the Tiger — Set 1",
+                  "subtitle": "Reading comprehension quiz for 'The Cow and the Tiger' — story understanding.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "cow-tiger",
+                    "characters",
+                    "comprehension",
+                    "plot",
+                    "vocabulary"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Cow and the Tiger/cow_tiger_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "cow_tiger_set2",
+                  "guid": "faa72e52-80d3-436e-a19c-b5f41931b588",
+                  "title": "The Cow and the Tiger — Set 2",
+                  "subtitle": "Vocabulary quiz for 'The Cow and the Tiger' — key words and meanings.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "cow-tiger",
+                    "vocabulary",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Cow and the Tiger/cow_tiger_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "cow_tiger_set3",
+                  "guid": "27e13a34-0692-4c04-84ce-6d9c7936fa5c",
+                  "title": "The Cow and the Tiger — Set 3",
+                  "subtitle": "Sequence and character quiz for 'The Cow and the Tiger.'",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "cow-tiger",
+                    "sequencing",
+                    "sequence",
+                    "comprehension",
+                    "character"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Cow and the Tiger/cow_tiger_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "cow_tiger_set4",
+                  "guid": "8472acb3-fc8c-4e24-b81d-91642d1ded8f",
+                  "title": "The Cow and the Tiger — Set 4",
+                  "subtitle": "Fill-in and sentence practice for 'The Cow and the Tiger.'",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "cow-tiger",
+                    "vocabulary",
+                    "comprehension",
+                    "sentence",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Cow and the Tiger/cow_tiger_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "cow_tiger_set5",
+                  "guid": "32bc22ed-bb84-4389-849c-1490ac5aec42",
+                  "title": "The Cow and the Tiger — Set 5",
+                  "subtitle": "Challenge quiz for 'The Cow and the Tiger' — inference, moral, and advanced skills.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "cow-tiger",
+                    "moral",
+                    "comprehension",
+                    "inference",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Cow and the Tiger/cow_tiger_set5.json",
+                  "questionCount": 15
+                }
+              ]
+            },
+            {
+              "id": "MyView/1.2/Thumbs Up for Art and Music",
+              "name": "Thumbs Up for Art and Music",
+              "quizzes": [
+                {
+                  "id": "art_music_set1",
+                  "guid": "c22edfb7-77e4-4b34-aec8-32008991a38a",
+                  "title": "Thumbs Up for Art and Music — Set 1",
+                  "subtitle": "Reading comprehension quiz for 'Thumbs Up for Art and Music' — understanding the author's arguments.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "art-music",
+                    "comprehension",
+                    "art",
+                    "music",
+                    "vocabulary"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Thumbs Up for Art and Music/art_music_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "art_music_set2",
+                  "guid": "71eb918f-d4a6-46da-8ab8-8638cd04d13f",
+                  "title": "Thumbs Up for Art and Music — Set 2",
+                  "subtitle": "Vocabulary quiz for 'Thumbs Up for Art and Music' — key words and meanings.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "art-music",
+                    "vocabulary",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Thumbs Up for Art and Music/art_music_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "art_music_set3",
+                  "guid": "3e4de22c-c54e-4e8b-bd17-812a6c6a704a",
+                  "title": "Thumbs Up for Art and Music — Set 3",
+                  "subtitle": "Opinion text structure and sentence practice for 'Thumbs Up for Art and Music.'",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "art-music",
+                    "text-structure",
+                    "comprehension",
+                    "opinion",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Thumbs Up for Art and Music/art_music_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "art_music_set4",
+                  "guid": "61d042b6-73c1-4fdd-be5f-113634556c43",
+                  "title": "Thumbs Up for Art and Music — Set 4",
+                  "subtitle": "Fill-in and sentence practice for 'Thumbs Up for Art and Music.'",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "art-music",
+                    "vocabulary",
+                    "sentence",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Thumbs Up for Art and Music/art_music_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "art_music_set5",
+                  "guid": "3cfc9639-d263-46fb-bb64-145f11c4aee2",
+                  "title": "Thumbs Up for Art and Music — Set 5",
+                  "subtitle": "Challenge quiz for 'Thumbs Up for Art and Music' — inference, opinion writing, and connections.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "art-music",
+                    "opinion",
+                    "inference",
+                    "vocabulary",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Thumbs Up for Art and Music/art_music_set5.json",
+                  "questionCount": 15
                 }
               ]
             }

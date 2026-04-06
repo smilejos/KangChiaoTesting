@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "id": "poetry_set4",
+    "version": "1.0",
+    "title": "Poetry Collection — Set 4",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Fill-in and sentence practice for the Poetry Collection — all three poems.",
+    "guid": "2342b837-fc0a-40eb-9e14-afa8aa5bdff7"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "me"
+      ],
+      "question": "In 'Me!', the speaker says a bird can _______ from tree to tree — it moves very fast!",
+      "answer": "zoom",
+      "acceptedAnswers": [
+        "zoom",
+        "Zoom"
+      ],
+      "hint": "Move very quickly",
+      "explanation": "'Zoom' means to move very fast. The bird 'zooms' from tree to tree when it flies."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "me"
+      ],
+      "question": "In 'Me!', can a fish skip or run?",
+      "options": [
+        "Yes, fish can do both",
+        "A fish can skip but not run",
+        "No — only people can skip and run",
+        "Fish can run but not skip"
+      ],
+      "answer": 2,
+      "explanation": "The poem says 'But can a fish skip or run?' — the answer is no. A fish can swim but cannot skip or run. That is why the speaker is happy to be a person."
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "me"
+      ],
+      "question": "In 'Me!', a bird can learn to read.",
+      "answer": false,
+      "explanation": "The poem says 'But can a bird learn to read?' — the answer is no! Only people can read. That is another reason the speaker is happy to be themselves."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sandcastle"
+      ],
+      "question": "In 'Sandcastle', the sand is 'soft and _______, wet and brown.' It feels very soft when wet.",
+      "answer": "squishy",
+      "acceptedAnswers": [
+        "squishy",
+        "Squishy"
+      ],
+      "hint": "Very soft and wet",
+      "explanation": "'Squishy' means soft and wet, like wet sand or mud. 'Soft and squishy, wet and brown' describes how the beach sand feels."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sandcastle"
+      ],
+      "question": "In 'Sandcastle', the children 'fill a bucket.' What does 'fill' mean?",
+      "options": [
+        "Empty something out",
+        "Put things in until it is full",
+        "Break something apart",
+        "Kick something away"
+      ],
+      "answer": 1,
+      "explanation": "'Fill' means to put things inside until something is full. The children fill their bucket with sand — they put sand in until the bucket is full."
+    },
+    {
+      "id": "q6",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "sentence",
+        "me"
+      ],
+      "question": "Arrange the words to form a line from 'Me!':",
+      "words": [
+        "be",
+        "to",
+        "fun",
+        "might",
+        "It",
+        "a",
+        "fish",
+        "be"
+      ],
+      "answer": [
+        "It",
+        "might",
+        "be",
+        "fun",
+        "to",
+        "be",
+        "a",
+        "fish"
+      ],
+      "explanation": "Correct line: 'It might be fun to be a fish.' This is the opening line of the poem 'Me!' — the speaker imagines being a fish."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "In 'The Box', Dad _______ a hole into the box — he cut it carefully with a tool.",
+      "answer": "carved",
+      "acceptedAnswers": [
+        "carved",
+        "Carved"
+      ],
+      "hint": "Cut carefully with a tool (past tense)",
+      "explanation": "'Carved' is the past tense of 'carve,' which means to cut carefully. Dad 'carved a little hole' — he cut a hole in the box."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sandcastle"
+      ],
+      "question": "In 'Sandcastle', the children 'gather sticks to make a gate.' This means they collect sticks.",
+      "answer": true,
+      "explanation": "Yes! 'Gather' means to collect or bring together. The children 'gather sticks' — they collect sticks from the beach to use as a gate for their castle."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these vocabulary words — are they from 'The Box' or 'Sandcastle'?",
+      "items": [
+        "dragon",
+        "moat",
+        "carved",
+        "squishy",
+        "cardboard",
+        "decorate"
+      ],
+      "categories": [
+        {
+          "label": "'The Box'",
+          "answers": [
+            "dragon",
+            "carved",
+            "cardboard"
+          ]
+        },
+        {
+          "label": "'Sandcastle'",
+          "answers": [
+            "moat",
+            "squishy",
+            "decorate"
+          ]
+        }
+      ],
+      "explanation": "'Dragon,' 'carved,' and 'cardboard' are from 'The Box.' 'Moat,' 'squishy,' and 'decorate' are from 'Sandcastle.'"
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sandcastle"
+      ],
+      "question": "In 'Sandcastle', there is a _______ around the castle — a ditch of water for protection.",
+      "answer": "moat",
+      "acceptedAnswers": [
+        "moat",
+        "Moat"
+      ],
+      "hint": "A water ditch around a castle",
+      "explanation": "A 'moat' is a deep water ditch that goes around a castle to protect it. In the poem, 'a moat surrounds it all.'"
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "sentence",
+        "sandcastle"
+      ],
+      "question": "Arrange the words to form a line from 'Sandcastle':",
+      "words": [
+        "it",
+        "and",
+        "Fill",
+        "a",
+        "bucket",
+        "up",
+        "dump",
+        "out"
+      ],
+      "answer": [
+        "Fill",
+        "a",
+        "bucket",
+        "dump",
+        "it",
+        "out",
+        "and",
+        "up"
+      ],
+      "explanation": "Wait — the actual line is 'Fill a bucket, fill a cup, / Dump it out, then build it up.' These are the instructions for building a sandcastle."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "me"
+      ],
+      "question": "In 'Me!', the sea is described as 'deep, blue.' Choose the word that BEST describes the sea here.",
+      "options": [
+        "Shallow and green",
+        "Cold and dark",
+        "Very deep and blue-colored",
+        "Warm and orange"
+      ],
+      "answer": 2,
+      "explanation": "'The deep, blue sea' — 'deep' means very far below the surface, and 'blue' is its color. The sea is vast, deep, and blue."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "When the poem says 'crawled inside a cardboard cave,' it means the child literally found a real cave.",
+      "answer": false,
+      "explanation": "No! The box is described as a 'cardboard cave' — but it is just a box. The child is using imagination to pretend the box is a cave. 'Cardboard cave' is a metaphor."
+    },
+    {
+      "id": "q14",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sandcastle"
+      ],
+      "question": "The poem says the sandcastle will soon 'melt _______.' This means it will slowly disappear.",
+      "answer": "away",
+      "acceptedAnswers": [
+        "away",
+        "Away"
+      ],
+      "hint": "The castle disappears in this direction",
+      "explanation": "'Melt away' means to slowly dissolve and disappear. The ocean waves cause the sandcastle to 'melt away' — it slowly falls apart in the water."
+    },
+    {
+      "id": "q15",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words from the poems — are they NOUNS (things/places) or VERBS (actions)?",
+      "items": [
+        "cave",
+        "scoop",
+        "moat",
+        "crawled",
+        "dragon",
+        "zoom"
+      ],
+      "categories": [
+        {
+          "label": "Noun (thing or place)",
+          "answers": [
+            "cave",
+            "moat",
+            "dragon"
+          ]
+        },
+        {
+          "label": "Verb (action word)",
+          "answers": [
+            "scoop",
+            "crawled",
+            "zoom"
+          ]
+        }
+      ],
+      "explanation": "'Cave' (a hollow place), 'moat' (a water ditch), and 'dragon' (a mythical creature) are nouns. 'Scoop' (to pick up), 'crawled' (moved on hands and knees), and 'zoom' (to move fast) are verbs."
+    }
+  ]
+}

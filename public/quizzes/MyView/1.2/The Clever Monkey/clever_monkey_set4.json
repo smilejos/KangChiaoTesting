@@ -1,0 +1,304 @@
+{
+  "meta": {
+    "id": "clever_monkey_set4",
+    "version": "1.0",
+    "title": "The Clever Monkey — Set 4",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Mixed fill-in and sentence practice for 'The Clever Monkey.'",
+    "guid": "b7554ac8-20b7-40df-8e27-a92363f04866"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "The cats loved _______ more than anything. The monkey used it to trick them.",
+      "answer": "cheese",
+      "acceptedAnswers": [
+        "cheese",
+        "Cheese"
+      ],
+      "hint": "A yellow food made from milk",
+      "explanation": "The cats loved 'cheese' more than anything. This is what the monkey used to trick them."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "What does it mean to 'believe' something?",
+      "options": [
+        "To eat something",
+        "To feel sure that something is true",
+        "To divide something",
+        "To be angry about something"
+      ],
+      "answer": 1,
+      "explanation": "'Believe' means to feel sure that something is true. The cats 'could not believe their good fortune' — they were so surprised!"
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "When someone does something 'fairly,' they do it in a way that is equal and just for everyone.",
+      "answer": true,
+      "explanation": "'Fairly' means in a fair and equal way. The cats wanted the cheese divided 'fairly' — equally for both of them."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "The cats needed to _______ the cheese into two equal pieces.",
+      "answer": "divide",
+      "acceptedAnswers": [
+        "divide",
+        "Divide"
+      ],
+      "hint": "To cut or split into parts",
+      "explanation": "'Divide' means to split into parts. The cats needed to divide their cheese so each one got an equal share."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "comprehension"
+      ],
+      "question": "Why couldn't the two cats divide the cheese themselves?",
+      "options": [
+        "They did not have hands to hold the cheese",
+        "Each cat did not trust the other to divide it fairly",
+        "They were too busy eating bananas",
+        "The cheese was too hard to cut"
+      ],
+      "answer": 1,
+      "explanation": "Each cat asked 'How do I know that you will divide it fairly?' — they did not trust each other, so they let the monkey divide it."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "The monkey looked at the pieces very _______. He checked every detail.",
+      "answer": "carefully",
+      "acceptedAnswers": [
+        "carefully",
+        "Carefully"
+      ],
+      "hint": "He paid great attention to detail",
+      "explanation": "'Carefully' means with great attention. The monkey looked at the cheese carefully before announcing the result."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "Which sentence uses 'equal' correctly?",
+      "options": [
+        "I am equal today.",
+        "Both cats got equal pieces of cheese. Each piece was the same size.",
+        "The monkey can equal the cheese.",
+        "We equal our lunch together."
+      ],
+      "answer": 1,
+      "explanation": "'Equal' means the same. 'Both cats got equal pieces' — both pieces were the same size. This is the correct use of 'equal.'"
+    },
+    {
+      "id": "q8",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a correct sentence:",
+      "words": [
+        "equal",
+        "pieces",
+        "not",
+        "are",
+        "The",
+        "two"
+      ],
+      "answer": [
+        "The",
+        "two",
+        "pieces",
+        "are",
+        "not",
+        "equal"
+      ],
+      "explanation": "Correct sentence: 'The two pieces are not equal.' This is what the monkey kept saying to continue his trick."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "'Swung' is the past tense of 'swing.'",
+      "answer": true,
+      "explanation": "Yes! 'Swung' is the past tense of 'swing.' The monkey 'swung down from the tree' — he swung in the past."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "The monkey said, 'I am _______ that I ate too much.' But he was not really sorry!",
+      "answer": "afraid",
+      "acceptedAnswers": [
+        "afraid",
+        "Afraid"
+      ],
+      "hint": "A word that means worried or scared",
+      "explanation": "The monkey said 'I am afraid' — meaning he was worried or sorry. But he was really just tricking the cats to eat more cheese."
+    },
+    {
+      "id": "q11",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort each word — is it positive (good feeling) or negative (bad feeling)?",
+      "items": [
+        "fortune",
+        "mistake",
+        "sadly",
+        "equal",
+        "tricky"
+      ],
+      "categories": [
+        {
+          "label": "Positive / Good",
+          "answers": [
+            "fortune",
+            "equal"
+          ]
+        },
+        {
+          "label": "Negative / Bad",
+          "answers": [
+            "mistake",
+            "sadly",
+            "tricky"
+          ]
+        }
+      ],
+      "explanation": "'Fortune' (good luck) and 'equal' (fair) are positive. 'Mistake,' 'sadly,' and 'tricky' often have negative meanings in this story."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "The cats 'thanked' the monkey. What does 'thanked' mean?",
+      "options": [
+        "They were angry at the monkey",
+        "They expressed gratitude to the monkey",
+        "They gave cheese to the monkey",
+        "They ignored the monkey"
+      ],
+      "answer": 1,
+      "explanation": "'Thanked' means expressed gratitude — said 'thank you.' The cats thanked the monkey each time he divided the cheese, but the monkey was tricking them!"
+    },
+    {
+      "id": "q13",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary"
+      ],
+      "question": "The two pieces were _______the same size — not a single difference!",
+      "answer": "exactly",
+      "acceptedAnswers": [
+        "exactly",
+        "Exactly"
+      ],
+      "hint": "Perfectly, with no difference at all",
+      "explanation": "'Exactly' means perfectly, with no difference. The monkey finally said the pieces were 'exactly the same size' at the very end."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence about the monkey's trick:",
+      "words": [
+        "ate",
+        "The",
+        "cheese",
+        "monkey",
+        "little",
+        "by",
+        "little"
+      ],
+      "answer": [
+        "The",
+        "monkey",
+        "ate",
+        "the",
+        "cheese",
+        "little",
+        "by",
+        "little"
+      ],
+      "explanation": "Correct sentence: 'The monkey ate the cheese little by little.' This means he ate small amounts again and again until it was almost gone."
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "inference"
+      ],
+      "question": "The monkey kept saying 'Uh-oh' because he was really making honest mistakes.",
+      "answer": false,
+      "explanation": "The monkey was not making real mistakes. He was using 'Uh-oh' as part of his clever trick to keep eating the cats' cheese piece by piece."
+    }
+  ]
+}

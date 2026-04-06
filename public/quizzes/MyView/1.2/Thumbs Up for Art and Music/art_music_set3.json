@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "id": "art_music_set3",
+    "version": "1.0",
+    "title": "Thumbs Up for Art and Music — Set 3",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Opinion text structure and sentence practice for 'Thumbs Up for Art and Music.'",
+    "guid": "3e4de22c-c54e-4e8b-bd17-812a6c6a704a"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "text-structure"
+      ],
+      "question": "The text starts by talking about which subjects?",
+      "options": [
+        "Art and music",
+        "Reading, writing, and math",
+        "Sports and cooking",
+        "Science and history"
+      ],
+      "answer": 1,
+      "explanation": "The text begins: 'In school you learn to read and write. You learn to do math problems.' It first mentions reading, writing, and math before introducing art and music."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "comprehension"
+      ],
+      "question": "The author gives TWO different reasons why art is important in school.",
+      "answer": true,
+      "explanation": "Yes! Reason 1: 'You learn to be creative. You have to use your imagination.' Reason 2: 'It makes you think. You figure out how to make amazing things.' Two separate reasons for art."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "opinion"
+      ],
+      "question": "When the author says 'but I do!', what does this tell us?",
+      "options": [
+        "The author is asking a question",
+        "The author is sharing a clear personal opinion",
+        "The author is not sure",
+        "The author is telling a story"
+      ],
+      "answer": 1,
+      "explanation": "'But I do!' is how the author shares their personal opinion. It contrasts with what 'some people' think. This is a key phrase in an opinion text."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "opinion"
+      ],
+      "question": "Some people don't think art is _______, but the author does!",
+      "answer": "important",
+      "acceptedAnswers": [
+        "important",
+        "Important"
+      ],
+      "hint": "Mattering a lot; not to be ignored",
+      "explanation": "The text says 'Some people don't think art in school is important, but I do!' The author disagrees with those people and argues art IS important."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "text-structure"
+      ],
+      "question": "The text gives reasons for art AND reasons for music. How does this make the text stronger?",
+      "options": [
+        "It shows the author knows about two subjects, making the argument more convincing",
+        "It makes the text longer",
+        "It shows that math is not important",
+        "It confuses the reader"
+      ],
+      "answer": 0,
+      "explanation": "By giving reasons for BOTH art AND music, the author shows broader knowledge and makes a stronger case. More reasons = more convincing argument."
+    },
+    {
+      "id": "q6",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a sentence from the text:",
+      "words": [
+        "important",
+        "music",
+        "is",
+        "concentrate",
+        "you",
+        "because",
+        "makes",
+        "it",
+        "Music"
+      ],
+      "answer": [
+        "Music",
+        "is",
+        "important",
+        "because",
+        "it",
+        "makes",
+        "you",
+        "concentrate"
+      ],
+      "explanation": "Correct sentence: 'Music is important because it makes you concentrate.' This is one of the key sentences in the text explaining why music matters."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "text-structure"
+      ],
+      "question": "The author uses the phrase 'Here is why' to introduce the reasons for their opinion.",
+      "answer": true,
+      "explanation": "Yes! The text says 'Here is why' before giving the reasons why art (and music) is important. This is a persuasive text structure — state opinion, then say 'here is why.'"
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "text-structure"
+      ],
+      "question": "How many reasons does the text give for why MUSIC is important?",
+      "options": [
+        "One reason",
+        "Two reasons",
+        "Three reasons",
+        "Four reasons"
+      ],
+      "answer": 1,
+      "explanation": "The text gives two reasons for music: 1) 'It makes you concentrate. You have to remember a lot.' 2) 'You can play with others. You learn about teamwork.'"
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "text-structure",
+        "sorting"
+      ],
+      "question": "Sort these sentences — are they from the BEGINNING, MIDDLE, or END of the text?",
+      "items": [
+        "In school you learn to read and write",
+        "Art is important because you learn to be creative",
+        "They are fun!"
+      ],
+      "categories": [
+        {
+          "label": "Beginning",
+          "answers": [
+            "In school you learn to read and write"
+          ]
+        },
+        {
+          "label": "Middle (reasons)",
+          "answers": [
+            "Art is important because you learn to be creative"
+          ]
+        },
+        {
+          "label": "End (conclusion)",
+          "answers": [
+            "They are fun!"
+          ]
+        }
+      ],
+      "explanation": "The text begins with core subjects, then gives reasons in the middle, and concludes that art and music are fun. Classic opinion text structure!"
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "text-structure"
+      ],
+      "question": "The author says 'There are many _______ having art and music in school is important.'",
+      "answer": "reasons",
+      "acceptedAnswers": [
+        "reasons",
+        "Reasons"
+      ],
+      "hint": "Causes or explanations for why something is true",
+      "explanation": "'Reasons' are explanations for why something is true. The text lists many reasons (creativity, thinking, concentration, teamwork, fun) to support its opinion."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a key sentence from the text:",
+      "words": [
+        "with",
+        "can",
+        "play",
+        "You",
+        "others"
+      ],
+      "answer": [
+        "You",
+        "can",
+        "play",
+        "with",
+        "others"
+      ],
+      "explanation": "Correct sentence: 'You can play with others.' This is one reason music is important — playing music with other people teaches teamwork."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "inference"
+      ],
+      "question": "Why does the author end with 'They are fun!' instead of a harder reason?",
+      "options": [
+        "Because the author ran out of good reasons",
+        "Because 'fun' is a powerful reason — students are more motivated to do things they enjoy",
+        "Because the other reasons were not true",
+        "Because the author likes games"
+      ],
+      "answer": 1,
+      "explanation": "Ending with 'fun' is actually very persuasive! When students enjoy something, they engage more deeply. The author saves this emotional, relatable reason for last — it's the most powerful for young readers."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "text-structure"
+      ],
+      "question": "This text is an example of 'opinion writing' because it shares the author's personal view and gives reasons to support it.",
+      "answer": true,
+      "explanation": "Yes! Opinion writing shares a personal view ('but I do!') and supports it with reasons ('because...'). 'Thumbs Up for Art and Music' does exactly this — it is a classic opinion text."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "sentence"
+      ],
+      "question": "Arrange the words to form the author's conclusion:",
+      "words": [
+        "important",
+        "art",
+        "having",
+        "reasons",
+        "music",
+        "and",
+        "Many",
+        "is"
+      ],
+      "answer": [
+        "Many",
+        "reasons",
+        "having",
+        "art",
+        "and",
+        "music",
+        "is",
+        "important"
+      ],
+      "explanation": "The conclusion begins: 'There are many reasons having art and music in school is important.' This wraps up all the reasons before giving the final best reason: fun!"
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "inference"
+      ],
+      "question": "Which skill from art or music would ALSO help you in a math class?",
+      "options": [
+        "Being creative to solve math problems in new ways",
+        "Making amazing drawings in your math book",
+        "Playing a musical instrument during a math test",
+        "Using your imagination to skip math"
+      ],
+      "answer": 0,
+      "explanation": "Being creative — a skill from art — can also help you solve math problems in new and different ways. The skills from art and music are not just for those subjects; they help in many areas of life!"
+    }
+  ]
+}

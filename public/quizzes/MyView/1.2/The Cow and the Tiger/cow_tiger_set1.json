@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "id": "cow_tiger_set1",
+    "version": "1.0",
+    "title": "The Cow and the Tiger — Set 1",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Reading comprehension quiz for 'The Cow and the Tiger' — story understanding.",
+    "guid": "a74ad8d2-421f-432d-ba11-2cc619a4bc31"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "characters"
+      ],
+      "question": "What is the cow's name in the story?",
+      "options": [
+        "Bella",
+        "Bala",
+        "Bola",
+        "Bula"
+      ],
+      "answer": 1,
+      "explanation": "The cow's name is Bala. The story begins 'Once there was a cow named Bala.'"
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "comprehension"
+      ],
+      "question": "Bala liked to graze in the shadowy forest.",
+      "answer": true,
+      "explanation": "Yes! The story says 'Bala liked to graze in the shadowy forest and then feed her calf.'"
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "plot"
+      ],
+      "question": "What happened when Bala went to the forest one day?",
+      "options": [
+        "She found more grass to eat",
+        "An angry tiger caught her",
+        "She got lost in the forest",
+        "She met a friendly monkey"
+      ],
+      "answer": 1,
+      "explanation": "One day, 'an angry tiger caught her.' This is the problem that starts the story."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "comprehension"
+      ],
+      "question": "Bala asked the tiger to let her go so she could feed her calf.",
+      "answer": true,
+      "explanation": "Yes! Bala said 'Please don't eat me! Let me go feed my calf.' She begged the tiger to let her go."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "plot"
+      ],
+      "question": "What did Bala promise to do?",
+      "options": [
+        "Give the tiger some milk",
+        "Come back to the tiger after feeding her calf",
+        "Stay in the forest forever",
+        "Help the tiger find food"
+      ],
+      "answer": 1,
+      "explanation": "Bala promised: 'I promise, I promise to come back. I'll come back soon. Then you can attack!' She kept her word."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "Bala liked to graze in the _______ forest — it was dark with tree shadows.",
+      "answer": "shadowy",
+      "acceptedAnswers": [
+        "shadowy",
+        "Shadowy"
+      ],
+      "hint": "Full of shadows; dark and shaded",
+      "explanation": "'Shadowy' means full of shadows and shade. The forest was dark and covered in tree shadows."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "plot"
+      ],
+      "question": "How did the tiger feel when Bala came back as promised?",
+      "options": [
+        "Angry and ready to attack immediately",
+        "Surprised and pleased that Bala kept her word",
+        "Afraid of Bala",
+        "Sad and lonely"
+      ],
+      "answer": 1,
+      "explanation": "'Tiger was surprised to see her. He was pleased that Bala kept her word.' The tiger did not expect Bala to return."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "plot"
+      ],
+      "question": "After Bala returned, the tiger still decided to eat her.",
+      "answer": false,
+      "explanation": "The tiger said 'You told the truth. Now I won't attack.' He was so impressed by Bala's honesty that he chose NOT to eat her."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words — are they ADJECTIVES (describing words) or VERBS (action words)?",
+      "items": [
+        "beautiful",
+        "graze",
+        "shadowy",
+        "promise",
+        "angry"
+      ],
+      "categories": [
+        {
+          "label": "Adjective (describing word)",
+          "answers": [
+            "beautiful",
+            "shadowy",
+            "angry"
+          ]
+        },
+        {
+          "label": "Verb (action word)",
+          "answers": [
+            "graze",
+            "promise"
+          ]
+        }
+      ],
+      "explanation": "'Beautiful,' 'shadowy,' and 'angry' describe how things look or feel (adjectives). 'Graze' and 'promise' are things you do (verbs)."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "her",
+        "Bala",
+        "fed",
+        "calf",
+        "quickly"
+      ],
+      "answer": [
+        "Bala",
+        "quickly",
+        "fed",
+        "her",
+        "calf"
+      ],
+      "explanation": "Correct sentence: 'Bala quickly fed her calf.' After the tiger let her go, Bala went home quickly to feed her baby."
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "comprehension"
+      ],
+      "question": "At the end of the story, the tiger promised to protect Bala from other animals.",
+      "answer": true,
+      "explanation": "Yes! 'Tiger was not mad anymore. He promised, he promised to protect Bala from other animals.' The tiger became her protector!"
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "What does 'graze' mean?",
+      "options": [
+        "To run fast",
+        "To eat grass in a field or forest",
+        "To hide in the shadows",
+        "To call for help"
+      ],
+      "answer": 1,
+      "explanation": "'Graze' means to eat grass. Bala liked to graze — eat grass — in the shadowy forest."
+    },
+    {
+      "id": "q13",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary"
+      ],
+      "question": "Bala said she would keep her _______. She came back just as she said.",
+      "answer": "promise",
+      "acceptedAnswers": [
+        "promise",
+        "Promise",
+        "word",
+        "Word"
+      ],
+      "hint": "A commitment to do something",
+      "explanation": "A 'promise' is a commitment to do something. Bala kept her promise by returning to the tiger as she said she would."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "moral"
+      ],
+      "question": "What is the moral of 'The Cow and the Tiger'?",
+      "options": [
+        "Tigers are always dangerous animals",
+        "Always keep your promises and tell the truth",
+        "Cows are stronger than tigers",
+        "Always run away from danger"
+      ],
+      "answer": 1,
+      "explanation": "The moral stated at the end of the story is: 'Always keep your promises. Always tell the truth.' Bala's honesty changed the tiger's heart."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "sentence",
+        "moral"
+      ],
+      "question": "Arrange the words to form the moral of the story:",
+      "words": [
+        "your",
+        "keep",
+        "Always",
+        "promises"
+      ],
+      "answer": [
+        "Always",
+        "keep",
+        "your",
+        "promises"
+      ],
+      "explanation": "Correct sentence: 'Always keep your promises.' This is the first part of the story's moral at the very end."
+    }
+  ]
+}

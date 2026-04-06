@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "id": "poetry_set1",
+    "version": "1.0",
+    "title": "Poetry Collection — Set 1",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Reading comprehension quiz for the Poetry Collection — understanding the poems 'Me!', 'The Box', and 'Sandcastle'.",
+    "guid": "8de6c3dd-fa6d-44e0-b358-42c2cf6dbb05"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "comprehension",
+        "me"
+      ],
+      "question": "In the poem 'Me!', what does the speaker say it 'might be fun' to be?",
+      "options": [
+        "A dog or a cat",
+        "A fish or a bird",
+        "A monkey or a lion",
+        "A dragon or a fox"
+      ],
+      "answer": 1,
+      "explanation": "In 'Me!', the speaker imagines it might be fun to be 'a fish' (and swim the sea) or 'a bird' (and zoom tree to tree)."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "comprehension",
+        "me"
+      ],
+      "question": "In the poem 'Me!', the speaker says 'I'm happy to be me.'",
+      "answer": true,
+      "explanation": "Yes! The refrain of 'Me!' is 'I'm happy to be me.' The speaker is glad to be a person — because fish can't skip or read, but people can!"
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "comprehension",
+        "the-box"
+      ],
+      "question": "In the poem 'The Box', what did the father bring home?",
+      "options": [
+        "A new toy",
+        "A big box",
+        "A set of books",
+        "A pet fish"
+      ],
+      "answer": 1,
+      "explanation": "In 'The Box,' the poem begins 'When Dad brought home the great big box' — the father brought a large cardboard box."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "comprehension",
+        "the-box"
+      ],
+      "question": "In 'The Box', the child first imagined that the box was a dragon's cave.",
+      "answer": true,
+      "explanation": "Yes! The child 'crawled inside a cardboard cave and roared a dragon's roar.' The box first became a cave where the child pretended to be a dragon."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "comprehension",
+        "sandcastle"
+      ],
+      "question": "In 'Sandcastle', what do the waves do to the castle?",
+      "options": [
+        "They make the castle bigger",
+        "They bring more shells and stones",
+        "They knock at the castle door and melt it away",
+        "They help build the walls"
+      ],
+      "answer": 2,
+      "explanation": "The poem says 'Waves reach up and lick the shore, knocking at our castle door. Soon it all will melt away.' The waves destroy the sandcastle."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "me"
+      ],
+      "question": "In 'Me!', a bird can _______ from tree to tree — it moves very fast!",
+      "answer": "zoom",
+      "acceptedAnswers": [
+        "zoom",
+        "Zoom"
+      ],
+      "hint": "Move very quickly",
+      "explanation": "'Zoom' means to move very quickly. The poem says a bird can 'zoom from tree to tree' — birds fly very fast."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "comprehension",
+        "the-box"
+      ],
+      "question": "In 'The Box', how did the box change when the father cut a hole in it?",
+      "options": [
+        "It became a spaceship",
+        "It changed from a dragon's cave to a fox's den",
+        "It became a real house",
+        "It changed from a cave to a sandcastle"
+      ],
+      "answer": 1,
+      "explanation": "When Dad 'carved a little hole into the box,' the poem says 'the cave became a fox's den, and I became a fox.' The imagination changed!"
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "comprehension",
+        "sandcastle"
+      ],
+      "question": "In 'Sandcastle', the children use only sand to decorate their castle.",
+      "answer": false,
+      "explanation": "The children use 'shells and stones to decorate.' They also use 'sticks to make a gate.' It's not just sand — they use natural things they find on the beach."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort each idea — which poem does it belong to?",
+      "items": [
+        "A box becomes a fox's den",
+        "A fish cannot skip",
+        "Waves knock at a castle door",
+        "A bird can zoom from tree to tree",
+        "Shells and stones are used to decorate"
+      ],
+      "categories": [
+        {
+          "label": "'Me!'",
+          "answers": [
+            "A fish cannot skip",
+            "A bird can zoom from tree to tree"
+          ]
+        },
+        {
+          "label": "'The Box'",
+          "answers": [
+            "A box becomes a fox's den"
+          ]
+        },
+        {
+          "label": "'Sandcastle'",
+          "answers": [
+            "Waves knock at a castle door",
+            "Shells and stones are used to decorate"
+          ]
+        }
+      ],
+      "explanation": "Each idea belongs to a different poem: 'Me!' talks about fish and birds. 'The Box' talks about the box becoming a den. 'Sandcastle' mentions waves and decorating."
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "comprehension",
+        "sandcastle"
+      ],
+      "question": "What does the last line of 'Sandcastle' suggest?",
+      "options": [
+        "They are angry that the castle is gone",
+        "They will never build a sandcastle again",
+        "They are invited to come back and build again — building is fun",
+        "The waves are mean and should stop"
+      ],
+      "answer": 2,
+      "explanation": "'Come and build another day!' invites the reader to come back and build again. Even though the castle melts away, the fun of building can happen again."
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "The child 'crawled inside a _______ cave' — the box was made of cardboard.",
+      "answer": "cardboard",
+      "acceptedAnswers": [
+        "cardboard",
+        "Cardboard"
+      ],
+      "hint": "The material boxes are made from",
+      "explanation": "'Cardboard' is the thick, stiff paper material that boxes are made from. The child pretended the cardboard box was a cave."
+    },
+    {
+      "id": "q12",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a line from 'Me!':",
+      "words": [
+        "happy",
+        "me",
+        "be",
+        "I'm",
+        "to"
+      ],
+      "answer": [
+        "I'm",
+        "happy",
+        "to",
+        "be",
+        "me"
+      ],
+      "explanation": "Correct line: 'I'm happy to be me.' This is the refrain (repeating line) of the poem 'Me!' — the speaker loves being a person."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "theme",
+        "me"
+      ],
+      "question": "What is the main message of the poem 'Me!'?",
+      "options": [
+        "It is better to be a fish than a bird",
+        "Be happy and proud of who you are",
+        "Fish and birds have easy lives",
+        "People should learn to swim"
+      ],
+      "answer": 1,
+      "explanation": "The poem compares being a person to being a fish or bird. Even though those might be fun, people can do special things — skip, run, read. 'I'm happy to be me' means be proud of who you are."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "theme",
+        "the-box"
+      ],
+      "question": "In 'The Box', the child uses imagination to turn an ordinary box into many different things.",
+      "answer": true,
+      "explanation": "The box becomes a cave, then a fox's den, then finally a little house with flowers. The child's imagination transforms the box into different things — this shows the power of creativity."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "theme",
+        "sandcastle"
+      ],
+      "question": "What is the theme of 'Sandcastle'?",
+      "options": [
+        "The ocean is a dangerous place",
+        "Enjoy the moment — even beautiful things can be temporary",
+        "Sand is a great building material",
+        "Children should not play near water"
+      ],
+      "answer": 1,
+      "explanation": "The sandcastle is built with joy, but the waves melt it away. The poem says 'Come and build another day!' — enjoy the moment, and when it passes, create again. It shows that temporary things can still bring joy."
+    }
+  ]
+}

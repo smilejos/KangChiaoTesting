@@ -1,0 +1,304 @@
+{
+  "meta": {
+    "id": "clever_monkey_set3",
+    "version": "1.0",
+    "title": "The Clever Monkey — Set 3",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Story sequence and character quiz for 'The Clever Monkey.'",
+    "guid": "e8940bfb-b816-4a68-bc73-27cb63ba986a"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "characters"
+      ],
+      "question": "Who are the main characters in 'The Clever Monkey'?",
+      "options": [
+        "A monkey and a lion",
+        "Two cats and a monkey",
+        "Two dogs and a monkey",
+        "A cat and a bird"
+      ],
+      "answer": 1,
+      "explanation": "The main characters are two cats and a monkey. The cats found the cheese, and the monkey tricked them."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "sequencing"
+      ],
+      "question": "The monkey divided the cheese BEFORE the cats started arguing.",
+      "answer": false,
+      "explanation": "The cats were already arguing about who should divide the cheese BEFORE the monkey came down from the tree."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "sequencing"
+      ],
+      "question": "What happened FIRST in the story?",
+      "options": [
+        "The monkey ate a little cheese",
+        "Two cats found a large piece of cheese",
+        "The cats argued about tiny pieces",
+        "The monkey swung down from a tree"
+      ],
+      "answer": 1,
+      "explanation": "The story begins with two cats finding a large piece of cheese in the jungle. This is the very first event."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "sequencing"
+      ],
+      "question": "What did the monkey do AFTER the cats agreed to let him divide the cheese?",
+      "options": [
+        "He ran away with the cheese",
+        "He divided the cheese and gave it back right away",
+        "He divided the cheese and said the pieces were not equal",
+        "He called his friends to share the cheese"
+      ],
+      "answer": 2,
+      "explanation": "After dividing the cheese, the monkey said 'Uh-oh, I have made a mistake. The pieces are not equal.' This is how his trick started."
+    },
+    {
+      "id": "q5",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "characters"
+      ],
+      "question": "The monkey in the story lived in a _______ above the two cats.",
+      "answer": "tree",
+      "acceptedAnswers": [
+        "tree",
+        "Tree"
+      ],
+      "hint": "Monkeys like to climb these",
+      "explanation": "The monkey was sitting in a tree watching the cats. He swung down when he saw a chance to get the cheese."
+    },
+    {
+      "id": "q6",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "sequencing"
+      ],
+      "question": "Put the events in order from the story. Arrange the words to describe what the monkey did first:",
+      "words": [
+        "tree",
+        "swung",
+        "He",
+        "from",
+        "the",
+        "down"
+      ],
+      "answer": [
+        "He",
+        "swung",
+        "down",
+        "from",
+        "the",
+        "tree"
+      ],
+      "explanation": "Correct sentence: 'He swung down from the tree.' This was the monkey's first action after watching the cats."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "character-traits"
+      ],
+      "question": "The monkey was clever because he used the cats' argument to get cheese for himself.",
+      "answer": true,
+      "explanation": "Yes! The monkey was clever — he saw that the cats were arguing and used this as a chance to eat their cheese piece by piece."
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "sequencing"
+      ],
+      "question": "What happened JUST BEFORE the monkey said 'Uh-oh, I am afraid I ate too much'?",
+      "options": [
+        "The monkeys ate all the cheese",
+        "The monkey ate a little of one piece to make them 'equal'",
+        "The cats ate their tiny pieces",
+        "The monkey divided the cheese perfectly"
+      ],
+      "answer": 1,
+      "explanation": "The monkey first ate a bit from one piece. Then he said 'Uh-oh' and claimed he ate too much, so he 'needed' to fix the other piece too."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "characters",
+        "sorting"
+      ],
+      "question": "Sort these actions — did the MONKEY do it or the CATS do it?",
+      "items": [
+        "divided the cheese",
+        "found the cheese",
+        "argued about the size",
+        "ate the cheese little by little"
+      ],
+      "categories": [
+        {
+          "label": "Monkey",
+          "answers": [
+            "divided the cheese",
+            "ate the cheese little by little"
+          ]
+        },
+        {
+          "label": "Cats",
+          "answers": [
+            "found the cheese",
+            "argued about the size"
+          ]
+        }
+      ],
+      "explanation": "The cats found the cheese and argued. The monkey divided and ate the cheese bit by bit with his clever trick."
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "comprehension"
+      ],
+      "question": "Why did the second cat insist that the cheese be divided equally?",
+      "options": [
+        "The second cat wanted the monkey to stop eating",
+        "The second cat wanted to make sure both cats got the same amount",
+        "The second cat did not like cheese",
+        "The second cat wanted to give the cheese to the monkey"
+      ],
+      "answer": 1,
+      "explanation": "The second cat said 'We need to have the cheese divided equally' because it wanted to make sure both cats got a fair and equal share."
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "comprehension"
+      ],
+      "question": "At the end, the monkey's _______ got bigger and bigger as the cheese got smaller.",
+      "answer": "belly",
+      "acceptedAnswers": [
+        "belly",
+        "Belly"
+      ],
+      "hint": "Another word for stomach",
+      "explanation": "As the monkey kept eating to 'fix' the pieces, his belly (stomach) got bigger and bigger — he was eating all the cheese!"
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "comprehension"
+      ],
+      "question": "At the very end of the story, the two cats shared their tiny pieces of cheese peacefully.",
+      "answer": false,
+      "explanation": "At the end, the cats were still arguing! One said 'Your piece is bigger' and the other said 'No, your piece is bigger.' They never stopped arguing."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "inference"
+      ],
+      "question": "How do you think the cats felt at the end of the story?",
+      "options": [
+        "Happy and full",
+        "Sad and foolish",
+        "Angry at the monkey and ready to get more cheese",
+        "Relieved that the monkey helped them"
+      ],
+      "answer": 1,
+      "explanation": "The cats 'looked sadly at their two tiny pieces.' They were sad because they had lost almost all their cheese, and were still arguing — they felt foolish."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "sequencing",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a correct sentence about the ending:",
+      "words": [
+        "two",
+        "arguing",
+        "still",
+        "The",
+        "cats",
+        "are"
+      ],
+      "answer": [
+        "The",
+        "two",
+        "cats",
+        "are",
+        "still",
+        "arguing"
+      ],
+      "explanation": "Correct sentence: 'The two cats are still arguing.' The story says 'for all we know, they are still there arguing.'"
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "inference",
+        "genre"
+      ],
+      "question": "What kind of story is 'The Clever Monkey'?",
+      "options": [
+        "A true story about animals in Africa",
+        "A folktale that teaches a lesson",
+        "A science article about monkeys",
+        "A poem about the jungle"
+      ],
+      "answer": 1,
+      "explanation": "'The Clever Monkey' is a folktale — a traditional story that is passed down and teaches a lesson (moral). The lesson here is that arguing can cause you to lose everything."
+    }
+  ]
+}

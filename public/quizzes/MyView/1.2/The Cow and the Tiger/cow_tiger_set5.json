@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "id": "cow_tiger_set5",
+    "version": "1.0",
+    "title": "The Cow and the Tiger — Set 5",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Challenge quiz for 'The Cow and the Tiger' — inference, moral, and advanced skills.",
+    "guid": "32bc22ed-bb84-4389-849c-1490ac5aec42"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "moral"
+      ],
+      "question": "What does the moral 'Always keep your promises' mean?",
+      "options": [
+        "Only keep your promises if it is easy",
+        "Do what you said you would do, no matter what",
+        "Promises are not important",
+        "Always make many promises every day"
+      ],
+      "answer": 1,
+      "explanation": "'Always keep your promises' means always do what you said you would do. Bala showed this — even though it was scary, she went back to the tiger."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "moral"
+      ],
+      "question": "The moral of the story says: 'Always tell the truth.'",
+      "answer": true,
+      "explanation": "Yes! The moral at the end is: 'Always keep your promises. Always tell the truth.' Honesty is the main lesson of the story."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "comprehension"
+      ],
+      "question": "Why did Bala ask the tiger to let her go?",
+      "options": [
+        "She wanted to find more grass in the forest",
+        "She needed to go feed her baby calf",
+        "She was afraid and wanted to escape forever",
+        "She wanted to call for help"
+      ],
+      "answer": 1,
+      "explanation": "Bala said 'Please don't eat me! Let me go feed my calf.' She needed to go home to feed her baby calf — that was her reason."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "comprehension"
+      ],
+      "question": "Bala kept her _______. She came back to the tiger just as she said she would.",
+      "answer": "word",
+      "acceptedAnswers": [
+        "word",
+        "Word",
+        "promise",
+        "Promise"
+      ],
+      "hint": "'Kept her ___' means she did what she promised",
+      "explanation": "'Keeping your word' means doing what you promised. Bala 'kept her word' by returning to the tiger."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "inference"
+      ],
+      "question": "Why was the tiger 'surprised' when Bala came back?",
+      "options": [
+        "He forgot about Bala",
+        "He thought Bala would run away and not return",
+        "He was surprised because Bala came back with food",
+        "He was surprised because Bala brought other animals"
+      ],
+      "answer": 1,
+      "explanation": "The tiger expected Bala to escape. He was surprised because most animals would run and never return. Bala's honesty was unexpected and impressed him."
+    },
+    {
+      "id": "q6",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "sentence"
+      ],
+      "question": "Arrange the words to form the story's moral:",
+      "words": [
+        "truth",
+        "the",
+        "tell",
+        "Always"
+      ],
+      "answer": [
+        "Always",
+        "tell",
+        "the",
+        "truth"
+      ],
+      "explanation": "Correct sentence: 'Always tell the truth.' This is the second part of the story's moral — honesty is always important."
+    },
+    {
+      "id": "q7",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "sorting"
+      ],
+      "question": "Sort — did each event make Bala HAPPY or SAD?",
+      "items": [
+        "The tiger caught her",
+        "She fed her calf",
+        "The tiger promised to protect her",
+        "The tiger said he would attack"
+      ],
+      "categories": [
+        {
+          "label": "Made Bala Happy",
+          "answers": [
+            "She fed her calf",
+            "The tiger promised to protect her"
+          ]
+        },
+        {
+          "label": "Made Bala Sad",
+          "answers": [
+            "The tiger caught her",
+            "The tiger said he would attack"
+          ]
+        }
+      ],
+      "explanation": "Bala was sad when she was caught and threatened. She was happy when she fed her calf and when the tiger became her protector."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "inference"
+      ],
+      "question": "Bala going back to the forest was easy and not scary at all.",
+      "answer": false,
+      "explanation": "Returning to the tiger was very scary — the tiger had threatened to eat her! But Bala returned because she made a promise. That is what makes her brave and honest."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "inference"
+      ],
+      "question": "How did Bala's honesty change the tiger?",
+      "options": [
+        "The tiger became angry and ate her",
+        "The tiger ignored Bala and left",
+        "The tiger was so impressed that he forgave her and became her protector",
+        "The tiger learned to graze in the forest"
+      ],
+      "answer": 2,
+      "explanation": "Bala's honesty deeply impressed the tiger. He said 'You told the truth. Now I won't attack.' He even promised to protect her. Honesty changed his heart completely."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "inference"
+      ],
+      "question": "Bala was an _______ cow — she always did what she said she would do.",
+      "answer": "honest",
+      "acceptedAnswers": [
+        "honest",
+        "Honest",
+        "brave",
+        "Brave",
+        "good",
+        "Good"
+      ],
+      "hint": "She never lied; she always kept her word",
+      "explanation": "Bala was 'honest' — she always did what she said. 'Brave' also works because returning to the tiger took great courage."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "theme"
+      ],
+      "question": "Which sentence BEST describes the theme of 'The Cow and the Tiger'?",
+      "options": [
+        "Animals in the forest are dangerous and scary",
+        "Honesty and keeping promises can change people's hearts",
+        "Cows are smarter than tigers",
+        "Never go into a shadowy forest alone"
+      ],
+      "answer": 1,
+      "explanation": "The theme is that honesty and keeping promises can change hearts. Bala's honesty turned a dangerous tiger into a gentle protector."
+    },
+    {
+      "id": "q12",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "sentence"
+      ],
+      "question": "Arrange the words to describe what the tiger did at the end:",
+      "words": [
+        "protect",
+        "to",
+        "Bala",
+        "promised",
+        "Tiger"
+      ],
+      "answer": [
+        "Tiger",
+        "promised",
+        "to",
+        "protect",
+        "Bala"
+      ],
+      "explanation": "Correct sentence: 'Tiger promised to protect Bala.' This shows how much the tiger changed — from predator to protector."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "genre"
+      ],
+      "question": "'The Cow and the Tiger' is a fable because it has animal characters and teaches a moral lesson.",
+      "answer": true,
+      "explanation": "Yes! A fable is a short story with animal characters that teaches a moral lesson. 'The Cow and the Tiger' fits — it has a cow and a tiger, and ends with a clear moral: 'Always keep your promises. Always tell the truth.'"
+    },
+    {
+      "id": "q14",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words from the story — describe Bala or describe Tiger at the START of the story.",
+      "items": [
+        "sad",
+        "angry",
+        "beautiful",
+        "caught",
+        "brave"
+      ],
+      "categories": [
+        {
+          "label": "Describes BALA",
+          "answers": [
+            "sad",
+            "beautiful",
+            "brave"
+          ]
+        },
+        {
+          "label": "Describes TIGER",
+          "answers": [
+            "angry",
+            "caught"
+          ]
+        }
+      ],
+      "explanation": "Bala was sad (when caught), beautiful (she had a beautiful calf), and brave (she went back). The tiger was angry and caught Bala at the beginning."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "inference"
+      ],
+      "question": "What does the story teach us about how to deal with difficult situations?",
+      "options": [
+        "Run away as fast as you can",
+        "Be dishonest to get what you want",
+        "Be honest and brave, even when it is hard",
+        "Ask for help from others"
+      ],
+      "answer": 2,
+      "explanation": "The story teaches us to be honest and brave, even when it is hard. Bala was scared but kept her promise anyway. Her honesty solved everything."
+    }
+  ]
+}
