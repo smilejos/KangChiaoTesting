@@ -1,4 +1,4 @@
-import { Component, Input, Output, EventEmitter, inject, OnChanges } from '@angular/core';
+import { Component, Input, Output, EventEmitter, inject, OnChanges, SimpleChanges } from '@angular/core';
 import { TrueFalseQuestion } from '../../../core/models/question.model';
 import { I18nService } from '../../../core/services/i18n.service';
 
@@ -65,8 +65,10 @@ export class TrueFalseComponent implements OnChanges {
   i18n = inject(I18nService);
   selected: boolean | null = null;
 
-  ngOnChanges(): void {
-    this.selected = null;
+  ngOnChanges(changes: SimpleChanges): void {
+    if (changes['question']) {
+      this.selected = null;
+    }
   }
 
   select(value: boolean): void {

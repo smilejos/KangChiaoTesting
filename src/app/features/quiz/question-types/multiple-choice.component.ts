@@ -1,4 +1,4 @@
-import { Component, Input, Output, EventEmitter, OnChanges } from '@angular/core';
+import { Component, Input, Output, EventEmitter, OnChanges, SimpleChanges } from '@angular/core';
 import { MultipleChoiceQuestion } from '../../../core/models/question.model';
 
 @Component({
@@ -75,8 +75,10 @@ export class MultipleChoiceComponent implements OnChanges {
   letters = ['A', 'B', 'C', 'D', 'E', 'F'];
   selectedIndex: number | null = null;
 
-  ngOnChanges(): void {
-    this.selectedIndex = null;
+  ngOnChanges(changes: SimpleChanges): void {
+    if (changes['question']) {
+      this.selectedIndex = null;
+    }
   }
 
   select(index: number): void {
