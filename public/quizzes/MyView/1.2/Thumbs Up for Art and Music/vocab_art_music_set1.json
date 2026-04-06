@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "id": "vocab_art_music",
+    "version": "1.0",
+    "title": "Thumbs Up for Art and Music — Vocabulary Set 1",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Vocabulary quiz for 'Thumbs Up for Art and Music' — all 16 words (thumbs up, art, music, learn, math, problems, important, think, creative, imagination, figure out, amazing, concentrate, remember, teamwork, fun).",
+    "guid": "e38b172c-a2fe-452f-839b-58b607fc6145"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "What does 'important' mean?",
+      "options": [
+        "Something that does not matter at all",
+        "Something that matters a lot and should not be ignored",
+        "Something that is easy to do",
+        "Something that is very small"
+      ],
+      "answer": 1,
+      "explanation": "'Important' means something that matters a lot. The text says 'Art is important' — it matters a great deal for students."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "What does 'creative' mean?",
+      "options": [
+        "Unable to think of any ideas",
+        "Following only the teacher's instructions",
+        "Able to think of new and original ideas",
+        "Very good at math"
+      ],
+      "answer": 2,
+      "explanation": "'Creative' means able to think of new and original ideas. Art class helps students be creative — they use their own unique ideas to make things."
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "'Imagination' is the ability to think of things that are not real, or to think creatively.",
+      "answer": true,
+      "explanation": "Yes! 'Imagination' is the ability to picture things in your mind that may not be real. Art helps you use your imagination to create original things."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "In music class, you have to _______ — focus all your attention on the notes.",
+      "answer": "concentrate",
+      "acceptedAnswers": [
+        "concentrate",
+        "Concentrate"
+      ],
+      "hint": "To focus closely; to pay full attention",
+      "explanation": "'Concentrate' means to focus all your attention on something. Music requires concentration — you must pay careful attention to notes, rhythm, and timing."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "What does 'teamwork' mean?",
+      "options": [
+        "Working alone on a project",
+        "Watching others work",
+        "Working together as a group",
+        "Competing against other people"
+      ],
+      "answer": 2,
+      "explanation": "'Teamwork' means working together as a group. Music teaches teamwork — students play together and must listen to each other."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Art makes you '_______.' Choose the best meaning of this word in the sentence 'Art is important because it makes you think.'",
+      "options": [
+        "To sleep or rest",
+        "To use your brain to form ideas",
+        "To run very fast",
+        "To copy someone else's work"
+      ],
+      "answer": 1,
+      "explanation": "'Think' means to use your brain to form ideas and solve problems. Art makes you think — you must use your brain to create and make decisions."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "In music class, you have to _______ a lot — like all the notes, words, and rhythms.",
+      "answer": "remember",
+      "acceptedAnswers": [
+        "remember",
+        "Remember"
+      ],
+      "hint": "Keep something in your mind",
+      "explanation": "'Remember' means to keep something in your mind and be able to recall it. Music requires you to remember notes, melodies, lyrics, and rhythms."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "'Figure out' means to solve a problem or find a way to do something.",
+      "answer": true,
+      "explanation": "Yes! 'Figure out' means to find a solution. The text says 'You figure out how to make amazing things' — you solve creative problems in art."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sorting",
+        "parts-of-speech"
+      ],
+      "question": "Sort these words — are they NOUNS (things) or ADJECTIVES (describing words)?",
+      "items": [
+        "imagination",
+        "creative",
+        "teamwork",
+        "amazing",
+        "fun",
+        "art"
+      ],
+      "categories": [
+        {
+          "label": "Noun (a thing)",
+          "answers": [
+            "imagination",
+            "teamwork",
+            "fun",
+            "art"
+          ]
+        },
+        {
+          "label": "Adjective (describing word)",
+          "answers": [
+            "creative",
+            "amazing"
+          ]
+        }
+      ],
+      "explanation": "'Imagination,' 'teamwork,' 'fun,' and 'art' are things (nouns). 'Creative' and 'amazing' are describing words (adjectives) — they describe how something is."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "The painting looks _______! It is so impressive and beautiful.",
+      "answer": "amazing",
+      "acceptedAnswers": [
+        "amazing",
+        "Amazing"
+      ],
+      "hint": "Very impressive and wonderful",
+      "explanation": "'Amazing' means very impressive and wonderful. Art class helps students make 'amazing things' — things that impress and delight people."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "Which sentence uses 'learn' correctly?",
+      "options": [
+        "I learn the music quickly.",
+        "She learns to play the piano — she is getting better every week.",
+        "We learn the art very fast yesterday.",
+        "They learn creative the school."
+      ],
+      "answer": 1,
+      "explanation": "'Learn' means to gain new knowledge or skills. 'She learns to play the piano' — she is gaining the skill of piano playing over time."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "What does 'thumbs up' mean as a phrase?",
+      "options": [
+        "I disagree with this idea",
+        "I am not sure",
+        "I approve and support this",
+        "This is very difficult"
+      ],
+      "answer": 2,
+      "explanation": "'Thumbs up' is an expression meaning approval — 'I agree!' or 'I support this!' The title 'Thumbs Up for Art and Music' means the author strongly approves of art and music in school."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a correct sentence:",
+      "words": [
+        "makes",
+        "you",
+        "concentrate",
+        "Music",
+        "remember",
+        "and"
+      ],
+      "answer": [
+        "Music",
+        "makes",
+        "you",
+        "concentrate",
+        "and",
+        "remember"
+      ],
+      "explanation": "Correct sentence: 'Music makes you concentrate and remember.' This summarizes why music is important — it builds concentration and memory skills."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary"
+      ],
+      "question": "'Problems' in the phrase 'math problems' means something is broken or going wrong.",
+      "answer": false,
+      "explanation": "In this context, 'problems' means math questions or exercises, like '3 + 4 = ?' It does not mean something is broken. The word 'problem' has different meanings depending on the context."
+    },
+    {
+      "id": "q15",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these skills — do you learn them from ART or from MUSIC (according to the text)?",
+      "items": [
+        "being creative",
+        "concentrating",
+        "using imagination",
+        "teamwork",
+        "making amazing things",
+        "remembering a lot"
+      ],
+      "categories": [
+        {
+          "label": "From ART",
+          "answers": [
+            "being creative",
+            "using imagination",
+            "making amazing things"
+          ]
+        },
+        {
+          "label": "From MUSIC",
+          "answers": [
+            "concentrating",
+            "teamwork",
+            "remembering a lot"
+          ]
+        }
+      ],
+      "explanation": "Art teaches creativity, imagination, and making amazing things. Music teaches concentration, teamwork, and memory. Both build important life skills!"
+    }
+  ]
+}

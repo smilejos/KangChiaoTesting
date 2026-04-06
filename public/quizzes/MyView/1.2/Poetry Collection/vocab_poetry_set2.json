@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "id": "vocab_poetry_set2",
+    "version": "1.0",
+    "title": "Poetry Collection — Vocabulary Set 2",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Part 1 words focus: might, deep, skip, zoom, brought, great, box, crawled (from 'Me!' and 'The Box').",
+    "guid": "0f67ac7f-9079-4297-a665-414f6025246f"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "me",
+        "the-box"
+      ],
+      "question": "What does 'might' mean in 'It might be fun to be a fish'?",
+      "options": [
+        "It definitely is fun",
+        "It definitely is not fun",
+        "It is possible, but not certain",
+        "It was fun in the past"
+      ],
+      "answer": 2,
+      "explanation": "'Might' means something is possible but not certain. 'It might be fun' — the speaker is imagining it could be fun, but is not sure."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "me"
+      ],
+      "question": "'Deep' means very far down from the surface.",
+      "answer": true,
+      "explanation": "Yes! 'Deep' means extending far down from the top or surface. 'The deep blue sea' means the ocean goes very far down — it seems endless."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "me"
+      ],
+      "question": "Children love to _______ in the playground — they jump from foot to foot!",
+      "answer": "skip",
+      "acceptedAnswers": [
+        "skip",
+        "Skip"
+      ],
+      "hint": "A light, jumping movement from foot to foot",
+      "explanation": "'Skip' means to move forward by lightly jumping from one foot to the other. Fish cannot skip — only people can! That is why the poem celebrates being human."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "me"
+      ],
+      "question": "The bird can 'zoom' from tree to tree. What does 'zoom' mean?",
+      "options": [
+        "To move very slowly",
+        "To stop suddenly",
+        "To move very fast",
+        "To sing loudly"
+      ],
+      "answer": 2,
+      "explanation": "'Zoom' means to move very fast. When a bird 'zooms' from tree to tree, it flies with great speed."
+    },
+    {
+      "id": "q5",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "Mom _______ home a big surprise — she carried it through the door.",
+      "answer": "brought",
+      "acceptedAnswers": [
+        "brought",
+        "Brought"
+      ],
+      "hint": "Past tense of 'bring'",
+      "explanation": "'Brought' is the past tense of 'bring.' 'She brought a surprise' means she carried it and delivered it. In 'The Box,' Dad brought home a big cardboard box."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "'Great' in 'a great dragon' means the dragon is:",
+      "options": [
+        "Very small and weak",
+        "Very large and impressive",
+        "Very quiet and peaceful",
+        "Very friendly and gentle"
+      ],
+      "answer": 1,
+      "explanation": "'Great' can mean very large, impressive, or powerful. 'A great dragon' is a magnificent, powerful dragon — exactly what a child might imagine!"
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "A 'box' is a container, usually with four sides, a bottom, and a lid.",
+      "answer": true,
+      "explanation": "Yes! A 'box' is a rectangular container with sides and usually a lid. In 'The Box,' Dad brought home a large cardboard box that a child uses for imaginative play."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "The baby _______ across the floor because she could not walk yet.",
+      "answer": "crawled",
+      "acceptedAnswers": [
+        "crawled",
+        "Crawled"
+      ],
+      "hint": "Moved on hands and knees",
+      "explanation": "'Crawled' means moved on hands and knees — close to the ground. Babies crawl before they learn to walk. The child 'crawled inside a cardboard cave.'"
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "Sort these Part 1 words by part of speech.",
+      "items": [
+        "skip",
+        "box",
+        "zoom",
+        "might",
+        "deep",
+        "crawled"
+      ],
+      "categories": [
+        {
+          "label": "Verb (action word)",
+          "answers": [
+            "skip",
+            "zoom",
+            "crawled"
+          ]
+        },
+        {
+          "label": "Noun (a thing)",
+          "answers": [
+            "box"
+          ]
+        },
+        {
+          "label": "Adjective / Modal verb",
+          "answers": [
+            "might",
+            "deep"
+          ]
+        }
+      ],
+      "explanation": "'Skip,' 'zoom,' and 'crawled' are actions (verbs). 'Box' is a thing (noun). 'Might' is a modal verb (expresses possibility). 'Deep' describes something (adjective)."
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "Which sentence uses 'brought' correctly?",
+      "options": [
+        "She brought very happy today.",
+        "He brought a big box home from the store.",
+        "The box brought in the room.",
+        "They zoom brought the tree."
+      ],
+      "answer": 1,
+      "explanation": "'Brought' (past tense of bring) needs a person bringing something somewhere. 'He brought a box home' — he carried it and delivered it to his home. Correct!"
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence from 'Me!':",
+      "words": [
+        "be",
+        "to",
+        "It",
+        "be",
+        "fish",
+        "might",
+        "fun",
+        "a"
+      ],
+      "answer": [
+        "It",
+        "might",
+        "be",
+        "fun",
+        "to",
+        "be",
+        "a",
+        "fish"
+      ],
+      "explanation": "Correct sentence: 'It might be fun to be a fish.' This is the opening line of 'Me!' — the speaker imagines what it would be like to be a fish, using 'might' to show it's just an idea."
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "'Zoom' is only used for the sounds a car makes — not for how birds fly.",
+      "answer": false,
+      "explanation": "'Zoom' means to move very fast — it can describe any fast movement: cars, birds, airplanes, or even people. In 'Me!', birds 'zoom from tree to tree' because they fly very fast."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "The poem uses 'a great dragon.' What does this tell us about the child's imagination?",
+      "options": [
+        "The child saw a real dragon",
+        "The child imagines the box as a lair for a powerful, magnificent beast",
+        "The child was afraid of boxes",
+        "The box was shaped like a dragon"
+      ],
+      "answer": 1,
+      "explanation": "The child uses 'great' to make the imaginary dragon sound powerful and impressive. The box becomes a lair for a magnificent beast — 'great' elevates the imagination from simple to epic."
+    },
+    {
+      "id": "q14",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "She _______ down the hallway as fast as she could — she moved like a rocket!",
+      "answer": "zoomed",
+      "acceptedAnswers": [
+        "zoomed",
+        "Zoomed"
+      ],
+      "hint": "Past tense of zoom — moved very fast",
+      "explanation": "'Zoomed' is the past tense of 'zoom' — to move very fast. 'She zoomed down the hallway' paints a picture of extreme speed."
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "'Might' and 'could' have similar meanings when talking about possibilities.",
+      "answer": true,
+      "explanation": "Yes! 'It might be fun' ≈ 'It could be fun.' Both 'might' and 'could' express that something is possible, though not certain. They are modal verbs used for imagining possibilities."
+    }
+  ]
+}

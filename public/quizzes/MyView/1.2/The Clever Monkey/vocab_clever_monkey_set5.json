@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "id": "vocab_clever_monkey_set5",
+    "version": "1.0",
+    "title": "The Clever Monkey — Vocabulary Set 5",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Challenge set — antonyms, word families, advanced usage across all 16 words.",
+    "guid": "a2980926-8cdb-4c53-96e4-aab6780ebe30"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the opposite of 'equal'?",
+      "options": [
+        "Fairly",
+        "Exactly",
+        "Unequal",
+        "Sadly"
+      ],
+      "answer": 2,
+      "explanation": "The opposite of 'equal' (the same amount) is 'unequal' (different amounts). The monkey made sure the pieces were unequal so he could eat more."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the opposite of 'mistake'?",
+      "options": [
+        "Fortune",
+        "The right answer / correct action",
+        "Piece",
+        "Jungle"
+      ],
+      "answer": 1,
+      "explanation": "A 'mistake' is something wrong or incorrect. The opposite is doing the 'right' or 'correct' thing. If you get the answer right, you made no mistake."
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "'Divide,' 'division,' and 'divided' all come from the same word family.",
+      "answer": true,
+      "explanation": "Yes! 'Divide' (verb), 'division' (noun), and 'divided' (past tense) are all from the same word family. They all relate to splitting things into parts."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the opposite of 'afraid'?",
+      "options": [
+        "Sadly",
+        "Brave / unafraid",
+        "Tricky",
+        "Carefully"
+      ],
+      "answer": 1,
+      "explanation": "The opposite of 'afraid' (scared) is 'brave' or 'unafraid' (not scared). A brave person is not afraid even when things are difficult."
+    },
+    {
+      "id": "q5",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "Match each word to its OPPOSITE.",
+      "items": [
+        "tricky",
+        "sadly",
+        "carefully",
+        "fairly"
+      ],
+      "categories": [
+        {
+          "label": "Easy / simple",
+          "answers": [
+            "tricky"
+          ]
+        },
+        {
+          "label": "Happily",
+          "answers": [
+            "sadly"
+          ]
+        },
+        {
+          "label": "Carelessly",
+          "answers": [
+            "carefully"
+          ]
+        },
+        {
+          "label": "Unfairly",
+          "answers": [
+            "fairly"
+          ]
+        }
+      ],
+      "explanation": "Opposites: tricky ↔ easy, sadly ↔ happily, carefully ↔ carelessly, fairly ↔ unfairly. Knowing antonyms helps you understand word meanings more deeply."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "Which sentence uses 'fortune' and 'mistake' BOTH correctly?",
+      "options": [
+        "It was a fortune mistake to enter the jungle.",
+        "Her fortune was to make a mistake — so lucky!",
+        "By good fortune, she found the mistake in her work before the teacher saw it.",
+        "The mistake was a great fortune for the cats."
+      ],
+      "answer": 2,
+      "explanation": "'By good fortune' (luckily) she found the 'mistake' (error) before the teacher. Both words are used with their correct meanings."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "'Care,' 'careful,' and 'carefully' are all related — 'care' is the root word.",
+      "answer": true,
+      "explanation": "Yes! 'Care' (noun/verb) → 'careful' (adjective) → 'carefully' (adverb). Learning the root word 'care' helps you understand the whole word family."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "The monkey pretended to be sorry, but he did not _______ feel bad about eating the cheese.",
+      "answer": "truly",
+      "acceptedAnswers": [
+        "truly",
+        "Truly",
+        "really",
+        "Really",
+        "actually",
+        "Actually"
+      ],
+      "hint": "He was only pretending — not _______ sorry",
+      "explanation": "The monkey's apology was fake. He did not 'truly' (really, actually) feel bad. This is the point of the story — the monkey used words to trick the cats."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "In the story, the monkey behaved 'unfairly.' Which BEST describes what this means?",
+      "options": [
+        "He divided the cheese into exactly equal pieces",
+        "He helped the cats as much as he could",
+        "He cheated by eating more cheese than the cats received",
+        "He refused to touch the cheese"
+      ],
+      "answer": 2,
+      "explanation": "Acting 'unfairly' means not giving everyone an equal share. The monkey ate more cheese himself while pretending to help — that is unfair."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a sentence about the monkey's personality:",
+      "words": [
+        "believe",
+        "could",
+        "cats",
+        "how",
+        "tricky",
+        "The",
+        "not",
+        "was",
+        "the",
+        "monkey"
+      ],
+      "answer": [
+        "The",
+        "cats",
+        "could",
+        "not",
+        "believe",
+        "how",
+        "tricky",
+        "the",
+        "monkey",
+        "was"
+      ],
+      "explanation": "Correct sentence: 'The cats could not believe how tricky the monkey was.' This captures both 'believe' and 'tricky' in a single meaningful sentence about the story's theme."
+    },
+    {
+      "id": "q11",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "Sort these words — are they BASE WORDS or WORD FORMS (changed versions)?",
+      "items": [
+        "divide",
+        "divided",
+        "sadly",
+        "sad",
+        "carefully",
+        "care"
+      ],
+      "categories": [
+        {
+          "label": "Base word (root form)",
+          "answers": [
+            "divide",
+            "sad",
+            "care"
+          ]
+        },
+        {
+          "label": "Word form (changed version)",
+          "answers": [
+            "divided",
+            "sadly",
+            "carefully"
+          ]
+        }
+      ],
+      "explanation": "'Divide,' 'sad,' and 'care' are base/root words. 'Divided' (past tense), 'sadly' (adverb from sad), and 'carefully' (adverb from care) are changed forms."
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "The sentence 'She swung the cheese exactly and fairly' uses these words correctly.",
+      "answer": false,
+      "explanation": "No — 'swung' is used incorrectly. You 'swing' on a branch or swing set, not cheese. 'Exactly' and 'fairly' are fine as adverbs, but 'swung the cheese' doesn't make sense."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "Which TWO words from the story describe the SAME type of character trait?",
+      "options": [
+        "'Tricky' and 'exactly' — both are about being clever",
+        "'Tricky' and 'fairly' — both describe honesty",
+        "'Tricky' describes the monkey's dishonesty; 'fairly' describes the OPPOSITE — honesty",
+        "'Exactly' and 'equal' — both are adjectives"
+      ],
+      "answer": 2,
+      "explanation": "'Tricky' = sneaky, dishonest. 'Fairly' = just, honest. They are OPPOSITES in meaning. The monkey claimed to act 'fairly' but was actually being 'tricky.' Understanding these contrasts reveals the story's point."
+    },
+    {
+      "id": "q14",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "It shows _______ good _______ to find the lost wallet and return it to its owner.",
+      "answer": "good fortune",
+      "acceptedAnswers": [
+        "good fortune",
+        "Good Fortune",
+        "great fortune",
+        "Great Fortune"
+      ],
+      "hint": "Two words: very good ___",
+      "explanation": "'Good fortune' means great luck. Finding a lost wallet and returning it is lucky for the owner — and finding it in the first place is the finder's good fortune."
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "theme"
+      ],
+      "question": "The monkey's trick worked because the cats were 'tricky' and pretended not to notice.",
+      "answer": false,
+      "explanation": "No — the MONKEY was tricky, not the cats. The cats were honest and trusting, which is why the monkey's trickery worked. The cats genuinely did not realize they were being cheated."
+    }
+  ]
+}

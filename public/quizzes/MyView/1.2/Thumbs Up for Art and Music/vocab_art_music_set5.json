@@ -1,0 +1,371 @@
+{
+  "meta": {
+    "id": "vocab_art_music_set5",
+    "version": "1.0",
+    "title": "Thumbs Up for Art and Music — Vocabulary Set 5",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Challenge set — antonyms, word families, opinion vocabulary, advanced usage across all 16 words.",
+    "guid": "dc270f2f-3d7d-4d31-a2e8-a21f60b62a82"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the OPPOSITE of 'important'?",
+      "options": [
+        "Creative",
+        "Unimportant / not needed",
+        "Amazing",
+        "Fun"
+      ],
+      "answer": 1,
+      "explanation": "The opposite of 'important' (matters a lot) is 'unimportant' or 'not needed' (does not matter). The text argues art is important — the opposite view would be that art is unimportant."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the OPPOSITE of 'remember'?",
+      "options": [
+        "Concentrate",
+        "Teamwork",
+        "Forget",
+        "Figure out"
+      ],
+      "answer": 2,
+      "explanation": "The opposite of 'remember' (keep in memory) is 'forget' (lose from memory). Music helps you remember — without practice, you would forget the notes."
+    },
+    {
+      "id": "q3",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "Match each word to its OPPOSITE.",
+      "items": [
+        "creative",
+        "amazing",
+        "concentrate",
+        "teamwork"
+      ],
+      "categories": [
+        {
+          "label": "Unimaginative / uncreative",
+          "answers": [
+            "creative"
+          ]
+        },
+        {
+          "label": "Boring / ordinary",
+          "answers": [
+            "amazing"
+          ]
+        },
+        {
+          "label": "Lose focus / be distracted",
+          "answers": [
+            "concentrate"
+          ]
+        },
+        {
+          "label": "Work alone / individual effort",
+          "answers": [
+            "teamwork"
+          ]
+        }
+      ],
+      "explanation": "Antonyms: creative ↔ uncreative, amazing ↔ boring, concentrate ↔ be distracted, teamwork ↔ working alone. These opposites reveal what each word truly means."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "'Imagine,' 'imagination,' and 'imaginative' all come from the same root word.",
+      "answer": true,
+      "explanation": "Yes! 'Imagine' (verb) → 'imagination' (noun) → 'imaginative' (adjective). All three from the Latin 'imago' meaning image. Knowing the root helps you understand the whole word family."
+    },
+    {
+      "id": "q5",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "Sort these words — BASE WORDS or CHANGED FORMS?",
+      "items": [
+        "create",
+        "creative",
+        "imagine",
+        "imagination",
+        "team",
+        "teamwork"
+      ],
+      "categories": [
+        {
+          "label": "Base word",
+          "answers": [
+            "create",
+            "imagine",
+            "team"
+          ]
+        },
+        {
+          "label": "Changed form (adjective / noun compound)",
+          "answers": [
+            "creative",
+            "imagination",
+            "teamwork"
+          ]
+        }
+      ],
+      "explanation": "'Create,' 'imagine,' and 'team' are base/root words. 'Creative' (adjective), 'imagination' (noun from imagine), and 'teamwork' (compound noun: team + work) are changed forms."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "opinion"
+      ],
+      "question": "The author says art is 'important.' This is an OPINION. Which response expresses the OPPOSITE opinion?",
+      "options": [
+        "Art is very important for all students.",
+        "Art is the only subject that really matters.",
+        "Art is not important — students only need reading and math.",
+        "Art is important and music is amazing."
+      ],
+      "answer": 2,
+      "explanation": "The author's opinion: art IS important. The opposite opinion: art is NOT important, only reading and math matter. In opinion writing, the opposite view is called the 'counter-argument.'"
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "'Concentrate' and 'focus' can be used interchangeably in most sentences.",
+      "answer": true,
+      "explanation": "Yes! 'Concentrate on the music' = 'Focus on the music.' Both mean to direct your full attention to one thing. They are near-synonyms and can usually replace each other."
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "Which sentence BEST shows how 'imagination' and 'creative' work TOGETHER?",
+      "options": [
+        "Imagination is creative fun teamwork.",
+        "A creative artist uses imagination to invent new things that have never existed before.",
+        "You creative the imagination by concentrating.",
+        "Imagination teams up with creative math problems."
+      ],
+      "answer": 1,
+      "explanation": "'A creative artist' (one with original ideas) 'uses imagination' (the ability to picture things in the mind) 'to invent new things.' These two concepts work together — creativity is expressed THROUGH imagination."
+    },
+    {
+      "id": "q9",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a sentence comparing art and math:",
+      "words": [
+        "can",
+        "Art",
+        "solve",
+        "you",
+        "help",
+        "better",
+        "math",
+        "problems"
+      ],
+      "answer": [
+        "Art",
+        "can",
+        "help",
+        "you",
+        "solve",
+        "math",
+        "problems",
+        "better"
+      ],
+      "explanation": "Correct sentence: 'Art can help you solve math problems better.' This is one of the text's key claims — creative thinking from art class transfers to mathematical problem-solving."
+    },
+    {
+      "id": "q10",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "benefits"
+      ],
+      "question": "Sort these benefits — are they benefits of ART or MUSIC, according to the text?",
+      "items": [
+        "using your imagination",
+        "concentrating",
+        "being creative",
+        "learning teamwork",
+        "figuring out problems",
+        "remembering a lot"
+      ],
+      "categories": [
+        {
+          "label": "Benefit of ART",
+          "answers": [
+            "using your imagination",
+            "being creative",
+            "figuring out problems"
+          ]
+        },
+        {
+          "label": "Benefit of MUSIC",
+          "answers": [
+            "concentrating",
+            "learning teamwork",
+            "remembering a lot"
+          ]
+        }
+      ],
+      "explanation": "The text says: Art → imagination, creativity, problem-solving. Music → concentration, teamwork, memory. Both are valuable but they develop different skill sets."
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "The word 'fun' is always a noun in English — you can never use it as an adjective.",
+      "answer": false,
+      "explanation": "'Fun' can be both a noun ('We had fun') and an adjective ('It was a fun game'). In the text, 'Music is fun' uses 'fun' as a predicate adjective describing music."
+    },
+    {
+      "id": "q12",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence about learning:",
+      "words": [
+        "figure",
+        "helps",
+        "Art",
+        "out",
+        "to",
+        "you",
+        "how",
+        "things"
+      ],
+      "answer": [
+        "Art",
+        "helps",
+        "you",
+        "to",
+        "figure",
+        "out",
+        "how",
+        "things"
+      ],
+      "explanation": "Correct sentence: 'Art helps you to figure out how things work.' When you create art, you problem-solve constantly — figuring out colors, shapes, and techniques."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "theme"
+      ],
+      "question": "The author gives a 'thumbs up' for art and music. Which of these BEST summarizes why?",
+      "options": [
+        "They are easy subjects that require no thinking",
+        "They develop creativity, imagination, memory, concentration, and teamwork",
+        "They replace math and reading in the school schedule",
+        "They are only useful for students who want to be artists"
+      ],
+      "answer": 1,
+      "explanation": "The author argues for art and music because they develop a FULL range of skills: creativity and imagination (art), plus memory, concentration, and teamwork (music). These are life skills, not just artistic ones."
+    },
+    {
+      "id": "q14",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "To be a great team player, you need to put away _______ goals and focus on what the group needs.",
+      "answer": "individual",
+      "acceptedAnswers": [
+        "individual",
+        "Individual",
+        "personal",
+        "Personal",
+        "your own",
+        "your"
+      ],
+      "hint": "The opposite of team — just one person's",
+      "explanation": "Good 'teamwork' requires setting aside personal (individual) goals for the group's success. The opposite of teamwork is individual effort — working only for yourself."
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "theme"
+      ],
+      "question": "The vocabulary in this text (creative, imagination, teamwork, concentrate) shows that art and music develop BOTH creative AND academic skills.",
+      "answer": true,
+      "explanation": "Yes! 'Creative' and 'imagination' are creative skills. 'Concentrate' and 'remember' are academic skills. 'Teamwork' is a social skill. Art and music develop ALL of these — that is the author's main argument!"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "vocab_clever_monkey_set4",
+    "version": "1.0",
+    "title": "The Clever Monkey — Vocabulary Set 4",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "All 16 words in context — sentence completion and word usage practice.",
+    "guid": "82c3f102-0b74-4793-8273-d4da8a3d19ff"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "I like _______ on my sandwich. It is yellow and tasty.",
+      "answer": "cheese",
+      "acceptedAnswers": [
+        "cheese",
+        "Cheese"
+      ],
+      "hint": "A yellow food made from milk",
+      "explanation": "'Cheese' is a food made from milk. It is often yellow and is used in sandwiches, pizzas, and many other foods."
+    },
+    {
+      "id": "q2",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "We _______ the cookies. Each kid gets three.",
+      "answer": "divide",
+      "acceptedAnswers": [
+        "divide",
+        "Divide",
+        "divided",
+        "Divided"
+      ],
+      "hint": "Split into equal parts",
+      "explanation": "'Divide' means to split into parts. When you divide the cookies equally, each person gets the same number."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "We have an _______ number of balls. We both have three.",
+      "answer": "equal",
+      "acceptedAnswers": [
+        "equal",
+        "Equal"
+      ],
+      "hint": "The same amount",
+      "explanation": "'Equal' means the same. Both having three balls makes the amounts equal — no one has more."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The game is _______. It is hard to win.",
+      "answer": "tricky",
+      "acceptedAnswers": [
+        "tricky",
+        "Tricky"
+      ],
+      "hint": "Hard and clever at the same time",
+      "explanation": "'Tricky' means difficult in a clever way. A tricky game requires careful thought because it is not straightforward."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "I _______ my mom for making dinner.",
+      "options": [
+        "divided",
+        "thanked",
+        "believed",
+        "swung"
+      ],
+      "answer": 1,
+      "explanation": "'Thanked' means said thank you to someone. 'I thanked my mom' — I expressed my gratitude to her for making dinner."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "I walk _______ down the icy stairs.",
+      "answer": "carefully",
+      "acceptedAnswers": [
+        "carefully",
+        "Carefully"
+      ],
+      "hint": "Slowly and with great attention",
+      "explanation": "'Carefully' means with great care and attention. Walking carefully on ice means moving slowly to avoid slipping."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "I _______ it will rain today, so I bring my umbrella.",
+      "answer": "believe",
+      "acceptedAnswers": [
+        "believe",
+        "Believe"
+      ],
+      "hint": "Think something is true",
+      "explanation": "'Believe' means to think something is true. 'I believe it will rain' — you think rain is likely based on what you see."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "I am _______ of watching scary movies. They frighten me!",
+      "answer": "afraid",
+      "acceptedAnswers": [
+        "afraid",
+        "Afraid"
+      ],
+      "hint": "Feeling scared or frightened",
+      "explanation": "'Afraid' means scared. Being 'afraid of scary movies' means you feel frightened by them."
+    },
+    {
+      "id": "q9",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The boy _______ on the swing at the park. He went back and forth.",
+      "answer": "swung",
+      "acceptedAnswers": [
+        "swung",
+        "Swung"
+      ],
+      "hint": "Past tense of swing",
+      "explanation": "'Swung' is the past tense of 'swing.' The boy swung on the swing — he moved back and forth on it."
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The teacher _______ the prizes between the students so everyone got the same.",
+      "options": [
+        "mistaken",
+        "divided",
+        "believed",
+        "thanked"
+      ],
+      "answer": 1,
+      "explanation": "'Divided' means split into equal parts. The teacher divided the prizes so each student got the same number."
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The children looked _______ at the broken toy — they were very unhappy.",
+      "answer": "sadly",
+      "acceptedAnswers": [
+        "sadly",
+        "Sadly"
+      ],
+      "hint": "In an unhappy way",
+      "explanation": "'Sadly' means in an unhappy way. The children looked sadly at the broken toy — their faces showed unhappiness."
+    },
+    {
+      "id": "q12",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to make a sentence about being fair:",
+      "words": [
+        "game",
+        "the",
+        "play",
+        "We",
+        "fairly"
+      ],
+      "answer": [
+        "We",
+        "play",
+        "the",
+        "game",
+        "fairly"
+      ],
+      "explanation": "Correct sentence: 'We play the game fairly.' 'Fairly' describes how we play — in a just and equal way, following the rules."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Choose the sentence where 'fortune' is used CORRECTLY:",
+      "options": [
+        "She fortune the cookies into two pieces.",
+        "He made a fortune mistake on the test.",
+        "Winning first place was a great fortune — what luck!",
+        "They carefully fortune the cheese."
+      ],
+      "answer": 2,
+      "explanation": "'Fortune' means great luck. 'A great fortune' means a wonderful stroke of luck — like winning first place unexpectedly."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to make a sentence about the monkey's trick:",
+      "words": [
+        "the",
+        "The",
+        "exactly",
+        "pieces",
+        "same",
+        "were",
+        "not"
+      ],
+      "answer": [
+        "The",
+        "pieces",
+        "were",
+        "not",
+        "exactly",
+        "the",
+        "same"
+      ],
+      "explanation": "Correct sentence: 'The pieces were not exactly the same.' This is what the monkey kept pretending — he said the pieces were unequal so he could eat more cheese."
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "In the sentence 'The jungle was a mistake to enter,' 'mistake' is used as a noun.",
+      "answer": true,
+      "explanation": "Yes! 'Mistake' is a noun — a thing. 'A mistake' is an error or wrong action. In this sentence, 'a mistake' is the subject's action of entering — it is treated as a thing that happened."
+    }
+  ]
+}

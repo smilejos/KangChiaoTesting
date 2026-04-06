@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "id": "vocab_art_music_set3",
+    "version": "1.0",
+    "title": "Thumbs Up for Art and Music — Vocabulary Set 3",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Part 2 words focus: creative, imagination, figure out, amazing, concentrate, remember, teamwork, fun.",
+    "guid": "7d3c7845-0263-432f-8439-b9945ec9fcce"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What does 'creative' mean?",
+      "options": [
+        "Following strict rules only",
+        "Able to think of new and original ideas",
+        "Very good at memorizing facts",
+        "Always working alone"
+      ],
+      "answer": 1,
+      "explanation": "'Creative' means able to think of new, original ideas. A creative person sees things in fresh ways and comes up with unique ideas that others might not think of."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "'Imagination' means the ability to think about things that are not in front of you or do not exist yet.",
+      "answer": true,
+      "explanation": "Yes! 'Imagination' is the ability to form pictures or ideas in your mind — things that may not be real or that haven't happened yet. Art relies on imagination to create original work."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "This puzzle is hard! Let me _______ _______ how to solve it.",
+      "answer": "figure out",
+      "acceptedAnswers": [
+        "figure out",
+        "Figure out",
+        "Figure Out"
+      ],
+      "hint": "To find the answer / solve it",
+      "explanation": "'Figure out' means to find a solution or understand something. 'I'll figure out how to solve it' means I'll work until I find the answer."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What does 'amazing' mean?",
+      "options": [
+        "Very boring and ordinary",
+        "Very difficult and confusing",
+        "Very impressive and wonderful",
+        "Very quiet and peaceful"
+      ],
+      "answer": 2,
+      "explanation": "'Amazing' means very impressive and wonderful — something that makes you say 'Wow!' Creative students in art class make 'amazing things' that impress everyone."
+    },
+    {
+      "id": "q5",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Playing in a band teaches _______. Everyone must listen and work together.",
+      "answer": "teamwork",
+      "acceptedAnswers": [
+        "teamwork",
+        "Teamwork"
+      ],
+      "hint": "Working together as a group",
+      "explanation": "'Teamwork' means cooperating as a group to reach a goal. In a band, every musician must work with others — good teamwork makes beautiful music."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "In music class, you need to _______ — you must focus and pay close attention to the notes.",
+      "options": [
+        "imagine",
+        "concentrate",
+        "figure out",
+        "remember"
+      ],
+      "answer": 1,
+      "explanation": "'Concentrate' means to focus all attention on something. In music, you must concentrate — you cannot let your mind wander or you will miss the notes."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "'Remember' means to keep something in your mind and be able to think of it again later.",
+      "answer": true,
+      "explanation": "Yes! 'Remember' means to keep something in memory and recall it later. Music students must remember many notes, rhythms, and lyrics — a great memory workout!"
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "The painting is _______ — it is one of the most beautiful things I have ever seen!",
+      "answer": "amazing",
+      "acceptedAnswers": [
+        "amazing",
+        "Amazing"
+      ],
+      "hint": "Very impressive and wonderful",
+      "explanation": "'Amazing' is used to describe something very impressive. A painting that is the 'most beautiful you've ever seen' is definitely amazing — it fills you with wonder."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2",
+        "parts-of-speech"
+      ],
+      "question": "Sort these Part 2 words by part of speech.",
+      "items": [
+        "creative",
+        "imagination",
+        "amazing",
+        "concentrate",
+        "teamwork",
+        "remember"
+      ],
+      "categories": [
+        {
+          "label": "Adjective (describing word)",
+          "answers": [
+            "creative",
+            "amazing"
+          ]
+        },
+        {
+          "label": "Noun (a thing)",
+          "answers": [
+            "imagination",
+            "teamwork"
+          ]
+        },
+        {
+          "label": "Verb (action word)",
+          "answers": [
+            "concentrate",
+            "remember"
+          ]
+        }
+      ],
+      "explanation": "'Creative' and 'amazing' describe things (adjectives). 'Imagination' and 'teamwork' are things you can have (nouns). 'Concentrate' and 'remember' are actions you do (verbs)."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Art class uses your _______ — you have to picture new ideas in your mind to create original work.",
+      "answer": "imagination",
+      "acceptedAnswers": [
+        "imagination",
+        "Imagination"
+      ],
+      "hint": "The ability to picture things in your mind",
+      "explanation": "'Imagination' is the ability to form images or ideas in your mind that are not physically present. Creating original art requires a vivid imagination."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence:",
+      "words": [
+        "having",
+        "Music",
+        "is",
+        "fun"
+      ],
+      "answer": [
+        "Music",
+        "is",
+        "fun"
+      ],
+      "explanation": "Correct sentence: 'Music is fun.' Direct, simple, and positive — the text emphasizes that music is enjoyable. (Note: 'having' is not needed in the simplest form.)"
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Which sentence uses BOTH 'creative' and 'imagination' correctly?",
+      "options": [
+        "She creative her imagination every day.",
+        "A creative person uses imagination to come up with original ideas.",
+        "Imagination is creative a music.",
+        "He concentrated his creative imagination teamwork."
+      ],
+      "answer": 1,
+      "explanation": "'A creative person' (someone with original ideas) 'uses imagination' (their ability to picture things in the mind) 'to come up with original ideas.' Natural, correct usage of both words."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "'Concentrate' and 'focus' have similar meanings.",
+      "answer": true,
+      "explanation": "Yes! Both 'concentrate' and 'focus' mean to direct your attention closely on one thing. 'Concentrate on the notes' = 'Focus on the notes.' They are near-synonyms."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence about what music teaches:",
+      "words": [
+        "concentrate",
+        "and",
+        "Music",
+        "you",
+        "teaches",
+        "remember",
+        "to"
+      ],
+      "answer": [
+        "Music",
+        "teaches",
+        "you",
+        "to",
+        "concentrate",
+        "and",
+        "remember"
+      ],
+      "explanation": "Correct sentence: 'Music teaches you to concentrate and remember.' These two skills — concentration and memory — are key benefits of music education mentioned in the text."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "The OPPOSITE of 'creative' is:",
+      "options": [
+        "Amazing",
+        "Unimaginative / unable to think of new ideas",
+        "Teamwork",
+        "Fun"
+      ],
+      "answer": 1,
+      "explanation": "The opposite of 'creative' (full of original ideas) is 'unimaginative' (unable to think of fresh or new ideas). A creative person always thinks of new solutions; an unimaginative person sticks only to what is already known."
+    }
+  ]
+}

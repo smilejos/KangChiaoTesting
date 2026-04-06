@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "id": "vocab_cow_tiger_set4",
+    "version": "1.0",
+    "title": "The Cow and the Tiger — Vocabulary Set 4",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "All 16 words in context — sentence completion and word usage practice.",
+    "guid": "f1e74f5d-5b64-496e-b667-d1cb216d5b06"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Chumpa was a _______ cow. She was the prettiest in the whole village.",
+      "answer": "beautiful",
+      "acceptedAnswers": [
+        "beautiful",
+        "Beautiful"
+      ],
+      "hint": "Very pretty",
+      "explanation": "'Beautiful' means very pretty. Chumpa was described as beautiful — she was a lovely, visually impressive cow."
+    },
+    {
+      "id": "q2",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The farmer _______ his cow Chumpa. That was her special name.",
+      "answer": "named",
+      "acceptedAnswers": [
+        "named",
+        "Named"
+      ],
+      "hint": "Gave a special name to",
+      "explanation": "'Named' means gave a name to. 'He named her Chumpa' means he chose Chumpa as her name."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Every morning Chumpa walked to the _______ field to eat grass.",
+      "options": [
+        "shadowy",
+        "grassy",
+        "angry",
+        "surprised"
+      ],
+      "answer": 1,
+      "explanation": "A 'grassy' field is covered with grass — exactly the right place for a cow to graze and eat."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The tiger lived in the _______ forest where there was little sunlight.",
+      "answer": "shadowy",
+      "acceptedAnswers": [
+        "shadowy",
+        "Shadowy"
+      ],
+      "hint": "Dark with little light",
+      "explanation": "'Shadowy' describes the tiger's forest — it was dark because the tall trees blocked the sunlight."
+    },
+    {
+      "id": "q5",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "I _______ to be nice to my friend, so I always keep my word.",
+      "answer": "promise",
+      "acceptedAnswers": [
+        "promise",
+        "Promise",
+        "promised",
+        "Promised"
+      ],
+      "hint": "Say you will definitely do something",
+      "explanation": "'Promise' means to say you will definitely do something. Promising to be nice means you commit to being kind."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "They _______ on the rules before starting the game.",
+      "options": [
+        "attacked",
+        "caught",
+        "agreed",
+        "grazed"
+      ],
+      "answer": 2,
+      "explanation": "'Agreed' means said yes together. When players agree on rules, they all accept the same rules and say yes to playing by them."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "A helmet can _______ your head if you fall from your bike.",
+      "answer": "protect",
+      "acceptedAnswers": [
+        "protect",
+        "Protect"
+      ],
+      "hint": "Keep safe from harm",
+      "explanation": "'Protect' means to keep safe. A helmet protects your head — it absorbs the impact so your head does not get hurt."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The cat was _______ because the dog ate its food.",
+      "answer": "angry",
+      "acceptedAnswers": [
+        "angry",
+        "Angry"
+      ],
+      "hint": "Feeling very mad",
+      "explanation": "'Angry' means very mad. Having your food stolen by another animal is very upsetting — it makes you feel angry."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "I was _______ to see my best friend at the store — I did not know she would be there!",
+      "options": [
+        "sad",
+        "grassy",
+        "forest",
+        "surprised"
+      ],
+      "answer": 3,
+      "explanation": "'Surprised' means feeling shocked by something unexpected. Seeing your friend unexpectedly is a pleasant surprise — you did not know she would be there."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The angry tiger was ready to _______ the cow.",
+      "answer": "attack",
+      "acceptedAnswers": [
+        "attack",
+        "Attack"
+      ],
+      "hint": "Start fighting or hurting someone",
+      "explanation": "'Attack' means to start fighting or hurting. An angry tiger is dangerous — it may attack the thing that made it angry."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to make a sentence about the farm:",
+      "words": [
+        "grassy",
+        "the",
+        "in",
+        "Chumpa",
+        "grazed",
+        "field"
+      ],
+      "answer": [
+        "Chumpa",
+        "grazed",
+        "in",
+        "the",
+        "grassy",
+        "field"
+      ],
+      "explanation": "Correct sentence: 'Chumpa grazed in the grassy field.' 'Grazed' = ate grass slowly; 'grassy field' = a field covered with green grass."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Which sentence uses BOTH 'truth' and 'promise' correctly?",
+      "options": [
+        "She truth a promise to the forest.",
+        "He promised to tell the truth — and he kept his word.",
+        "The truth was a promise of shadowy.",
+        "They surprised the truth and agreed a promise."
+      ],
+      "answer": 1,
+      "explanation": "'He promised to tell the truth' — 'promised' means he committed to doing it, and 'truth' is what he committed to saying. Both words used correctly and naturally."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "In the story, the farmer used the word 'agreed' deceptively — the tiger thought one thing, but the farmer meant another.",
+      "answer": true,
+      "explanation": "Yes! The farmer said 'agreed' knowing the tiger misunderstood. The tiger thought 'agreed' meant they would fight fairly, but the farmer tricked him. This clever use of words is the heart of the story."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to make a sentence:",
+      "words": [
+        "protect",
+        "farmer",
+        "The",
+        "wanted",
+        "Chumpa",
+        "tiger",
+        "the",
+        "from",
+        "to"
+      ],
+      "answer": [
+        "The",
+        "farmer",
+        "wanted",
+        "to",
+        "protect",
+        "Chumpa",
+        "from",
+        "the",
+        "tiger"
+      ],
+      "explanation": "Correct sentence: 'The farmer wanted to protect Chumpa from the tiger.' 'Protect from' = keep safe from a threat. The farmer's goal was Chumpa's safety."
+    },
+    {
+      "id": "q15",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The tiger was _______ when the farmer outsmarted him — he had not expected to lose!",
+      "answer": "surprised",
+      "acceptedAnswers": [
+        "surprised",
+        "Surprised",
+        "angry",
+        "Angry"
+      ],
+      "hint": "Felt shocked / or felt very mad",
+      "explanation": "The tiger likely felt both 'surprised' (shocked by losing) and 'angry' (mad at being tricked). Both are valid — he felt shock and fury at the farmer's cleverness."
+    }
+  ]
+}

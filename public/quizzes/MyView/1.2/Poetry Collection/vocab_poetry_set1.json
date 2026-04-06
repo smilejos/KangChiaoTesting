@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "id": "vocab_poetry",
+    "version": "1.0",
+    "title": "Poetry Collection — Vocabulary Set 1",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Vocabulary quiz for 'Poetry Collection' — all 16 words (might, deep, skip, zoom, brought, great, box, crawled, cardboard, cave, dragon, carved, squishy, scoop, moat, decorate).",
+    "guid": "ddc29150-acc5-4f53-ba53-effff549623b"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "What does 'zoom' mean?",
+      "options": [
+        "To move very slowly and carefully",
+        "To move very fast",
+        "To be very quiet",
+        "To fall down"
+      ],
+      "answer": 1,
+      "explanation": "'Zoom' means to move very fast. In the poem 'Me!', a bird can 'zoom from tree to tree' — it flies very quickly."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "What does 'skip' mean?",
+      "options": [
+        "To sleep on the ground",
+        "To jump lightly from foot to foot while moving forward",
+        "To eat very slowly",
+        "To stand very still"
+      ],
+      "answer": 1,
+      "explanation": "'Skip' means to jump lightly from foot to foot as you move. The poem says people can skip — something fish and birds cannot do!"
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "'Squishy' describes something that is soft and a little wet when touched.",
+      "answer": true,
+      "explanation": "Yes! 'Squishy' means soft and wet. In 'Sandcastle,' the sand is described as 'soft and squishy, wet and brown' — like wet sand feels when you squeeze it."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "A _______ is a ditch of water that goes all the way around a castle to protect it.",
+      "answer": "moat",
+      "acceptedAnswers": [
+        "moat",
+        "Moat"
+      ],
+      "hint": "A water ditch around a castle",
+      "explanation": "A 'moat' is a deep water ditch built around a castle. In 'Sandcastle,' the children make a moat around their sand castle — 'a moat surrounds it all.'"
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "What does 'cave' mean?",
+      "options": [
+        "A high mountain peak",
+        "A sandy beach",
+        "A hollow space inside a rock or hill",
+        "A type of cardboard box"
+      ],
+      "answer": 2,
+      "explanation": "A 'cave' is a hollow space inside a rock or hill. In 'The Box,' the child imagines the cardboard box is a 'cardboard cave' — it's dark and hollow like a cave."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "Dad 'carved' a hole in the box. What does 'carved' mean?",
+      "options": [
+        "Painted with bright colors",
+        "Cut carefully with a tool",
+        "Broke into many pieces",
+        "Glued tightly together"
+      ],
+      "answer": 1,
+      "explanation": "'Carved' is the past tense of 'carve' — to cut carefully with a tool. Dad carved a little hole in the box to make a window for the child."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "The child _______ inside the box — she moved on her hands and knees to get in.",
+      "answer": "crawled",
+      "acceptedAnswers": [
+        "crawled",
+        "Crawled"
+      ],
+      "hint": "Moved slowly on hands and knees",
+      "explanation": "'Crawled' means moved on hands and knees. The poem says the child 'crawled inside a cardboard cave' — getting into the box on hands and knees."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "'Cardboard' is a thick, stiff type of paper used to make boxes.",
+      "answer": true,
+      "explanation": "Yes! 'Cardboard' is a thick, stiff material made from paper. Boxes, cereal packets, and shipping containers are often made from cardboard."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sorting",
+        "parts-of-speech"
+      ],
+      "question": "Sort these words — are they VERBS (action words) or NOUNS (things)?",
+      "items": [
+        "scoop",
+        "dragon",
+        "zoom",
+        "moat",
+        "decorate",
+        "cave"
+      ],
+      "categories": [
+        {
+          "label": "Verb (action word)",
+          "answers": [
+            "scoop",
+            "zoom",
+            "decorate"
+          ]
+        },
+        {
+          "label": "Noun (a thing or place)",
+          "answers": [
+            "dragon",
+            "moat",
+            "cave"
+          ]
+        }
+      ],
+      "explanation": "'Scoop' (to dig up), 'zoom' (to move fast), and 'decorate' (to make pretty) are actions (verbs). 'Dragon,' 'moat,' and 'cave' are things (nouns)."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "The children _______ the sandcastle with shells and sticks to make it look nice.",
+      "answer": "decorate",
+      "acceptedAnswers": [
+        "decorate",
+        "Decorate",
+        "decorated",
+        "Decorated"
+      ],
+      "hint": "To make something look pretty by adding things",
+      "explanation": "'Decorate' means to make something look nicer by adding things to it. In 'Sandcastle,' the children decorate their castle to make it beautiful."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "In the poem, the child says she 'might' have fun being a fish. What does 'might' mean?",
+      "options": [
+        "Definitely will",
+        "Definitely will not",
+        "It is possible, but not certain",
+        "It happened in the past"
+      ],
+      "answer": 2,
+      "explanation": "'Might' means something is possible but not certain. 'It might be fun' — the speaker is not sure, but it is possible. It is used to imagine possibilities."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "Use 'scoop' correctly in a sentence:",
+      "options": [
+        "I scoop the door and walk in.",
+        "She scoop the park yesterday.",
+        "We use a shovel to scoop sand into the bucket.",
+        "The dragon scoop happily."
+      ],
+      "answer": 2,
+      "explanation": "'Scoop' means to pick up something with a curved tool or your hands. 'Scoop sand into the bucket' — using a scooping motion to fill the bucket."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a correct sentence from 'The Box':",
+      "words": [
+        "a",
+        "hole",
+        "Dad",
+        "carved",
+        "little"
+      ],
+      "answer": [
+        "Dad",
+        "carved",
+        "a",
+        "little",
+        "hole"
+      ],
+      "explanation": "Correct sentence: 'Dad carved a little hole.' Dad used a tool to carefully cut a small hole in the box, which the child imagined as a cave entrance."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary"
+      ],
+      "question": "A 'dragon' is a real animal you can find in a jungle.",
+      "answer": false,
+      "explanation": "A 'dragon' is a mythical creature — it exists only in stories, poems, and imagination. In 'The Box,' the child imagines fighting a dragon because she is using her imagination."
+    },
+    {
+      "id": "q15",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words — do they describe something you can TOUCH AND FEEL (physical) or something that involves IMAGINATION (imaginary)?",
+      "items": [
+        "squishy",
+        "dragon",
+        "cardboard",
+        "moat",
+        "cave",
+        "might"
+      ],
+      "categories": [
+        {
+          "label": "Physical (real / can touch)",
+          "answers": [
+            "squishy",
+            "cardboard",
+            "moat",
+            "cave"
+          ]
+        },
+        {
+          "label": "Imagination / possibility",
+          "answers": [
+            "dragon",
+            "might"
+          ]
+        }
+      ],
+      "explanation": "'Squishy,' 'cardboard,' 'moat,' and 'cave' are all physical things you can touch or see. 'Dragon' is imaginary (it doesn't exist), and 'might' expresses an imaginary possibility."
+    }
+  ]
+}

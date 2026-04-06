@@ -1,0 +1,381 @@
+{
+  "meta": {
+    "id": "vocab_poetry_set5",
+    "version": "1.0",
+    "title": "Poetry Collection — Vocabulary Set 5",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Challenge set — antonyms, word families, metaphor, advanced usage across all 16 words.",
+    "guid": "5f0124ee-9845-4a0a-930a-ea4e82460fc7"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the OPPOSITE of 'deep'?",
+      "options": [
+        "Squishy",
+        "Shallow",
+        "Carved",
+        "Great"
+      ],
+      "answer": 1,
+      "explanation": "The opposite of 'deep' (extending far down) is 'shallow' (not very deep). A shallow pond is only ankle deep; a deep ocean extends far, far down."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the OPPOSITE of 'zoom' (move very fast)?",
+      "options": [
+        "Skip",
+        "Crawl very slowly",
+        "Decorate",
+        "Scoop"
+      ],
+      "answer": 1,
+      "explanation": "The opposite of 'zoom' (move very fast) is 'crawl very slowly.' Interestingly, 'crawl' is another word from the poetry vocabulary — and it represents the slowest movement!"
+    },
+    {
+      "id": "q3",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "Match each word to its OPPOSITE.",
+      "items": [
+        "deep",
+        "great",
+        "squishy",
+        "zoom"
+      ],
+      "categories": [
+        {
+          "label": "Shallow",
+          "answers": [
+            "deep"
+          ]
+        },
+        {
+          "label": "Small / insignificant",
+          "answers": [
+            "great"
+          ]
+        },
+        {
+          "label": "Hard and firm",
+          "answers": [
+            "squishy"
+          ]
+        },
+        {
+          "label": "Crawl / move slowly",
+          "answers": [
+            "zoom"
+          ]
+        }
+      ],
+      "explanation": "Antonyms: deep ↔ shallow, great ↔ small, squishy ↔ hard/firm, zoom ↔ crawl/move slowly. Knowing opposites deepens understanding of each word."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "'Decorate,' 'decoration,' and 'decorative' all come from the same root word.",
+      "answer": true,
+      "explanation": "Yes! 'Decorate' (verb) → 'decoration' (noun) → 'decorative' (adjective). All three come from the Latin root 'decor' meaning beauty or ornament."
+    },
+    {
+      "id": "q5",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "Sort these words — BASE WORDS or CHANGED FORMS?",
+      "items": [
+        "carve",
+        "carved",
+        "decorate",
+        "decoration",
+        "scoop",
+        "scooped"
+      ],
+      "categories": [
+        {
+          "label": "Base word (root form)",
+          "answers": [
+            "carve",
+            "decorate",
+            "scoop"
+          ]
+        },
+        {
+          "label": "Changed form (past tense / noun form)",
+          "answers": [
+            "carved",
+            "decoration",
+            "scooped"
+          ]
+        }
+      ],
+      "explanation": "'Carve,' 'decorate,' and 'scoop' are base verbs. 'Carved' and 'scooped' are past-tense forms. 'Decoration' is a noun form (thing) created from the verb 'decorate.'"
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "metaphor"
+      ],
+      "question": "The poem calls the box a 'cardboard CAVE.' This is a metaphor. Why is 'cave' used instead of 'box'?",
+      "options": [
+        "Because the child is confused",
+        "Because caves and boxes are the same thing",
+        "Because 'cave' creates a more exciting, imaginative image — both are dark and hollow inside",
+        "Because the box was found in a cave"
+      ],
+      "answer": 2,
+      "explanation": "Both caves and boxes are hollow and dark inside. By calling it a 'cardboard cave,' the poem makes the box feel more adventurous and exciting. Metaphors connect two things through shared qualities."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "A 'dragon' exists in real life — you could find one in a shadowy forest.",
+      "answer": false,
+      "explanation": "Dragons are mythical — they exist only in stories, poems, and imagination. You cannot find a real dragon in a forest! In 'The Box,' the dragon is a product of the child's creative imagination."
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "Which sentence uses BOTH 'might' and 'deep' correctly?",
+      "options": [
+        "It might deep in the ocean.",
+        "The deep might swim.",
+        "It might be very deep — we cannot see the bottom of this lake.",
+        "She mighted deeply the cave."
+      ],
+      "answer": 2,
+      "explanation": "'It might be very deep' — 'might' expresses possibility, 'deep' describes the lake's depth. 'We cannot see the bottom' confirms why depth is uncertain. Both words used correctly."
+    },
+    {
+      "id": "q9",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to create a sentence about imagination:",
+      "words": [
+        "might",
+        "It",
+        "own",
+        "to",
+        "fun",
+        "build",
+        "very",
+        "your",
+        "castle",
+        "be"
+      ],
+      "answer": [
+        "It",
+        "might",
+        "be",
+        "very",
+        "fun",
+        "to",
+        "build",
+        "your",
+        "own",
+        "castle"
+      ],
+      "explanation": "Correct sentence: 'It might be very fun to build your own castle.' Using 'might' to express a possibility — building a castle (like in Sandcastle) MIGHT be a wonderful idea!"
+    },
+    {
+      "id": "q10",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "real-vs-imaginary"
+      ],
+      "question": "Sort these vocabulary words — are they things that EXIST IN REAL LIFE or only in IMAGINATION/STORIES?",
+      "items": [
+        "moat",
+        "dragon",
+        "cave",
+        "cardboard",
+        "great",
+        "might"
+      ],
+      "categories": [
+        {
+          "label": "Exists in real life",
+          "answers": [
+            "moat",
+            "cave",
+            "cardboard"
+          ]
+        },
+        {
+          "label": "Imagination / fantasy / possibiity",
+          "answers": [
+            "dragon",
+            "great",
+            "might"
+          ]
+        }
+      ],
+      "explanation": "Moats, caves, and cardboard are real physical things. 'Dragon' is mythical/imaginary. 'Great' expresses a quality that can be exaggerated in imagination. 'Might' expresses a possibility — not yet real."
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "'Scoop,' 'carve,' and 'zoom' are all verbs — they all describe different ways of moving or doing things.",
+      "answer": true,
+      "explanation": "Yes! 'Scoop' (pick up with a curved tool), 'carve' (cut carefully), and 'zoom' (move very fast) are all action verbs — they describe different types of actions or movements."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "'Skip,' 'zoom,' and 'crawl' all describe movement. Which is SLOWEST to FASTEST?",
+      "options": [
+        "Zoom → Skip → Crawl",
+        "Crawl → Skip → Zoom",
+        "Skip → Crawl → Zoom",
+        "Crawl → Zoom → Skip"
+      ],
+      "answer": 1,
+      "explanation": "Slowest to fastest: Crawl (very slow, on hands and knees) → Skip (moderate, light jumping forward) → Zoom (very fast movement). This is the correct speed order."
+    },
+    {
+      "id": "q13",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "The poem says 'a great big box' — here 'great' could be replaced with _______ and still mean the same thing.",
+      "answer": "large",
+      "acceptedAnswers": [
+        "large",
+        "Large",
+        "huge",
+        "Huge",
+        "enormous",
+        "Enormous",
+        "big",
+        "Big"
+      ],
+      "hint": "Another word for very large in size",
+      "explanation": "In this context, 'great' means 'very large.' 'A great big box' = 'a large/huge/enormous box.' The word 'great' here emphasizes the impressive size of the box."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "theme"
+      ],
+      "question": "Arrange the words to make a sentence about the theme of imagination:",
+      "words": [
+        "bring",
+        "Imagination",
+        "to",
+        "ordinary",
+        "life",
+        "things",
+        "can"
+      ],
+      "answer": [
+        "Imagination",
+        "can",
+        "bring",
+        "ordinary",
+        "things",
+        "to",
+        "life"
+      ],
+      "explanation": "Correct sentence: 'Imagination can bring ordinary things to life.' This is the key theme of 'The Box' — a plain cardboard box becomes a cave, castle, and rocket through imagination."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "theme"
+      ],
+      "question": "The poems use words like 'dragon,' 'moat,' and 'cave' to show that children use everyday things to:",
+      "options": [
+        "Learn about real history",
+        "Create magical, imaginary worlds from ordinary objects",
+        "Practice spelling difficult words",
+        "Study animals in nature"
+      ],
+      "answer": 1,
+      "explanation": "A box becomes a 'cave' and 'castle'; sand becomes a 'castle' with a 'moat'; 'dragon' adds magic. These words show how children transform the ordinary into the extraordinary through imagination."
+    }
+  ]
+}

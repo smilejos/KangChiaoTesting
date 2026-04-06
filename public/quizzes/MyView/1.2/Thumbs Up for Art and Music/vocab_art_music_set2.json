@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "id": "vocab_art_music_set2",
+    "version": "1.0",
+    "title": "Thumbs Up for Art and Music — Vocabulary Set 2",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Part 1 words focus: thumbs up, art, music, learn, math, problems, important, think.",
+    "guid": "033e52f7-2a07-4411-a1a3-7d800a043967"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What does 'thumbs up' mean?",
+      "options": [
+        "I disagree",
+        "I am confused",
+        "I approve and support this!",
+        "I am very tired"
+      ],
+      "answer": 2,
+      "explanation": "'Thumbs up' means approval or agreement — 'I like this!' or 'I support this!' The title 'Thumbs Up for Art and Music' means the author strongly approves of art and music in school."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "'Art' refers to creative activities like drawing, painting, and sculpting.",
+      "answer": true,
+      "explanation": "Yes! 'Art' means creative work that expresses ideas and emotions — like drawing, painting, sculpture, and crafts. Art class is where students create original works of art."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "In art class, students can _______ how to draw, paint, and create.",
+      "answer": "learn",
+      "acceptedAnswers": [
+        "learn",
+        "Learn"
+      ],
+      "hint": "To gain new knowledge or skills",
+      "explanation": "'Learn' means to gain new knowledge or skills. In art class, students learn — they develop new abilities and understanding."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What does 'important' mean?",
+      "options": [
+        "Not needed at all",
+        "Something that does not matter",
+        "Something that matters a lot and should not be missed",
+        "Something that is very easy"
+      ],
+      "answer": 2,
+      "explanation": "'Important' means something that matters greatly and should be taken seriously. The text says art is 'important' — it is valuable and should be part of school."
+    },
+    {
+      "id": "q5",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "We have four math _______ for homework. We must solve each question.",
+      "answer": "problems",
+      "acceptedAnswers": [
+        "problems",
+        "Problems"
+      ],
+      "hint": "Math questions or exercises",
+      "explanation": "'Problems' in this context means math questions or exercises — not something bad. A 'math problem' is a question you need to solve."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Art makes you '_______' — it uses your brain to come up with ideas. What does 'think' mean here?",
+      "options": [
+        "To fall asleep",
+        "To use your brain to create ideas and solve problems",
+        "To move quickly",
+        "To make a loud sound"
+      ],
+      "answer": 1,
+      "explanation": "'Think' means to use your brain to form ideas and reason. When you create art, you 'think' — you make creative decisions about color, shape, and design."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "'Music' is only about singing — it has nothing to do with instruments.",
+      "answer": false,
+      "explanation": "'Music' includes singing, playing instruments, reading notes, rhythm, melody, and much more. Music class teaches all aspects of making and understanding music."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "The teacher says it is _______ to always do your best — it matters a lot.",
+      "answer": "important",
+      "acceptedAnswers": [
+        "important",
+        "Important"
+      ],
+      "hint": "Matters a lot; should not be ignored",
+      "explanation": "'Important' means something that matters greatly. The teacher is saying that doing your best is significant — it is not something to ignore."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1",
+        "parts-of-speech"
+      ],
+      "question": "Sort these Part 1 words by part of speech.",
+      "items": [
+        "art",
+        "important",
+        "learn",
+        "music",
+        "think",
+        "problems"
+      ],
+      "categories": [
+        {
+          "label": "Noun (a thing)",
+          "answers": [
+            "art",
+            "music",
+            "problems"
+          ]
+        },
+        {
+          "label": "Verb (action word)",
+          "answers": [
+            "learn",
+            "think"
+          ]
+        },
+        {
+          "label": "Adjective (describing word)",
+          "answers": [
+            "important"
+          ]
+        }
+      ],
+      "explanation": "'Art,' 'music,' and 'problems' are things (nouns). 'Learn' and 'think' are actions (verbs). 'Important' describes how significant something is (adjective)."
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Which sentence uses 'learn' correctly?",
+      "options": [
+        "I learn the music book.",
+        "She learns to play guitar — she practices every day.",
+        "We learn important math.",
+        "They learn art a thumbs up."
+      ],
+      "answer": 1,
+      "explanation": "'Learns to play guitar' — she is gaining the skill of guitar playing through practice. 'Learn' is followed by what the person is gaining the ability to do."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence from the text:",
+      "words": [
+        "important",
+        "Art",
+        "is"
+      ],
+      "answer": [
+        "Art",
+        "is",
+        "important"
+      ],
+      "explanation": "Correct sentence: 'Art is important.' Simple but powerful — the text argues directly that art matters. 'Important' is the predicate adjective describing 'Art.'"
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "'Problems' always means something bad or wrong.",
+      "answer": false,
+      "explanation": "'Problems' has two meanings! It can mean 'something bad' (like a problem that needs fixing), OR 'math questions / exercises' (like math problems on a test). Context tells you which meaning is correct."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Choose the sentence that uses BOTH 'art' and 'think' correctly:",
+      "options": [
+        "Art is think important.",
+        "She thinks art is one of the most important subjects in school.",
+        "Think the art is a thumbs up problem.",
+        "The math think was an art."
+      ],
+      "answer": 1,
+      "explanation": "'She thinks' (uses her brain to believe) 'art is important' (a subject that matters). 'Think' here expresses a belief or opinion — a natural way to use both words together."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence:",
+      "words": [
+        "math",
+        "helps",
+        "Music",
+        "you",
+        "better",
+        "at",
+        "get"
+      ],
+      "answer": [
+        "Music",
+        "helps",
+        "you",
+        "get",
+        "better",
+        "at",
+        "math"
+      ],
+      "explanation": "Correct sentence: 'Music helps you get better at math.' The text claims that learning music improves mathematical thinking — one key argument for why music is important."
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "A 'thumbs up' is a universal gesture meaning something is good or approved.",
+      "answer": true,
+      "explanation": "Yes! In most cultures, a thumbs up means 'good,' 'I approve,' or 'yes!' The author uses 'Thumbs Up for Art and Music' to express clear, enthusiastic support for these subjects."
+    }
+  ]
+}

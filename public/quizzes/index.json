@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "generated": "2026-04-06T02:58:37.895Z",
+  "generated": "2026-04-06T03:36:19.312Z",
   "books": [
     {
       "id": "MyGrammar",
@@ -674,6 +674,94 @@
                   "difficulty": 2,
                   "file": "MyView/1.2/Poetry Collection/poetry_set5.json",
                   "questionCount": 15
+                },
+                {
+                  "id": "vocab_poetry",
+                  "guid": "ddc29150-acc5-4f53-ba53-effff549623b",
+                  "title": "Poetry Collection — Vocabulary Set 1",
+                  "subtitle": "Vocabulary quiz for 'Poetry Collection' — all 16 words (might, deep, skip, zoom, brought, great, box, crawled, cardboard, cave, dragon, carved, squishy, scoop, moat, decorate).",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "poetry",
+                    "vocabulary",
+                    "sorting",
+                    "parts-of-speech",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Poetry Collection/vocab_poetry_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_poetry_set2",
+                  "guid": "0f67ac7f-9079-4297-a665-414f6025246f",
+                  "title": "Poetry Collection — Vocabulary Set 2",
+                  "subtitle": "Part 1 words focus: might, deep, skip, zoom, brought, great, box, crawled (from 'Me!' and 'The Box').",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "poetry",
+                    "vocabulary",
+                    "me",
+                    "the-box",
+                    "parts-of-speech"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Poetry Collection/vocab_poetry_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_poetry_set3",
+                  "guid": "2dd0c56e-0d5f-45c8-a199-bd9768d00de2",
+                  "title": "Poetry Collection — Vocabulary Set 3",
+                  "subtitle": "Part 2 words focus: cardboard, cave, dragon, carved, squishy, scoop, moat, decorate (from 'The Box' and 'Sandcastle').",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "poetry",
+                    "vocabulary",
+                    "the-box",
+                    "sandcastle",
+                    "parts-of-speech"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Poetry Collection/vocab_poetry_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_poetry_set4",
+                  "guid": "c448d776-31a7-4641-a984-180ee5aa2d62",
+                  "title": "Poetry Collection — Vocabulary Set 4",
+                  "subtitle": "All 16 words in context — sentence completion and usage practice across all three poems.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "poetry",
+                    "vocabulary",
+                    "sentence-context"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Poetry Collection/vocab_poetry_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_poetry_set5",
+                  "guid": "5f0124ee-9845-4a0a-930a-ea4e82460fc7",
+                  "title": "Poetry Collection — Vocabulary Set 5",
+                  "subtitle": "Challenge set — antonyms, word families, metaphor, advanced usage across all 16 words.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "poetry",
+                    "vocabulary",
+                    "antonyms",
+                    "word-family",
+                    "metaphor"
+                  ],
+                  "difficulty": 3,
+                  "file": "MyView/1.2/Poetry Collection/vocab_poetry_set5.json",
+                  "questionCount": 15
                 }
               ]
             },
@@ -768,6 +856,94 @@
                   ],
                   "difficulty": 2,
                   "file": "MyView/1.2/The Clever Monkey/clever_monkey_set5.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_clever_monkey",
+                  "guid": "49cda158-e221-4d20-a682-22f3046f1ca9",
+                  "title": "The Clever Monkey — Vocabulary Set 1",
+                  "subtitle": "Vocabulary quiz for 'The Clever Monkey' — all 16 words from Weeks 1–4 (jungle, tricky, piece, cheese, mistake, fortune, divide, equal, fairly, swung, thanked, believe, afraid, exactly, carefully, sadly).",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "clever-monkey",
+                    "vocabulary",
+                    "week1-3",
+                    "week4",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Clever Monkey/vocab_clever_monkey_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_clever_monkey_set2",
+                  "guid": "5c81d1f8-045b-4b11-bf7e-cd75b19de45c",
+                  "title": "The Clever Monkey — Vocabulary Set 2",
+                  "subtitle": "Week 1–3 vocabulary focus: jungle, tricky, piece, cheese, mistake, fortune, divide, equal.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "clever-monkey",
+                    "vocabulary",
+                    "week1-3",
+                    "parts-of-speech",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Clever Monkey/vocab_clever_monkey_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_clever_monkey_set3",
+                  "guid": "7c24414c-65d9-4ba5-aa7d-01fa821420bd",
+                  "title": "The Clever Monkey — Vocabulary Set 3",
+                  "subtitle": "Week 4 vocabulary focus: fairly, swung, thanked, believe, afraid, exactly, carefully, sadly.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "clever-monkey",
+                    "vocabulary",
+                    "week4",
+                    "parts-of-speech",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Clever Monkey/vocab_clever_monkey_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_clever_monkey_set4",
+                  "guid": "82c3f102-0b74-4793-8273-d4da8a3d19ff",
+                  "title": "The Clever Monkey — Vocabulary Set 4",
+                  "subtitle": "All 16 words in context — sentence completion and word usage practice.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "clever-monkey",
+                    "vocabulary",
+                    "sentence-context"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Clever Monkey/vocab_clever_monkey_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_clever_monkey_set5",
+                  "guid": "a2980926-8cdb-4c53-96e4-aab6780ebe30",
+                  "title": "The Clever Monkey — Vocabulary Set 5",
+                  "subtitle": "Challenge set — antonyms, word families, advanced usage across all 16 words.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "clever-monkey",
+                    "vocabulary",
+                    "antonyms",
+                    "word-family",
+                    "usage"
+                  ],
+                  "difficulty": 3,
+                  "file": "MyView/1.2/The Clever Monkey/vocab_clever_monkey_set5.json",
                   "questionCount": 15
                 }
               ]
@@ -864,6 +1040,94 @@
                   "difficulty": 2,
                   "file": "MyView/1.2/The Cow and the Tiger/cow_tiger_set5.json",
                   "questionCount": 15
+                },
+                {
+                  "id": "vocab_cow_tiger",
+                  "guid": "e7095817-8826-4e56-9aca-3fd60ff26056",
+                  "title": "The Cow and the Tiger — Vocabulary Set 1",
+                  "subtitle": "Vocabulary quiz for 'The Cow and the Tiger' — all 16 words from Weeks 6–7 (named, beautiful, graze, shadowy, forest, angry, caught, sad, promise, attack, agreed, grassy, surprised, happy, protect, truth).",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "cow-tiger",
+                    "vocabulary",
+                    "week6",
+                    "week7",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Cow and the Tiger/vocab_cow_tiger_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_cow_tiger_set2",
+                  "guid": "436cf702-936b-4035-a101-d8a8354128c1",
+                  "title": "The Cow and the Tiger — Vocabulary Set 2",
+                  "subtitle": "Week 6 vocabulary focus: named, beautiful, graze, shadowy, forest, angry, caught, sad.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "cow-tiger",
+                    "vocabulary",
+                    "week6",
+                    "parts-of-speech",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Cow and the Tiger/vocab_cow_tiger_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_cow_tiger_set3",
+                  "guid": "e6af9b6b-10bc-4549-a74f-f842fe45ec0b",
+                  "title": "The Cow and the Tiger — Vocabulary Set 3",
+                  "subtitle": "Week 7 vocabulary focus: promise, attack, agreed, grassy, surprised, happy, protect, truth.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "cow-tiger",
+                    "vocabulary",
+                    "week7",
+                    "feelings-vs-actions",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Cow and the Tiger/vocab_cow_tiger_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_cow_tiger_set4",
+                  "guid": "f1e74f5d-5b64-496e-b667-d1cb216d5b06",
+                  "title": "The Cow and the Tiger — Vocabulary Set 4",
+                  "subtitle": "All 16 words in context — sentence completion and word usage practice.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "cow-tiger",
+                    "vocabulary",
+                    "sentence-context"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/The Cow and the Tiger/vocab_cow_tiger_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_cow_tiger_set5",
+                  "guid": "7dcc0e0d-ac88-48fa-94d3-d835107f5468",
+                  "title": "The Cow and the Tiger — Vocabulary Set 5",
+                  "subtitle": "Challenge set — antonyms, word families, feelings vs actions across all 16 words.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "cow-tiger",
+                    "vocabulary",
+                    "antonyms",
+                    "word-family",
+                    "usage"
+                  ],
+                  "difficulty": 3,
+                  "file": "MyView/1.2/The Cow and the Tiger/vocab_cow_tiger_set5.json",
+                  "questionCount": 15
                 }
               ]
             },
@@ -956,6 +1220,94 @@
                   ],
                   "difficulty": 2,
                   "file": "MyView/1.2/Thumbs Up for Art and Music/art_music_set5.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_art_music",
+                  "guid": "e38b172c-a2fe-452f-839b-58b607fc6145",
+                  "title": "Thumbs Up for Art and Music — Vocabulary Set 1",
+                  "subtitle": "Vocabulary quiz for 'Thumbs Up for Art and Music' — all 16 words (thumbs up, art, music, learn, math, problems, important, think, creative, imagination, figure out, amazing, concentrate, remember, teamwork, fun).",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "art-music",
+                    "vocabulary",
+                    "sorting",
+                    "parts-of-speech",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Thumbs Up for Art and Music/vocab_art_music_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_art_music_set2",
+                  "guid": "033e52f7-2a07-4411-a1a3-7d800a043967",
+                  "title": "Thumbs Up for Art and Music — Vocabulary Set 2",
+                  "subtitle": "Part 1 words focus: thumbs up, art, music, learn, math, problems, important, think.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "art-music",
+                    "vocabulary",
+                    "part1",
+                    "parts-of-speech",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Thumbs Up for Art and Music/vocab_art_music_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_art_music_set3",
+                  "guid": "7d3c7845-0263-432f-8439-b9945ec9fcce",
+                  "title": "Thumbs Up for Art and Music — Vocabulary Set 3",
+                  "subtitle": "Part 2 words focus: creative, imagination, figure out, amazing, concentrate, remember, teamwork, fun.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "art-music",
+                    "vocabulary",
+                    "part2",
+                    "parts-of-speech",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Thumbs Up for Art and Music/vocab_art_music_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_art_music_set4",
+                  "guid": "fc43eec8-8f03-405f-af57-35845a696432",
+                  "title": "Thumbs Up for Art and Music — Vocabulary Set 4",
+                  "subtitle": "All 16 words in context — sentence completion and word usage practice.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "art-music",
+                    "vocabulary",
+                    "sentence-context"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.2/Thumbs Up for Art and Music/vocab_art_music_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_art_music_set5",
+                  "guid": "dc270f2f-3d7d-4d31-a2e8-a21f60b62a82",
+                  "title": "Thumbs Up for Art and Music — Vocabulary Set 5",
+                  "subtitle": "Challenge set — antonyms, word families, opinion vocabulary, advanced usage across all 16 words.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "art-music",
+                    "vocabulary",
+                    "antonyms",
+                    "word-family",
+                    "opinion"
+                  ],
+                  "difficulty": 3,
+                  "file": "MyView/1.2/Thumbs Up for Art and Music/vocab_art_music_set5.json",
                   "questionCount": 15
                 }
               ]

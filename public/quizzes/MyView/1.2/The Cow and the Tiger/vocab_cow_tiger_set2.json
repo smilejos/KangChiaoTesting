@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "id": "vocab_cow_tiger_set2",
+    "version": "1.0",
+    "title": "The Cow and the Tiger — Vocabulary Set 2",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Week 6 vocabulary focus: named, beautiful, graze, shadowy, forest, angry, caught, sad.",
+    "guid": "436cf702-936b-4035-a101-d8a8354128c1"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "The princess wears a _______ dress. It is the most gorgeous dress in the kingdom.",
+      "options": [
+        "shadowy",
+        "angry",
+        "beautiful",
+        "sad"
+      ],
+      "answer": 2,
+      "explanation": "'Beautiful' means very pretty or lovely. A gorgeous dress is beautiful — it is visually stunning and impressive."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "'Graze' means to eat grass slowly in a field.",
+      "answer": true,
+      "explanation": "Yes! 'Graze' means to eat grass while walking slowly in a field. Cows and sheep graze — they spend their days walking and eating grass in open fields."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "We got a new puppy, so we _______ her Coco.",
+      "answer": "named",
+      "acceptedAnswers": [
+        "named",
+        "Named"
+      ],
+      "hint": "Gave a special name to the puppy",
+      "explanation": "'Named' means gave a special name to something. 'We named her Coco' means we chose Coco as the puppy's name."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "What does 'shadowy' mean?",
+      "options": [
+        "Very bright and sunny",
+        "Very loud and noisy",
+        "Dark with little light",
+        "Very warm and cozy"
+      ],
+      "answer": 2,
+      "explanation": "'Shadowy' means dark with little light. A shadowy place has shadows because not much light gets in — like a dark forest or a cave."
+    },
+    {
+      "id": "q5",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "The cows _______ in the field every morning. They walk and eat the grass.",
+      "answer": "graze",
+      "acceptedAnswers": [
+        "graze",
+        "Graze",
+        "grazed",
+        "Grazed"
+      ],
+      "hint": "Eat grass in a field",
+      "explanation": "'Graze' means to eat grass slowly. Cows graze in fields — they spend their time walking and eating the grass that grows there."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "The cave is _______, so I turn on my flashlight so I can see.",
+      "options": [
+        "beautiful",
+        "grassy",
+        "shadowy",
+        "happy"
+      ],
+      "answer": 2,
+      "explanation": "'Shadowy' means dark with little light. A shadowy cave needs a flashlight because it is too dark to see without one."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "A 'forest' is a place with many trees growing close together.",
+      "answer": true,
+      "explanation": "Yes! A 'forest' is a large area of land covered with many trees. In the story, the tiger lived in a shadowy forest — it was dark because the trees blocked the sunlight."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "He was _______ when his little brother broke his favorite toy.",
+      "answer": "angry",
+      "acceptedAnswers": [
+        "angry",
+        "Angry"
+      ],
+      "hint": "Feeling very mad",
+      "explanation": "'Angry' means feeling very mad. When something unfair happens, like someone breaking your toy, you feel angry."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "The boy dropped the ball, but his friend _______ it before it hit the ground.",
+      "options": [
+        "named",
+        "grazed",
+        "caught",
+        "shadowed"
+      ],
+      "answer": 2,
+      "explanation": "'Caught' means grabbed or held onto something moving. Catching the ball before it hit the ground means grabbing it in time."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "The child was _______ when she lost her favorite book. She cried a little.",
+      "answer": "sad",
+      "acceptedAnswers": [
+        "sad",
+        "Sad"
+      ],
+      "hint": "Feeling unhappy",
+      "explanation": "'Sad' means feeling unhappy. Losing something you love feels sad — it makes you feel unhappy and want to cry."
+    },
+    {
+      "id": "q11",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6",
+        "parts-of-speech"
+      ],
+      "question": "Sort these Week 6 words by part of speech.",
+      "items": [
+        "beautiful",
+        "graze",
+        "forest",
+        "shadowy",
+        "caught",
+        "angry"
+      ],
+      "categories": [
+        {
+          "label": "Adjective (describing word)",
+          "answers": [
+            "beautiful",
+            "shadowy",
+            "angry"
+          ]
+        },
+        {
+          "label": "Verb (action word)",
+          "answers": [
+            "graze",
+            "caught"
+          ]
+        },
+        {
+          "label": "Noun (a place or thing)",
+          "answers": [
+            "forest"
+          ]
+        }
+      ],
+      "explanation": "'Beautiful,' 'shadowy,' and 'angry' describe things (adjectives). 'Graze' and 'caught' are actions (verbs). 'Forest' is a place (noun)."
+    },
+    {
+      "id": "q12",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence:",
+      "words": [
+        "shadowy",
+        "in",
+        "the",
+        "tiger",
+        "forest",
+        "The",
+        "lived"
+      ],
+      "answer": [
+        "The",
+        "tiger",
+        "lived",
+        "in",
+        "the",
+        "shadowy",
+        "forest"
+      ],
+      "explanation": "Correct sentence: 'The tiger lived in the shadowy forest.' The tiger's home was a dark forest where little sunlight reached through the trees."
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "The opposite of 'beautiful' is:",
+      "options": [
+        "Shadowy",
+        "Ugly",
+        "Angry",
+        "Grassy"
+      ],
+      "answer": 1,
+      "explanation": "The opposite of 'beautiful' (very pretty) is 'ugly' (not attractive). In the story, Chumpa was beautiful — which is the opposite of ugly."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "'Named' and 'called' have the same meaning — you can use them interchangeably.",
+      "answer": true,
+      "explanation": "Yes! 'Named Chumpa' and 'called Chumpa' mean the same thing. 'Named' and 'called' both refer to what something is identified as."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "Which sentence uses BOTH 'forest' and 'shadowy' correctly?",
+      "options": [
+        "The shadowy forest was a forest shadowy.",
+        "It was a shadowy to forest the tiger.",
+        "The tiger walked through the shadowy forest, where little sunlight reached.",
+        "She named the forest a shadowy caught."
+      ],
+      "answer": 2,
+      "explanation": "'The shadowy forest' — 'shadowy' correctly describes the forest (dark, little light). 'Little sunlight reached' explains why it is shadowy. Both words are used correctly."
+    }
+  ]
+}

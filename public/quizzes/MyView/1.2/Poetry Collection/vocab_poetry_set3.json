@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "id": "vocab_poetry_set3",
+    "version": "1.0",
+    "title": "Poetry Collection — Vocabulary Set 3",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Part 2 words focus: cardboard, cave, dragon, carved, squishy, scoop, moat, decorate (from 'The Box' and 'Sandcastle').",
+    "guid": "2dd0c56e-0d5f-45c8-a199-bd9768d00de2"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box",
+        "sandcastle"
+      ],
+      "question": "What is 'cardboard'?",
+      "options": [
+        "A soft, fluffy material",
+        "A thick, stiff type of paper used for boxes",
+        "A type of wood from trees",
+        "A stretchy, rubbery material"
+      ],
+      "answer": 1,
+      "explanation": "'Cardboard' is a thick, stiff material made from paper. Boxes, cereal packets, and moving containers are often made from cardboard."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "A 'cave' is a large open space inside a rock or hill.",
+      "answer": true,
+      "explanation": "Yes! A 'cave' is a hollow space — like a tunnel or room — inside rock or a hillside. In 'The Box,' the child imagines the cardboard box as a 'cardboard cave.'"
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sandcastle"
+      ],
+      "question": "The wet sand felt _______ and soft when I squeezed it in my hand.",
+      "answer": "squishy",
+      "acceptedAnswers": [
+        "squishy",
+        "Squishy"
+      ],
+      "hint": "Soft and wet when you squeeze it",
+      "explanation": "'Squishy' means soft and yielding when squeezed — like wet sand, mud, or a sponge. 'Sandcastle' describes the sand as 'soft and squishy, wet and brown.'"
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "Dad 'carved' a hole in the box. What does 'carved' mean?",
+      "options": [
+        "Painted with bright colors",
+        "Glued something on top",
+        "Cut carefully with a tool",
+        "Folded into a different shape"
+      ],
+      "answer": 2,
+      "explanation": "'Carved' is the past tense of 'carve' — to cut carefully with a tool. Dad carved a hole — cut it out neatly — to make a window in the box."
+    },
+    {
+      "id": "q5",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sandcastle"
+      ],
+      "question": "A _______ is a deep ditch of water built around a castle for protection.",
+      "answer": "moat",
+      "acceptedAnswers": [
+        "moat",
+        "Moat"
+      ],
+      "hint": "A water ditch surrounding a castle",
+      "explanation": "A 'moat' is a defensive water ditch built around a castle. 'In Sandcastle,' the children build a moat around their sand castle — copying a real castle design!"
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sandcastle"
+      ],
+      "question": "We use a shovel to _______ sand into the bucket.",
+      "options": [
+        "carve",
+        "decorate",
+        "scoop",
+        "crawl"
+      ],
+      "answer": 2,
+      "explanation": "'Scoop' means to pick up or gather something with a curved tool or hands. 'Scoop sand into the bucket' means using a scooping motion to fill it up."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sandcastle"
+      ],
+      "question": "'Decorate' means to take away things to make something simpler.",
+      "answer": false,
+      "explanation": "'Decorate' means to ADD things to make something look more beautiful. You decorate a castle with shells and pretty stones — you add, not take away."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "In stories, a _______ is a large, scary creature that can breathe fire.",
+      "answer": "dragon",
+      "acceptedAnswers": [
+        "dragon",
+        "Dragon"
+      ],
+      "hint": "A mythical fire-breathing creature",
+      "explanation": "A 'dragon' is a mythical (imaginary) creature from stories and legends, often shown as large, scary, and able to breathe fire. In 'The Box,' the child imagines fighting one."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "Sort these Part 2 words — VERBS (actions) or NOUNS (things)?",
+      "items": [
+        "carved",
+        "moat",
+        "scoop",
+        "dragon",
+        "decorate",
+        "cave"
+      ],
+      "categories": [
+        {
+          "label": "Verb (action)",
+          "answers": [
+            "carved",
+            "scoop",
+            "decorate"
+          ]
+        },
+        {
+          "label": "Noun (thing or place)",
+          "answers": [
+            "moat",
+            "dragon",
+            "cave"
+          ]
+        }
+      ],
+      "explanation": "'Carved' (cut), 'scoop' (pick up), and 'decorate' (add beauty to) are actions. 'Moat,' 'dragon,' and 'cave' are things or places."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a line from 'Sandcastle':",
+      "words": [
+        "surrounds",
+        "moat",
+        "it",
+        "A",
+        "all"
+      ],
+      "answer": [
+        "A",
+        "moat",
+        "surrounds",
+        "it",
+        "all"
+      ],
+      "explanation": "Correct line: 'A moat surrounds it all.' The moat goes all the way around the sandcastle — 'surrounds' means goes around all sides."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "the-box"
+      ],
+      "question": "Why is the box called a 'cardboard cave'?",
+      "options": [
+        "Because it is made of real cave stone",
+        "Because it is hollow and dark inside, like a cave",
+        "Because it is very colorful",
+        "Because it is very large and heavy"
+      ],
+      "answer": 1,
+      "explanation": "A cave is a hollow, dark space inside rock. The cardboard box is also hollow and dark inside — so the child imagines it as a 'cardboard cave.' This is a creative comparison (metaphor)."
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "metaphor"
+      ],
+      "question": "When the poem calls the box a 'cardboard cave,' it is using a METAPHOR — saying one thing IS another thing to spark imagination.",
+      "answer": true,
+      "explanation": "Yes! A metaphor says one thing IS another. 'Cardboard cave' = the box IS a cave (in the child's imagination). It is not literally a cave — it is a cardboard box, but the metaphor makes it feel like an adventure."
+    },
+    {
+      "id": "q13",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sandcastle"
+      ],
+      "question": "She carefully _______ the birthday cake with candles, flowers, and ribbons.",
+      "answer": "decorated",
+      "acceptedAnswers": [
+        "decorated",
+        "Decorated",
+        "decorate",
+        "Decorate"
+      ],
+      "hint": "Past tense of decorate — added beautiful things",
+      "explanation": "'Decorated' (past tense) means added beautiful or festive things to make something look better. 'She decorated the cake' means she added colorful items to make it look special."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "Which word could REPLACE 'squishy' in the sentence 'The sand felt squishy'?",
+      "options": [
+        "Deep",
+        "Soft and mushy",
+        "Carved",
+        "Great"
+      ],
+      "answer": 1,
+      "explanation": "'Squishy' = soft and mushy when pressed. 'The sand felt soft and mushy' means the same thing — wet sand that gives way when you press it."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence about 'The Box':",
+      "words": [
+        "the",
+        "cardboard",
+        "inside",
+        "child",
+        "cave",
+        "The",
+        "crawled"
+      ],
+      "answer": [
+        "The",
+        "child",
+        "crawled",
+        "inside",
+        "the",
+        "cardboard",
+        "cave"
+      ],
+      "explanation": "Correct sentence: 'The child crawled inside the cardboard cave.' The child crawled (moved on hands and knees) inside the box that she imagined as a cave."
+    }
+  ]
+}

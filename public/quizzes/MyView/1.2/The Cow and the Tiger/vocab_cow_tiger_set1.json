@@ -1,0 +1,335 @@
+{
+  "meta": {
+    "id": "vocab_cow_tiger",
+    "version": "1.0",
+    "title": "The Cow and the Tiger — Vocabulary Set 1",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Vocabulary quiz for 'The Cow and the Tiger' — all 16 words from Weeks 6–7 (named, beautiful, graze, shadowy, forest, angry, caught, sad, promise, attack, agreed, grassy, surprised, happy, protect, truth).",
+    "guid": "e7095817-8826-4e56-9aca-3fd60ff26056"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "What does 'beautiful' mean?",
+      "options": [
+        "Very scary",
+        "Very ugly",
+        "Very pretty",
+        "Very loud"
+      ],
+      "answer": 2,
+      "explanation": "'Beautiful' means very pretty. In the story, the cow named Chumpa was beautiful — she was a lovely, pretty cow."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "What does 'graze' mean?",
+      "options": [
+        "To jump over a fence",
+        "To eat grass in a field",
+        "To fall asleep under a tree",
+        "To drink water from a river"
+      ],
+      "answer": 1,
+      "explanation": "'Graze' means to eat grass slowly in a field. Cows graze — they walk slowly in a field and eat grass."
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "'Shadowy' means a place with lots of bright light.",
+      "answer": false,
+      "explanation": "'Shadowy' means dark with little light. A shadowy forest has many trees that block the sunlight — it is dark and a little scary."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "The cave is _______, so I turn on my flashlight to see.",
+      "answer": "shadowy",
+      "acceptedAnswers": [
+        "shadowy",
+        "Shadowy"
+      ],
+      "hint": "Dark with little light",
+      "explanation": "'Shadowy' means dark with little light. A shadowy place needs a light because it is too dark to see well."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "'Named' means the same as:",
+      "options": [
+        "Forgot a name",
+        "Gave a special name to something",
+        "Looked for something",
+        "Ran away quickly"
+      ],
+      "answer": 1,
+      "explanation": "'Named' means gave a special name. The cow was 'named Chumpa' — someone gave her the name Chumpa."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "What does 'promise' mean?",
+      "options": [
+        "To fight with someone",
+        "To say you will definitely do something",
+        "To run away from danger",
+        "To feel very surprised"
+      ],
+      "answer": 1,
+      "explanation": "'Promise' means to say you will definitely do something. The tiger promised not to attack the cow — he gave his word."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "A helmet can _______ your head when you ride a bike.",
+      "answer": "protect",
+      "acceptedAnswers": [
+        "protect",
+        "Protect"
+      ],
+      "hint": "To keep someone or something safe",
+      "explanation": "'Protect' means to keep safe. The farmer wanted to protect Chumpa from the tiger — to keep her safe from attack."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "'Agreed' means someone said 'yes' and accepted a plan.",
+      "answer": true,
+      "explanation": "Yes! 'Agreed' means said yes to something. The tiger 'agreed' to the farmer's plan — he said yes to the deal."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "The tiger was _______ when the farmer tricked him. He was very mad!",
+      "options": [
+        "happy",
+        "surprised",
+        "angry",
+        "beautiful"
+      ],
+      "answer": 2,
+      "explanation": "'Angry' means feeling very mad. The tiger was angry because he felt he had been tricked by the farmer."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "It is important to always tell the _______. Don't lie!",
+      "answer": "truth",
+      "acceptedAnswers": [
+        "truth",
+        "Truth"
+      ],
+      "hint": "Something that is real and not a lie",
+      "explanation": "'Truth' means something that is real and correct — not a lie. 'Tell the truth' means to say what really happened."
+    },
+    {
+      "id": "q11",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sorting",
+        "feelings"
+      ],
+      "question": "Sort these words — do they describe a FEELING or an ACTION?",
+      "items": [
+        "attack",
+        "protect",
+        "angry",
+        "surprised",
+        "agreed",
+        "sad"
+      ],
+      "categories": [
+        {
+          "label": "Feeling (adjective)",
+          "answers": [
+            "angry",
+            "surprised",
+            "sad"
+          ]
+        },
+        {
+          "label": "Action (verb)",
+          "answers": [
+            "attack",
+            "protect",
+            "agreed"
+          ]
+        }
+      ],
+      "explanation": "'Angry,' 'surprised,' and 'sad' describe how a person feels (adjectives). 'Attack,' 'protect,' and 'agreed' are things a person does (verbs)."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week6"
+      ],
+      "question": "The boy dropped the ball, but his friend _______ it before it hit the ground.",
+      "options": [
+        "named",
+        "caught",
+        "grazed",
+        "protected"
+      ],
+      "answer": 1,
+      "explanation": "'Caught' means grabbed or held onto something. The friend caught the ball — grabbed it before it could fall."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a correct sentence:",
+      "words": [
+        "promise",
+        "not",
+        "the",
+        "attack",
+        "tiger",
+        "to",
+        "made",
+        "a"
+      ],
+      "answer": [
+        "The",
+        "tiger",
+        "made",
+        "a",
+        "promise",
+        "not",
+        "to",
+        "attack"
+      ],
+      "explanation": "Correct sentence: 'The tiger made a promise not to attack.' A promise means you say you will definitely do (or not do) something."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "'Grassy' and 'shadowy' are both adjectives because they describe what a place looks like.",
+      "answer": true,
+      "explanation": "Yes! Both are adjectives. 'Grassy' describes a field covered with grass. 'Shadowy' describes a dark place with little light. Both words describe the appearance of a place."
+    },
+    {
+      "id": "q15",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sorting",
+        "parts-of-speech"
+      ],
+      "question": "Sort these vocabulary words — are they ADJECTIVES (describing words) or NOUNS (things)?",
+      "items": [
+        "grassy",
+        "truth",
+        "beautiful",
+        "forest",
+        "shadowy",
+        "promise"
+      ],
+      "categories": [
+        {
+          "label": "Adjective (describing word)",
+          "answers": [
+            "grassy",
+            "beautiful",
+            "shadowy"
+          ]
+        },
+        {
+          "label": "Noun (a thing or place)",
+          "answers": [
+            "truth",
+            "forest",
+            "promise"
+          ]
+        }
+      ],
+      "explanation": "'Grassy,' 'beautiful,' and 'shadowy' describe what things look like (adjectives). 'Truth,' 'forest,' and 'promise' are things you can name (nouns)."
+    }
+  ]
+}

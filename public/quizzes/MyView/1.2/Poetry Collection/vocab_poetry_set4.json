@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "id": "vocab_poetry_set4",
+    "version": "1.0",
+    "title": "Poetry Collection — Vocabulary Set 4",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "All 16 words in context — sentence completion and usage practice across all three poems.",
+    "guid": "c448d776-31a7-4641-a984-180ee5aa2d62"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The rockets _______ into the sky — they moved incredibly fast.",
+      "answer": "zoomed",
+      "acceptedAnswers": [
+        "zoomed",
+        "Zoomed"
+      ],
+      "hint": "Past tense of zoom — moved very fast",
+      "explanation": "'Zoomed' means moved very fast. Rockets zoom into the sky — they accelerate rapidly from the ground upward."
+    },
+    {
+      "id": "q2",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "She _______ a birthday cake for her brother by putting candles and flowers on it.",
+      "answer": "decorated",
+      "acceptedAnswers": [
+        "decorated",
+        "Decorated",
+        "decorate",
+        "Decorate"
+      ],
+      "hint": "Made it look beautiful by adding things",
+      "explanation": "'Decorated' means added things to make something look special. Adding candles and flowers makes the cake look festive and beautiful."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The artist _______ a beautiful pattern into the wood.",
+      "options": [
+        "scooped",
+        "crawled",
+        "carved",
+        "zoomed"
+      ],
+      "answer": 2,
+      "explanation": "'Carved' means cut carefully with a tool. Carving a pattern into wood means using a sharp tool to cut a design into its surface."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Use a spoon to _______ the ice cream into the bowl.",
+      "answer": "scoop",
+      "acceptedAnswers": [
+        "scoop",
+        "Scoop"
+      ],
+      "hint": "Pick up with a curved tool",
+      "explanation": "'Scoop' means to pick up with a curved tool or hands. You use a spoon to scoop ice cream — to lift it out and place it in the bowl."
+    },
+    {
+      "id": "q5",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The puppy _______ under the bed to hide. It was on its hands and knees — well, four paws!",
+      "answer": "crawled",
+      "acceptedAnswers": [
+        "crawled",
+        "Crawled"
+      ],
+      "hint": "Moved on hands and knees (or four paws)",
+      "explanation": "'Crawled' means moved low to the ground on hands and knees. A puppy crawling under a bed moves its body close to the floor to fit in the small space."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "We _______ the children some juice — we carried it from the kitchen and gave it to them.",
+      "options": [
+        "carved",
+        "might",
+        "brought",
+        "scooped"
+      ],
+      "answer": 2,
+      "explanation": "'Brought' (past tense of bring) means carried and delivered. 'We brought juice' = we carried it from one place and gave it to them."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "It _______ rain tomorrow, so bring an umbrella just in case.",
+      "answer": "might",
+      "acceptedAnswers": [
+        "might",
+        "Might"
+      ],
+      "hint": "Expresses possibility, not certainty",
+      "explanation": "'Might' means something is possible but not certain. 'It might rain' — rain is possible but not definite. You bring an umbrella to be prepared."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The old castle had a wide _______ filled with water all around it.",
+      "answer": "moat",
+      "acceptedAnswers": [
+        "moat",
+        "Moat"
+      ],
+      "hint": "A water ditch around a castle",
+      "explanation": "A 'moat' is a defensive water ditch around a castle. The water in the moat made it harder for enemies to attack the castle walls."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The explorers found a _______ in the mountain and went inside to shelter from the rain.",
+      "options": [
+        "box",
+        "moat",
+        "cave",
+        "dragon"
+      ],
+      "answer": 2,
+      "explanation": "A 'cave' is a hollow space inside rock. Explorers shelter in a cave — it provides natural protection from rain and wind."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to make a sentence:",
+      "words": [
+        "squishy",
+        "felt",
+        "sand",
+        "wet",
+        "The",
+        "and",
+        "brown"
+      ],
+      "answer": [
+        "The",
+        "sand",
+        "felt",
+        "wet",
+        "squishy",
+        "and",
+        "brown"
+      ],
+      "explanation": "Correct sentence: 'The sand felt wet, squishy, and brown.' This line from 'Sandcastle' describes the feeling and appearance of beach sand — wet, soft, and brownish in color."
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The movie had a _______ dragon that could breathe fire and fly.",
+      "answer": "great",
+      "acceptedAnswers": [
+        "great",
+        "Great"
+      ],
+      "hint": "Very large and impressive",
+      "explanation": "'Great' means very large, powerful, or impressive. A 'great dragon' is a magnificent, powerful beast — 'great' elevates the dragon from ordinary to epic."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Choose the sentence that uses BOTH 'skip' and 'zoom' correctly:",
+      "options": [
+        "She zoomed on her skip.",
+        "The rabbit skip to zoom the moat.",
+        "Children can skip along the path, but that bird can zoom from branch to branch.",
+        "I zoom skip the cardboard."
+      ],
+      "answer": 2,
+      "explanation": "'Children skip along the path' — light jumping movement. 'The bird can zoom from branch to branch' — very fast flight. Both used correctly for different types of fast movement."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to make a sentence about 'The Box':",
+      "words": [
+        "Dad",
+        "the",
+        "carved",
+        "box",
+        "little",
+        "a",
+        "into",
+        "hole"
+      ],
+      "answer": [
+        "Dad",
+        "carved",
+        "a",
+        "little",
+        "hole",
+        "into",
+        "the",
+        "box"
+      ],
+      "explanation": "Correct sentence: 'Dad carved a little hole into the box.' Dad used a tool to carefully cut a small hole — which became a window or entrance for the child's imaginary castle."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The word 'deep' can describe both the ocean ('the deep blue sea') and feelings ('deep sadness').",
+      "answer": true,
+      "explanation": "Yes! 'Deep' means 'extending far down or far in.' It works for physical depth (the ocean) and emotional depth (deep feelings). It is a versatile word!"
+    },
+    {
+      "id": "q15",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "poetry",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "We _______ the classroom for the festival by hanging colorful paper decorations everywhere.",
+      "answer": "decorated",
+      "acceptedAnswers": [
+        "decorated",
+        "Decorated",
+        "decorate",
+        "Decorate"
+      ],
+      "hint": "Added beautiful things to make it look festive",
+      "explanation": "'Decorated' means added things to make something look special and beautiful. Hanging paper decorations makes the classroom look festive for a celebration."
+    }
+  ]
+}

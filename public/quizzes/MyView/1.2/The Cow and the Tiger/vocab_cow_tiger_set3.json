@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "id": "vocab_cow_tiger_set3",
+    "version": "1.0",
+    "title": "The Cow and the Tiger — Vocabulary Set 3",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Week 7 vocabulary focus: promise, attack, agreed, grassy, surprised, happy, protect, truth.",
+    "guid": "e6af9b6b-10bc-4549-a74f-f842fe45ec0b"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "What does 'promise' mean?",
+      "options": [
+        "To forget something",
+        "To say you will definitely do something",
+        "To run away",
+        "To feel surprised"
+      ],
+      "answer": 1,
+      "explanation": "A 'promise' is when you say you will definitely do something. When you make a promise, you give your word — it is a serious commitment."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "A 'grassy' field has lots of green grass growing on it.",
+      "answer": true,
+      "explanation": "Yes! 'Grassy' means covered with grass. A grassy field is a large open area where green grass grows — perfect for cows to graze."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "It is important to tell the _______ — even when it is difficult.",
+      "answer": "truth",
+      "acceptedAnswers": [
+        "truth",
+        "Truth"
+      ],
+      "hint": "The real facts; what really happened",
+      "explanation": "'Truth' means what is real and correct — not a lie. Telling the truth means saying what really happened, even if it is hard."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "What does 'protect' mean?",
+      "options": [
+        "To hurt someone",
+        "To agree with someone",
+        "To keep someone safe from danger",
+        "To feel surprised"
+      ],
+      "answer": 2,
+      "explanation": "'Protect' means to keep safe from harm or danger. The farmer wanted to protect Chumpa from the tiger — to make sure she would not be attacked."
+    },
+    {
+      "id": "q5",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "The dog will _______ if it feels scared or angry.",
+      "answer": "attack",
+      "acceptedAnswers": [
+        "attack",
+        "Attack"
+      ],
+      "hint": "To start fighting; to hurt someone",
+      "explanation": "'Attack' means to start fighting or hurting someone. When an animal feels threatened, it may attack — it fights to protect itself."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "They _______ on the rules before the game started. Everyone said yes.",
+      "options": [
+        "attacked",
+        "agreed",
+        "surprised",
+        "protected"
+      ],
+      "answer": 1,
+      "explanation": "'Agreed' means said yes to something. When everyone agreed on the rules, they all accepted them and said yes to playing by them."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "I was _______ when my friend gave me a gift — I did not expect it at all!",
+      "answer": "surprised",
+      "acceptedAnswers": [
+        "surprised",
+        "Surprised"
+      ],
+      "hint": "Feeling shocked by something unexpected",
+      "explanation": "'Surprised' means feeling shocked by something you did not expect. An unexpected gift makes you feel surprised — you did not know it was coming."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "'Agreed' means the same as 'said yes' or 'accepted.'",
+      "answer": true,
+      "explanation": "Yes! When you 'agree,' you accept a plan or idea and say yes to it. The tiger 'agreed' to the farmer's plan — he said yes and accepted the deal."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7",
+        "feelings-vs-actions"
+      ],
+      "question": "Sort these Week 7 words — are they FEELINGS or ACTIONS?",
+      "items": [
+        "surprised",
+        "attack",
+        "happy",
+        "protect",
+        "agreed",
+        "truth"
+      ],
+      "categories": [
+        {
+          "label": "Feeling (adjective / noun)",
+          "answers": [
+            "surprised",
+            "happy",
+            "truth"
+          ]
+        },
+        {
+          "label": "Action (verb)",
+          "answers": [
+            "attack",
+            "protect",
+            "agreed"
+          ]
+        }
+      ],
+      "explanation": "'Surprised' (emotion) and 'happy' (emotion) are feelings. 'Truth' is a thing you can feel strongly about. 'Attack,' 'protect,' and 'agreed' are actions — things you do."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence:",
+      "words": [
+        "attack",
+        "not",
+        "The",
+        "to",
+        "promised",
+        "tiger",
+        "Chumpa"
+      ],
+      "answer": [
+        "The",
+        "tiger",
+        "promised",
+        "not",
+        "to",
+        "attack",
+        "Chumpa"
+      ],
+      "explanation": "Correct sentence: 'The tiger promised not to attack Chumpa.' The tiger gave his word — his promise — that he would not harm the cow."
+    },
+    {
+      "id": "q11",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "She was _______ when she heard the news — her face broke into a big smile.",
+      "answer": "happy",
+      "acceptedAnswers": [
+        "happy",
+        "Happy"
+      ],
+      "hint": "Feeling glad and joyful",
+      "explanation": "'Happy' means feeling glad and joyful. Smiling when you hear good news shows you are happy — you feel positive and pleased."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "The opposite of 'truth' is:",
+      "options": [
+        "Promise",
+        "Agreed",
+        "A lie / falsehood",
+        "Grassy"
+      ],
+      "answer": 2,
+      "explanation": "The opposite of 'truth' (what is real) is 'a lie' or 'a falsehood' (something that is not true). The tiger broke his promise — which was the opposite of telling the truth."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "A 'promise' and an 'agreement' are different things — a promise is personal, while an agreement involves two or more people.",
+      "answer": true,
+      "explanation": "Yes! A 'promise' is when ONE person commits to doing something. An 'agreement' usually involves TWO or more people both saying yes. They are related but slightly different."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7"
+      ],
+      "question": "Which sentence uses BOTH 'protect' and 'attack' correctly?",
+      "options": [
+        "The farmer attacked to protect a tiger.",
+        "She attacked her umbrella to protect from the rain.",
+        "A helmet is worn to protect your head in case you fall or are attacked.",
+        "The truth attacked the happiness."
+      ],
+      "answer": 2,
+      "explanation": "A helmet 'protects' your head by keeping it safe. In a contact sport, you might be 'attacked' (hit). Both words are used correctly: protect = keep safe, attack = a hit or strike."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "week7",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence about the story's moral:",
+      "words": [
+        "the",
+        "truth",
+        "tell",
+        "Always",
+        "even",
+        "it",
+        "is",
+        "hard",
+        "when"
+      ],
+      "answer": [
+        "Always",
+        "tell",
+        "the",
+        "truth",
+        "even",
+        "when",
+        "it",
+        "is",
+        "hard"
+      ],
+      "explanation": "Correct sentence: 'Always tell the truth even when it is hard.' This is the moral lesson of the story — honesty matters, even when it requires courage."
+    }
+  ]
+}

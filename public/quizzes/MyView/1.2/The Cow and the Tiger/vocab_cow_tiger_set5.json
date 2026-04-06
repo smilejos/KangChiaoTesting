@@ -1,0 +1,371 @@
+{
+  "meta": {
+    "id": "vocab_cow_tiger_set5",
+    "version": "1.0",
+    "title": "The Cow and the Tiger — Vocabulary Set 5",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Challenge set — antonyms, word families, feelings vs actions across all 16 words.",
+    "guid": "7dcc0e0d-ac88-48fa-94d3-d835107f5468"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the opposite of 'beautiful'?",
+      "options": [
+        "Grassy",
+        "Ugly",
+        "Shadowy",
+        "Happy"
+      ],
+      "answer": 1,
+      "explanation": "The opposite of 'beautiful' (very pretty) is 'ugly' (not attractive). These are antonyms — words with opposite meanings."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the opposite of 'protect'?",
+      "options": [
+        "Promise",
+        "Attack / harm",
+        "Truth",
+        "Graze"
+      ],
+      "answer": 1,
+      "explanation": "The opposite of 'protect' (keep safe) is 'attack' or 'harm' (hurt). The tiger wanted to attack Chumpa; the farmer wanted to protect her."
+    },
+    {
+      "id": "q3",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "Match each word to its OPPOSITE.",
+      "items": [
+        "happy",
+        "truth",
+        "angry",
+        "beautiful"
+      ],
+      "categories": [
+        {
+          "label": "Sad / unhappy",
+          "answers": [
+            "happy"
+          ]
+        },
+        {
+          "label": "A lie / falsehood",
+          "answers": [
+            "truth"
+          ]
+        },
+        {
+          "label": "Calm / peaceful",
+          "answers": [
+            "angry"
+          ]
+        },
+        {
+          "label": "Ugly",
+          "answers": [
+            "beautiful"
+          ]
+        }
+      ],
+      "explanation": "Antonyms: happy ↔ sad, truth ↔ lie, angry ↔ calm, beautiful ↔ ugly. These opposites help solidify your understanding of each word's meaning."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "'Protect,' 'protection,' and 'protective' all come from the same root word.",
+      "answer": true,
+      "explanation": "Yes! 'Protect' (verb) → 'protection' (noun) → 'protective' (adjective). All three words come from the same Latin root meaning 'to cover' or 'to guard.'"
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "The opposite of 'surprised' is:",
+      "options": [
+        "Unsurprised / expecting it",
+        "Angry",
+        "Shadowy",
+        "Agreed"
+      ],
+      "answer": 0,
+      "explanation": "The opposite of 'surprised' (shocked by something unexpected) is 'unsurprised' or 'expecting it' (you knew it was coming). If you expected the gift, you would not be surprised."
+    },
+    {
+      "id": "q6",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "Sort these words — are they BASE WORDS or CHANGED FORMS?",
+      "items": [
+        "agree",
+        "agreed",
+        "protect",
+        "protection",
+        "beauty",
+        "beautiful"
+      ],
+      "categories": [
+        {
+          "label": "Base word (root form)",
+          "answers": [
+            "agree",
+            "protect",
+            "beauty"
+          ]
+        },
+        {
+          "label": "Changed form (past tense / noun / adjective)",
+          "answers": [
+            "agreed",
+            "protection",
+            "beautiful"
+          ]
+        }
+      ],
+      "explanation": "'Agree,' 'protect,' and 'beauty' are base words. 'Agreed' (past tense), 'protection' (noun form), and 'beautiful' (adjective from beauty) are changed forms."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "In the story, the tiger 'agreed' to the farmer's plan. This means:",
+      "options": [
+        "The tiger understood the plan perfectly",
+        "The tiger said yes and accepted the conditions",
+        "The tiger attacked the farmer",
+        "The tiger was surprised by the farmer"
+      ],
+      "answer": 1,
+      "explanation": "'Agreed' means said yes and accepted. The tiger agreed to the farmer's conditions — he said yes to the deal without fully understanding it. This is how the farmer outsmarted him."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "The tiger 'promised' not to attack, but then he attacked anyway — this means he broke his promise.",
+      "answer": true,
+      "explanation": "Yes! When you break a promise, you do the opposite of what you said you would do. The tiger promised not to attack, then attacked anyway — he broke his word."
+    },
+    {
+      "id": "q9",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to form a sentence about the story's lesson:",
+      "words": [
+        "protect",
+        "can",
+        "cleverness",
+        "against",
+        "strength",
+        "brute"
+      ],
+      "answer": [
+        "Cleverness",
+        "can",
+        "protect",
+        "against",
+        "brute",
+        "strength"
+      ],
+      "explanation": "Correct sentence: 'Cleverness can protect against brute strength.' The farmer was physically weaker than the tiger but used intelligence to protect Chumpa — cleverness won."
+    },
+    {
+      "id": "q10",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "good-vs-bad"
+      ],
+      "question": "Sort these words into POSITIVE (good/helpful) and NEGATIVE (bad/harmful).",
+      "items": [
+        "protect",
+        "attack",
+        "beautiful",
+        "angry",
+        "truth",
+        "graze"
+      ],
+      "categories": [
+        {
+          "label": "Positive (good or helpful)",
+          "answers": [
+            "protect",
+            "beautiful",
+            "truth",
+            "graze"
+          ]
+        },
+        {
+          "label": "Negative (bad or harmful)",
+          "answers": [
+            "attack",
+            "angry"
+          ]
+        }
+      ],
+      "explanation": "'Protect' (keeps safe), 'beautiful' (pleasing), 'truth' (honest), and 'graze' (peaceful activity) are positive. 'Attack' (hurts) and 'angry' (negative emotion) are negative words."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "Which sentence uses BOTH 'anger' and 'protect' correctly in a meaningful way?",
+      "options": [
+        "A mother's anger can protect her children from danger.",
+        "She protected the angry truth.",
+        "The anger grassy was beautiful and surprised.",
+        "He promised to anger and protect the tiger."
+      ],
+      "answer": 0,
+      "explanation": "A mother's 'anger' (strong emotion) when her child is threatened can motivate her to 'protect' them (keep them safe). Both words are used correctly and meaningfully."
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "'Angry,' 'surprised,' 'happy,' 'sad,' and 'beautiful' are all adjectives because they describe how a person or thing is.",
+      "answer": true,
+      "explanation": "Yes! All five words are adjectives. 'Angry,' 'surprised,' 'happy,' and 'sad' describe feelings. 'Beautiful' describes appearance. They all describe what something is like."
+    },
+    {
+      "id": "q13",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "usage"
+      ],
+      "question": "The farmer's plan worked because the tiger was _______ — he was honest but not clever enough to understand the trick.",
+      "answer": "trusting",
+      "acceptedAnswers": [
+        "trusting",
+        "Trusting",
+        "honest",
+        "Honest",
+        "naive",
+        "Naive"
+      ],
+      "hint": "The tiger believed the farmer's words without suspicion",
+      "explanation": "The tiger was 'trusting' or 'honest' — he took the farmer at his word without suspecting a trick. This is why cleverness defeated strength in the story."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a sentence using 'shadowy' and 'forest':",
+      "words": [
+        "watched",
+        "from",
+        "tiger",
+        "the",
+        "shadowy",
+        "The",
+        "forest"
+      ],
+      "answer": [
+        "The",
+        "tiger",
+        "watched",
+        "from",
+        "the",
+        "shadowy",
+        "forest"
+      ],
+      "explanation": "Correct sentence: 'The tiger watched from the shadowy forest.' The tiger hid among the dark trees and watched the cow — 'shadowy forest' sets a tense, threatening scene."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "cow-tiger",
+        "vocabulary",
+        "theme"
+      ],
+      "question": "The tiger was strong but the farmer was clever. Which vocabulary word BEST describes what the farmer did to protect Chumpa?",
+      "options": [
+        "He 'attacked' the tiger directly",
+        "He used 'truth' cleverly — tricking the tiger with honest-sounding words",
+        "He 'grazed' with the tiger to make peace",
+        "He 'promised' to be the tiger's friend"
+      ],
+      "answer": 1,
+      "explanation": "The farmer used 'truth' — or technically clever wording that was not quite the truth — to confuse the tiger. He protected Chumpa through wit, not force."
+    }
+  ]
+}

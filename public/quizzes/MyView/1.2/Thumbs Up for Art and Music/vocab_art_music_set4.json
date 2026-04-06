@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "id": "vocab_art_music_set4",
+    "version": "1.0",
+    "title": "Thumbs Up for Art and Music — Vocabulary Set 4",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "All 16 words in context — sentence completion and word usage practice.",
+    "guid": "fc43eec8-8f03-405f-af57-35845a696432"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "She gave a _______ _______ when she agreed with the plan — it means 'yes, I like it!'",
+      "answer": "thumbs up",
+      "acceptedAnswers": [
+        "thumbs up",
+        "Thumbs up",
+        "Thumbs Up"
+      ],
+      "hint": "A two-word gesture of approval",
+      "explanation": "'Thumbs up' is a gesture or expression of approval. Giving a thumbs up means you agree and support something."
+    },
+    {
+      "id": "q2",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "_______ class is where students draw, paint, and create original works.",
+      "answer": "Art",
+      "acceptedAnswers": [
+        "art",
+        "Art"
+      ],
+      "hint": "The subject where you create visual things",
+      "explanation": "'Art' class is where students develop creative skills — drawing, painting, sculpting, and making original creative works."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "In _______ class, students sing, play instruments, and learn to read notes.",
+      "options": [
+        "math",
+        "art",
+        "music",
+        "teamwork"
+      ],
+      "answer": 2,
+      "explanation": "'Music' class covers singing, playing instruments, reading notes, and understanding rhythm. It is a class all about organized sound and performance."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "I cannot _______ how to solve this puzzle — can you give me a hint?",
+      "answer": "figure out",
+      "acceptedAnswers": [
+        "figure out",
+        "Figure out",
+        "Figure Out"
+      ],
+      "hint": "Find the solution to",
+      "explanation": "'Figure out' means to find the answer through thinking. 'I can't figure out this puzzle' means I have tried but haven't found the solution yet."
+    },
+    {
+      "id": "q5",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "I _______ on my math homework and forgot all about dinner.",
+      "answer": "concentrated",
+      "acceptedAnswers": [
+        "concentrated",
+        "Concentrated",
+        "concentrate",
+        "Concentrate"
+      ],
+      "hint": "Focused so hard that you forgot everything else",
+      "explanation": "'Concentrated' means focused all attention on one thing. Concentrating so hard on homework that you forget dinner shows complete focus."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Her painting of the sunset was _______ — everyone stopped to look at it.",
+      "options": [
+        "important",
+        "amazing",
+        "fun",
+        "teamwork"
+      ],
+      "answer": 1,
+      "explanation": "'Amazing' means very impressive and wonderful. A painting so beautiful that everyone stops to look is truly amazing — it fills them with wonder and admiration."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "I have to _______ all the music notes for the concert — there are so many to keep in my head!",
+      "answer": "remember",
+      "acceptedAnswers": [
+        "remember",
+        "Remember"
+      ],
+      "hint": "Keep in memory; be able to recall later",
+      "explanation": "'Remember' means to keep in memory. Remembering music notes means being able to recall them during performance without looking at the sheet."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "She is very _______. She always thinks of new ideas that nobody else has thought of!",
+      "answer": "creative",
+      "acceptedAnswers": [
+        "creative",
+        "Creative"
+      ],
+      "hint": "Able to think of new and original ideas",
+      "explanation": "'Creative' means able to generate fresh, original ideas. Someone who always thinks of something new that others haven't is described as very creative."
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The school play required great _______. Every student had a special role and they worked together to make it perfect.",
+      "options": [
+        "imagination",
+        "math",
+        "problems",
+        "teamwork"
+      ],
+      "answer": 3,
+      "explanation": "'Teamwork' means working together as a group. A school play where everyone has a role and must cooperate is a perfect example of teamwork at its best."
+    },
+    {
+      "id": "q10",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Sport is _______ — you have to solve many _______ to do it well, and it teaches you to think!",
+      "answer": "important",
+      "acceptedAnswers": [
+        "important",
+        "Important"
+      ],
+      "hint": "Matters a lot",
+      "explanation": "'Important' means significant and valuable. Many skills that seem unrelated (like sport) are important because they teach thinking, problem-solving, and discipline."
+    },
+    {
+      "id": "q11",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to make a sentence from the text:",
+      "words": [
+        "you",
+        "Art",
+        "be",
+        "helps",
+        "creative"
+      ],
+      "answer": [
+        "Art",
+        "helps",
+        "you",
+        "be",
+        "creative"
+      ],
+      "explanation": "Correct sentence: 'Art helps you be creative.' This is one of the key claims in the text — art develops your creativity."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Choose the sentence that uses BOTH 'concentrate' and 'remember' correctly:",
+      "options": [
+        "She concentrateed to remember the music.",
+        "If you concentrate while learning, you will remember the information better.",
+        "Remember to concentrate a music fun.",
+        "Concentrate and remember are teamwork."
+      ],
+      "answer": 1,
+      "explanation": "'If you concentrate' (focus your attention) 'you will remember better' (recall it more easily later). This is a true learning principle — focused attention improves memory."
+    },
+    {
+      "id": "q13",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The festival was _______ — the music, dancing, and art displays were all incredible!",
+      "answer": "amazing",
+      "acceptedAnswers": [
+        "amazing",
+        "Amazing"
+      ],
+      "hint": "Very impressive and wonderful",
+      "explanation": "'Amazing' = very impressive and wonderful. A festival with incredible music, dancing, and art displays would definitely be amazing — you'd say 'Wow!' about everything."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to make a sentence about creativity:",
+      "words": [
+        "imagination",
+        "You",
+        "use",
+        "creative",
+        "to",
+        "be",
+        "your"
+      ],
+      "answer": [
+        "You",
+        "use",
+        "your",
+        "imagination",
+        "to",
+        "be",
+        "creative"
+      ],
+      "explanation": "Correct sentence: 'You use your imagination to be creative.' This explains the relationship: imagination (the ability to picture new ideas) is what allows you to BE creative."
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "art-music",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "In the text, 'math problems' means art and music create difficulties in math class.",
+      "answer": false,
+      "explanation": "No! 'Math problems' means math exercises and questions — not difficulties. The text says art and music help you get BETTER at math problems, not that they cause problems."
+    }
+  ]
+}

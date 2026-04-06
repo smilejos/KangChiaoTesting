@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "id": "vocab_clever_monkey",
+    "version": "1.0",
+    "title": "The Clever Monkey — Vocabulary Set 1",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Vocabulary quiz for 'The Clever Monkey' — all 16 words from Weeks 1–4 (jungle, tricky, piece, cheese, mistake, fortune, divide, equal, fairly, swung, thanked, believe, afraid, exactly, carefully, sadly).",
+    "guid": "49cda158-e221-4d20-a682-22f3046f1ca9"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week1-3"
+      ],
+      "question": "What does 'jungle' mean?",
+      "options": [
+        "A cold, snowy mountain",
+        "A thick tropical forest full of animals",
+        "A quiet village",
+        "A sandy beach"
+      ],
+      "answer": 1,
+      "explanation": "A 'jungle' is a thick tropical forest. The Clever Monkey story takes place in a jungle in West Africa."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week1-3"
+      ],
+      "question": "What does 'fortune' mean?",
+      "options": [
+        "A big mistake",
+        "A small piece of food",
+        "Very good luck",
+        "A difficult problem"
+      ],
+      "answer": 2,
+      "explanation": "'Fortune' means very good luck. The cats 'could not believe their good fortune' — finding the cheese was like a lucky surprise."
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week1-3"
+      ],
+      "question": "'Tricky' means something that is hard to do or sneaky.",
+      "answer": true,
+      "explanation": "Yes! 'Tricky' means difficult or sneaky. The monkey was very tricky — he used a clever plan to eat the cats' cheese."
+    },
+    {
+      "id": "q4",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week1-3"
+      ],
+      "question": "The monkey offered to _______ the cheese into two equal parts.",
+      "answer": "divide",
+      "acceptedAnswers": [
+        "divide",
+        "Divide"
+      ],
+      "hint": "To cut or split into parts",
+      "explanation": "'Divide' means to cut or split into parts. The monkey said he would divide the cheese — but he used it as a trick to eat it!"
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week1-3"
+      ],
+      "question": "What does 'mistake' mean?",
+      "options": [
+        "Something you did correctly",
+        "Something that is very lucky",
+        "An error — something that went wrong",
+        "A type of food"
+      ],
+      "answer": 2,
+      "explanation": "A 'mistake' is an error — something that went wrong. The monkey said 'I have made a mistake' each time he pretended the pieces were not equal."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week1-3"
+      ],
+      "question": "We have an _______ number of cookies. We each get the same amount.",
+      "options": [
+        "tricky",
+        "equal",
+        "mistake",
+        "piece"
+      ],
+      "answer": 1,
+      "explanation": "'Equal' means the same amount or size. If everyone gets the same number of cookies, the amount is equal."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "The monkey 'swung' down from the tree. 'Swung' is the past tense of _______.",
+      "answer": "swing",
+      "acceptedAnswers": [
+        "swing",
+        "Swing"
+      ],
+      "hint": "The monkey does this on tree branches",
+      "explanation": "'Swung' is the past tense of 'swing.' The monkey swung — moved back and forth holding a branch — to come down from the tree."
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "When you 'believe' something, you think it is true.",
+      "answer": true,
+      "explanation": "Yes! 'Believe' means to think something is true. The cats 'could not believe their good fortune' — they were so surprised that it was hard to think it was really true."
+    },
+    {
+      "id": "q9",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "I walk _______ down the icy stairs so I don't fall.",
+      "answer": "carefully",
+      "acceptedAnswers": [
+        "carefully",
+        "Carefully"
+      ],
+      "hint": "Slowly and with great attention",
+      "explanation": "'Carefully' means doing something with great attention and care. Walking carefully on ice means paying close attention to each step."
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "The cats looked _______ at their tiny pieces of cheese.",
+      "options": [
+        "happily",
+        "sadly",
+        "loudly",
+        "quickly"
+      ],
+      "answer": 1,
+      "explanation": "'Sadly' means in an unhappy way. The cats were sad because the monkey had eaten almost all their cheese."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "The monkey checked the cheese 'exactly.' Which sentence uses 'exactly' correctly?",
+      "options": [
+        "He ran exactly the park.",
+        "The two pieces are exactly the same size — no difference at all.",
+        "I exactly a sandwich.",
+        "She exactly happy today."
+      ],
+      "answer": 1,
+      "explanation": "'Exactly' means perfectly, with no difference at all. 'Exactly the same size' means both pieces are perfectly equal."
+    },
+    {
+      "id": "q12",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sorting",
+        "parts-of-speech"
+      ],
+      "question": "Sort the vocabulary words by their part of speech.",
+      "items": [
+        "jungle",
+        "divide",
+        "fairly",
+        "mistake",
+        "sadly",
+        "piece"
+      ],
+      "categories": [
+        {
+          "label": "Noun (a person, place, or thing)",
+          "answers": [
+            "jungle",
+            "mistake",
+            "piece"
+          ]
+        },
+        {
+          "label": "Verb (an action word)",
+          "answers": [
+            "divide"
+          ]
+        },
+        {
+          "label": "Adverb (describes how)",
+          "answers": [
+            "fairly",
+            "sadly"
+          ]
+        }
+      ],
+      "explanation": "'Jungle,' 'mistake,' and 'piece' are things (nouns). 'Divide' is an action (verb). 'Fairly' and 'sadly' describe how something is done (adverbs)."
+    },
+    {
+      "id": "q13",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "I am _______ of the dark, so I always sleep with a small light on.",
+      "answer": "afraid",
+      "acceptedAnswers": [
+        "afraid",
+        "Afraid"
+      ],
+      "hint": "Feeling scared or frightened",
+      "explanation": "'Afraid' means feeling scared. The monkey used 'I am afraid' as a trick — he pretended to be sorry for eating too much cheese."
+    },
+    {
+      "id": "q14",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a correct sentence:",
+      "words": [
+        "thanked",
+        "The",
+        "the",
+        "cats",
+        "monkey"
+      ],
+      "answer": [
+        "The",
+        "cats",
+        "thanked",
+        "the",
+        "monkey"
+      ],
+      "explanation": "Correct sentence: 'The cats thanked the monkey.' 'Thanked' is the past tense of 'thank' — the cats said thank you to the monkey each time he divided the cheese."
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "'Fairly,' 'carefully,' 'exactly,' and 'sadly' are all adverbs because they describe HOW something is done.",
+      "answer": true,
+      "explanation": "Yes! All four words are adverbs. 'Fairly' (in a fair way), 'carefully' (with great care), 'exactly' (in a perfect way), and 'sadly' (in an unhappy way) — each describes how an action is done."
+    }
+  ]
+}

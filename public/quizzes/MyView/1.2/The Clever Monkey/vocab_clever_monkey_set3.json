@@ -1,0 +1,346 @@
+{
+  "meta": {
+    "id": "vocab_clever_monkey_set3",
+    "version": "1.0",
+    "title": "The Clever Monkey — Vocabulary Set 3",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-04-06",
+    "description": "Week 4 vocabulary focus: fairly, swung, thanked, believe, afraid, exactly, carefully, sadly.",
+    "guid": "7c24414c-65d9-4ba5-aa7d-01fa821420bd"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "What does 'fairly' mean?",
+      "options": [
+        "In a mean way",
+        "In a right and equal way",
+        "Very slowly",
+        "Very quietly"
+      ],
+      "answer": 1,
+      "explanation": "'Fairly' means in a just and equal way. If you divide something 'fairly,' everyone gets the same — no one gets more or less than anyone else."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "When you are 'afraid,' you feel scared or frightened.",
+      "answer": true,
+      "explanation": "Yes! 'Afraid' means feeling scared. The monkey said 'I am afraid that I ate too much' — but he was using it as a polite way to say sorry (while actually feeling quite happy!)."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "I _______ my teacher for helping me with the difficult problem.",
+      "answer": "thanked",
+      "acceptedAnswers": [
+        "thanked",
+        "Thanked"
+      ],
+      "hint": "Said thank you (past tense)",
+      "explanation": "'Thanked' is the past tense of 'thank' — to express gratitude. The cats thanked the monkey each time he helped them divide the cheese."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "The monkey swung down from the tree. 'Swung' describes:",
+      "options": [
+        "Running very fast",
+        "Moving back and forth (past tense of swing)",
+        "Falling straight down",
+        "Crawling on the ground"
+      ],
+      "answer": 1,
+      "explanation": "'Swung' is the past tense of 'swing' — to move by holding on and moving back and forth or from one place to another. The monkey swung from the tree branches to come down."
+    },
+    {
+      "id": "q5",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "The two pieces are _______ the same size — they are perfectly equal with no difference at all.",
+      "answer": "exactly",
+      "acceptedAnswers": [
+        "exactly",
+        "Exactly"
+      ],
+      "hint": "Perfectly, with no difference",
+      "explanation": "'Exactly' means perfectly, with absolutely no difference. 'Exactly the same' means the two things are a perfect match."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "The cats looked 'sadly' at their tiny pieces. Which word means the opposite of 'sadly'?",
+      "options": [
+        "Carefully",
+        "Happily",
+        "Exactly",
+        "Fairly"
+      ],
+      "answer": 1,
+      "explanation": "'Sadly' means in an unhappy way. The opposite is 'happily' — in a joyful way. The cats were sad, not happy, about their tiny pieces."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "'Believe' means to think that something is true.",
+      "answer": true,
+      "explanation": "Yes! 'Believe' means to accept something as true. The cats 'could not believe their good fortune' — they were so surprised it was hard to accept it was real."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "She carried the eggs _______ so they would not break.",
+      "answer": "carefully",
+      "acceptedAnswers": [
+        "carefully",
+        "Carefully"
+      ],
+      "hint": "With great attention and care",
+      "explanation": "'Carefully' means doing something with great attention to avoid mistakes or accidents. Handling fragile eggs carefully means you move slowly and gently."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4",
+        "parts-of-speech"
+      ],
+      "question": "Sort these Week 4 words — are they ADVERBS (describe how) or VERBS (action words) or ADJECTIVES (describing words)?",
+      "items": [
+        "fairly",
+        "swung",
+        "thanked",
+        "afraid",
+        "exactly",
+        "sadly"
+      ],
+      "categories": [
+        {
+          "label": "Adverb (describes how)",
+          "answers": [
+            "fairly",
+            "exactly",
+            "sadly"
+          ]
+        },
+        {
+          "label": "Verb (action word)",
+          "answers": [
+            "swung",
+            "thanked"
+          ]
+        },
+        {
+          "label": "Adjective (describing word)",
+          "answers": [
+            "afraid"
+          ]
+        }
+      ],
+      "explanation": "'Fairly,' 'exactly,' and 'sadly' all describe how something is done (adverbs). 'Swung' and 'thanked' are actions (verbs). 'Afraid' describes a feeling (adjective)."
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "Which sentence uses 'carefully' correctly?",
+      "options": [
+        "She carefully the homework book.",
+        "He walked carefully down the wet steps so he wouldn't slip.",
+        "The teacher carefully a question.",
+        "We carefully afraid of the jungle."
+      ],
+      "answer": 1,
+      "explanation": "'Carefully' describes how you do something. 'He walked carefully' — slowly and with attention — correctly uses it to modify the verb 'walked.'"
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "'Fairly,' 'carefully,' 'exactly,' and 'sadly' are all adverbs — they end in '-ly.'",
+      "answer": true,
+      "explanation": "Yes! Words ending in '-ly' are often adverbs. 'Fairly,' 'carefully,' 'exactly' (exception — no '-ly'), and 'sadly' describe how something is done. Note: 'exactly' ends in '-ly' too!"
+    },
+    {
+      "id": "q12",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4",
+        "sentence"
+      ],
+      "question": "Arrange the words to make a correct sentence:",
+      "words": [
+        "walked",
+        "carefully",
+        "The",
+        "icy",
+        "down",
+        "street",
+        "man",
+        "the"
+      ],
+      "answer": [
+        "The",
+        "man",
+        "walked",
+        "carefully",
+        "down",
+        "the",
+        "icy",
+        "street"
+      ],
+      "explanation": "Correct sentence: 'The man walked carefully down the icy street.' 'Carefully' is the adverb that describes how he walked — with great care to avoid slipping."
+    },
+    {
+      "id": "q13",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "I don't _______ the monkey was honest — I think he was tricking the cats the whole time.",
+      "answer": "believe",
+      "acceptedAnswers": [
+        "believe",
+        "Believe"
+      ],
+      "hint": "To think something is true",
+      "explanation": "'Believe' means to accept something as true. 'I don't believe the monkey was honest' means you think he was lying — you do not accept his honesty as true."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4"
+      ],
+      "question": "The monkey 'fairly' offered to help. In this sentence, what does 'fairly' tell us?",
+      "options": [
+        "How beautiful the monkey was",
+        "How the monkey made the offer — in a just, equal way",
+        "What the monkey offered",
+        "When the monkey made the offer"
+      ],
+      "answer": 1,
+      "explanation": "'Fairly' is an adverb — it tells us HOW the monkey made the offer. 'Fairly' = in a just and equal way. It answers the question 'How did the monkey offer?'"
+    },
+    {
+      "id": "q15",
+      "type": "categorize",
+      "difficulty": 3,
+      "tags": [
+        "clever-monkey",
+        "vocabulary",
+        "week4",
+        "antonyms"
+      ],
+      "question": "Match each word to its OPPOSITE meaning.",
+      "items": [
+        "afraid",
+        "fairly",
+        "sadly",
+        "carefully"
+      ],
+      "categories": [
+        {
+          "label": "BRAVE / confident",
+          "answers": [
+            "afraid"
+          ]
+        },
+        {
+          "label": "UNFAIRLY / in a mean way",
+          "answers": [
+            "fairly"
+          ]
+        },
+        {
+          "label": "HAPPILY / joyfully",
+          "answers": [
+            "sadly"
+          ]
+        },
+        {
+          "label": "CARELESSLY / without attention",
+          "answers": [
+            "carefully"
+          ]
+        }
+      ],
+      "explanation": "Opposites: afraid ↔ brave, fairly ↔ unfairly, sadly ↔ happily, carefully ↔ carelessly. Understanding opposites helps you remember what words mean!"
+    }
+  ]
+}
