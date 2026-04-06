@@ -3,6 +3,7 @@ import { RouterLink } from '@angular/router';
 import { QuizLoaderService } from '../../core/services/quiz-loader.service';
 import { I18nService } from '../../core/services/i18n.service';
 import { ScoreService } from '../../core/services/score.service';
+import { HistoryService } from '../../core/services/history.service';
 import { BookEntry } from '../../core/models/quiz-index.model';
 
 @Component({
@@ -21,11 +22,18 @@ import { BookEntry } from '../../core/models/quiz-index.model';
         <p class="subtitle">{{ i18n.t('appSubtitle') }}</p>
       </header>
 
-      @if (hasScores()) {
-        <button class="reset-btn" (click)="resetScores()">
-          {{ i18n.t('resetScores') }}
-        </button>
-      }
+      <div class="toolbar">
+        @if (hasHistory()) {
+          <a class="toolbar-btn history-btn" routerLink="/history">
+            {{ i18n.t('viewHistory') }}
+          </a>
+        }
+        @if (hasScores()) {
+          <button class="toolbar-btn reset-btn" (click)="resetScores()">
+            {{ i18n.t('resetScores') }}
+          </button>
+        }
+      </div>
 
       <div class="book-list">
         @for (book of books(); track book.id) {
@@ -122,9 +130,13 @@ import { BookEntry } from '../../core/models/quiz-index.model';
       color: var(--card-color, var(--color-accent));
       flex-shrink: 0;
     }
-    .reset-btn {
-      display: block;
-      margin: 0 auto var(--space-lg);
+    .toolbar {
+      display: flex;
+      justify-content: center;
+      gap: var(--space-sm);
+      margin-bottom: var(--space-lg);
+    }
+    .toolbar-btn {
       background: none;
       border: 1px solid var(--color-border);
       color: var(--color-muted);
@@ -133,8 +145,15 @@ import { BookEntry } from '../../core/models/quiz-index.model';
       font-size: 0.82rem;
       cursor: pointer;
       min-height: 36px;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
     }
-    .reset-btn:active { opacity: 0.7; }
+    .toolbar-btn:active { opacity: 0.7; }
+    .history-btn {
+      color: var(--color-accent);
+      border-color: var(--color-accent);
+    }
     .loading {
       text-align: center;
       color: var(--color-muted);
@@ -145,6 +164,7 @@ import { BookEntry } from '../../core/models/quiz-index.model';
 export class HomeComponent implements OnInit {
   private loader = inject(QuizLoaderService);
   private scoreService = inject(ScoreService);
+  private historyService = inject(HistoryService);
   i18n = inject(I18nService);
   books = signal<BookEntry[]>([]);
 
@@ -155,10 +175,12 @@ export class HomeComponent implements OnInit {
   }
 
   hasScores = computed(() => Object.keys(this.scoreService.allScores()).length > 0);
+  hasHistory = computed(() => this.historyService.hasAnyAttempts());
 
   resetScores(): void {
     if (confirm(this.i18n.t('resetConfirm'))) {
       this.scoreService.resetAll();
+      this.historyService.resetAll();
     }
   }
 }

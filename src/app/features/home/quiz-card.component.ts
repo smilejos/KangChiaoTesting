@@ -3,33 +3,41 @@ import { RouterLink } from '@angular/router';
 import { QuizEntry } from '../../core/models/quiz-index.model';
 import { I18nService } from '../../core/services/i18n.service';
 import { ScoreService } from '../../core/services/score.service';
+import { HistoryService } from '../../core/services/history.service';
 
 @Component({
   selector: 'app-quiz-card',
   standalone: true,
   imports: [RouterLink],
   template: `
-    <a class="card" [routerLink]="['/quiz', encodedId()]"
-       [style.--card-color]="quiz().color">
-      <div class="card-emoji">{{ quiz().emoji }}</div>
-      <div class="card-body">
-        <h3 class="card-title">{{ quiz().title }}</h3>
-        <p class="card-subtitle">{{ quiz().subtitle }}</p>
-        <div class="card-meta">
-          <span class="stars">{{ stars() }}</span>
-          <span class="count">{{ quiz().questionCount }} {{ i18n.t('questions') }}</span>
-          @if (scoreRecord(); as sr) {
-            <span class="prev-score"
-                  [class.high]="sr.bestScore >= 80"
-                  [class.mid]="sr.bestScore >= 50 && sr.bestScore < 80"
-                  [class.low]="sr.bestScore < 50">
-              {{ sr.bestScore }}% · {{ sr.attempts }}x
-            </span>
-          }
-          <span class="arrow">&rarr;</span>
+    <div class="card-wrapper">
+      <a class="card" [routerLink]="['/quiz', encodedId()]"
+         [style.--card-color]="quiz().color">
+        <div class="card-emoji">{{ quiz().emoji }}</div>
+        <div class="card-body">
+          <h3 class="card-title">{{ quiz().title }}</h3>
+          <p class="card-subtitle">{{ quiz().subtitle }}</p>
+          <div class="card-meta">
+            <span class="stars">{{ stars() }}</span>
+            <span class="count">{{ quiz().questionCount }} {{ i18n.t('questions') }}</span>
+            @if (scoreRecord(); as sr) {
+              <span class="prev-score"
+                    [class.high]="sr.bestScore >= 80"
+                    [class.mid]="sr.bestScore >= 50 && sr.bestScore < 80"
+                    [class.low]="sr.bestScore < 50">
+                {{ sr.bestScore }}% · {{ sr.attempts }}x
+              </span>
+            }
+            <span class="arrow">&rarr;</span>
+          </div>
         </div>
-      </div>
-    </a>
+      </a>
+      @if (hasAttempts()) {
+        <a class="history-link" [routerLink]="['/history', quiz().guid]">
+          {{ i18n.t('viewHistory') }}
+        </a>
+      }
+    </div>
   `,
   styles: [`
     .card {
@@ -92,15 +100,28 @@ import { ScoreService } from '../../core/services/score.service';
       font-size: 1.2rem;
       color: var(--card-color, var(--color-accent));
     }
+    .history-link {
+      display: block;
+      text-align: right;
+      padding: 4px var(--space-md);
+      font-size: 0.75rem;
+      color: var(--color-accent);
+      text-decoration: none;
+      min-height: 32px;
+      line-height: 32px;
+    }
+    .history-link:active { opacity: 0.7; }
   `],
 })
 export class QuizCardComponent {
   quiz = input.required<QuizEntry>();
 
   private scoreService = inject(ScoreService);
+  private historyService = inject(HistoryService);
   i18n = inject(I18nService);
 
   encodedId = computed(() => encodeURIComponent(this.quiz().id));
   stars = computed(() => '★'.repeat(this.quiz().difficulty) + '☆'.repeat(3 - this.quiz().difficulty));
   scoreRecord = computed(() => this.scoreService.getQuizScore(this.quiz().guid));
+  hasAttempts = computed(() => this.historyService.getAttemptsByQuiz(this.quiz().guid).length > 0);
 }

@@ -48,13 +48,13 @@ export class QuizEngineService {
   }
 
   /** For fill-in self-grading */
-  selfGrade(correct: boolean): void {
+  selfGrade(correct: boolean, userInput?: string): void {
     const q = this.currentQuestion();
     if (!q) return;
     if (correct) this.score.update(s => s + 1);
     this.isCorrect.set(correct);
     this.isAnswered.set(true);
-    this.results.update(r => [...r, { question: q, correct, userAnswer: null }]);
+    this.results.update(r => [...r, { question: q, correct, userAnswer: userInput ?? null }]);
   }
 
   nextQuestion(): boolean {

@@ -10,6 +10,7 @@ import { ReorderComponent } from './question-types/reorder.component';
 import { QuizLoaderService } from '../../core/services/quiz-loader.service';
 import { QuizEngineService } from '../../core/services/quiz-engine.service';
 import { ScoreService } from '../../core/services/score.service';
+import { HistoryService } from '../../core/services/history.service';
 import { I18nService } from '../../core/services/i18n.service';
 import { QuizEntry } from '../../core/models/quiz-index.model';
 
@@ -176,6 +177,7 @@ export class QuizComponent implements OnInit {
   private router = inject(Router);
   private loader = inject(QuizLoaderService);
   private scoreService = inject(ScoreService);
+  private historyService = inject(HistoryService);
   engine = inject(QuizEngineService);
   i18n = inject(I18nService);
 
@@ -223,17 +225,18 @@ export class QuizComponent implements OnInit {
     this.engine.submitAnswer(answer);
   }
 
-  onSelfGrade(correct: boolean): void {
-    this.engine.selfGrade(correct);
+  onSelfGrade(event: { correct: boolean; userInput: string }): void {
+    this.engine.selfGrade(event.correct, event.userInput);
   }
 
   next(): void {
     (document.activeElement as HTMLElement)?.blur();
     if (!this.engine.nextQuestion()) {
       const summary = this.engine.getResultSummary();
-      // Save score to localStorage
+      // Save score and detailed attempt to localStorage
       if (summary.quizGuid) {
         this.scoreService.recordScore(summary.quizGuid, summary.correct, summary.total);
+        this.historyService.recordAttempt(summary);
       }
       // Store summary in sessionStorage for refresh resilience
       sessionStorage.setItem('quizResult', JSON.stringify(summary));

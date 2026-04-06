@@ -127,7 +127,7 @@ import { I18nService } from '../../../core/services/i18n.service';
 })
 export class FillInComponent implements OnChanges {
   @Input({ required: true }) question!: FillInQuestion;
-  @Output() selfGraded = new EventEmitter<boolean>();
+  @Output() selfGraded = new EventEmitter<{ correct: boolean; userInput: string }>();
 
   i18n = inject(I18nService);
   userInput = '';
@@ -147,6 +147,6 @@ export class FillInComponent implements OnChanges {
 
   grade(correct: boolean): void {
     this.graded.set(true);
-    this.selfGraded.emit(correct);
+    this.selfGraded.emit({ correct, userInput: this.userInput });
   }
 }

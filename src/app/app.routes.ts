@@ -37,5 +37,23 @@ export const routes: Routes = [
       import('./features/result/result.component').then(m => m.ResultComponent),
     title: 'Results',
   },
+  {
+    path: 'history',
+    loadComponent: () =>
+      import('./features/history/history-list.component').then(m => m.HistoryListComponent),
+    title: 'History',
+  },
+  {
+    path: 'history/detail/:attemptId',
+    loadComponent: () =>
+      import('./features/history/history-detail.component').then(m => m.HistoryDetailComponent),
+    title: 'Attempt Detail',
+  },
+  {
+    path: 'history/:quizGuid',
+    loadComponent: () =>
+      import('./features/history/history-list.component').then(m => m.HistoryListComponent),
+    title: 'History',
+  },
   { path: '**', redirectTo: '' },
 ];

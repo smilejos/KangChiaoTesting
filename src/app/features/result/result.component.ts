@@ -37,6 +37,11 @@ import { ResultSummary } from '../../core/models/question.model';
           <button class="btn btn-primary" (click)="tryAgain()">
             {{ i18n.t('tryAgain') }}
           </button>
+          @if (summary()?.quizGuid) {
+            <button class="btn btn-secondary" (click)="viewHistory()">
+              {{ i18n.t('viewHistory') }}
+            </button>
+          }
           <button class="btn btn-secondary" (click)="goHome()">
             {{ i18n.t('chooseAnother') }}
           </button>
@@ -158,6 +163,11 @@ export class ResultComponent implements OnInit {
     if (pct >= 70) return this.i18n.t('motivationGreat');
     if (pct >= 40) return this.i18n.t('motivationGood');
     return this.i18n.t('motivationKeepTrying');
+  }
+
+  viewHistory(): void {
+    const guid = this.summary()?.quizGuid;
+    if (guid) this.router.navigate(['/history', guid]);
   }
 
   tryAgain(): void {
