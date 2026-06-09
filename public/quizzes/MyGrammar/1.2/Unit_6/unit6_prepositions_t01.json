@@ -1,0 +1,426 @@
+{
+  "meta": {
+    "id": "unit6_prepositions_t01",
+    "version": "1.0",
+    "title": "Unit 6 — Prepositions (Test 1)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Learn and use common location prepositions to describe positions.",
+    "guid": "fb841676-3e98-4261-af0f-62d18903e87d"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "prepositions",
+        "position"
+      ],
+      "question": "The cat is ___ the box. (The cat is inside the box)",
+      "options": [
+        "in",
+        "on",
+        "under",
+        "behind"
+      ],
+      "answer": 0,
+      "explanation": "\"in\" means inside. The cat is inside the box."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "prepositions",
+        "position"
+      ],
+      "question": "The book is ___ the table. (The book is resting on the flat surface of the table)",
+      "options": [
+        "on",
+        "under",
+        "behind",
+        "in front of"
+      ],
+      "answer": 0,
+      "explanation": "\"on\" means on top of. The book is resting on top of the table."
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "prepositions",
+        "position"
+      ],
+      "question": "\"Under\" means something is directly above another thing.",
+      "answer": false,
+      "explanation": "\"Under\" means below or beneath something, not above it."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "prepositions",
+        "position"
+      ],
+      "question": "\"Behind\" means something is at the back of another thing.",
+      "answer": true,
+      "explanation": "Yes! \"Behind\" means at the back of something."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "prepositions",
+        "position"
+      ],
+      "question": "Where is the dog if it is 'next to' the chair?",
+      "options": [
+        "Beside the chair",
+        "Under the chair",
+        "Inside the chair",
+        "Behind the chair"
+      ],
+      "answer": 0,
+      "explanation": "\"next to\" means at the side of or beside the chair."
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "prepositions",
+        "sentence"
+      ],
+      "question": "In the sentence 'The apple is in the basket,' the preposition is 'basket'.",
+      "answer": false,
+      "explanation": "\"basket\" is a noun. The preposition is \"in\" because it shows the location relationship."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "prepositions",
+        "position"
+      ],
+      "question": "The bird is sleeping ___ the sofa. (Hint: The bird is resting below the sofa)",
+      "answer": "under",
+      "acceptedAnswers": [
+        "under",
+        "Under"
+      ],
+      "hint": "Starts with 'u'",
+      "explanation": "We use \"under\" to show that the bird is below or beneath the sofa."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "prepositions",
+        "position"
+      ],
+      "question": "My school bag is ___ the door. (Hint: It is beside the door - 2 words)",
+      "answer": "next to",
+      "acceptedAnswers": [
+        "next to",
+        "Next to"
+      ],
+      "hint": "Starts with 'n' and ends with 'o'",
+      "explanation": "We use \"next to\" to show that the bag is beside the door."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "prepositions",
+        "sorting"
+      ],
+      "question": "Sort each word — is it a Preposition or an Other Word?",
+      "items": [
+        "behind",
+        "under",
+        "apple",
+        "happy",
+        "run",
+        "cat",
+        "in",
+        "between",
+        "on"
+      ],
+      "categories": [
+        {
+          "label": "Preposition",
+          "answers": [
+            "behind",
+            "between",
+            "in",
+            "on",
+            "under"
+          ]
+        },
+        {
+          "label": "Other Word",
+          "answers": [
+            "apple",
+            "cat",
+            "happy",
+            "run"
+          ]
+        }
+      ],
+      "explanation": "Prepositions tell us location (in, on, under, behind, between). Other words are verbs, nouns, or adjectives."
+    },
+    {
+      "id": "q10",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "prepositions",
+        "verbs",
+        "sorting"
+      ],
+      "question": "Sort each word — is it a Preposition or a Verb?",
+      "items": [
+        "next to",
+        "run",
+        "under",
+        "swim",
+        "in front of",
+        "jump",
+        "eat",
+        "behind"
+      ],
+      "categories": [
+        {
+          "label": "Preposition",
+          "answers": [
+            "behind",
+            "in front of",
+            "next to",
+            "under"
+          ]
+        },
+        {
+          "label": "Verb",
+          "answers": [
+            "eat",
+            "jump",
+            "run",
+            "swim"
+          ]
+        }
+      ],
+      "explanation": "Prepositions show position relationships. Verbs show action (run, jump, swim, eat)."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "prepositions",
+        "sentence"
+      ],
+      "question": "The teacher stands ___ the whiteboard to write. (She is facing it, in front)",
+      "options": [
+        "in front of",
+        "under",
+        "in",
+        "between"
+      ],
+      "answer": 0,
+      "explanation": "\"in front of\" is correct because the teacher stands at the front side of the whiteboard."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "prepositions",
+        "sentence"
+      ],
+      "question": "The mouse is hiding ___ two big boxes.",
+      "options": [
+        "between",
+        "under",
+        "in",
+        "on"
+      ],
+      "answer": 0,
+      "explanation": "We use \"between\" when an object is in the middle of two other things."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "prepositions",
+        "position"
+      ],
+      "question": "If you stand 'in front of' the door, you are at the back of the door.",
+      "answer": false,
+      "explanation": "\"in front of\" means at the forward or front part, not the back."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "prepositions",
+        "sentence"
+      ],
+      "question": "Which sentence is correct?",
+      "options": [
+        "The dog is next the chair.",
+        "The dog is next to the chair.",
+        "The dog is next at the chair.",
+        "The dog is next in the chair."
+      ],
+      "answer": 1,
+      "explanation": "The preposition is \"next to\". It must include the word \"to\" to be correct."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "sentence",
+        "word-order"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "the",
+        "cat",
+        "The",
+        "is",
+        "box",
+        "in"
+      ],
+      "answer": [
+        "The",
+        "cat",
+        "is",
+        "in",
+        "the",
+        "box"
+      ],
+      "explanation": "Correct sentence: \"The cat is in the box.\""
+    },
+    {
+      "id": "q16",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "sentence",
+        "word-order"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "dog",
+        "under",
+        "the",
+        "is",
+        "table",
+        "The"
+      ],
+      "answer": [
+        "The",
+        "dog",
+        "is",
+        "under",
+        "the",
+        "table"
+      ],
+      "explanation": "Correct sentence: \"The dog is under the table.\""
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "prepositions",
+        "sentence"
+      ],
+      "question": "Which sentence uses prepositions correctly?",
+      "options": [
+        "My pencil is on the desk.",
+        "My pencil is under of the desk.",
+        "My pencil is between the desk.",
+        "My pencil is in front the desk."
+      ],
+      "answer": 0,
+      "explanation": "\"on the desk\" is correct. \"under\" doesn't need \"of\", \"between\" needs two things, and \"in front\" needs \"of\"."
+    },
+    {
+      "id": "q18",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "prepositions",
+        "position"
+      ],
+      "question": "The rabbit is hiding ___ the big tree. (Hint: The tree blocks the rabbit from view at the back)",
+      "answer": "behind",
+      "acceptedAnswers": [
+        "behind",
+        "Behind"
+      ],
+      "hint": "Starts with 'b'",
+      "explanation": "\"behind\" is correct because the tree block the rabbit from view at the back."
+    },
+    {
+      "id": "q19",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "prepositions",
+        "position"
+      ],
+      "question": "He stands ___ the door. (Hint: He is facing the door at the front side of it - 3 words)",
+      "answer": "in front of",
+      "acceptedAnswers": [
+        "in front of",
+        "In front of"
+      ],
+      "hint": "Starts with 'i' (three words)",
+      "explanation": "\"in front of\" is correct because he stands at the forward side of the door."
+    },
+    {
+      "id": "q20",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "sentence",
+        "word-order"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "boxes",
+        "is",
+        "ball",
+        "The",
+        "two",
+        "between"
+      ],
+      "answer": [
+        "The",
+        "ball",
+        "is",
+        "between",
+        "two",
+        "boxes"
+      ],
+      "explanation": "Correct sentence: \"The ball is between two boxes.\""
+    }
+  ]
+}

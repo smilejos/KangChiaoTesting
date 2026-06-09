@@ -1,0 +1,411 @@
+{
+  "meta": {
+    "id": "unit5_simple_sentences_t05",
+    "version": "1.0",
+    "title": "Unit 5 — Simple Sentences (Test 5)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Understand and identify the subject and predicate in simple sentences.",
+    "guid": "3b3048d6-5726-4660-af01-e64b6ecdbca5"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "sentences",
+        "subject"
+      ],
+      "question": "Identify the subject in this sentence: 'My sister loves ice cream.'",
+      "options": [
+        "My sister",
+        "loves ice cream",
+        "loves",
+        "every day"
+      ],
+      "answer": 0,
+      "explanation": "\"My sister\" is the subject. It is the person or thing the sentence is about."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "sentences",
+        "predicate"
+      ],
+      "question": "Identify the predicate in this sentence: 'We runs very fast.'",
+      "options": [
+        "We",
+        "runs very fast",
+        "We",
+        "sings"
+      ],
+      "answer": 1,
+      "explanation": "\"runs very fast\" is the predicate. It tells what the subject is or does and contains the verb."
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "sentences",
+        "subject"
+      ],
+      "question": "In the sentence 'The cat sings a song,' the subject is 'The cat'.",
+      "answer": true,
+      "explanation": "Yes! \"The cat\" is the subject because it tells who or what the sentence is about."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "sentences",
+        "predicate"
+      ],
+      "question": "In the sentence 'My sister loves ice cream,' the predicate is 'My sister'.",
+      "answer": false,
+      "explanation": "No, \"My sister\" is the subject. The predicate is \"loves ice cream\" because it contains the verb and tells what the subject does."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "sentences",
+        "rules"
+      ],
+      "question": "What does the subject of a sentence tell us?",
+      "options": [
+        "Who or what the sentence is about",
+        "What action is happening",
+        "Where the story takes place",
+        "How the action is done"
+      ],
+      "answer": 0,
+      "explanation": "The subject is the naming part of the sentence; it tells who or what performs the action or is being described."
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "sentences",
+        "rules"
+      ],
+      "question": "Every complete sentence must have both a subject and a predicate.",
+      "answer": true,
+      "explanation": "Yes! A complete sentence needs both parts to express a complete thought: a subject (who/what) and a predicate (what they do/are)."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "sentences",
+        "subject"
+      ],
+      "question": "Identify the subject in this sentence: 'Tony plays soccer after school.' (Type the subject exactly as it appears)",
+      "answer": "Tony",
+      "acceptedAnswers": [
+        "Tony",
+        "tony"
+      ],
+      "hint": "Ask: 'Who' plays soccer after school?",
+      "explanation": "\"Tony\" is the subject because he is the person doing the action."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "sentences",
+        "predicate"
+      ],
+      "question": "Identify the predicate in this sentence: 'She reads a big book.' (Type the predicate exactly as it appears)",
+      "answer": "reads a big book",
+      "acceptedAnswers": [
+        "reads a big book",
+        "Reads a big book"
+      ],
+      "hint": "What does she do?",
+      "explanation": "\"reads a big book\" is the predicate because it starts with the verb \"reads\" and tells what \"She\" does."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "sentences",
+        "sorting"
+      ],
+      "question": "Sort each phrase fragment — is it a Subject or a Predicate?",
+      "items": [
+        "The happy boys",
+        "plays in the yard",
+        "runs very fast",
+        "loves ice cream",
+        "My sister",
+        "We"
+      ],
+      "categories": [
+        {
+          "label": "Subject",
+          "answers": [
+            "My sister",
+            "The happy boys",
+            "We"
+          ]
+        },
+        {
+          "label": "Predicate",
+          "answers": [
+            "loves ice cream",
+            "plays in the yard",
+            "runs very fast"
+          ]
+        }
+      ],
+      "explanation": "Subjects name the person or thing doing the action. Predicates tell what they do or are, starting with a verb."
+    },
+    {
+      "id": "q10",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "sentences",
+        "sorting"
+      ],
+      "question": "Sort each phrase fragment — is it a Subject or a Predicate?",
+      "items": [
+        "sings a song",
+        "The cat",
+        "Ella and Roy",
+        "My cute puppy",
+        "runs very fast",
+        "cooks yummy dinner"
+      ],
+      "categories": [
+        {
+          "label": "Subject",
+          "answers": [
+            "Ella and Roy",
+            "My cute puppy",
+            "The cat"
+          ]
+        },
+        {
+          "label": "Predicate",
+          "answers": [
+            "cooks yummy dinner",
+            "runs very fast",
+            "sings a song"
+          ]
+        }
+      ],
+      "explanation": "Subjects are the naming part (e.g. My cute puppy). Predicates are the telling part (e.g. runs very fast)."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "sentences",
+        "predicate",
+        "sentence"
+      ],
+      "question": "Which predicate makes sense with the subject 'The hungry puppy'?",
+      "options": [
+        "eats the dog food quickly.",
+        "is a yellow pencil.",
+        "under the big table.",
+        "very happy yesterday."
+      ],
+      "answer": 0,
+      "explanation": "\"eats the dog food quickly\" is a predicate that contains a verb and makes logical sense with the subject."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "sentences",
+        "subject",
+        "sentence"
+      ],
+      "question": "Which subject makes sense with the predicate 'swims in the deep river'?",
+      "options": [
+        "The yellow desk",
+        "The little fish",
+        "My math homework",
+        "In front of the tree"
+      ],
+      "answer": 1,
+      "explanation": "\"The little fish\" is the subject that logically performs the action \"swims in the deep river\"."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "sentences",
+        "predicate"
+      ],
+      "question": "In the sentence 'Mom cooks dinner,' the predicate is just the word 'dinner'.",
+      "answer": false,
+      "explanation": "No! The predicate must contain the verb. The predicate is \"cooks dinner,\" not just \"dinner.\""
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "sentences",
+        "rules"
+      ],
+      "question": "Which of the following is a complete sentence?",
+      "options": [
+        "The tall tree.",
+        "Sings in the morning.",
+        "The bird sings in the morning.",
+        "In the morning."
+      ],
+      "answer": 2,
+      "explanation": "\"The bird sings in the morning\" is complete because it has a subject (\"The bird\") and a predicate (\"sings in the morning\")."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "sentence",
+        "word-order"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "loudly",
+        "barks",
+        "dog",
+        "The"
+      ],
+      "answer": [
+        "The",
+        "dog",
+        "barks",
+        "loudly"
+      ],
+      "explanation": "Correct sentence: \"The dog barks loudly.\""
+    },
+    {
+      "id": "q16",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "sentence",
+        "word-order"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "reads",
+        "She",
+        "every",
+        "day",
+        "book",
+        "a"
+      ],
+      "answer": [
+        "She",
+        "reads",
+        "a",
+        "book",
+        "every",
+        "day"
+      ],
+      "explanation": "Correct sentence: \"She reads a book every day.\""
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "sentences",
+        "rules"
+      ],
+      "question": "Which group of words contains BOTH a subject and a predicate?",
+      "options": [
+        "My sister and her best friend",
+        "Likes to eat strawberry ice cream",
+        "My sister likes to eat strawberry ice cream.",
+        "With strawberry ice cream"
+      ],
+      "answer": 2,
+      "explanation": "\"My sister likes to eat strawberry ice cream.\" contains a subject (\"My sister\") and a predicate (\"likes to eat strawberry ice cream\")."
+    },
+    {
+      "id": "q18",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "sentences",
+        "predicate"
+      ],
+      "question": "In the sentence 'The yellow duck swims in the pond,' what is the predicate? (Type the exact phrase)",
+      "answer": "swims in the pond",
+      "acceptedAnswers": [
+        "swims in the pond",
+        "Swims in the pond"
+      ],
+      "hint": "Start with the verb 'swims' and write the rest of the sentence.",
+      "explanation": "The predicate is \"swims in the pond\" because it tells what the duck does."
+    },
+    {
+      "id": "q19",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "sentences",
+        "subject"
+      ],
+      "question": "In the sentence 'The yellow duck swims in the pond,' what is the subject? (Type the exact phrase)",
+      "answer": "The yellow duck",
+      "acceptedAnswers": [
+        "The yellow duck",
+        "the yellow duck"
+      ],
+      "hint": "Write the naming part that comes before the verb 'swims'.",
+      "explanation": "The subject is \"The yellow duck\" because it tells who is swimming."
+    },
+    {
+      "id": "q20",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "sentence",
+        "word-order"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "after",
+        "soccer",
+        "play",
+        "school",
+        "We"
+      ],
+      "answer": [
+        "We",
+        "play",
+        "soccer",
+        "after",
+        "school"
+      ],
+      "explanation": "Correct sentence: \"We play soccer after school.\""
+    }
+  ]
+}

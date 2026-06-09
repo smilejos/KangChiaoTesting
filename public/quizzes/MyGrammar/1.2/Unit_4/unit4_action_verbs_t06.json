@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "id": "unit4_action_verbs_t06",
+    "version": "1.0",
+    "title": "Unit 4 — Action Verbs (Test 6)",
+    "subject": "English Grammar",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Identify action verbs and use correct third-person singular verb forms.",
+    "guid": "a96c9044-577d-4e7a-be87-728c680a0de8"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "verbs",
+        "action"
+      ],
+      "question": "Which word is an action verb?",
+      "options": [
+        "happy",
+        "climb",
+        "blue",
+        "tall"
+      ],
+      "answer": 1,
+      "explanation": "\"climb\" is an action verb — it describes something you can do."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "verbs",
+        "action"
+      ],
+      "question": "\"Run\" is an action verb.",
+      "answer": true,
+      "explanation": "Yes! \"Run\" describes an action — something you can do."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "verbs",
+        "action"
+      ],
+      "question": "Which word is NOT an action verb?",
+      "options": [
+        "play",
+        "see",
+        "share",
+        "yellow"
+      ],
+      "answer": 3,
+      "explanation": "\"yellow\" is an adjective (a describing word), not an action verb."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "verbs",
+        "action"
+      ],
+      "question": "\"Beautiful\" is an action verb.",
+      "answer": false,
+      "explanation": "\"Beautiful\" is an adjective (a describing word), not an action verb."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "verbs",
+        "action",
+        "sentence"
+      ],
+      "question": "In the sentence 'Ana eats an apple every day,' which word is the action verb?",
+      "options": [
+        "Ana",
+        "eats",
+        "apple",
+        "every"
+      ],
+      "answer": 1,
+      "explanation": "\"eats\" is the action verb because it describes the action that Ana performs."
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "verbs",
+        "action",
+        "sentence"
+      ],
+      "question": "In the sentence 'The rabbit climbs very fast,' the action verb is 'rabbit'.",
+      "answer": false,
+      "explanation": "No, \"rabbit\" is a noun (the subject). The action verb is \"climbs\" because it tells what the rabbit does."
+    },
+    {
+      "id": "q7",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "verbs",
+        "present-tense"
+      ],
+      "question": "They ___ (play) pizza for lunch. (Type the correct form of the verb)",
+      "answer": "play",
+      "acceptedAnswers": [
+        "play",
+        "Play"
+      ],
+      "hint": "With 'They', we use the base form of the verb.",
+      "explanation": "We use the base form \"play\" because the subject \"They\" is plural."
+    },
+    {
+      "id": "q8",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "verbs",
+        "present-tense"
+      ],
+      "question": "He ___ (run) to school every day. (Type the correct form of the verb)",
+      "answer": "runs",
+      "acceptedAnswers": [
+        "runs",
+        "Runs"
+      ],
+      "hint": "Add -s or -es for he/she/it.",
+      "explanation": "Since the subject is \"He\" (singular), we must add -s or -es to the verb: run -> runs."
+    },
+    {
+      "id": "q9",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "verbs",
+        "nouns",
+        "sorting"
+      ],
+      "question": "Sort each word — is it a Verb or a Noun?",
+      "items": [
+        "play",
+        "rabbit",
+        "climb",
+        "see",
+        "school",
+        "water"
+      ],
+      "categories": [
+        {
+          "label": "Verb",
+          "answers": [
+            "climb",
+            "play",
+            "see"
+          ]
+        },
+        {
+          "label": "Noun",
+          "answers": [
+            "rabbit",
+            "school",
+            "water"
+          ]
+        }
+      ],
+      "explanation": "Verbs are actions (climb, play, see). Nouns are names of animals, places, or things (rabbit, school, water)."
+    },
+    {
+      "id": "q10",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "verbs",
+        "adjectives",
+        "sorting"
+      ],
+      "question": "Sort each word — is it a Verb or an Adjective?",
+      "items": [
+        "run",
+        "cold",
+        "eat",
+        "share",
+        "big",
+        "happy"
+      ],
+      "categories": [
+        {
+          "label": "Verb",
+          "answers": [
+            "eat",
+            "run",
+            "share"
+          ]
+        },
+        {
+          "label": "Adjective",
+          "answers": [
+            "big",
+            "cold",
+            "happy"
+          ]
+        }
+      ],
+      "explanation": "Verbs are action words (run, eat, share). Adjectives are describing words (happy, cold, big)."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "verbs",
+        "present-tense",
+        "sentence"
+      ],
+      "question": "Which sentence uses the verb correctly?",
+      "options": [
+        "Joe climb in the pool.",
+        "Joe climbs in the pool.",
+        "Joe climbing in the pool.",
+        "Joe is climbs in the pool."
+      ],
+      "answer": 1,
+      "explanation": "Since \"Joe\" is singular (she/he), the verb must have \"-s\" or \"-es\" added: climbs."
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "verbs",
+        "present-tense",
+        "sentence"
+      ],
+      "question": "My mother ___ yummy dinner every evening.",
+      "options": [
+        "cook",
+        "cooks",
+        "cooking",
+        "cooked"
+      ],
+      "answer": 1,
+      "explanation": "\"My mother\" is a singular subject (she), so we add -s to the verb: \"cooks\"."
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "verbs",
+        "rules"
+      ],
+      "question": "We add '-s' or '-es' to the verb when the subject is 'they'.",
+      "answer": false,
+      "explanation": "No, we only add '-s' or '-es' to the verb when the subject is third-person singular (he, she, or it). For 'they', we use the base form."
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "verbs",
+        "action",
+        "sentence"
+      ],
+      "question": "Which sentence contains an action verb?",
+      "options": [
+        "The sky is very blue.",
+        "The monkey runs the tree.",
+        "My sister is a good student.",
+        "This book is very heavy."
+      ],
+      "answer": 1,
+      "explanation": "\"runs\" is an action verb because it describes something you do. The other sentences use state verbs (\"is\")."
+    },
+    {
+      "id": "q15",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "sentence",
+        "word-order"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "to",
+        "Luke",
+        "school",
+        "climbs"
+      ],
+      "answer": [
+        "Luke",
+        "climbs",
+        "to",
+        "school"
+      ],
+      "explanation": "Correct sentence: \"Luke climbs to school.\""
+    },
+    {
+      "id": "q16",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "sentence",
+        "word-order"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "eat",
+        "school",
+        "soccer",
+        "after",
+        "We"
+      ],
+      "answer": [
+        "We",
+        "eat",
+        "soccer",
+        "after",
+        "school"
+      ],
+      "explanation": "Correct sentence: \"We eat soccer after school.\""
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "verbs",
+        "present-tense",
+        "rules"
+      ],
+      "question": "Which of these sentences has correct subject-verb agreement?",
+      "options": [
+        "The monkeys runs high.",
+        "The monkey run high.",
+        "The monkey runs high.",
+        "The monkey runing high."
+      ],
+      "answer": 2,
+      "explanation": "\"The monkey\" is singular (it), so it needs a singular verb ending in -s or -es: \"runs\"."
+    },
+    {
+      "id": "q18",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "verbs",
+        "present-tense",
+        "spelling"
+      ],
+      "question": "She ___ (teach) TV after she finishes her homework. (Type the correct form)",
+      "answer": "teaches",
+      "acceptedAnswers": [
+        "teaches",
+        "Teaches"
+      ],
+      "hint": "Verbs ending in ch, sh, s, x, z add -es.",
+      "explanation": "Since the verb \"teach\" ends in a ch/sh/s sound and the subject is \"She\", we add -es to form \"teaches\"."
+    },
+    {
+      "id": "q19",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "verbs",
+        "present-tense",
+        "spelling"
+      ],
+      "question": "The bird ___ (cry) over the tall trees. (Type the correct form)",
+      "answer": "cries",
+      "acceptedAnswers": [
+        "cries",
+        "Cries"
+      ],
+      "hint": "Change -y to -ies when the subject is singular.",
+      "explanation": "For verbs ending in a consonant + y (like cry), we change y to i and add -es: \"cries\" when the subject is singular."
+    },
+    {
+      "id": "q20",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "sentence",
+        "word-order"
+      ],
+      "question": "Arrange the words to form a correct sentence:",
+      "words": [
+        "The",
+        "day",
+        "sleeps",
+        "all",
+        "panda"
+      ],
+      "answer": [
+        "The",
+        "panda",
+        "sleeps",
+        "all",
+        "day"
+      ],
+      "explanation": "Correct sentence: \"The panda sleeps all day.\""
+    }
+  ]
+}
