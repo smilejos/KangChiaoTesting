@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "vocab_in_spring_set4",
+    "version": "1.0",
+    "title": "In Spring — Vocabulary Set 4",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Sentence completion quiz using all 16 target words from 'In Spring' in context.",
+    "guid": "b54464a1-a942-4311-b5ca-270e8de24bb7"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "When the weather gets warm, we can run outside after dinner without a _______.",
+      "options": [
+        "baby",
+        "coat",
+        "tadpole",
+        "wave"
+      ],
+      "answer": 1,
+      "explanation": "A coat is worn to keep warm. When it is warm in spring, you do not need it."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Warmth is the feeling of heat, like the sun's warmth on your neck in spring.",
+      "answer": true,
+      "explanation": "True. Warmth is the noun form of warm, representing pleasant heat."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "You can walk in the _______ and spy flowers hiding behind trees.",
+      "options": [
+        "ground",
+        "puddle",
+        "woods",
+        "wave"
+      ],
+      "answer": 2,
+      "explanation": "The woods is a place covered with trees, where flowers and animals can hide."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "In spring, you can feel breezes blow hints of colder winter days ahead.",
+      "answer": false,
+      "explanation": "False. Breezes blow hints of 'hotter' (summer) days, not colder winter days."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "The mother rabbit is holding her small, soft _______ close to her chest.",
+      "options": [
+        "fawn",
+        "tadpole",
+        "baby",
+        "ground"
+      ],
+      "answer": 2,
+      "explanation": "A baby is a very young animal. The rabbit holds her baby to keep it safe."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "A small pool of rainwater that gathers on the ground is called a _______.",
+      "answer": "puddle",
+      "acceptedAnswers": [
+        "puddle",
+        "Puddle"
+      ],
+      "hint": "A pool of water to splash in.",
+      "explanation": "Puddles are small pools of liquid, especially rainwater, that form on the ground."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Spring breezes blow _______ of hotter summer days.",
+      "options": [
+        "coats",
+        "hints",
+        "babies",
+        "woods"
+      ],
+      "answer": 1,
+      "explanation": "'Hints' are small signs or clues that suggest what is coming next."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words based on whether they describe Land areas or Water/Movement:",
+      "items": [
+        "ground",
+        "woods",
+        "puddle",
+        "tadpole",
+        "wave"
+      ],
+      "categories": [
+        {
+          "label": "Land Terms",
+          "answers": [
+            "ground",
+            "woods"
+          ]
+        },
+        {
+          "label": "Water or Movement Terms",
+          "answers": [
+            "puddle",
+            "tadpole",
+            "wave"
+          ]
+        }
+      ],
+      "explanation": "'Ground' and 'woods' are land-related. 'Puddle' (water pool), 'tadpole' (swimming animal), and 'wave' (hand movement or water movement) are water/movement related."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "A fawn is a baby deer that lives in the woods.",
+      "answer": true,
+      "explanation": "True. A fawn is the correct term for a baby deer."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "part1"
+      ],
+      "question": "Arrange the words to describe what we feel in spring:",
+      "words": [
+        "We",
+        "feel",
+        "sun's",
+        "warmth",
+        "the"
+      ],
+      "answer": [
+        "We",
+        "feel",
+        "the",
+        "sun's",
+        "warmth"
+      ],
+      "explanation": "Correct sentence: 'We feel the sun's warmth.' This warms our necks."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Underneath the melting ice of the pond, you can see a _______ swimming.",
+      "options": [
+        "fawn",
+        "squirrel",
+        "worm",
+        "tadpole"
+      ],
+      "answer": 3,
+      "explanation": "Tadpoles are baby frogs that swim in the water before growing legs and turning into frogs."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Squirrels run quickly and suddenly. They _______ around trees.",
+      "answer": "dart",
+      "acceptedAnswers": [
+        "dart",
+        "Dart"
+      ],
+      "hint": "Move quickly.",
+      "explanation": "To dart is to move suddenly and quickly, which is what squirrels do."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "part2"
+      ],
+      "question": "Arrange the words to show how spring connects winter and summer:",
+      "words": [
+        "Spring",
+        "links",
+        "winter",
+        "with",
+        "summer"
+      ],
+      "answer": [
+        "Spring",
+        "links",
+        "winter",
+        "with",
+        "summer"
+      ],
+      "explanation": "Correct sentence: 'Spring links winter with summer.' It acts as a bridge."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "When worms wind their bodies into loops, they coil up.",
+      "answer": true,
+      "explanation": "True. To coil is to wind into loops or rings, which is how worms move or rest."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Which of these sentences is correct?",
+      "options": [
+        "A fawn has wings and flutters in the grass.",
+        "A fawn is a baby deer with young legs that struggles to walk.",
+        "A fawn swims beneath the melting pond ice.",
+        "A fawn coils up from underneath the wet ground."
+      ],
+      "answer": 1,
+      "explanation": "Fawns are baby deer that walk on land (though they struggle on young legs). They do not flutter, swim under ice, or coil in soil."
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "vocab_season_around_the_world_set3",
+    "version": "1.0",
+    "title": "Seasons Around the World — Vocabulary Set 3",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Vocabulary practice focusing on Week 14 words: weather, rain, dry, equator, sunlight, Antarctica, coldest, store.",
+    "guid": "955e3b43-c9ff-4984-a008-f2d053ac69c1"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "Which of these is the coldest place on Earth?",
+      "options": [
+        "Mexico",
+        "United States",
+        "equator",
+        "Antarctica"
+      ],
+      "answer": 3,
+      "explanation": "Antarctica is the freezing continent at the South Pole, and it is the coldest place on Earth."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "The 'equator' is the imaginary line that divides the Earth in half.",
+      "answer": true,
+      "explanation": "True. The equator is the imaginary circle around Earth that is halfway between the North and South Poles."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "Which word refers to what it is like outside, such as sunny, rainy, or windy?",
+      "options": [
+        "equator",
+        "weather",
+        "sunlight",
+        "rain"
+      ],
+      "answer": 1,
+      "explanation": "Weather describes the conditions of the atmosphere, like temperature, rain, wind, or sun."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "The word 'dry' describes weather with a lot of heavy rainfall.",
+      "answer": false,
+      "explanation": "False. 'Dry' means having no water or very little rain."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "What is the name for the light that comes directly from the sun?",
+      "options": [
+        "rain",
+        "weather",
+        "sunlight",
+        "store"
+      ],
+      "answer": 2,
+      "explanation": "Sunlight is the light and warmth provided by the sun, which helps plants grow."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "Water falling in drops from the clouds is called _______.",
+      "answer": "rain",
+      "acceptedAnswers": [
+        "rain",
+        "Rain"
+      ],
+      "hint": "Liquid water from the sky.",
+      "explanation": "Rain is liquid water that falls from the clouds to wet the ground."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "What does the verb 'store' mean?",
+      "options": [
+        "To buy things at a shop",
+        "To save or keep things for later use",
+        "To play in the snow",
+        "To fly to Mexico in fall"
+      ],
+      "answer": 1,
+      "explanation": "To 'store' means to collect and keep food or items so you can use them in the future."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Week 14 words into Places/Lines or Weather elements:",
+      "items": [
+        "equator",
+        "Antarctica",
+        "rain",
+        "sunlight",
+        "dry"
+      ],
+      "categories": [
+        {
+          "label": "Places or Lines",
+          "answers": [
+            "equator",
+            "Antarctica"
+          ]
+        },
+        {
+          "label": "Weather Elements",
+          "answers": [
+            "rain",
+            "sunlight",
+            "dry"
+          ]
+        }
+      ],
+      "explanation": "'Equator' and 'Antarctica' are geographic places/lines. 'Rain,' 'sunlight,' and 'dry' describe weather components."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "The weather near the equator is very cold and snowy all year round.",
+      "answer": false,
+      "explanation": "False. Near the equator, the weather is very hot and stays the same almost all year."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "week14"
+      ],
+      "question": "Arrange the words to show what sunlight does:",
+      "words": [
+        "helps",
+        "Sunlight",
+        "plants",
+        "grow"
+      ],
+      "answer": [
+        "Sunlight",
+        "helps",
+        "plants",
+        "grow"
+      ],
+      "explanation": "Correct sentence: 'Sunlight helps plants grow.' Sunlight provides the energy they need."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "Which word is the superlative form of 'cold,' meaning the most cold?",
+      "options": [
+        "colder",
+        "coldest",
+        "cold",
+        "weather"
+      ],
+      "answer": 1,
+      "explanation": "'Coldest' is the superlative form, describing the place or thing with the lowest temperature."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "Squirrels collect and _______ nuts in trees for the winter.",
+      "answer": "store",
+      "acceptedAnswers": [
+        "store",
+        "Store"
+      ],
+      "hint": "To keep for later.",
+      "explanation": "Squirrels store nuts in secret tree hollows so they have food in winter."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "week14"
+      ],
+      "question": "Arrange the words to describe Antarctica:",
+      "words": [
+        "Antarctica",
+        "coldest",
+        "is",
+        "the",
+        "on",
+        "place",
+        "Earth"
+      ],
+      "answer": [
+        "Antarctica",
+        "is",
+        "the",
+        "coldest",
+        "place",
+        "on",
+        "Earth"
+      ],
+      "explanation": "Correct sentence: 'Antarctica is the coldest place on Earth.' It is covered in ice."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "Antarctica is the coldest place, but it gets very warm in summer when the sun never sets.",
+      "answer": false,
+      "explanation": "False. The text says: 'Even in summer, it never gets warm here' in Antarctica."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week14"
+      ],
+      "question": "Why is there a 'dry season' in some parts of the world?",
+      "options": [
+        "Because it rains heavily every single day.",
+        "Because there is very little or no rain for several months.",
+        "Because the sun never shines in those places.",
+        "Because the ocean waves are too loud."
+      ],
+      "answer": 1,
+      "explanation": "A dry season is a period of the year with very low rainfall. It is opposite of the rainy (wet) season."
+    }
+  ]
+}

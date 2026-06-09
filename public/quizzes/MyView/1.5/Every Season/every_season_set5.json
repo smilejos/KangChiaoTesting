@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "id": "every_season_set5",
+    "version": "1.0",
+    "title": "Every Season — Set 5",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Challenge quiz for 'Every Season' — inference, theme, and comparisons.",
+    "guid": "f287e7da-6fc7-4cb4-9982-871b77a7da6e"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "inference",
+        "autumn"
+      ],
+      "question": "Why do geese fly south in autumn?",
+      "options": [
+        "Because they like the color yellow of the ash trees.",
+        "To escape the cold winter and find food in warmer places.",
+        "To help chipmunks carry acorns to secret spots.",
+        "Because they want to wear jackets and hoods."
+      ],
+      "answer": 1,
+      "explanation": "Geese fly south in autumn because winter is coming. Warmer places in the south have more food and less freezing weather."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "inference",
+        "winter"
+      ],
+      "question": "Animals leave tracks in winter because the snow is soft and covers the ground.",
+      "answer": true,
+      "explanation": "True! The soft snow acts like a blanket, capturing the footprints of animals as they walk across it."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "inference",
+        "autumn"
+      ],
+      "question": "Why do chipmunks store acorns in a 'secret' spot?",
+      "options": [
+        "So other animals cannot find and eat their winter food.",
+        "Because acorns are too heavy to carry to their homes.",
+        "Because they forget where they put their food.",
+        "To play a game with the geese."
+      ],
+      "answer": 0,
+      "explanation": "Storing food in a secret, hidden spot ensures that other hungry animals won't steal their acorns before winter."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "inference",
+        "winter"
+      ],
+      "question": "The author dislikes winter because it brings cold temperatures and icicles.",
+      "answer": false,
+      "explanation": "False. The author says 'I Love Winter Too,' showing they enjoy the snow, ice, and winter activities."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "inference",
+        "autumn"
+      ],
+      "question": "What does 'seeds scatter' in autumn help plants do?",
+      "options": [
+        "It helps plants grow in new places when spring returns.",
+        "It feeds the shorebirds in the hot summer.",
+        "It keeps the trees warm under red oak jackets.",
+        "It makes the wind whip harder."
+      ],
+      "answer": 0,
+      "explanation": "When seeds scatter (spread out) in autumn, they can rest in the soil and grow into new plants in spring."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "inference",
+        "winter"
+      ],
+      "question": "In winter, snow _______ branches and buds. This keeps them covered.",
+      "answer": "blankets",
+      "acceptedAnswers": [
+        "blankets",
+        "Blankets"
+      ],
+      "hint": "Covers like a thick blanket.",
+      "explanation": "The snow covers the branches like a blanket, which is why the author uses the verb 'blankets.'"
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "inference",
+        "spring"
+      ],
+      "question": "Which season is described as the time to 'dig and plant'?",
+      "options": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "answer": 0,
+      "explanation": "Spring is the season when the weather gets warmer and the soil softens, making it the perfect time to dig and plant seeds."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "details",
+        "sorting"
+      ],
+      "question": "Sort these things from the story into their main seasonal colors:",
+      "items": [
+        "grass",
+        "icicles",
+        "pumpkins",
+        "maple",
+        "ash",
+        "oaks"
+      ],
+      "categories": [
+        {
+          "label": "Green or White/Clear",
+          "answers": [
+            "grass",
+            "icicles"
+          ]
+        },
+        {
+          "label": "Red, Orange, or Yellow",
+          "answers": [
+            "pumpkins",
+            "maple",
+            "ash",
+            "oaks"
+          ]
+        }
+      ],
+      "explanation": "Grass is green and icicles are clear/white. Pumpkins, maples (orange), ash (yellow), and oaks (red) represent warm autumn colors."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "inference",
+        "spring"
+      ],
+      "question": "'Showers soak' in spring means that it rains a lot and makes the ground very wet.",
+      "answer": true,
+      "explanation": "True. 'Showers' are rainfalls, and 'soak' means to make extremely wet. This rain helps seeds sprout."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "autumn"
+      ],
+      "question": "Arrange the words to show what chipmunks do:",
+      "words": [
+        "secret",
+        "Chipmunks",
+        "store",
+        "acorns",
+        "spot",
+        "in",
+        "a"
+      ],
+      "answer": [
+        "Chipmunks",
+        "store",
+        "acorns",
+        "in",
+        "a",
+        "secret",
+        "spot"
+      ],
+      "explanation": "Correct sentence: 'Chipmunks store acorns in a secret spot.' This shows how they prepare for winter."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "inference",
+        "winter"
+      ],
+      "question": "Why do horses grow 'thick coats' only in winter?",
+      "options": [
+        "Because they change their clothes every month.",
+        "Because the cold winter weather requires extra warmth.",
+        "Because they want to look pretty for spring.",
+        "Because they run faster in heavy coats."
+      ],
+      "answer": 1,
+      "explanation": "Horses grow thick coats of fur in winter to protect themselves from the freezing cold temperatures."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "inference",
+        "spring"
+      ],
+      "question": "Daffodils and crocuses open early, but lilacs open later and spread their _______ smell.",
+      "answer": "sweet",
+      "acceptedAnswers": [
+        "sweet",
+        "Sweet"
+      ],
+      "hint": "Pleasant and fragrant.",
+      "explanation": "The text states: 'lilacs spread their sweet smell' in the spring."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "sentence",
+        "winter"
+      ],
+      "question": "Arrange the words to describe what winter cold brings:",
+      "words": [
+        "swirl",
+        "that",
+        "icicles",
+        "brings",
+        "cold",
+        "The",
+        "snowflakes",
+        "and"
+      ],
+      "answer": [
+        "The",
+        "cold",
+        "brings",
+        "icicles",
+        "and",
+        "snowflakes",
+        "that",
+        "swirl"
+      ],
+      "explanation": "Correct sentence: 'The cold brings icicles and snowflakes that swirl.' This describes the cold winter scene."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "inference",
+        "seasons"
+      ],
+      "question": "The story shows that nature goes through a continuous circle of seasons that returns to spring at the end.",
+      "answer": true,
+      "explanation": "True. The story goes from spring, to summer, to autumn, to winter, and ends with 'But then spring comes... I Love Spring,' showing the circle of seasons starts again."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "inference",
+        "summer"
+      ],
+      "question": "How does the author show that summer is a hot season?",
+      "options": [
+        "By mentioning hot chocolate and thick horse coats.",
+        "By mentioning wearing a straw hat, going barefoot, and eating ice cream.",
+        "By mentioning pulling up hoods and zipping up jackets.",
+        "By mentioning geese flying away to the south."
+      ],
+      "answer": 1,
+      "explanation": "Wearing a straw hat blocks the hot sun, going barefoot is only done when the ground is warm, and ice cream and lemonade keep us cool, showing summer is hot."
+    }
+  ]
+}

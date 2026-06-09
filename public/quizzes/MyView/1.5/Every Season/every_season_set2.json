@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "every_season_set2",
+    "version": "1.0",
+    "title": "Every Season — Set 2",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Vocabulary quiz for 'Every Season' — word meanings in story context.",
+    "guid": "3fc8cef1-bc8c-4563-93a9-5e9493a1c9dc"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "In spring, what are 'speckled' eggs?",
+      "options": [
+        "eggs with small spots",
+        "plain white eggs",
+        "eggs made of straw",
+        "cooked eggs"
+      ],
+      "answer": 0,
+      "explanation": "'Speckled' means covered with small spots. The eggs in the nests have spots on them."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "adverbs"
+      ],
+      "question": "Walking 'barefoot' means walking with socks but no shoes.",
+      "answer": false,
+      "explanation": "False. 'Barefoot' means walking with no shoes and no socks on."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "What are the 'acorns' that chipmunks store?",
+      "options": [
+        "baby birds",
+        "nuts of an oak tree",
+        "yellow spring flowers",
+        "green leaves"
+      ],
+      "answer": 1,
+      "explanation": "Acorns are the nuts of an oak tree. Chipmunks store them to eat during the winter."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "In 'snow blankets branches,' the word 'blankets' is a verb that means to cover thickly.",
+      "answer": true,
+      "explanation": "Yes! To blanket means to cover something thickly, just like a blanket covers a bed."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "What does it mean when flowers 'bloom' in spring?",
+      "options": [
+        "They fall off.",
+        "They close up.",
+        "They open up.",
+        "They die."
+      ],
+      "answer": 2,
+      "explanation": "To 'bloom' means (for flowers) to open up and show their colorful petals."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "spring"
+      ],
+      "question": "Crocuses and lilacs are types of _______ that grow in spring.",
+      "answer": "flowers",
+      "acceptedAnswers": [
+        "flowers",
+        "Flowers"
+      ],
+      "hint": "The colorful parts of plants that often smell sweet.",
+      "explanation": "Crocuses, daffodils, and lilacs are all spring flowers mentioned in the story."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "What does it mean when butterflies 'flutter'?",
+      "options": [
+        "To walk slowly on the grass",
+        "To move their wings quickly and lightly",
+        "To swim in the water",
+        "To hide under mossy rocks"
+      ],
+      "answer": 1,
+      "explanation": "To 'flutter' means to fly or move wings quickly and lightly. Butterflies flutter through the air."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "Sort the words from the story into Nouns or Verbs:",
+      "items": [
+        "acorn",
+        "jacket",
+        "soak",
+        "sprout",
+        "rake"
+      ],
+      "categories": [
+        {
+          "label": "Nouns (Things)",
+          "answers": [
+            "acorn",
+            "jacket"
+          ]
+        },
+        {
+          "label": "Verbs (Actions)",
+          "answers": [
+            "soak",
+            "sprout",
+            "rake"
+          ]
+        }
+      ],
+      "explanation": "'Acorn' and 'jacket' are nouns (things). 'Soak,' 'sprout,' and 'rake' are verbs (actions)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "A 'woven' nest is made by gluing plastic pieces together.",
+      "answer": false,
+      "explanation": "False. 'Woven' means made by weaving threads, twigs, or grass together, which is how birds build nests."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "autumn"
+      ],
+      "question": "Arrange the words to describe the wind in autumn:",
+      "words": [
+        "whips",
+        "wind",
+        "The",
+        "in",
+        "autumn"
+      ],
+      "answer": [
+        "The",
+        "wind",
+        "whips",
+        "in",
+        "autumn"
+      ],
+      "explanation": "Correct sentence: 'The wind whips in autumn.' 'Whips' means blows fast and hard."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "In 'geese head south,' what does 'head' mean?",
+      "options": [
+        "A body part above the neck",
+        "To move or travel in a direction",
+        "To make a loud honking sound",
+        "To keep warm under a coat"
+      ],
+      "answer": 1,
+      "explanation": "As a verb, 'head' means to move in a certain direction. Geese head (fly) south."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "winter"
+      ],
+      "question": "The cold of winter brings icicles and _______ that swirl.",
+      "answer": "snowflakes",
+      "acceptedAnswers": [
+        "snowflakes",
+        "Snowflakes"
+      ],
+      "hint": "Small, single pieces of falling snow.",
+      "explanation": "Swirling 'snowflakes' are brought by the winter cold."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "sentence",
+        "autumn"
+      ],
+      "question": "Arrange the words to show where chipmunks keep acorns:",
+      "words": [
+        "secret",
+        "Chipmunks",
+        "spot",
+        "in",
+        "acorns",
+        "store",
+        "a"
+      ],
+      "answer": [
+        "Chipmunks",
+        "store",
+        "acorns",
+        "in",
+        "a",
+        "secret",
+        "spot"
+      ],
+      "explanation": "Correct sentence: 'Chipmunks store acorns in a secret spot.' A secret spot is hidden and private."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "In winter, 'coast' in 'time to coast and slide' means the land next to the ocean.",
+      "answer": false,
+      "explanation": "False. In this context, 'coast' is a verb meaning to move smoothly without effort, like sledding down a snowy hill."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "In 'wind whips, seeds scatter,' what does the verb 'scatter' mean?",
+      "options": [
+        "To gather in one big pile",
+        "To throw or spread in many directions",
+        "To eat quickly",
+        "To hide in a secret spot"
+      ],
+      "answer": 1,
+      "explanation": "To 'scatter' means to throw or spread in different directions. The wind blows the seeds all over."
+    }
+  ]
+}

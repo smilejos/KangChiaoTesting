@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "id": "vocab_season_around_the_world_set5",
+    "version": "1.0",
+    "title": "Seasons Around the World — Vocabulary Set 5",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Challenge quiz on word families, antonyms, synonyms, and parts of speech for 'Seasons Around the World'.",
+    "guid": "47754af8-b904-4f43-9b06-001343745091"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "Which of these is the opposite (antonym) of 'Northern'?",
+      "options": [
+        "Southern",
+        "dark",
+        "dry",
+        "appear"
+      ],
+      "answer": 0,
+      "explanation": "'Southern' refers to south, which is the direct opposite direction of 'Northern' (north)."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "'Hibernate' is a verb, and 'hibernation' is its noun form.",
+      "answer": true,
+      "explanation": "True. 'Hibernate' describes the action, and 'hibernation' is the state of deep winter sleep (noun)."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "Which of these words is the opposite of the adjective 'dry'?",
+      "options": [
+        "snow",
+        "rain",
+        "wet",
+        "coldest"
+      ],
+      "answer": 2,
+      "explanation": "'Wet' means covered with water or rain, making it the opposite of 'dry' (having no water)."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "The words 'die' and 'live' are synonyms.",
+      "answer": false,
+      "explanation": "False. 'Die' (stop living) and 'live' (be alive) are antonyms, not synonyms."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "Which of these words is a noun (naming word)?",
+      "options": [
+        "appear",
+        "dry",
+        "hibernate",
+        "sunlight"
+      ],
+      "answer": 3,
+      "explanation": "'Sunlight' is a noun because it is the name of a thing (the light of the sun). The others are verbs or adjectives."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "The antonym of 'appear' (meaning to go out of sight) is _______.",
+      "answer": "disappear",
+      "acceptedAnswers": [
+        "disappear",
+        "Disappear"
+      ],
+      "hint": "To vanish from sight.",
+      "explanation": "To 'disappear' is the opposite of 'appear.'"
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In the phrase 'the coldest place,' what part of speech is 'coldest'?",
+      "options": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb"
+      ],
+      "answer": 2,
+      "explanation": "'Coldest' is an adjective because it describes the noun 'place' (what kind of place it is)."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "Sort these words into Verbs (actions) or Nouns (places/things):",
+      "items": [
+        "hibernate",
+        "appear",
+        "snow",
+        "rain",
+        "equator"
+      ],
+      "categories": [
+        {
+          "label": "Verbs",
+          "answers": [
+            "hibernate",
+            "appear"
+          ]
+        },
+        {
+          "label": "Nouns",
+          "answers": [
+            "snow",
+            "rain",
+            "equator"
+          ]
+        }
+      ],
+      "explanation": "'Hibernate' and 'appear' are actions (verbs). 'Snow,' 'rain,' and 'equator' are naming words (nouns)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "'Darkness' is the noun form of the adjective 'dark.'",
+      "answer": true,
+      "explanation": "True. Adding the suffix '-ness' to 'dark' changes it from an adjective to a noun."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "weather"
+      ],
+      "question": "Arrange the words to describe wet weather:",
+      "words": [
+        "rainy",
+        "The",
+        "weather",
+        "was",
+        "very"
+      ],
+      "answer": [
+        "The",
+        "weather",
+        "was",
+        "very",
+        "rainy"
+      ],
+      "explanation": "Correct sentence: 'The weather was very rainy.' Here, 'rainy' is an adjective describing 'weather.'"
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In 'It can rain a lot during spring,' what part of speech is 'rain'?",
+      "options": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb"
+      ],
+      "answer": 1,
+      "explanation": "Here, 'rain' acts as a verb (it is something that happens: 'can rain')."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "The opposite (antonym) of the adjective 'dark' is _______.",
+      "answer": "light",
+      "acceptedAnswers": [
+        "light",
+        "Light",
+        "bright",
+        "Bright"
+      ],
+      "hint": "Opposite of dark.",
+      "explanation": "'Light' or 'bright' is the opposite of 'dark.'"
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "geography"
+      ],
+      "question": "Arrange the words to describe the poles:",
+      "words": [
+        "Southern",
+        "North",
+        "opposite",
+        "Pole",
+        "is",
+        "of",
+        "South",
+        "Pole"
+      ],
+      "answer": [
+        "South",
+        "Pole",
+        "is",
+        "opposite",
+        "of",
+        "North",
+        "Pole"
+      ],
+      "explanation": "Correct sentence: 'South Pole is opposite of North Pole.' They are at opposite ends of the Earth."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "geography"
+      ],
+      "question": "In the text 'near the equator,' the word 'equator' is a proper noun and must be capitalized.",
+      "answer": false,
+      "explanation": "False. In English, 'equator' is usually a common noun and is lowercase unless starting a sentence."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "Which word family includes the word 'weather'?",
+      "options": [
+        "weather, weathers, weathered",
+        "weathering, weather-beaten",
+        "both of the above",
+        "none of the above"
+      ],
+      "answer": 2,
+      "explanation": "Both options contain words in the 'weather' word family, representing verb forms and compound adjectives."
+    }
+  ]
+}

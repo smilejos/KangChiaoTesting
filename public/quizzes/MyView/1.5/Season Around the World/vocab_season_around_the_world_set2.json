@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "vocab_season_around_the_world_set2",
+    "version": "1.0",
+    "title": "Seasons Around the World — Vocabulary Set 2",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Vocabulary practice focusing on Week 13 words: snow, die, hibernate, Northern, Southern, North Pole, dark, appear.",
+    "guid": "a1932569-73a2-4ad9-bd66-360004733ca0"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "What is the soft, white frozen water that falls from clouds in winter?",
+      "options": [
+        "rain",
+        "snow",
+        "acorns",
+        "lilacs"
+      ],
+      "answer": 1,
+      "explanation": "Snow is frozen rain that falls as soft white flakes during cold winter weather."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "To 'die' means to start growing and living.",
+      "answer": false,
+      "explanation": "False. To 'die' means to stop living or stop growing."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "Which word is the opposite of 'dark'?",
+      "options": [
+        "appear",
+        "snow",
+        "bright",
+        "Southern"
+      ],
+      "answer": 2,
+      "explanation": "'Bright' means filled with light, which is the opposite of 'dark' (having no light)."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "'Northern' describes the top part of the Earth above the equator.",
+      "answer": true,
+      "explanation": "True. The Northern part of the world refers to everything north of the equator."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "Where does the sun never shine in winter, leaving it dark all day?",
+      "options": [
+        "Antarctica",
+        "North Pole",
+        "Southern part",
+        "equator"
+      ],
+      "answer": 1,
+      "explanation": "The North Pole is at the very top of Earth, and in winter it points away from the sun, so it is dark all day."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "Bears and some other animals _______ in winter to sleep through the cold months.",
+      "answer": "hibernate",
+      "acceptedAnswers": [
+        "hibernate",
+        "Hibernate"
+      ],
+      "hint": "To go into a deep winter sleep.",
+      "explanation": "To hibernate is to spend the winter sleeping or resting in a deep sleep."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "What does the verb 'appear' mean when flowers 'appear' in spring?",
+      "options": [
+        "To drop down and die",
+        "To come into sight and be seen",
+        "To stay hidden under the snow",
+        "To sleep all winter"
+      ],
+      "answer": 1,
+      "explanation": "To 'appear' means to become visible or come into sight."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Week 13 words into Actions/States or Places/Things:",
+      "items": [
+        "die",
+        "hibernate",
+        "appear",
+        "snow",
+        "North Pole"
+      ],
+      "categories": [
+        {
+          "label": "Actions or States",
+          "answers": [
+            "die",
+            "hibernate",
+            "appear"
+          ]
+        },
+        {
+          "label": "Places or Things",
+          "answers": [
+            "snow",
+            "North Pole"
+          ]
+        }
+      ],
+      "explanation": "'Die,' 'hibernate,' and 'appear' are verbs (actions/states). 'Snow' and 'North Pole' are nouns (places/things)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "'Southern' refers to the bottom part of the Earth below the equator.",
+      "answer": true,
+      "explanation": "True. The Southern part refers to the region south of the equator, like Australia or Antarctica."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "week13"
+      ],
+      "question": "Arrange the words to describe snow:",
+      "words": [
+        "white",
+        "Snow",
+        "is",
+        "cold",
+        "and"
+      ],
+      "answer": [
+        "Snow",
+        "is",
+        "cold",
+        "and",
+        "white"
+      ],
+      "explanation": "Correct sentence: 'Snow is cold and white.' It falls during winter."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "When it is winter in the northern part of the world, it is summer in the _______ part.",
+      "options": [
+        "Northern",
+        "Southern",
+        "equator",
+        "Antarctica"
+      ],
+      "answer": 1,
+      "explanation": "The Southern hemisphere has summer when the Northern hemisphere has winter."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "In winter at the North Pole, there is no sun, so it is _______ all day.",
+      "answer": "dark",
+      "acceptedAnswers": [
+        "dark",
+        "Dark"
+      ],
+      "hint": "Opposite of bright or light.",
+      "explanation": "Without the sun, it remains dark all day long near the North Pole in winter."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "week13"
+      ],
+      "question": "Arrange the words to show what some bears do:",
+      "words": [
+        "bears",
+        "In",
+        "winter",
+        "hibernate",
+        "some"
+      ],
+      "answer": [
+        "In",
+        "winter",
+        "some",
+        "bears",
+        "hibernate"
+      ],
+      "explanation": "Correct sentence: 'In winter some bears hibernate.' This helps them survive the cold."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "Plants hibernate in the winter just like bears do.",
+      "answer": false,
+      "explanation": "False. Only animals can hibernate. Plants stop growing or die, but they do not hibernate."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "week13"
+      ],
+      "question": "Which of these sentences is correct?",
+      "options": [
+        "The North Pole is located at the equator.",
+        "In winter, the sun never sets at the North Pole.",
+        "The North Pole has dark, sunless days in winter.",
+        "Geese travel to the North Pole in winter."
+      ],
+      "answer": 2,
+      "explanation": "The North Pole is at the top of Earth. It has dark days in winter because it tilts away from the sun."
+    }
+  ]
+}

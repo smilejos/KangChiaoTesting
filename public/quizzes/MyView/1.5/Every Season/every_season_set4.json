@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "id": "every_season_set4",
+    "version": "1.0",
+    "title": "Every Season — Set 4",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Sentence practice and fill-in-the-blank quiz for 'Every Season'.",
+    "guid": "72c6409b-b22c-401e-b539-b0702d268116"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "sentence",
+        "summer"
+      ],
+      "question": "We taste strawberries and lemonade in _______.",
+      "options": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "answer": 1,
+      "explanation": "Strawberries and lemonade are cool, sweet treats that we taste in summer."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "sentence",
+        "autumn"
+      ],
+      "question": "In autumn, leaves turn and fall.",
+      "answer": true,
+      "explanation": "Yes, 'Leaves turn and fall' is the correct sentence describing autumn leaves changing colors and dropping."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "sentence",
+        "spring"
+      ],
+      "question": "I love spring when grass grows _______.",
+      "answer": "green",
+      "acceptedAnswers": [
+        "green",
+        "Green"
+      ],
+      "hint": "The color of fresh grass in spring.",
+      "explanation": "The story begins with: 'I Love Spring when grass grows green.'"
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "sentence",
+        "winter"
+      ],
+      "question": "We wear hats, mittens, scarves, and skates in winter.",
+      "answer": true,
+      "explanation": "True. The winter section list of clothing is: 'We wear hats, mittens, scarves, and skates.'"
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "sentence",
+        "spring"
+      ],
+      "question": "In spring, we hold rabbits, lambs, kittens, and _______.",
+      "options": [
+        "chicks",
+        "geese",
+        "chipmunks",
+        "fawns"
+      ],
+      "answer": 0,
+      "explanation": "The story mentions holding baby animals in spring: rabbits, lambs, kittens, and chicks."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "autumn"
+      ],
+      "question": "In autumn, wind _______, and seeds scatter.",
+      "answer": "whips",
+      "acceptedAnswers": [
+        "whips",
+        "Whips"
+      ],
+      "hint": "Blows fast and hard.",
+      "explanation": "The sentence in the story is: 'Wind whips, seeds scatter.'"
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "summer"
+      ],
+      "question": "In summer, you can wear a straw hat, or go barefoot in the _______.",
+      "options": [
+        "sand",
+        "water",
+        "mud",
+        "grass"
+      ],
+      "answer": 3,
+      "explanation": "The story says you can 'go barefoot in the grass' in summer."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "sorting"
+      ],
+      "question": "Sort these sentence fragments based on whether they tell about Summer or Winter activities:",
+      "items": [
+        "splash and swim",
+        "coast and slide",
+        "taste lemonade",
+        "make snow angels"
+      ],
+      "categories": [
+        {
+          "label": "Summer Activities",
+          "answers": [
+            "splash and swim",
+            "taste lemonade"
+          ]
+        },
+        {
+          "label": "Winter Activities",
+          "answers": [
+            "coast and slide",
+            "make snow angels"
+          ]
+        }
+      ],
+      "explanation": "Splash/swim and taste lemonade are summer activities. Coast/slide and make snow angels are winter activities."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "spring"
+      ],
+      "question": "In the sentence 'Speckled eggs fill woven nests,' the word 'fill' means the nests are empty.",
+      "answer": false,
+      "explanation": "False. 'Fill' means to make full, so the nests are full of speckled eggs."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "autumn"
+      ],
+      "question": "Arrange the words to show when we pick pumpkins:",
+      "words": [
+        "We",
+        "pick",
+        "pumpkins",
+        "autumn",
+        "in"
+      ],
+      "answer": [
+        "We",
+        "pick",
+        "pumpkins",
+        "in",
+        "autumn"
+      ],
+      "explanation": "Correct sentence: 'We pick pumpkins in autumn.' Autumn is pumpkin season."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "winter"
+      ],
+      "question": "When winter comes, snow _______ branches and buds.",
+      "options": [
+        "opens",
+        "grows",
+        "blankets",
+        "melts"
+      ],
+      "answer": 2,
+      "explanation": "The story says: 'Snow blankets branches and buds' to cover them in winter."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "autumn"
+      ],
+      "question": "Chipmunks store _______ in a secret spot.",
+      "answer": "acorns",
+      "acceptedAnswers": [
+        "acorns",
+        "Acorns"
+      ],
+      "hint": "The small nuts of an oak tree.",
+      "explanation": "The sentence is: 'Chipmunks store acorns in a secret spot.'"
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "sentence",
+        "spring"
+      ],
+      "question": "Arrange the words to describe what lilacs do in spring:",
+      "words": [
+        "sweet",
+        "Lilacs",
+        "their",
+        "spread",
+        "smell"
+      ],
+      "answer": [
+        "Lilacs",
+        "spread",
+        "their",
+        "sweet",
+        "smell"
+      ],
+      "explanation": "Correct sentence: 'Lilacs spread their sweet smell.' Lilacs are fragrant flowers."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "sentence",
+        "winter"
+      ],
+      "question": "In winter, horses grow thick coats, while chickadees search for seeds.",
+      "answer": true,
+      "explanation": "True. The winter section tells us: 'Horses grow thick coats to keep warm. Chickadees search for seeds.'"
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "sentence",
+        "spring"
+      ],
+      "question": "Spring is the time to dig and plant, and then _______ comes.",
+      "options": [
+        "summer",
+        "autumn",
+        "winter",
+        "spring"
+      ],
+      "answer": 0,
+      "explanation": "The text says: 'Spring is the time to dig and plant. But then summer comes...'"
+    }
+  ]
+}

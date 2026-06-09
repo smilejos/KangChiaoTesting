@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "vocab_in_spring_set3",
+    "version": "1.0",
+    "title": "In Spring — Vocabulary Set 3",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Vocabulary practice focusing on Part 2 words: hint, dart, spy, coil, tadpole, fawn, struggle, link.",
+    "guid": "ae440fba-fd68-42f1-bfbc-e6f7161942eb"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What is a baby deer called?",
+      "options": [
+        "tadpole",
+        "fawn",
+        "chick",
+        "lamb"
+      ],
+      "answer": 1,
+      "explanation": "A fawn is the name for a baby deer, which is seen in the woods in spring."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "To 'dart' means to move very slowly, like a snail.",
+      "answer": false,
+      "explanation": "False. To 'dart' means to run or move very quickly and suddenly."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What is a baby frog swimming in a spring pond?",
+      "options": [
+        "fawn",
+        "tadpole",
+        "kitten",
+        "duckling"
+      ],
+      "answer": 1,
+      "explanation": "A tadpole is the larval form of a frog that lives in water."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "To 'spy' means to see or catch sight of something.",
+      "answer": true,
+      "explanation": "True. In 'spy flowers hiding,' spy is used as a verb meaning to spot or see."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Which of these words means to connect or join two things?",
+      "options": [
+        "struggle",
+        "link",
+        "dart",
+        "coil"
+      ],
+      "answer": 1,
+      "explanation": "To 'link' means to make a connection between two things, like spring linking winter and summer."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Worms _______ up into rings from underneath the ground.",
+      "answer": "coil",
+      "acceptedAnswers": [
+        "coil",
+        "Coil"
+      ],
+      "hint": "Wind or twist into rings.",
+      "explanation": "Worms coil up by twisting their long bodies into spiral shapes."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What is a 'hint'?",
+      "options": [
+        "A large winter storm",
+        "A small sign, clue, or suggestion",
+        "A baby deer's young leg",
+        "A pond with melting ice"
+      ],
+      "answer": 1,
+      "explanation": "A 'hint' is a small sign or clue about something, like breezes blowing hints of hotter summer days."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Part 2 words into Animals/Things or Actions:",
+      "items": [
+        "fawn",
+        "tadpole",
+        "dart",
+        "spy",
+        "struggle"
+      ],
+      "categories": [
+        {
+          "label": "Animals or Things",
+          "answers": [
+            "fawn",
+            "tadpole"
+          ]
+        },
+        {
+          "label": "Actions (Verbs)",
+          "answers": [
+            "dart",
+            "spy",
+            "struggle"
+          ]
+        }
+      ],
+      "explanation": "'Fawn' and 'tadpole' are nouns (animals). 'Dart,' 'spy,' and 'struggle' are verbs (actions)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "To 'struggle' means to try very hard to do something difficult, like walking on weak legs.",
+      "answer": true,
+      "explanation": "True. Struggling describes making a great effort through difficulty."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "part2"
+      ],
+      "question": "Arrange the words to define a fawn:",
+      "words": [
+        "deer",
+        "A",
+        "fawn",
+        "baby",
+        "is",
+        "a"
+      ],
+      "answer": [
+        "A",
+        "fawn",
+        "is",
+        "a",
+        "baby",
+        "deer"
+      ],
+      "explanation": "Correct sentence: 'A fawn is a baby deer.' Fawns are born in spring."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What does 'coil' describe in the story?",
+      "options": [
+        "How squirrels jump up trees",
+        "How worms wind their bodies into loops",
+        "How ice melts on ponds",
+        "How fawns struggle to stand"
+      ],
+      "answer": 1,
+      "explanation": "Worms coil up, winding themselves into loops, as they emerge from underneath the ground."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Spring connects the cold of winter with the heat of summer. It _______ them.",
+      "answer": "links",
+      "acceptedAnswers": [
+        "links",
+        "Links"
+      ],
+      "hint": "Connects or joins together (present tense).",
+      "explanation": "The story says spring links the cold of winter with the heat of summer."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "part2"
+      ],
+      "question": "Arrange the words to show where we can find tadpoles:",
+      "words": [
+        "tadpoles",
+        "We",
+        "see",
+        "can",
+        "swimming"
+      ],
+      "answer": [
+        "We",
+        "can",
+        "see",
+        "tadpoles",
+        "swimming"
+      ],
+      "explanation": "Correct sentence: 'We can see tadpoles swimming.' They swim under melting ice."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "The word 'hint' can act as both a noun (a clue) and a verb (to suggest indirectly).",
+      "answer": true,
+      "explanation": "True. 'A hint' is a noun, while 'to hint' is the verb form."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Which of these sentences is correct about squirrels?",
+      "options": [
+        "Squirrels hibernate during the spring months.",
+        "Squirrels dart around quickly in spring.",
+        "Squirrels links spring with summer.",
+        "Squirrels coil up from the ground."
+      ],
+      "answer": 1,
+      "explanation": "Squirrels do not hibernate in spring (they are active), they do not link seasons, and they do not coil. They dart (run quickly) around."
+    }
+  ]
+}

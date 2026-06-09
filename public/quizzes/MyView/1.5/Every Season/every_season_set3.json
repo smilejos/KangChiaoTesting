@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "id": "every_season_set3",
+    "version": "1.0",
+    "title": "Every Season — Set 3",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Details and sequencing quiz for 'Every Season'.",
+    "guid": "e08b1a4c-c03f-490c-9353-170327bf627d"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "details",
+        "spring"
+      ],
+      "question": "Which animal slithers out from under mossy rocks in spring?",
+      "options": [
+        "rabbits",
+        "salamanders",
+        "horses",
+        "chipmunks"
+      ],
+      "answer": 1,
+      "explanation": "The text says: 'Salamanders slither out from under mossy rocks' in spring."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "details",
+        "summer"
+      ],
+      "question": "In summer, shorebirds scurry and peck near the ocean.",
+      "answer": true,
+      "explanation": "True! The summer section mentions: 'Shorebirds scurry and peck. I hear the roar of ocean waves.'"
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "sequencing"
+      ],
+      "question": "What is the correct order of the seasons in the story, starting from spring?",
+      "options": [
+        "Spring → Winter → Summer → Autumn",
+        "Spring → Summer → Autumn → Winter",
+        "Autumn → Spring → Summer → Winter",
+        "Winter → Summer → Spring → Autumn"
+      ],
+      "answer": 1,
+      "explanation": "The story follows the natural order of the seasons: Spring, Summer, Autumn, and Winter, then back to Spring."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "details",
+        "winter"
+      ],
+      "question": "Horses grow thick coats in the summer to stay cool.",
+      "answer": false,
+      "explanation": "False. Horses grow thick coats in the winter to keep warm."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "details",
+        "autumn"
+      ],
+      "question": "What do we pull up and zip up in autumn?",
+      "options": [
+        "straw hats",
+        "hoods and jackets",
+        "mittens and scarves",
+        "skates"
+      ],
+      "answer": 1,
+      "explanation": "The autumn section says: 'We pull up our hoods and zip up our jackets' to stay warm in the wind."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "details",
+        "autumn"
+      ],
+      "question": "In autumn, geese honk and head _______.",
+      "answer": "south",
+      "acceptedAnswers": [
+        "south",
+        "South"
+      ],
+      "hint": "The direction that is warm in winter, opposite of north.",
+      "explanation": "Geese fly south in autumn to find warmer weather for winter."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "details",
+        "spring"
+      ],
+      "question": "Which sweet-smelling purple spring flowers open after daffodils?",
+      "options": [
+        "crocuses",
+        "lilacs",
+        "maples",
+        "oaks"
+      ],
+      "answer": 1,
+      "explanation": "The text states: 'Daffodils open, then lilacs spread their sweet smell.'"
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "details",
+        "sorting"
+      ],
+      "question": "Sort these foods based on the season we taste them in the story:",
+      "items": [
+        "strawberries",
+        "pumpkins",
+        "ice cream",
+        "lemonade",
+        "apples"
+      ],
+      "categories": [
+        {
+          "label": "Summer Foods",
+          "answers": [
+            "strawberries",
+            "ice cream",
+            "lemonade"
+          ]
+        },
+        {
+          "label": "Autumn Foods",
+          "answers": [
+            "pumpkins",
+            "apples"
+          ]
+        }
+      ],
+      "explanation": "Strawberries, lemonade, and ice cream are summer treats. Pumpkins and apples are harvested and tasted in autumn."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "details",
+        "spring"
+      ],
+      "question": "The story says that ducklings follow in a row.",
+      "answer": true,
+      "explanation": "True. The text says: 'Ducklings follow, all in a row' in the spring."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "winter"
+      ],
+      "question": "Arrange the words to show when horses grow thick coats:",
+      "words": [
+        "thick",
+        "coats",
+        "grow",
+        "Horses",
+        "winter",
+        "in"
+      ],
+      "answer": [
+        "Horses",
+        "grow",
+        "thick",
+        "coats",
+        "in",
+        "winter"
+      ],
+      "explanation": "Correct sentence: 'Horses grow thick coats in winter.' This helps them stay warm during cold days."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "details",
+        "winter"
+      ],
+      "question": "What warm drink do we sip after making snow angels in winter?",
+      "options": [
+        "lemonade",
+        "cold water",
+        "hot chocolate",
+        "strawberry juice"
+      ],
+      "answer": 2,
+      "explanation": "The winter section says: 'We make snow angels then sip hot chocolate.'"
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "details",
+        "spring"
+      ],
+      "question": "In spring, grass grows green, seeds sprout, and _______ bloom.",
+      "answer": "flowers",
+      "acceptedAnswers": [
+        "flowers",
+        "Flowers"
+      ],
+      "hint": "The colorful parts of plants that open up.",
+      "explanation": "The story says: 'Seeds sprout. Flowers bloom' in spring."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "sentence",
+        "autumn"
+      ],
+      "question": "Arrange the words to show what autumn is the time for:",
+      "words": [
+        "and",
+        "rake",
+        "jump",
+        "Autumn",
+        "time",
+        "is",
+        "the",
+        "to"
+      ],
+      "answer": [
+        "Autumn",
+        "is",
+        "the",
+        "to",
+        "rake",
+        "and",
+        "jump"
+      ],
+      "explanation": "Correct sentence: 'Autumn is the time to rake and jump.' We rake leaves and jump in them."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "details",
+        "spring"
+      ],
+      "question": "Spring is the time to dig and plant, and it comes right after summer.",
+      "answer": false,
+      "explanation": "False. Spring comes after winter, not summer. Summer comes after spring."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "details",
+        "seasons"
+      ],
+      "question": "What is the main idea of 'Every Season'?",
+      "options": [
+        "Summer is the only season with good food.",
+        "Winter is too cold, so we should stay inside.",
+        "Each of the four seasons has special things to enjoy.",
+        "Spring is the best because of early-spring flowers."
+      ],
+      "answer": 2,
+      "explanation": "The author starts each season section with 'I Love Spring', 'I Love Summer Too', 'I Love Autumn Too', and 'I Love Winter Too', showing that every season is loved and has fun activities."
+    }
+  ]
+}

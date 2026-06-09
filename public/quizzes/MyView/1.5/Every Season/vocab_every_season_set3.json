@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "vocab_every_season_set3",
+    "version": "1.0",
+    "title": "Every Season — Vocabulary Set 3",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Vocabulary practice focusing on Week 11 words: summer, straw, barefoot, flutter, autumn, maple, winter, icicles.",
+    "guid": "bec86950-4ee7-4511-ab8b-b77fa610c596"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "Which season is the hottest, when the sun shines strong and hot?",
+      "options": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "answer": 1,
+      "explanation": "Summer is the warmest season of the year, characterized by hot weather and sunshine."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "'Winter' is the coldest season, bringing icicles and snowflakes.",
+      "answer": true,
+      "explanation": "True. Winter is the cold season that comes after autumn."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "What are 'icicles'?",
+      "options": [
+        "Dry plant stems used to make hats",
+        "Long pointed pieces of ice hanging down",
+        "Red and yellow autumn leaves",
+        "Lizard-like animals"
+      ],
+      "answer": 1,
+      "explanation": "Icicles are hanging, pointed sticks of ice formed by freezing drips."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "Leaves turn colors and fall from trees in summer.",
+      "answer": false,
+      "explanation": "False. Leaves turn color and fall in autumn (also called fall), not summer."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "Which word is a tree with leaves that turn orange or red in autumn?",
+      "options": [
+        "straw",
+        "maple",
+        "winter",
+        "crocus"
+      ],
+      "answer": 1,
+      "explanation": "A maple is a tree famous for changing its leaves to orange, red, or yellow in autumn."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "If you take off your shoes and socks, you walk _______.",
+      "answer": "barefoot",
+      "acceptedAnswers": [
+        "barefoot",
+        "Barefoot"
+      ],
+      "hint": "With no shoes or socks on.",
+      "explanation": "To walk barefoot means to walk with no shoes or socks on your feet."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "What does the verb 'flutter' describe in the summer story?",
+      "options": [
+        "How frogs jump in the grass",
+        "How birds dive into ocean waves",
+        "How butterflies fly by moving wings quickly",
+        "How horses run to keep warm"
+      ],
+      "answer": 2,
+      "explanation": "Butterflies flutter, which means they fly with light, quick movements of their wings."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Week 11 words into Seasons or Nature things:",
+      "items": [
+        "summer",
+        "autumn",
+        "winter",
+        "maple",
+        "icicles"
+      ],
+      "categories": [
+        {
+          "label": "Seasons",
+          "answers": [
+            "summer",
+            "autumn",
+            "winter"
+          ]
+        },
+        {
+          "label": "Nature Things",
+          "answers": [
+            "maple",
+            "icicles"
+          ]
+        }
+      ],
+      "explanation": "Summer, autumn, and winter are seasons. Maples and icicles are natural structures."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "A 'straw' hat is made of dried plant stems.",
+      "answer": true,
+      "explanation": "True. Straw is dried plant stems. A straw hat helps protect your head from the hot summer sun."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "week11"
+      ],
+      "question": "Arrange the words to show how we walk in summer:",
+      "words": [
+        "barefoot",
+        "We",
+        "the",
+        "go",
+        "grass",
+        "in"
+      ],
+      "answer": [
+        "We",
+        "go",
+        "barefoot",
+        "in",
+        "the",
+        "grass"
+      ],
+      "explanation": "Correct sentence: 'We go barefoot in the grass.' It feels cool on a hot summer day."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "In which season does the wind whip and seeds scatter?",
+      "options": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "answer": 2,
+      "explanation": "Autumn (fall) is the season of windy days when leaves fall and seeds scatter."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "In autumn, leaves turn beautiful colors on the orange _______ tree.",
+      "answer": "maple",
+      "acceptedAnswers": [
+        "maple",
+        "Maple"
+      ],
+      "hint": "A tree from our list that changes color in fall.",
+      "explanation": "The story mentions: 'Orange maple, red oak, yellow ash.'"
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "sentence",
+        "week11"
+      ],
+      "question": "Arrange the words to describe what cold brings:",
+      "words": [
+        "icicles",
+        "brings",
+        "cold",
+        "The",
+        "winter"
+      ],
+      "answer": [
+        "The",
+        "cold",
+        "brings",
+        "winter",
+        "icicles"
+      ],
+      "explanation": "Correct sentence: 'The cold brings winter icicles.' (Wait! Let's check the words: ['icicles', 'brings', 'cold', 'The', 'winter']. Yes, 'The cold brings winter icicles' uses all words)."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "Icicles grow from the ground up like grass when it snows.",
+      "answer": false,
+      "explanation": "False. Icicles are formed by dripping water that freezes, so they hang down from roofs, branches, or rocks."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week11"
+      ],
+      "question": "Why is summer described as the time to splash and swim?",
+      "options": [
+        "Because it is very hot and water keeps us cool.",
+        "Because the ground is covered in ice and snow.",
+        "Because we wear thick jackets and hoods.",
+        "Because we want to gather acorns."
+      ],
+      "answer": 0,
+      "explanation": "Summer has a strong and hot sun. Splashing and swimming in water helps keep us cool when it is hot."
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "season_around_the_world_set2",
+    "version": "1.0",
+    "title": "Seasons Around the World — Set 2",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Vocabulary quiz for 'Seasons Around the World' — word meanings in story context.",
+    "guid": "d9d59964-b04f-4d7b-b335-c6d4dcde8fb2"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "What is 'snow'?",
+      "options": [
+        "Soft white ice flakes that fall from the sky in winter",
+        "Warm rain that falls in spring",
+        "Dry grass on the ground",
+        "A sweet drink made from milk"
+      ],
+      "answer": 0,
+      "explanation": "Snow consists of frozen water flakes that fall from clouds when the air is cold."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "To 'hibernate' means to fly to a warm place like Mexico.",
+      "answer": false,
+      "explanation": "False. To 'hibernate' means to sleep or go into a deep rest through the winter to save energy."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "geography"
+      ],
+      "question": "Which word is the imaginary line around the middle of Earth?",
+      "options": [
+        "North Pole",
+        "Antarctica",
+        "equator",
+        "Mexico"
+      ],
+      "answer": 2,
+      "explanation": "The equator is the imaginary circle around Earth that is exactly halfway between the North and South Poles."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "'Dark' means with little or no light.",
+      "answer": true,
+      "explanation": "True. When it is winter at the North Pole, there is no sunlight, so it is dark all day."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "What does 'appear' mean in 'leaves appear on the trees'?",
+      "options": [
+        "To sleep",
+        "To drop down",
+        "To come into sight",
+        "To stop living"
+      ],
+      "answer": 2,
+      "explanation": "To 'appear' means to become visible or come into sight. We start to see leaves growing on trees."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "In the fall, some animals _______ food so they have something to eat in winter.",
+      "answer": "store",
+      "acceptedAnswers": [
+        "store",
+        "Store"
+      ],
+      "hint": "To keep or save things for later use.",
+      "explanation": "To 'store' food means to gather and save it in a safe spot for winter."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "What does 'dry' mean in 'dry season'?",
+      "options": [
+        "Having a lot of rain",
+        "Having little or no rain",
+        "Having freezing cold ice",
+        "Having dark clouds"
+      ],
+      "answer": 1,
+      "explanation": "'Dry' means not wet, without rain. A dry season is a period with very little rainfall."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words based on whether they describe hot/dry elements or cold/wet elements:",
+      "items": [
+        "snow",
+        "rain",
+        "dry",
+        "sunlight",
+        "coldest"
+      ],
+      "categories": [
+        {
+          "label": "Hot or Dry Elements",
+          "answers": [
+            "dry",
+            "sunlight"
+          ]
+        },
+        {
+          "label": "Cold or Wet Elements",
+          "answers": [
+            "snow",
+            "rain",
+            "coldest"
+          ]
+        }
+      ],
+      "explanation": "'Dry' and 'sunlight' go with hot/dry weather. 'Snow,' 'rain,' and 'coldest' go with cold/wet weather."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "geography"
+      ],
+      "question": "'Antarctica' is a warm island located right at the equator.",
+      "answer": false,
+      "explanation": "False. Antarctica is a large icy continent at the South Pole, and it is the coldest place on Earth."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "weather"
+      ],
+      "question": "Arrange the words to describe winter weather:",
+      "words": [
+        "weather",
+        "The",
+        "gets",
+        "in",
+        "winter",
+        "cold"
+      ],
+      "answer": [
+        "The",
+        "weather",
+        "gets",
+        "cold",
+        "in",
+        "winter"
+      ],
+      "explanation": "Correct sentence: 'The weather gets cold in winter.' In winter, temperatures drop."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "What does 'die' mean when plants 'die' in winter?",
+      "options": [
+        "To start growing",
+        "To stop living",
+        "To change colors",
+        "To go to sleep"
+      ],
+      "answer": 1,
+      "explanation": "To 'die' means to stop living. Some plants die when it gets too cold in winter."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Sunlight is the _______ that comes from the sun and helps plants grow.",
+      "answer": "light",
+      "acceptedAnswers": [
+        "light",
+        "Light"
+      ],
+      "hint": "What you need to see, opposite of dark.",
+      "explanation": "Sunlight is literally the light of the sun."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "verbs"
+      ],
+      "question": "Arrange the words to show what animals do in winter:",
+      "words": [
+        "animals",
+        "hibernate",
+        "Some",
+        "in",
+        "winter"
+      ],
+      "answer": [
+        "Some",
+        "animals",
+        "hibernate",
+        "in",
+        "winter"
+      ],
+      "explanation": "Correct sentence: 'Some animals hibernate in winter.' This means they go to sleep all winter."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "'Northern' refers to things or places in the north part of the world.",
+      "answer": true,
+      "explanation": "True. 'Northern' means located in or toward the north. The Northern Hemisphere is the top half of Earth."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "What does the word 'coldest' mean?",
+      "options": [
+        "More cold than one other place",
+        "The most cold out of all places",
+        "A little bit cold",
+        "Warm and sunny"
+      ],
+      "answer": 1,
+      "explanation": "'Coldest' is the superlative form of cold. It means nothing is colder than it is. Antarctica is the coldest place on Earth."
+    }
+  ]
+}

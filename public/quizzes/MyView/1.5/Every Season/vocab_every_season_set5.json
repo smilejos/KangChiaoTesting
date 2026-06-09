@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "vocab_every_season_set5",
+    "version": "1.0",
+    "title": "Every Season — Vocabulary Set 5",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Challenge quiz on word families, antonyms, synonyms, and parts of speech for 'Every Season'.",
+    "guid": "77c14d3b-9ec6-417b-87e2-a91689488004"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "Which season is the opposite (antonym) of summer in terms of temperature?",
+      "options": [
+        "spring",
+        "autumn",
+        "winter",
+        "season"
+      ],
+      "answer": 2,
+      "explanation": "Winter is the coldest season, making it the opposite of summer, which is the hottest season."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "'Spring' and 'autumn' are antonyms (opposites).",
+      "answer": false,
+      "explanation": "False. While they are different seasons, they are not direct opposites like summer and winter are."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "Which word is a synonym for 'autumn'?",
+      "options": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "answer": 2,
+      "explanation": "'Fall' is another word for the season of 'autumn' when leaves fall from the trees."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "'Speckled' is a synonym for 'spotted.'",
+      "answer": true,
+      "explanation": "True. Both 'speckled' and 'spotted' describe something covered with small spots or marks."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "Which of these words from our list is a verb (action word)?",
+      "options": [
+        "crocus",
+        "salamander",
+        "flutter",
+        "barefoot"
+      ],
+      "answer": 2,
+      "explanation": "'Flutter' is a verb because it describes an action — moving wings quickly and lightly."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "'Woven' is the adjective form of the action verb _______.",
+      "answer": "weave",
+      "acceptedAnswers": [
+        "weave",
+        "Weave"
+      ],
+      "hint": "To cross threads or branches over and under each other.",
+      "explanation": "The verb is 'weave' (present) or 'wove' (past). 'Woven' is the past participle used as an adjective."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In 'We go barefoot in the grass,' what part of speech is 'barefoot'?",
+      "options": [
+        "noun",
+        "adverb",
+        "verb",
+        "conjunction"
+      ],
+      "answer": 1,
+      "explanation": "'Barefoot' is an adverb here because it describes *how* we go (walk) — without shoes."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "Sort these words into Nouns (naming words) or Verbs (action words):",
+      "items": [
+        "crocus",
+        "salamander",
+        "maple",
+        "flutter",
+        "sprout"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "crocus",
+            "salamander",
+            "maple"
+          ]
+        },
+        {
+          "label": "Verbs",
+          "answers": [
+            "flutter",
+            "sprout"
+          ]
+        }
+      ],
+      "explanation": "'Crocus' (flower), 'salamander' (animal), and 'maple' (tree) are nouns. 'Flutter' and 'sprout' are verbs."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "The word 'icicle' is an adjective that describes cold weather.",
+      "answer": false,
+      "explanation": "False. 'Icicle' is a noun because it is the name of a thing (a hanging stick of ice)."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "parts-of-speech"
+      ],
+      "question": "Arrange the words to show how the nest was built:",
+      "words": [
+        "woven",
+        "The",
+        "nest",
+        "was",
+        "beautifully"
+      ],
+      "answer": [
+        "The",
+        "nest",
+        "was",
+        "beautifully",
+        "woven"
+      ],
+      "explanation": "Correct sentence: 'The nest was beautifully woven.' Here, 'woven' is used as an adjective."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In 'speckled eggs,' what part of speech is 'speckled'?",
+      "options": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb"
+      ],
+      "answer": 2,
+      "explanation": "'Speckled' is an adjective because it describes the noun 'eggs' (what kind of eggs they are)."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "If you are not walking barefoot, you are wearing _______.",
+      "answer": "shoes",
+      "acceptedAnswers": [
+        "shoes",
+        "Shoes"
+      ],
+      "hint": "Common items worn on feet.",
+      "explanation": "The opposite of walking barefoot (unshod) is walking with shoes on."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "sentence",
+        "seasons"
+      ],
+      "question": "Arrange the words to list the seasons:",
+      "words": [
+        "and",
+        "autumn",
+        "are",
+        "Spring",
+        "summer",
+        "seasons",
+        "winter"
+      ],
+      "answer": [
+        "Spring",
+        "summer",
+        "autumn",
+        "and",
+        "winter",
+        "are",
+        "seasons"
+      ],
+      "explanation": "Correct sentence: 'Spring summer autumn and winter are seasons.' (Wait! 'Spring, summer, autumn, and winter' list. Without commas: 'Spring summer autumn and winter are seasons')."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "The word 'lilac' can be both a noun (the flower) and an adjective (the light purple color).",
+      "answer": true,
+      "explanation": "True. 'Lilac' is the name of the purple spring flower (noun) and also describes things of that purple color (adjective)."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "Which word family includes the word 'spring'?",
+      "options": [
+        "spring, springy, springs",
+        "springing, spring-clean",
+        "sprung, sprang",
+        "all of the above"
+      ],
+      "answer": 3,
+      "explanation": "All of these words share the root 'spring' and belong to its word family as different forms or derivatives."
+    }
+  ]
+}

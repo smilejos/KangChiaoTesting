@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "vocab_season_around_the_world",
+    "version": "1.0",
+    "title": "Seasons Around the World — Vocabulary Set 1",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Vocabulary practice using all 16 target words from Weeks 13 and 14.",
+    "guid": "f5431976-ece2-46d3-a2c2-196fd42b74fa"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Which of these words describes the freezing cold continent at the South Pole?",
+      "options": [
+        "equator",
+        "North Pole",
+        "Antarctica",
+        "Mexico"
+      ],
+      "answer": 2,
+      "explanation": "Antarctica is the continent at the South Pole, known as the coldest place on Earth."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "To 'hibernate' means to go into a deep sleep through the winter to save energy.",
+      "answer": true,
+      "explanation": "True. Hibernation is a deep winter sleep that some animals do to survive the cold."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "Which word is the opposite of 'Northern'?",
+      "options": [
+        "Southern",
+        "dark",
+        "dry",
+        "appear"
+      ],
+      "answer": 0,
+      "explanation": "Southern (pointing south) is the opposite of Northern (pointing north)."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "The word 'dry' describes weather that has a lot of rain.",
+      "answer": false,
+      "explanation": "False. 'Dry' means not wet, with little or no rain."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "geography"
+      ],
+      "question": "Which word refers to the imaginary line around the middle of the Earth?",
+      "options": [
+        "North Pole",
+        "Antarctica",
+        "equator",
+        "weather"
+      ],
+      "answer": 2,
+      "explanation": "The equator is the imaginary circle around Earth that is exactly halfway between the North and South Poles."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "In fall, some animals _______ food in a secret place to eat during winter.",
+      "answer": "store",
+      "acceptedAnswers": [
+        "store",
+        "Store"
+      ],
+      "hint": "To collect and save for later.",
+      "explanation": "To 'store' means to keep or save something for later use, like storing acorns."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "What does the verb 'appear' mean?",
+      "options": [
+        "To stop living",
+        "To become visible or come into sight",
+        "To sleep all winter",
+        "To fall down to the ground"
+      ],
+      "answer": 1,
+      "explanation": "To 'appear' means to come into sight, like leaves appearing on the trees in spring."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words from Weeks 13 and 14 into Nouns or Adjectives:",
+      "items": [
+        "rain",
+        "sunlight",
+        "dark",
+        "dry",
+        "coldest"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "rain",
+            "sunlight"
+          ]
+        },
+        {
+          "label": "Adjectives",
+          "answers": [
+            "dark",
+            "dry",
+            "coldest"
+          ]
+        }
+      ],
+      "explanation": "'Rain' and 'sunlight' are things (nouns). 'Dark,' 'dry,' and 'coldest' describe things (adjectives)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "geography"
+      ],
+      "question": "The 'North Pole' is the point farthest south on Earth.",
+      "answer": false,
+      "explanation": "False. The North Pole is the point farthest north on Earth. The South Pole is farthest south."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "nouns"
+      ],
+      "question": "Arrange the words to show what plants need:",
+      "words": [
+        "sunlight",
+        "Plants",
+        "need",
+        "to",
+        "grow"
+      ],
+      "answer": [
+        "Plants",
+        "need",
+        "sunlight",
+        "to",
+        "grow"
+      ],
+      "explanation": "Correct sentence: 'Plants need sunlight to grow.' Sunlight helps them make food."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Which of these is water falling in drops from clouds in the sky?",
+      "options": [
+        "snow",
+        "rain",
+        "sunlight",
+        "weather"
+      ],
+      "answer": 1,
+      "explanation": "Rain is liquid water that falls from the clouds. Snow is frozen."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "In winter, some plants stop growing and some _______.",
+      "answer": "die",
+      "acceptedAnswers": [
+        "die",
+        "Die"
+      ],
+      "hint": "To stop living.",
+      "explanation": "When plants cannot get enough water or warmth, they die (stop living)."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "adjectives"
+      ],
+      "question": "Arrange the words to describe Antarctica:",
+      "words": [
+        "is",
+        "Antarctica",
+        "coldest",
+        "place",
+        "the",
+        "on",
+        "Earth"
+      ],
+      "answer": [
+        "Antarctica",
+        "is",
+        "the",
+        "coldest",
+        "place",
+        "on",
+        "Earth"
+      ],
+      "explanation": "Correct sentence: 'Antarctica is the coldest place on Earth.'"
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "The word 'weather' refers to what it is like outside, such as sunny, rainy, or snowy.",
+      "answer": true,
+      "explanation": "True. Weather describes the state of the atmosphere at a specific time and place."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "Which word describes the state of having little or no light?",
+      "options": [
+        "dry",
+        "dark",
+        "Southern",
+        "appear"
+      ],
+      "answer": 1,
+      "explanation": "When there is no light, we say it is 'dark,' like the winter days near the North Pole."
+    }
+  ]
+}

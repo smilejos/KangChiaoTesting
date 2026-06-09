@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "vocab_in_spring_set5",
+    "version": "1.0",
+    "title": "In Spring — Vocabulary Set 5",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Challenge quiz on word families, antonyms, synonyms, and parts of speech for 'In Spring'.",
+    "guid": "9dd3384a-7555-460f-a3c4-11feb0cd6ac2"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "Which of these is the opposite (antonym) of 'warmth'?",
+      "options": [
+        "heat",
+        "coldness",
+        "breeze",
+        "ground"
+      ],
+      "answer": 1,
+      "explanation": "'Coldness' is the opposite of 'warmth' (which is the feeling of heat)."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "'Breeze' is a noun, and 'breezy' is its adjective form.",
+      "answer": true,
+      "explanation": "True. 'Breeze' is the noun (a gentle wind), and 'breezy' describes a windy day (adjective)."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "Which word is a synonym for 'spy' in the sentence 'spy flowers hiding'?",
+      "options": [
+        "plant",
+        "hide",
+        "notice",
+        "cut"
+      ],
+      "answer": 2,
+      "explanation": "To 'spy' means to notice, see, or catch sight of something."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "The words 'link' and 'separate' are synonyms.",
+      "answer": false,
+      "explanation": "False. 'Link' (to connect) and 'separate' (to pull apart) are antonyms."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "Which word can act as both a noun (a hand movement) and a verb (to move your hand)?",
+      "options": [
+        "coat",
+        "wave",
+        "ground",
+        "baby"
+      ],
+      "answer": 1,
+      "explanation": "'Wave' can be the action (to wave good-bye) or the thing (a wave of hand or water)."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "word-forms"
+      ],
+      "question": "'Struggle' is a verb. Its form that describes currently making a difficult effort is _______.",
+      "answer": "struggling",
+      "acceptedAnswers": [
+        "struggling",
+        "Struggling"
+      ],
+      "hint": "Add -ing (remember to drop the silent 'e').",
+      "explanation": "The present participle of 'struggle' is 'struggling,' like fawns struggling to walk."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In the phrase 'young legs,' what part of speech is 'young'?",
+      "options": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb"
+      ],
+      "answer": 2,
+      "explanation": "'Young' is an adjective because it describes the noun 'legs' (what age they are)."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "Sort these words into Verbs (action words) or Nouns (naming words):",
+      "items": [
+        "blow",
+        "dart",
+        "breeze",
+        "coat",
+        "tadpole"
+      ],
+      "categories": [
+        {
+          "label": "Verbs",
+          "answers": [
+            "blow",
+            "dart"
+          ]
+        },
+        {
+          "label": "Nouns",
+          "answers": [
+            "breeze",
+            "coat",
+            "tadpole"
+          ]
+        }
+      ],
+      "explanation": "'Blow' and 'dart' describe actions (verbs). 'Breeze,' 'coat,' and 'tadpole' are names of things (nouns)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "The word 'groundless' (having no reason) belongs to the 'ground' word family.",
+      "answer": true,
+      "explanation": "True. 'Groundless' uses the suffix '-less' on the root word 'ground' (base/reason)."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "weather"
+      ],
+      "question": "Arrange the words to describe a breezy day:",
+      "words": [
+        "breezy",
+        "day",
+        "The",
+        "was",
+        "very"
+      ],
+      "answer": [
+        "The",
+        "day",
+        "was",
+        "very",
+        "breezy"
+      ],
+      "explanation": "Correct sentence: 'The day was very breezy.' 'Breezy' is the adjective form of 'breeze.'"
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In the sentence 'Worms coil up,' what part of speech is 'coil'?",
+      "options": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb"
+      ],
+      "answer": 1,
+      "explanation": "Here, 'coil' is a verb describing the action of the worms winding their bodies."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "word-forms"
+      ],
+      "question": "The adjective form of the noun 'warmth' is _______.",
+      "answer": "warm",
+      "acceptedAnswers": [
+        "warm",
+        "Warm"
+      ],
+      "hint": "Opposite of cold.",
+      "explanation": "'Warm' describes the weather or feeling, while 'warmth' is the noun."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "vocabulary"
+      ],
+      "question": "Arrange the words to define a link:",
+      "words": [
+        "connects",
+        "A",
+        "link",
+        "things",
+        "together"
+      ],
+      "answer": [
+        "A",
+        "link",
+        "connects",
+        "things",
+        "together"
+      ],
+      "explanation": "Correct sentence: 'A link connects things together.' This is its function."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "The word 'baby' can act as both a noun (the baby chick) and an adjective describing something young (baby fawns).",
+      "answer": true,
+      "explanation": "True. 'Baby' is a noun when it stands alone, but in 'baby fawns' it acts as an adjective describing fawns."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "word-family"
+      ],
+      "question": "Which word family includes the word 'breeze'?",
+      "options": [
+        "breeze, breezes, breezy",
+        "breezeless, breezily",
+        "both of the above",
+        "none of the above"
+      ],
+      "answer": 2,
+      "explanation": "All of these words are formed from the base word 'breeze' and are part of the same word family."
+    }
+  ]
+}

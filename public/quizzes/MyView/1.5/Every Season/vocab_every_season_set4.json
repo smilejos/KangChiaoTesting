@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "vocab_every_season_set4",
+    "version": "1.0",
+    "title": "Every Season — Vocabulary Set 4",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Sentence completion quiz using all 16 target words from 'Every Season' in context.",
+    "guid": "5e248d8e-35e5-4000-ad9b-3565117fa432"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "My favorite _______ is spring because I love when the flowers start to grow.",
+      "options": [
+        "spring",
+        "season",
+        "summer",
+        "winter"
+      ],
+      "answer": 1,
+      "explanation": "A 'season' is one of the four times of the year. The sentence refers to spring as a favorite season."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "In summer, you can wear a straw hat to block the hot sun.",
+      "answer": true,
+      "explanation": "True. Straw hats are lightweight and have wide brims to keep you cool under the summer sun."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "In spring, grass grows _______ and speckled eggs fill nests.",
+      "options": [
+        "green",
+        "red",
+        "yellow",
+        "speckled"
+      ],
+      "answer": 0,
+      "explanation": "Grass grows green in spring when there is plenty of rain and sunlight."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "We wear winter ice skates and mittens in summer.",
+      "answer": false,
+      "explanation": "False. Skates and mittens are for cold winter weather, not hot summer days."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "We saw a small, lizard-like _______ slithering near the wet rocks.",
+      "options": [
+        "chipmunk",
+        "chickadee",
+        "salamander",
+        "duckling"
+      ],
+      "answer": 2,
+      "explanation": "A salamander is a damp-living amphibian that looks like a lizard and slithers under rocks."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Bright yellow _______ open up early in spring, followed by purple lilacs.",
+      "answer": "daffodils",
+      "acceptedAnswers": [
+        "daffodils",
+        "Daffodils"
+      ],
+      "hint": "A yellow spring flower.",
+      "explanation": "Daffodils are yellow trumpet-shaped flowers that bloom in early spring."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "The bird built a strong _______ nest out of grass and small twigs.",
+      "options": [
+        "barefoot",
+        "woven",
+        "speckled",
+        "spring"
+      ],
+      "answer": 1,
+      "explanation": "'Woven' describes how the nest is built by crossing pieces of grass and twigs over and under each other."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words into Spring words or Winter words:",
+      "items": [
+        "crocuses",
+        "daffodils",
+        "lilacs",
+        "winter",
+        "icicles"
+      ],
+      "categories": [
+        {
+          "label": "Spring Words",
+          "answers": [
+            "crocuses",
+            "daffodils",
+            "lilacs"
+          ]
+        },
+        {
+          "label": "Winter Words",
+          "answers": [
+            "winter",
+            "icicles"
+          ]
+        }
+      ],
+      "explanation": "Crocuses, daffodils, and lilacs are spring flowers. Winter is a season, and icicles are ice structures that form in winter."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "A 'speckled' egg is covered with spots.",
+      "answer": true,
+      "explanation": "True. 'Speckled' means marked with small spots, like a bird's egg."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "week11"
+      ],
+      "question": "Arrange the words to show how we walk on summer grass:",
+      "words": [
+        "We",
+        "go",
+        "barefoot",
+        "in",
+        "summer"
+      ],
+      "answer": [
+        "We",
+        "go",
+        "barefoot",
+        "in",
+        "summer"
+      ],
+      "explanation": "Correct sentence: 'We go barefoot in summer.' Walking barefoot on warm grass feels nice."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "In _______, leaves turn orange and fall as the cold wind whips.",
+      "options": [
+        "summer",
+        "autumn",
+        "spring",
+        "winter"
+      ],
+      "answer": 1,
+      "explanation": "Autumn (also called fall) is the season of falling leaves and cooler winds."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Early spring flowers called _______ pop up suddenly through the grass.",
+      "answer": "crocuses",
+      "acceptedAnswers": [
+        "crocuses",
+        "Crocuses"
+      ],
+      "hint": "Early-spring purple or yellow flowers (plural).",
+      "explanation": "Crocuses are small cup-shaped flowers that are among the first to appear in spring."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "sentence",
+        "week11"
+      ],
+      "question": "Arrange the words to describe what butterflies do:",
+      "words": [
+        "butterflies",
+        "In",
+        "summer",
+        "flutter",
+        "and",
+        "land"
+      ],
+      "answer": [
+        "In",
+        "summer",
+        "butterflies",
+        "flutter",
+        "and",
+        "land"
+      ],
+      "explanation": "Correct sentence: 'In summer butterflies flutter and land.' (Wait! Let's check the capitalization of the first word: 'In'. Yes, 'In summer butterflies flutter and land' matches the words)."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Red leaves fall from the maple tree in spring.",
+      "answer": false,
+      "explanation": "False. Leaves turn red and fall from the maple tree in autumn, not spring."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Which of these sentences is correct?",
+      "options": [
+        "Icicles melt in the freezing cold of winter.",
+        "Salamanders fly high in the autumn wind.",
+        "You can wear a straw hat in summer to stay cool.",
+        "Speckled nests are made of hard ice."
+      ],
+      "answer": 2,
+      "explanation": "You wear straw hats in summer to block the sun. Icicles grow (not melt) in winter. Salamanders crawl (not fly). Nests are woven of twigs (not ice)."
+    }
+  ]
+}

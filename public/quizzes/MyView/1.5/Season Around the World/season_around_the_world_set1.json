@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "season_around_the_world_set1",
+    "version": "1.0",
+    "title": "Seasons Around the World — Set 1",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Comprehension quiz for 'Seasons Around the World' — global seasonal differences.",
+    "guid": "7c33a907-055c-4125-a1ee-c0cef479c72b"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "winter"
+      ],
+      "question": "How are the days in winter compared to other seasons?",
+      "options": [
+        "They are longer than other seasons.",
+        "They are shorter than other seasons.",
+        "They are exactly the same.",
+        "They are hot and sunny."
+      ],
+      "answer": 1,
+      "explanation": "During winter, the days are shorter than they are during other seasons, meaning we have less daylight."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "seasons"
+      ],
+      "question": "In some parts of the world, there are only two seasons: a rainy season and a dry season.",
+      "answer": true,
+      "explanation": "True. Some tropical regions do not have four seasons; they only have wet (rainy) and dry seasons."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "seasons"
+      ],
+      "question": "When it is winter in the northern part of the world, what season is it in the southern part?",
+      "options": [
+        "winter",
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "answer": 2,
+      "explanation": "The northern and southern halves of the Earth have opposite seasons. When the north has winter, the south has summer."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "winter"
+      ],
+      "question": "Near the North Pole, the sun shines bright all day during winter.",
+      "answer": false,
+      "explanation": "False. Near the North Pole, the sun never shines in winter, making it dark all day."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "summer"
+      ],
+      "question": "What helps plants grow in the summer?",
+      "options": [
+        "cold wind",
+        "falling leaves",
+        "sunlight",
+        "heavy snow"
+      ],
+      "answer": 2,
+      "explanation": "The text states: 'The sunlight helps plants grow in the summer.'"
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "geography"
+      ],
+      "question": "The seasons do not change much near the _______, which is the imaginary middle line of Earth.",
+      "answer": "equator",
+      "acceptedAnswers": [
+        "equator",
+        "Equator"
+      ],
+      "hint": "The warm line around the middle of the Earth.",
+      "explanation": "Seasons near the equator stay very similar all year long. Spring is like all other seasons there."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "summer"
+      ],
+      "question": "In summer, the sun never sets in which coldest place on Earth?",
+      "options": [
+        "North Pole",
+        "Mexico",
+        "United States",
+        "Antarctica"
+      ],
+      "answer": 3,
+      "explanation": "The text says: 'In summer, the sun never sets in Antarctica!' It stays light all day and night."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these facts from the story into Winter facts or Summer facts:",
+      "items": [
+        "Days are shorter",
+        "The sun never sets in Antarctica",
+        "Most plants stop growing",
+        "Some animals hibernate",
+        "People spend time in the sun"
+      ],
+      "categories": [
+        {
+          "label": "Winter Facts",
+          "answers": [
+            "Days are shorter",
+            "Most plants stop growing",
+            "Some animals hibernate"
+          ]
+        },
+        {
+          "label": "Summer Facts",
+          "answers": [
+            "The sun never sets in Antarctica",
+            "People spend time in the sun"
+          ]
+        }
+      ],
+      "explanation": "Wintry days have short daylight, plant sleep, and animal hibernation. Summer has non-setting sun in Antarctica and people playing outside."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "fall"
+      ],
+      "question": "Some butterflies travel from the United States to Mexico in the fall to stay warm in winter.",
+      "answer": true,
+      "explanation": "True. The text says butterflies travel to Mexico in the fall so they can stay warm."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "spring"
+      ],
+      "question": "Arrange the words to show when spring comes:",
+      "words": [
+        "comes",
+        "Spring",
+        "after",
+        "winter"
+      ],
+      "answer": [
+        "Spring",
+        "comes",
+        "after",
+        "winter"
+      ],
+      "explanation": "Correct sentence: 'Spring comes after winter.' This is the order of the seasons."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "fall"
+      ],
+      "question": "What happens to leaves on some trees during fall?",
+      "options": [
+        "They turn green and grow buds.",
+        "They change colors and drop to the ground.",
+        "They grow thick coats of fur.",
+        "They disappear in the snow."
+      ],
+      "answer": 1,
+      "explanation": "The text states: 'The leaves on some trees change colors and drop to the ground' during fall."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "spring"
+      ],
+      "question": "In spring, baby animals are _______.",
+      "answer": "born",
+      "acceptedAnswers": [
+        "born",
+        "Born"
+      ],
+      "hint": "Brought to life.",
+      "explanation": "The text says: 'In many places, baby animals are born' in spring."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "summer"
+      ],
+      "question": "Arrange the words to describe Antarctica in summer:",
+      "words": [
+        "never",
+        "sets",
+        "summer",
+        "sun",
+        "Antarctica",
+        "in",
+        "the",
+        "In"
+      ],
+      "answer": [
+        "In",
+        "summer",
+        "the",
+        "sun",
+        "never",
+        "sets",
+        "in",
+        "Antarctica"
+      ],
+      "explanation": "Correct sentence: 'In summer the sun never sets in Antarctica.' This is due to Earth's tilt."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "geography"
+      ],
+      "question": "Near the equator, spring is very different from winter and summer.",
+      "answer": false,
+      "explanation": "False. Near the equator, seasons don't change much. Spring is like all the other seasons."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "comprehension",
+        "fall"
+      ],
+      "question": "How do animals prepare for winter in the fall?",
+      "options": [
+        "They go swimming to stay cool.",
+        "They eat a lot and some store food.",
+        "They fly to the North Pole.",
+        "They stop growing and some die."
+      ],
+      "answer": 1,
+      "explanation": "In fall, animals get ready for winter by eating a lot and storing food so they have enough during the cold months."
+    }
+  ]
+}

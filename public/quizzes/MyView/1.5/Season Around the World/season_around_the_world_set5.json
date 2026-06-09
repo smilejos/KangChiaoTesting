@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "season_around_the_world_set5",
+    "version": "1.0",
+    "title": "Seasons Around the World — Set 5",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Challenge quiz for 'Seasons Around the World' — inference, geography, and comparison.",
+    "guid": "9f586bb0-b905-4ee1-8d4b-9958310b455b"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "geography"
+      ],
+      "question": "Why is it dark all day in winter near the North Pole?",
+      "options": [
+        "Because there are too many storm clouds blocking the sun.",
+        "Because the Earth is tilted away from the sun, blocking its light.",
+        "Because the sun travels to the equator and stays there.",
+        "Because animals eat all the food under the ground."
+      ],
+      "answer": 1,
+      "explanation": "Because of Earth's tilt, the North Pole points completely away from the sun in winter, so it receives no sunlight at all."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "geography"
+      ],
+      "question": "When it is winter in the northern part of the world (like Taiwan), it is summer in the southern part (like Australia).",
+      "answer": true,
+      "explanation": "True. The two halves of the Earth always have opposite seasons because of how Earth tilts as it orbits the sun."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "geography"
+      ],
+      "question": "Why does Antarctica never get warm, even in summer when the sun never sets?",
+      "options": [
+        "Because the sun's rays hit it at a low angle, spreading out the heat.",
+        "Because the land is covered in dry sand.",
+        "Because it is located right on the equator.",
+        "Because the summer days are too short."
+      ],
+      "answer": 0,
+      "explanation": "At the poles, the sun is always low in the sky, so the sunlight is weak and spread out, keeping the temperature freezing."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "geography"
+      ],
+      "question": "Near the equator, people experience four distinct seasons: spring, summer, autumn, and winter.",
+      "answer": false,
+      "explanation": "False. Near the equator, the weather stays hot all year, so they only have wet and dry seasons, not four seasons."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "migration"
+      ],
+      "question": "Why do some butterflies travel from the United States to Mexico in the fall?",
+      "options": [
+        "To lay eggs on red oak trees.",
+        "To find a warmer climate so they can survive the winter.",
+        "Because Mexico is the coldest place on Earth.",
+        "To hibernate in deep caves."
+      ],
+      "answer": 1,
+      "explanation": "Butterflies are insects that cannot survive freezing temperatures, so they migrate to warmer Mexico for the winter."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "geography"
+      ],
+      "question": "When it is winter in the northern part of the world, it is summer in the _______ part.",
+      "answer": "southern",
+      "acceptedAnswers": [
+        "southern",
+        "Southern"
+      ],
+      "hint": "The half of the Earth opposite of northern.",
+      "explanation": "The Earth has two halves: the northern hemisphere and the southern hemisphere. They have opposite seasons."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "nature"
+      ],
+      "question": "In fall, some trees drop their leaves. What does this help the trees do?",
+      "options": [
+        "It helps them grow fruit.",
+        "It helps them save water and survive the cold winter.",
+        "It makes them grow new leaves immediately.",
+        "It keeps birds from building nests."
+      ],
+      "answer": 1,
+      "explanation": "Without leaves, trees do not lose as much water, which helps them survive during winter when water is frozen as ice."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "sorting"
+      ],
+      "question": "Sort these features based on whether they describe the North Pole or the Equator in winter:",
+      "items": [
+        "Dark all day",
+        "Seasons do not change",
+        "Sun never shines",
+        "Spring is like other seasons"
+      ],
+      "categories": [
+        {
+          "label": "North Pole Winter Features",
+          "answers": [
+            "Dark all day",
+            "Sun never shines"
+          ]
+        },
+        {
+          "label": "Equator Winter Features",
+          "answers": [
+            "Seasons do not change",
+            "Spring is like other seasons"
+          ]
+        }
+      ],
+      "explanation": "The North Pole in winter is completely dark with no sun. The equator has constant weather where seasons do not change."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "animals"
+      ],
+      "question": "Some animals hibernate in winter to sleep through the months when food is hard to find.",
+      "answer": true,
+      "explanation": "True. Hibernation is a way for animals to save energy and survive when there is very little food in winter."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "geography"
+      ],
+      "question": "Arrange the words to describe the sun in Antarctica:",
+      "words": [
+        "sets",
+        "Antarctica",
+        "sun",
+        "never",
+        "The",
+        "in"
+      ],
+      "answer": [
+        "The",
+        "sun",
+        "never",
+        "sets",
+        "in",
+        "Antarctica"
+      ],
+      "explanation": "Correct sentence: 'The sun never sets in Antarctica.' This happens during their summer."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "animals"
+      ],
+      "question": "Why do animals eat a lot in the fall?",
+      "options": [
+        "Because they are growing taller.",
+        "To store fat and stay warm during winter when food is scarce.",
+        "Because they only like fall foods.",
+        "Because the rain makes them hungry."
+      ],
+      "answer": 1,
+      "explanation": "Eating a lot in fall helps animals build up body fat, which keeps them warm and provides energy when food is hard to find in winter."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "geography"
+      ],
+      "question": "The coldest place on Earth is _______, where the sun never sets in summer.",
+      "answer": "Antarctica",
+      "acceptedAnswers": [
+        "Antarctica",
+        "antarctica"
+      ],
+      "hint": "The icy southern continent at the South Pole.",
+      "explanation": "Antarctica is the coldest place on Earth. Even in summer, it never gets warm."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "geography"
+      ],
+      "question": "Arrange the words to describe the seasons near the equator:",
+      "words": [
+        "equator",
+        "near",
+        "change",
+        "don't",
+        "much",
+        "Seasons",
+        "the"
+      ],
+      "answer": [
+        "Seasons",
+        "don't",
+        "change",
+        "much",
+        "near",
+        "the",
+        "equator"
+      ],
+      "explanation": "Correct sentence: 'Seasons don't change much near the equator.' The temperature stays hot."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "nature"
+      ],
+      "question": "Plants stop growing or die in winter because there is less sunlight and liquid water is frozen.",
+      "answer": true,
+      "explanation": "True. Plants need liquid water and sunlight to grow. In winter, water turns to ice and the days are shorter, so growth stops."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "inference",
+        "geography"
+      ],
+      "question": "How is spring near the equator different from spring in the northern part of the world?",
+      "options": [
+        "It is much colder than summer near the equator.",
+        "It is very snowy like winter at the equator.",
+        "It has leaves changing colors and dropping.",
+        "It has no major weather change and is like all other seasons."
+      ],
+      "answer": 3,
+      "explanation": "In the north, spring brings warmth, rain, and new leaves. Near the equator, there is very little temperature change, so spring is like other seasons."
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "id": "vocab_every_season",
+    "version": "1.0",
+    "title": "Every Season — Vocabulary Set 1",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Vocabulary practice for 'Every Season' — all 16 target words from Weeks 10 and 11.",
+    "guid": "d85195eb-bb38-49e5-8a38-c71ceeea07e9"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "seasons"
+      ],
+      "question": "Which of these words is a season between summer and winter?",
+      "options": [
+        "crocus",
+        "autumn",
+        "icicle",
+        "speckled"
+      ],
+      "answer": 1,
+      "explanation": "Autumn (also called fall) is the season that comes between summer and winter."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "seasons"
+      ],
+      "question": "Spring is the season that comes after winter, when flowers start to bloom.",
+      "answer": true,
+      "explanation": "Yes! Spring is the warm season that follows winter."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Which word refers to a tree with leaves that turn bright red and orange in fall?",
+      "options": [
+        "lilac",
+        "crocus",
+        "maple",
+        "daffodil"
+      ],
+      "answer": 2,
+      "explanation": "A maple is a kind of tree known for its beautiful orange and red leaves in autumn."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "adverbs"
+      ],
+      "question": "Walking 'barefoot' means wearing shoes but no socks.",
+      "answer": false,
+      "explanation": "False. Walking 'barefoot' means wearing absolutely nothing on your feet — no shoes and no socks."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "Which word describes something covered with small spots?",
+      "options": [
+        "woven",
+        "speckled",
+        "barefoot",
+        "spring"
+      ],
+      "answer": 1,
+      "explanation": "'Speckled' means covered with small spots, like a speckled bird's egg."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Early in spring, purple or white flowers called _______ spread their sweet smell.",
+      "answer": "lilacs",
+      "acceptedAnswers": [
+        "lilacs",
+        "Lilacs"
+      ],
+      "hint": "A fragrant spring flower that grows on bushes.",
+      "explanation": "Lilacs are purple or white sweet-smelling flowers that bloom in late spring."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "What does the verb 'flutter' mean?",
+      "options": [
+        "To run with short steps",
+        "To move wings quickly and lightly",
+        "To sleep all through winter",
+        "To freeze into ice"
+      ],
+      "answer": 1,
+      "explanation": "To 'flutter' means to fly or flap wings quickly and lightly, like a butterfly or a small bird."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words from Weeks 10 and 11 into Nouns or Adjectives/Adverbs:",
+      "items": [
+        "summer",
+        "winter",
+        "speckled",
+        "woven",
+        "barefoot"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "summer",
+            "winter"
+          ]
+        },
+        {
+          "label": "Adjectives or Adverbs",
+          "answers": [
+            "speckled",
+            "woven",
+            "barefoot"
+          ]
+        }
+      ],
+      "explanation": "'Summer' and 'winter' are seasons (nouns). 'Speckled' and 'woven' are adjectives, and 'barefoot' can be used as an adjective or adverb."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Salamanders are small striped animals that look like squirrels and store acorns.",
+      "answer": false,
+      "explanation": "False. Salamanders are lizard-like amphibians that live in damp places. Chipmunks are squirrel-like animals that store acorns."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "seasons"
+      ],
+      "question": "Arrange the words to define summer:",
+      "words": [
+        "summer",
+        "Summer",
+        "is",
+        "hottest",
+        "season",
+        "the"
+      ],
+      "answer": [
+        "Summer",
+        "is",
+        "the",
+        "hottest",
+        "season"
+      ],
+      "explanation": "Correct sentence: 'Summer is the hottest season.' It is the warmest of the four seasons."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Which of these is a small, early-spring flower that 'pops' up first?",
+      "options": [
+        "salamander",
+        "icicle",
+        "crocus",
+        "maple"
+      ],
+      "answer": 2,
+      "explanation": "A crocus is a small early-spring flower that often pops up through the grass or snow."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "When it is freezing outside, long pointed pieces of ice called _______ hang from the roof.",
+      "answer": "icicles",
+      "acceptedAnswers": [
+        "icicles",
+        "Icicles"
+      ],
+      "hint": "Ice sticks that hang down from roofs.",
+      "explanation": "Icicles form when melting snow drips down and freezes again in the cold air."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "sentence",
+        "nouns"
+      ],
+      "question": "Arrange the words to describe a summer hat:",
+      "words": [
+        "We",
+        "wear",
+        "hats",
+        "straw",
+        "in",
+        "summer"
+      ],
+      "answer": [
+        "We",
+        "wear",
+        "straw",
+        "hats",
+        "in",
+        "summer"
+      ],
+      "explanation": "Correct sentence: 'We wear straw hats in summer.' Straw hats keep our heads cool under the hot sun."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "'Woven' describes something made by weaving threads, grass, or twigs together.",
+      "answer": true,
+      "explanation": "True. 'Woven' is the past participle of 'weave,' describing something like a bird's nest or a basket."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "seasons"
+      ],
+      "question": "Which word describes the season when days are shortest and it snows in many places?",
+      "options": [
+        "summer",
+        "spring",
+        "autumn",
+        "winter"
+      ],
+      "answer": 3,
+      "explanation": "Winter is the coldest season, having the shortest days and bringing snowflakes and icicles."
+    }
+  ]
+}

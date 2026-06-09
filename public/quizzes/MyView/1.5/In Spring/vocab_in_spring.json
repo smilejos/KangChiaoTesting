@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "vocab_in_spring",
+    "version": "1.0",
+    "title": "In Spring — Vocabulary Set 1",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Vocabulary practice using all 16 target words from 'In Spring'.",
+    "guid": "c3e0d553-4180-4a43-ab6c-e5cc0c51d1bf"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Which of these words refers to a gentle wind?",
+      "options": [
+        "fawn",
+        "warmth",
+        "breeze",
+        "tadpole"
+      ],
+      "answer": 2,
+      "explanation": "A 'breeze' is a light, gentle wind that blows softly."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "A 'fawn' is a baby deer.",
+      "answer": true,
+      "explanation": "True. A fawn is the correct name for a baby deer."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "What is a 'coat'?",
+      "options": [
+        "A small forest",
+        "A small pool of water on the ground",
+        "An outer garment with sleeves worn to keep warm",
+        "A baby frog swimming in water"
+      ],
+      "answer": 2,
+      "explanation": "A coat is an outer piece of clothing worn to stay warm during chilly days."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "The word 'warmth' means the state of being cold.",
+      "answer": false,
+      "explanation": "False. 'Warmth' is the state of being warm, like warmth from the sun."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "What are 'woods'?",
+      "options": [
+        "sandy beaches",
+        "small forest areas with trees",
+        "deep oceans",
+        "dry deserts"
+      ],
+      "answer": 1,
+      "explanation": "'Woods' refers to an area of land covered with trees; a forest."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "After it rains, children like to wear boots and splash through _______.",
+      "answer": "puddles",
+      "acceptedAnswers": [
+        "puddles",
+        "Puddles"
+      ],
+      "hint": "Small pools of water on the ground.",
+      "explanation": "Puddles are small pools of liquid, usually rainwater, that gather on the ground."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "What does the verb 'link' mean?",
+      "options": [
+        "To separate two things completely",
+        "To connect or join two things together",
+        "To freeze into ice",
+        "To sleep through winter"
+      ],
+      "answer": 1,
+      "explanation": "To 'link' means to connect or join things together, like spring linking winter and summer."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words into Nouns (naming words) or Verbs (action words):",
+      "items": [
+        "fawn",
+        "tadpole",
+        "dart",
+        "spy",
+        "coil"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "fawn",
+            "tadpole"
+          ]
+        },
+        {
+          "label": "Verbs",
+          "answers": [
+            "dart",
+            "spy",
+            "coil"
+          ]
+        }
+      ],
+      "explanation": "'Fawn' and 'tadpole' are names of baby animals (nouns). 'Dart,' 'spy,' and 'coil' are verbs."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "A 'tadpole' is a baby frog that swims in the pond before growing legs.",
+      "answer": true,
+      "explanation": "True. Tadpoles hatch from frog eggs and swim in water before turning into frogs."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "nouns"
+      ],
+      "question": "Arrange the words to describe the wet ground:",
+      "words": [
+        "ground",
+        "The",
+        "wet",
+        "is",
+        "very"
+      ],
+      "answer": [
+        "The",
+        "ground",
+        "is",
+        "very",
+        "wet"
+      ],
+      "explanation": "Correct sentence: 'The ground is very wet.' This happens after spring rain."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Which word means a small sign or clue about something?",
+      "options": [
+        "wave",
+        "hint",
+        "coat",
+        "baby"
+      ],
+      "answer": 1,
+      "explanation": "A 'hint' is a slight sign, suggestion, or clue, like a breeze blowing hints of hotter days."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "Squirrels run quickly and suddenly. They _______ around trees.",
+      "answer": "dart",
+      "acceptedAnswers": [
+        "dart",
+        "Dart"
+      ],
+      "hint": "Run or move fast.",
+      "explanation": "To 'dart' means to move suddenly and quickly."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "verbs"
+      ],
+      "question": "Arrange the words to show what we do when leaving:",
+      "words": [
+        "good-bye",
+        "We",
+        "wave",
+        "friends",
+        "to",
+        "our"
+      ],
+      "answer": [
+        "We",
+        "wave",
+        "good-bye",
+        "to",
+        "our",
+        "friends"
+      ],
+      "explanation": "Correct sentence: 'We wave good-bye to our friends.' Waving is a hand gesture."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "To 'spy' means to try very hard to do something difficult, like walking on weak legs.",
+      "answer": false,
+      "explanation": "False. To 'spy' means to notice or see. To 'struggle' is to try hard with difficulty."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "Which of these words means to try very hard with difficulty?",
+      "options": [
+        "dart",
+        "struggle",
+        "link",
+        "wave"
+      ],
+      "answer": 1,
+      "explanation": "To 'struggle' means to make a great effort to do something that is hard or challenging."
+    }
+  ]
+}

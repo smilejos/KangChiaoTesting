@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "id": "in_spring_set1",
+    "version": "1.0",
+    "title": "In Spring — Set 1",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Comprehension quiz for 'In Spring' — understanding the author's opinion and main arguments.",
+    "guid": "b664d834-4031-4c6d-bf05-40a203e2d70f"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "opinion"
+      ],
+      "question": "Why does the author think spring is the best season?",
+      "options": [
+        "Because it is freezing cold.",
+        "Because there are so many reasons to like it.",
+        "Because we can eat ice cream.",
+        "Because the leaves turn red."
+      ],
+      "answer": 1,
+      "explanation": "The author asks, 'Why is spring the best season? There are so many reasons. Just ask me!'"
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "weather"
+      ],
+      "question": "In spring, the days get warmer and longer.",
+      "answer": true,
+      "explanation": "True. The text tells us: 'In spring, days get warmer' and 'In spring, days get longer.'"
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "activities"
+      ],
+      "question": "What can you do after dinner in spring without a coat?",
+      "options": [
+        "build a snowman",
+        "run outside",
+        "eat pumpkins",
+        "hibernate in a cave"
+      ],
+      "answer": 1,
+      "explanation": "The text says: 'You can run outside after dinner without a coat' because the days are longer and warmer."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "plants"
+      ],
+      "question": "In spring, plants stop growing and trees lose all their leaves.",
+      "answer": false,
+      "explanation": "False. In spring, 'plants start growing again' after the cold winter."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "nature"
+      ],
+      "question": "Where can you walk in spring to spy flowers hiding?",
+      "options": [
+        "in the city",
+        "in the woods",
+        "on the beach",
+        "in a secret spot"
+      ],
+      "answer": 1,
+      "explanation": "The text states: 'You can walk in the woods and spy flowers hiding behind trees.'"
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "nature"
+      ],
+      "question": "In spring, you can see _______ coil up from underneath the wet ground.",
+      "answer": "worms",
+      "acceptedAnswers": [
+        "worms",
+        "Worms"
+      ],
+      "hint": "Long, thin, legless animals that live in soil.",
+      "explanation": "The text says: 'You can see worms coil up from underneath the wet ground.'"
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "activities"
+      ],
+      "question": "What can you wear to splash through puddles in spring?",
+      "options": [
+        "straw hats",
+        "jackets and hoods",
+        "boots",
+        "mittens and skates"
+      ],
+      "answer": 2,
+      "explanation": "The text says: 'You can wear boots and splash through puddles' when the ground is wet."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these spring animals based on where they are seen in the story:",
+      "items": [
+        "fawns",
+        "squirrels",
+        "tadpoles",
+        "worms"
+      ],
+      "categories": [
+        {
+          "label": "Seen on Land/Woods/Ground",
+          "answers": [
+            "fawns",
+            "squirrels",
+            "worms"
+          ]
+        },
+        {
+          "label": "Seen in Pond Water",
+          "answers": [
+            "tadpoles"
+          ]
+        }
+      ],
+      "explanation": "Squirrels dart around, fawns walk in the woods/land, and worms coil up from the ground. Tadpoles swim in the pond's melting ice."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "animals"
+      ],
+      "question": "You can see fawns struggling to walk on their young legs in spring.",
+      "answer": true,
+      "explanation": "True. The text says: 'You can see fawns struggling to walk on their young legs.'"
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "opinion"
+      ],
+      "question": "Arrange the words to state the author's main opinion:",
+      "words": [
+        "best",
+        "Spring",
+        "is",
+        "season",
+        "the"
+      ],
+      "answer": [
+        "Spring",
+        "is",
+        "the",
+        "best",
+        "season"
+      ],
+      "explanation": "Correct sentence: 'Spring is the best season.' This is what the author wants us to think."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "seasons"
+      ],
+      "question": "What does spring link together?",
+      "options": [
+        "winter and fall",
+        "the cold of winter with the heat of summer",
+        "spring and summer",
+        "day and night"
+      ],
+      "answer": 1,
+      "explanation": "The text says: 'It links the cold of winter with the heat of summer.'"
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "seasons"
+      ],
+      "question": "Spring waves _______ to winter and welcomes summer.",
+      "answer": "good-bye",
+      "acceptedAnswers": [
+        "good-bye",
+        "goodbye",
+        "Good-bye",
+        "Goodbye"
+      ],
+      "hint": "What you say when you leave.",
+      "explanation": "The text says: 'It waves good-bye to one season and welcomes another.'"
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "weather"
+      ],
+      "question": "Arrange the words to describe the breezes of spring:",
+      "words": [
+        "feel",
+        "breezes",
+        "blow",
+        "can",
+        "You",
+        "days",
+        "hotter",
+        "of",
+        "hints"
+      ],
+      "answer": [
+        "You",
+        "can",
+        "feel",
+        "breezes",
+        "blow",
+        "hints",
+        "of",
+        "hotter",
+        "days"
+      ],
+      "explanation": "Correct sentence: 'You can feel breezes blow hints of hotter days.'"
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "pond"
+      ],
+      "question": "In spring, you can see tadpoles swimming underneath the pond's melting ice.",
+      "answer": true,
+      "explanation": "True. The text says: 'You can see tadpoles swimming beneath the pond's melting ice.'"
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "comprehension",
+        "seasons"
+      ],
+      "question": "How does spring act as a connection between seasons?",
+      "options": [
+        "It makes all seasons very dry.",
+        "It waves good-bye to winter and welcomes summer.",
+        "It stops plants from growing so winter stays.",
+        "It brings icicles to the hot summer."
+      ],
+      "answer": 1,
+      "explanation": "Spring links the seasons because it comes right after winter (waves good-bye to the cold) and right before summer (welcomes the heat)."
+    }
+  ]
+}

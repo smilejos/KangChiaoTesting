@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "generated": "2026-04-06T03:36:19.312Z",
+  "generated": "2026-06-09T12:25:33.258Z",
   "books": [
     {
       "id": "MyGrammar",
@@ -1308,6 +1308,570 @@
                   ],
                   "difficulty": 3,
                   "file": "MyView/1.2/Thumbs Up for Art and Music/vocab_art_music_set5.json",
+                  "questionCount": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MyView/1.5",
+          "name": "1.5",
+          "units": [
+            {
+              "id": "MyView/1.5/Every Season",
+              "name": "Every Season",
+              "quizzes": [
+                {
+                  "id": "every_season_set1",
+                  "guid": "ec2af232-30a3-465f-a05a-fa5ed374df8a",
+                  "title": "Every Season — Set 1",
+                  "subtitle": "Comprehension quiz for 'Every Season' — understanding key seasonal events.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "every-season",
+                    "comprehension",
+                    "spring",
+                    "winter",
+                    "summer"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Every Season/every_season_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "every_season_set2",
+                  "guid": "3fc8cef1-bc8c-4563-93a9-5e9493a1c9dc",
+                  "title": "Every Season — Set 2",
+                  "subtitle": "Vocabulary quiz for 'Every Season' — word meanings in story context.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "every-season",
+                    "vocabulary",
+                    "adjectives",
+                    "adverbs",
+                    "nouns"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Every Season/every_season_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "every_season_set3",
+                  "guid": "e08b1a4c-c03f-490c-9353-170327bf627d",
+                  "title": "Every Season — Set 3",
+                  "subtitle": "Details and sequencing quiz for 'Every Season'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "every-season",
+                    "details",
+                    "spring",
+                    "summer",
+                    "sequencing"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Every Season/every_season_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "every_season_set4",
+                  "guid": "72c6409b-b22c-401e-b539-b0702d268116",
+                  "title": "Every Season — Set 4",
+                  "subtitle": "Sentence practice and fill-in-the-blank quiz for 'Every Season'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "every-season",
+                    "sentence",
+                    "summer",
+                    "autumn",
+                    "spring"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Every Season/every_season_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "every_season_set5",
+                  "guid": "f287e7da-6fc7-4cb4-9982-871b77a7da6e",
+                  "title": "Every Season — Set 5",
+                  "subtitle": "Challenge quiz for 'Every Season' — inference, theme, and comparisons.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "every-season",
+                    "inference",
+                    "autumn",
+                    "winter",
+                    "spring"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Every Season/every_season_set5.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_every_season",
+                  "guid": "d85195eb-bb38-49e5-8a38-c71ceeea07e9",
+                  "title": "Every Season — Vocabulary Set 1",
+                  "subtitle": "Vocabulary practice for 'Every Season' — all 16 target words from Weeks 10 and 11.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "every-season",
+                    "vocabulary",
+                    "seasons",
+                    "nouns",
+                    "adverbs"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Every Season/vocab_every_season.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_every_season_set2",
+                  "guid": "d403d201-f4f9-4062-a9b5-01562d93194f",
+                  "title": "Every Season — Vocabulary Set 2",
+                  "subtitle": "Vocabulary practice focusing on Week 10 words: season, spring, speckled, woven, crocuses, daffodils, lilacs, salamanders.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "every-season",
+                    "vocabulary",
+                    "week10",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Every Season/vocab_every_season_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_every_season_set3",
+                  "guid": "bec86950-4ee7-4511-ab8b-b77fa610c596",
+                  "title": "Every Season — Vocabulary Set 3",
+                  "subtitle": "Vocabulary practice focusing on Week 11 words: summer, straw, barefoot, flutter, autumn, maple, winter, icicles.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "every-season",
+                    "vocabulary",
+                    "week11",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Every Season/vocab_every_season_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_every_season_set4",
+                  "guid": "5e248d8e-35e5-4000-ad9b-3565117fa432",
+                  "title": "Every Season — Vocabulary Set 4",
+                  "subtitle": "Sentence completion quiz using all 16 target words from 'Every Season' in context.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "every-season",
+                    "vocabulary",
+                    "sentence",
+                    "sorting",
+                    "week11"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Every Season/vocab_every_season_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_every_season_set5",
+                  "guid": "77c14d3b-9ec6-417b-87e2-a91689488004",
+                  "title": "Every Season — Vocabulary Set 5",
+                  "subtitle": "Challenge quiz on word families, antonyms, synonyms, and parts of speech for 'Every Season'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "every-season",
+                    "vocabulary",
+                    "antonyms",
+                    "synonyms",
+                    "parts-of-speech"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Every Season/vocab_every_season_set5.json",
+                  "questionCount": 15
+                }
+              ]
+            },
+            {
+              "id": "MyView/1.5/In Spring",
+              "name": "In Spring",
+              "quizzes": [
+                {
+                  "id": "in_spring_set1",
+                  "guid": "b664d834-4031-4c6d-bf05-40a203e2d70f",
+                  "title": "In Spring — Set 1",
+                  "subtitle": "Comprehension quiz for 'In Spring' — understanding the author's opinion and main arguments.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "in-spring",
+                    "comprehension",
+                    "opinion",
+                    "weather",
+                    "activities"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/In Spring/in_spring_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "in_spring_set2",
+                  "guid": "83edb7b9-8b26-4e4c-8944-c2afe69c8c2e",
+                  "title": "In Spring — Set 2",
+                  "subtitle": "Vocabulary quiz for 'In Spring' — word meanings in story context.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "in-spring",
+                    "vocabulary",
+                    "nouns",
+                    "verbs",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/In Spring/in_spring_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "in_spring_set3",
+                  "guid": "ace554f1-381c-4c48-b793-248818eb8333",
+                  "title": "In Spring — Set 3",
+                  "subtitle": "Details and nature observation quiz for 'In Spring'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "in-spring",
+                    "details",
+                    "animals",
+                    "plants",
+                    "activities"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/In Spring/in_spring_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "in_spring_set4",
+                  "guid": "b556428e-5b1c-457e-bc6f-1cd2a84a0ff3",
+                  "title": "In Spring — Set 4",
+                  "subtitle": "Fill-in and sentence practice quiz for 'In Spring'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "in-spring",
+                    "sentence",
+                    "nature",
+                    "activities",
+                    "weather"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/In Spring/in_spring_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "in_spring_set5",
+                  "guid": "3cd047fa-1548-42f6-a888-5c20134e789c",
+                  "title": "In Spring — Set 5",
+                  "subtitle": "Challenge quiz for 'In Spring' — opinion text features, inference, and theme.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "in-spring",
+                    "inference",
+                    "opinion",
+                    "animals",
+                    "weather"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/In Spring/in_spring_set5.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_in_spring",
+                  "guid": "c3e0d553-4180-4a43-ab6c-e5cc0c51d1bf",
+                  "title": "In Spring — Vocabulary Set 1",
+                  "subtitle": "Vocabulary practice using all 16 target words from 'In Spring'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "in-spring",
+                    "vocabulary",
+                    "nouns",
+                    "verbs",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/In Spring/vocab_in_spring.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_in_spring_set2",
+                  "guid": "296918e7-aeb6-47b8-8307-8d4abd8ffce9",
+                  "title": "In Spring — Vocabulary Set 2",
+                  "subtitle": "Vocabulary practice focusing on Part 1 words: breeze, warmth, coat, woods, ground, puddle, baby, wave.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "in-spring",
+                    "vocabulary",
+                    "part1",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/In Spring/vocab_in_spring_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_in_spring_set3",
+                  "guid": "ae440fba-fd68-42f1-bfbc-e6f7161942eb",
+                  "title": "In Spring — Vocabulary Set 3",
+                  "subtitle": "Vocabulary practice focusing on Part 2 words: hint, dart, spy, coil, tadpole, fawn, struggle, link.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "in-spring",
+                    "vocabulary",
+                    "part2",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/In Spring/vocab_in_spring_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_in_spring_set4",
+                  "guid": "b54464a1-a942-4311-b5ca-270e8de24bb7",
+                  "title": "In Spring — Vocabulary Set 4",
+                  "subtitle": "Sentence completion quiz using all 16 target words from 'In Spring' in context.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "in-spring",
+                    "vocabulary",
+                    "sentence",
+                    "sorting",
+                    "part1"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/In Spring/vocab_in_spring_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_in_spring_set5",
+                  "guid": "9dd3384a-7555-460f-a3c4-11feb0cd6ac2",
+                  "title": "In Spring — Vocabulary Set 5",
+                  "subtitle": "Challenge quiz on word families, antonyms, synonyms, and parts of speech for 'In Spring'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "in-spring",
+                    "vocabulary",
+                    "antonyms",
+                    "word-family",
+                    "synonyms"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/In Spring/vocab_in_spring_set5.json",
+                  "questionCount": 15
+                }
+              ]
+            },
+            {
+              "id": "MyView/1.5/Season Around the World",
+              "name": "Season Around the World",
+              "quizzes": [
+                {
+                  "id": "season_around_the_world_set1",
+                  "guid": "7c33a907-055c-4125-a1ee-c0cef479c72b",
+                  "title": "Seasons Around the World — Set 1",
+                  "subtitle": "Comprehension quiz for 'Seasons Around the World' — global seasonal differences.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "season-around-the-world",
+                    "comprehension",
+                    "winter",
+                    "seasons",
+                    "summer"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Season Around the World/season_around_the_world_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "season_around_the_world_set2",
+                  "guid": "d9d59964-b04f-4d7b-b335-c6d4dcde8fb2",
+                  "title": "Seasons Around the World — Set 2",
+                  "subtitle": "Vocabulary quiz for 'Seasons Around the World' — word meanings in story context.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "season-around-the-world",
+                    "vocabulary",
+                    "nouns",
+                    "verbs",
+                    "geography"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Season Around the World/season_around_the_world_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "season_around_the_world_set3",
+                  "guid": "7155b07a-4499-40be-8faa-7627f1b4a804",
+                  "title": "Seasons Around the World — Set 3",
+                  "subtitle": "Hemispheres and details fact-check quiz for 'Seasons Around the World'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "season-around-the-world",
+                    "details",
+                    "winter",
+                    "summer",
+                    "geography"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Season Around the World/season_around_the_world_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "season_around_the_world_set4",
+                  "guid": "4b30bd47-1112-4d0e-a42c-210e98441563",
+                  "title": "Seasons Around the World — Set 4",
+                  "subtitle": "Fill-in and sentence practice quiz for 'Seasons Around the World'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "season-around-the-world",
+                    "sentence",
+                    "winter",
+                    "summer",
+                    "spring"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Season Around the World/season_around_the_world_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "season_around_the_world_set5",
+                  "guid": "9f586bb0-b905-4ee1-8d4b-9958310b455b",
+                  "title": "Seasons Around the World — Set 5",
+                  "subtitle": "Challenge quiz for 'Seasons Around the World' — inference, geography, and comparison.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "season-around-the-world",
+                    "inference",
+                    "geography",
+                    "migration",
+                    "nature"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Season Around the World/season_around_the_world_set5.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_season_around_the_world",
+                  "guid": "f5431976-ece2-46d3-a2c2-196fd42b74fa",
+                  "title": "Seasons Around the World — Vocabulary Set 1",
+                  "subtitle": "Vocabulary practice using all 16 target words from Weeks 13 and 14.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "season-around-the-world",
+                    "vocabulary",
+                    "nouns",
+                    "verbs",
+                    "adjectives"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Season Around the World/vocab_season_around_the_world.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_season_around_the_world_set2",
+                  "guid": "a1932569-73a2-4ad9-bd66-360004733ca0",
+                  "title": "Seasons Around the World — Vocabulary Set 2",
+                  "subtitle": "Vocabulary practice focusing on Week 13 words: snow, die, hibernate, Northern, Southern, North Pole, dark, appear.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "season-around-the-world",
+                    "vocabulary",
+                    "week13",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Season Around the World/vocab_season_around_the_world_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_season_around_the_world_set3",
+                  "guid": "955e3b43-c9ff-4984-a008-f2d053ac69c1",
+                  "title": "Seasons Around the World — Vocabulary Set 3",
+                  "subtitle": "Vocabulary practice focusing on Week 14 words: weather, rain, dry, equator, sunlight, Antarctica, coldest, store.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "season-around-the-world",
+                    "vocabulary",
+                    "week14",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Season Around the World/vocab_season_around_the_world_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_season_around_the_world_set4",
+                  "guid": "3a9814db-4712-4144-8631-baea5b397d86",
+                  "title": "Seasons Around the World — Vocabulary Set 4",
+                  "subtitle": "Sentence completion quiz using all 16 target words from 'Seasons Around the World' in context.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "season-around-the-world",
+                    "vocabulary",
+                    "sentence",
+                    "sorting",
+                    "week14"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Season Around the World/vocab_season_around_the_world_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_season_around_the_world_set5",
+                  "guid": "47754af8-b904-4f43-9b06-001343745091",
+                  "title": "Seasons Around the World — Vocabulary Set 5",
+                  "subtitle": "Challenge quiz on word families, antonyms, synonyms, and parts of speech for 'Seasons Around the World'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "season-around-the-world",
+                    "vocabulary",
+                    "antonyms",
+                    "word-family",
+                    "parts-of-speech"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Season Around the World/vocab_season_around_the_world_set5.json",
                   "questionCount": 15
                 }
               ]

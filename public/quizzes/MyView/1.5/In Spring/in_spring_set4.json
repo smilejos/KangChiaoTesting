@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "id": "in_spring_set4",
+    "version": "1.0",
+    "title": "In Spring — Set 4",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Fill-in and sentence practice quiz for 'In Spring'.",
+    "guid": "b556428e-5b1c-457e-bc6f-1cd2a84a0ff3"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "nature"
+      ],
+      "question": "You can walk in the woods and spy flowers hiding behind _______.",
+      "options": [
+        "rocks",
+        "houses",
+        "trees",
+        "boots"
+      ],
+      "answer": 2,
+      "explanation": "The text states: 'You can walk in the woods and spy flowers hiding behind trees.'"
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "activities"
+      ],
+      "question": "In spring, you can run outside after dinner without a coat.",
+      "answer": true,
+      "explanation": "True. The days are warmer and longer, so you do not need a coat after dinner."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "weather"
+      ],
+      "question": "In spring, days get _______.",
+      "answer": "warmer",
+      "acceptedAnswers": [
+        "warmer",
+        "Warmer"
+      ],
+      "hint": "Opposite of colder.",
+      "explanation": "The text says: 'In spring, days get warmer.'"
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "activities"
+      ],
+      "question": "You can wear boots and splash through deep, freezing snow.",
+      "answer": false,
+      "explanation": "False. You wear boots and splash through 'puddles' of water on the ground."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "opinion"
+      ],
+      "question": "Why is spring the best _______? Just ask me!",
+      "options": [
+        "weather",
+        "reason",
+        "season",
+        "day"
+      ],
+      "answer": 2,
+      "explanation": "Spring is one of the four periods of the year, so it is a 'season.'"
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "weather"
+      ],
+      "question": "You can feel the sun's _______ on your neck in spring.",
+      "answer": "warmth",
+      "acceptedAnswers": [
+        "warmth",
+        "Warmth"
+      ],
+      "hint": "The noun form of warm.",
+      "explanation": "The text says: 'You can feel the sun’s warmth on your neck.'"
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "weather"
+      ],
+      "question": "In spring, you can feel breezes blow _______.",
+      "options": [
+        "acorns",
+        "snowflakes",
+        "hints of hotter days",
+        "straw hats"
+      ],
+      "answer": 2,
+      "explanation": "The text says breezes blow 'hints of hotter days,' showing that summer is coming."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "sorting"
+      ],
+      "question": "Sort these actions from the story based on who does them:",
+      "items": [
+        "run outside",
+        "walk in the woods",
+        "wear boots",
+        "dart around",
+        "grow again"
+      ],
+      "categories": [
+        {
+          "label": "Actions Done by People",
+          "answers": [
+            "run outside",
+            "walk in the woods",
+            "wear boots"
+          ]
+        },
+        {
+          "label": "Actions Done by Animals/Plants",
+          "answers": [
+            "dart around",
+            "grow again"
+          ]
+        }
+      ],
+      "explanation": "People run outside, walk in the woods, and wear boots. Squirrels dart around, and plants grow again."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "pond"
+      ],
+      "question": "'Melting ice' in spring means the ice is freezing more.",
+      "answer": false,
+      "explanation": "False. 'Melting' means changing from solid ice to liquid water as the temperature warms."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "nature"
+      ],
+      "question": "Arrange the words to describe a walk in spring:",
+      "words": [
+        "walk",
+        "You",
+        "can",
+        "the",
+        "in",
+        "woods"
+      ],
+      "answer": [
+        "You",
+        "can",
+        "walk",
+        "in",
+        "the",
+        "woods"
+      ],
+      "explanation": "Correct sentence: 'You can walk in the woods.' This is a fun spring activity."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "nature"
+      ],
+      "question": "In spring, plants start _______ again after the winter cold.",
+      "options": [
+        "dying",
+        "coiling",
+        "growing",
+        "sleeping"
+      ],
+      "answer": 2,
+      "explanation": "The text says: 'plants start growing again' in spring."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "animals"
+      ],
+      "question": "You can watch squirrels _______ around in the yard.",
+      "answer": "dart",
+      "acceptedAnswers": [
+        "dart",
+        "Dart"
+      ],
+      "hint": "Move quickly and suddenly.",
+      "explanation": "The text says: 'You can watch squirrels dart around.'"
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "weather"
+      ],
+      "question": "Arrange the words to describe breezes blowing:",
+      "words": [
+        "feel",
+        "breezes",
+        "blow",
+        "You",
+        "can"
+      ],
+      "answer": [
+        "You",
+        "can",
+        "feel",
+        "breezes",
+        "blow"
+      ],
+      "explanation": "Correct sentence: 'You can feel breezes blow.' Breezes are gentle winds."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "animals"
+      ],
+      "question": "Fawns struggle to walk on their young legs in spring.",
+      "answer": true,
+      "explanation": "True. The text tells us: 'You can see fawns struggling to walk on their young legs.'"
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "seasons"
+      ],
+      "question": "Spring connects the cold of winter with the _______.",
+      "options": [
+        "rain of spring",
+        "dry equator",
+        "heat of summer",
+        "leaves of autumn"
+      ],
+      "answer": 2,
+      "explanation": "The text says: 'It links the cold of winter with the heat of summer.'"
+    }
+  ]
+}

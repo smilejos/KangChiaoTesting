@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "id": "vocab_every_season_set2",
+    "version": "1.0",
+    "title": "Every Season — Vocabulary Set 2",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Vocabulary practice focusing on Week 10 words: season, spring, speckled, woven, crocuses, daffodils, lilacs, salamanders.",
+    "guid": "d403d201-f4f9-4062-a9b5-01562d93194f"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "There are four _______ in one year: spring, summer, autumn, and winter.",
+      "options": [
+        "salamanders",
+        "daffodils",
+        "seasons",
+        "crocuses"
+      ],
+      "answer": 2,
+      "explanation": "A 'season' is one of the four periods of the year characterized by particular weather."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "'Spring' is the season when the weather is very cold and trees lose all their leaves.",
+      "answer": false,
+      "explanation": "False. Spring is the warm season when green grass grows and flowers open up."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "Which of these is a bright yellow spring flower mentioned in the story?",
+      "options": [
+        "salamander",
+        "season",
+        "daffodil",
+        "woven"
+      ],
+      "answer": 2,
+      "explanation": "Daffodils are yellow flowers that open up during the spring."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "A 'speckled' egg is plain white and has no markings at all.",
+      "answer": false,
+      "explanation": "False. 'Speckled' means covered with small spots or marks."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "What are 'crocuses' in the context of spring?",
+      "options": [
+        "small birds",
+        "early-spring flowers",
+        "woven bird nests",
+        "lizard-like animals"
+      ],
+      "answer": 1,
+      "explanation": "Crocuses are small early-spring flowers that pop up from the ground."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "Birds build _______ nests by crossing twigs and grass together.",
+      "answer": "woven",
+      "acceptedAnswers": [
+        "woven",
+        "Woven"
+      ],
+      "hint": "Made by weaving threads or branches together.",
+      "explanation": "A woven nest is constructed by interlacing twigs, grass, and leaves."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "What is a 'salamander'?",
+      "options": [
+        "A small bird that nests in trees",
+        "A small lizard-like animal that lives in damp places",
+        "A fragrant purple flower",
+        "A season of the year"
+      ],
+      "answer": 1,
+      "explanation": "A salamander is a small amphibian that looks like a lizard and slithers under rocks."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Week 10 words into Flowers or Other things:",
+      "items": [
+        "crocuses",
+        "daffodils",
+        "lilacs",
+        "salamanders",
+        "woven"
+      ],
+      "categories": [
+        {
+          "label": "Flowers",
+          "answers": [
+            "crocuses",
+            "daffodils",
+            "lilacs"
+          ]
+        },
+        {
+          "label": "Other (Animals/Adjectives)",
+          "answers": [
+            "salamanders",
+            "woven"
+          ]
+        }
+      ],
+      "explanation": "Crocuses, daffodils, and lilacs are spring flowers. Salamanders are animals, and woven is an adjective."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "Purple or white 'lilacs' are known for spreading a sweet, pleasant smell.",
+      "answer": true,
+      "explanation": "True. Lilacs are highly fragrant purple or white spring flowers."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "sentence",
+        "week10"
+      ],
+      "question": "Arrange the words to describe daffodils:",
+      "words": [
+        "daffodils",
+        "Daffodils",
+        "are",
+        "yellow",
+        "flowers"
+      ],
+      "answer": [
+        "Daffodils",
+        "are",
+        "yellow",
+        "flowers"
+      ],
+      "explanation": "Correct sentence: 'Daffodils are yellow flowers.' They open in spring."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "Which sentence uses the word 'woven' correctly?",
+      "options": [
+        "The boy woven in the grass.",
+        "We wear a woven straw hat in summer.",
+        "Birds can woven in spring.",
+        "The nest was very woven."
+      ],
+      "answer": 1,
+      "explanation": "'Woven' describes the straw hat (made by interlacing straw strands). This is the correct use."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "A lizard-like animal that slithers under rocks is a _______.",
+      "answer": "salamander",
+      "acceptedAnswers": [
+        "salamander",
+        "Salamander"
+      ],
+      "hint": "A damp-loving creature from the spring section.",
+      "explanation": "The text mentions salamanders slithering out from under mossy rocks."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "sentence",
+        "week10"
+      ],
+      "question": "Arrange the words to show what fills nests:",
+      "words": [
+        "woven",
+        "fill",
+        "Speckled",
+        "nests",
+        "eggs"
+      ],
+      "answer": [
+        "Speckled",
+        "eggs",
+        "fill",
+        "woven",
+        "nests"
+      ],
+      "explanation": "Correct sentence: 'Speckled eggs fill woven nests.' This describes a spring scene."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "Early flowers like crocuses and daffodils open after lilacs spread their sweet smell.",
+      "answer": false,
+      "explanation": "False. Crocuses and daffodils open first, and then lilacs bloom and spread their smell later in spring."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "every-season",
+        "vocabulary",
+        "week10"
+      ],
+      "question": "Which of the following describes the spring season?",
+      "options": [
+        "A cold season with icicles and swirling snowflakes",
+        "A hot season to go barefoot and wear straw hats",
+        "A warm season to hold chicks and see flowers bloom",
+        "An autumn season to rake leaves and pick pumpkins"
+      ],
+      "answer": 2,
+      "explanation": "Spring is characterized by warm weather, flower blooms, green grass, and holding baby animals like chicks."
+    }
+  ]
+}

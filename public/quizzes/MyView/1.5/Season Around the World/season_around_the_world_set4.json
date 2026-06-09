@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "id": "season_around_the_world_set4",
+    "version": "1.0",
+    "title": "Seasons Around the World — Set 4",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Fill-in and sentence practice quiz for 'Seasons Around the World'.",
+    "guid": "4b30bd47-1112-4d0e-a42c-210e98441563"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "winter"
+      ],
+      "question": "Some animals _______ during the winter months.",
+      "options": [
+        "sing",
+        "hibernate",
+        "run",
+        "fly"
+      ],
+      "answer": 1,
+      "explanation": "To hibernate means to sleep through the winter, which is what some animals do."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "winter"
+      ],
+      "question": "In winter, the air gets cold and it snows in many places.",
+      "answer": true,
+      "explanation": "True. Cold air and snow are key features of winter in many parts of the world."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "winter"
+      ],
+      "question": "Near the North Pole, the sun never shines in winter. It is _______ all day.",
+      "answer": "dark",
+      "acceptedAnswers": [
+        "dark",
+        "Dark"
+      ],
+      "hint": "With no light.",
+      "explanation": "When the sun never shines, it is dark, just like night all day long."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "summer"
+      ],
+      "question": "Sunlight helps plants grow in the summer.",
+      "answer": true,
+      "explanation": "True. Plants need sunlight to make food and grow, and summer has long sunny days."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "spring"
+      ],
+      "question": "Baby animals are born in _______ in many places.",
+      "options": [
+        "winter",
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "answer": 1,
+      "explanation": "Spring is the season of new life, when many baby animals are born."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "fall"
+      ],
+      "question": "In fall, animals get ready for winter and some _______ food.",
+      "answer": "store",
+      "acceptedAnswers": [
+        "store",
+        "Store"
+      ],
+      "hint": "To collect and save for later.",
+      "explanation": "Animals store food in fall so they have something to eat when it is cold."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "fall"
+      ],
+      "question": "In fall, the leaves on some trees change colors and _______.",
+      "options": [
+        "turn green",
+        "drop to the ground",
+        "sprout buds",
+        "grow flowers"
+      ],
+      "answer": 1,
+      "explanation": "In fall, leaves turn yellow, orange, or red and then drop to the ground."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "sorting"
+      ],
+      "question": "Sort these animal actions based on whether they do them in Winter or Autumn:",
+      "items": [
+        "hibernate",
+        "drop to the ground",
+        "travel to Mexico",
+        "eat a lot",
+        "never shine"
+      ],
+      "categories": [
+        {
+          "label": "Winter Facts/Actions",
+          "answers": [
+            "hibernate",
+            "never shine"
+          ]
+        },
+        {
+          "label": "Autumn Actions",
+          "answers": [
+            "drop to the ground",
+            "travel to Mexico",
+            "eat a lot"
+          ]
+        }
+      ],
+      "explanation": "Hibernating and the dark North Pole are winter facts. Leaves falling, migrating, and eating are autumn actions."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "geography"
+      ],
+      "question": "The word 'equator' refers to the top part of the Earth near the North Pole.",
+      "answer": false,
+      "explanation": "False. The equator is the imaginary middle line around the Earth, far from the poles."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "spring"
+      ],
+      "question": "Arrange the words to describe spring rain:",
+      "words": [
+        "rain",
+        "a",
+        "can",
+        "It",
+        "lot",
+        "spring",
+        "in"
+      ],
+      "answer": [
+        "It",
+        "can",
+        "rain",
+        "a",
+        "lot",
+        "in",
+        "spring"
+      ],
+      "explanation": "Correct sentence: 'It can rain a lot in spring.' Spring is often a wet season."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "spring"
+      ],
+      "question": "In spring, what helps plants grow?",
+      "options": [
+        "snow and ice",
+        "rain and warmer weather",
+        "dry wind",
+        "cold air"
+      ],
+      "answer": 1,
+      "explanation": "Rain provides water, and warmer weather provides warmth, which help plants grow."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "summer"
+      ],
+      "question": "In summer, the days are _______ than they are during winter.",
+      "answer": "longer",
+      "acceptedAnswers": [
+        "longer",
+        "Longer"
+      ],
+      "hint": "Having more daylight hours.",
+      "explanation": "Summer has the longest days of the year, with lots of sunlight."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "geography"
+      ],
+      "question": "Arrange the words to describe Antarctica:",
+      "words": [
+        "coldest",
+        "is",
+        "place",
+        "Antarctica",
+        "the",
+        "Earth",
+        "on"
+      ],
+      "answer": [
+        "Antarctica",
+        "is",
+        "the",
+        "coldest",
+        "place",
+        "on",
+        "Earth"
+      ],
+      "explanation": "Correct sentence: 'Antarctica is the coldest place on Earth.' It stays frozen all year."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "geography"
+      ],
+      "question": "Near the equator, spring is different because it snows a lot.",
+      "answer": false,
+      "explanation": "False. Seasons don't change much near the equator, and it never snows there."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "fall"
+      ],
+      "question": "In fall, many birds and animals move to warmer places where they can _______.",
+      "options": [
+        "build snowmen",
+        "find food",
+        "play in the sun",
+        "hibernate"
+      ],
+      "answer": 1,
+      "explanation": "Animals move to warmer places in fall specifically to find food, since food becomes scarce in the cold winter."
+    }
+  ]
+}

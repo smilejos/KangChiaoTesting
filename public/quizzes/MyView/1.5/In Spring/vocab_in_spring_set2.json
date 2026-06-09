@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "id": "vocab_in_spring_set2",
+    "version": "1.0",
+    "title": "In Spring — Vocabulary Set 2",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Vocabulary practice focusing on Part 1 words: breeze, warmth, coat, woods, ground, puddle, baby, wave.",
+    "guid": "296918e7-aeb6-47b8-8307-8d4abd8ffce9"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Which of these words refers to a gentle wind?",
+      "options": [
+        "coat",
+        "ground",
+        "breeze",
+        "puddle"
+      ],
+      "answer": 2,
+      "explanation": "A 'breeze' is a light, soft wind that blows gently."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "'Warmth' is the noun form of the adjective 'warm.'",
+      "answer": true,
+      "explanation": "True. 'Warm' is the describing word, and 'warmth' is the noun describing the heat/feeling."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "A very young child or animal is called a:",
+      "options": [
+        "wave",
+        "coat",
+        "woods",
+        "baby"
+      ],
+      "answer": 3,
+      "explanation": "A 'baby' is a very young human or animal, like a baby chick or baby rabbit."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "The 'ground' refers to the surface of the sky where birds fly.",
+      "answer": false,
+      "explanation": "False. The 'ground' is the surface of the Earth that we walk on."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What piece of clothing might you run outside WITHOUT in spring?",
+      "options": [
+        "wave",
+        "coat",
+        "puddle",
+        "breeze"
+      ],
+      "answer": 1,
+      "explanation": "The text says you can run outside 'without a coat' because the spring days get warmer."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "After it rains, children love to wear boots and splash through a _______ on the ground.",
+      "answer": "puddle",
+      "acceptedAnswers": [
+        "puddle",
+        "Puddle"
+      ],
+      "hint": "A small pool of water.",
+      "explanation": "A puddle is a small pool of liquid, usually water, on the ground."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What are the 'woods' in the story?",
+      "options": [
+        "Sandy beaches next to the ocean",
+        "An area of land covered with trees; a forest",
+        "Deep swimming pools in the park",
+        "Hot and dry deserts"
+      ],
+      "answer": 1,
+      "explanation": "'Woods' are areas of land covered with trees, smaller than a large forest, where you can spy flowers."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Part 1 words into Weather/Nature words or Object/Baby words:",
+      "items": [
+        "breeze",
+        "warmth",
+        "woods",
+        "coat",
+        "baby"
+      ],
+      "categories": [
+        {
+          "label": "Weather/Nature Words",
+          "answers": [
+            "breeze",
+            "warmth",
+            "woods"
+          ]
+        },
+        {
+          "label": "Object/Baby Words",
+          "answers": [
+            "coat",
+            "baby"
+          ]
+        }
+      ],
+      "explanation": "'Breeze,' 'warmth,' and 'woods' describe natural or weather elements. 'Coat' is an object, and 'baby' is a young living thing."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "To 'wave' good-bye to someone means to jump up and down in a circle.",
+      "answer": false,
+      "explanation": "False. To 'wave' means to move your hand back and forth as a greeting or farewell."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "part1"
+      ],
+      "question": "Arrange the words to describe spring breezes:",
+      "words": [
+        "breezes",
+        "blow",
+        "Breezes",
+        "in",
+        "spring"
+      ],
+      "answer": [
+        "Breezes",
+        "blow",
+        "in",
+        "spring"
+      ],
+      "explanation": "Correct sentence: 'Breezes blow in spring.' These are soft winds."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Which word describes the solid surface of the Earth that we plant in?",
+      "options": [
+        "puddle",
+        "ground",
+        "breeze",
+        "wave"
+      ],
+      "answer": 1,
+      "explanation": "The 'ground' is the surface of the Earth where plants grow and worms coil up."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "You can feel the sun's _______ warming your skin.",
+      "answer": "warmth",
+      "acceptedAnswers": [
+        "warmth",
+        "Warmth"
+      ],
+      "hint": "The state of being warm.",
+      "explanation": "The sun provides 'warmth' (heat) which we feel on our neck in spring."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "part1"
+      ],
+      "question": "Arrange the words to show what boots are for:",
+      "words": [
+        "through",
+        "puddles",
+        "boots",
+        "We",
+        "wear",
+        "to",
+        "splash"
+      ],
+      "answer": [
+        "We",
+        "wear",
+        "boots",
+        "to",
+        "splash",
+        "through",
+        "puddles"
+      ],
+      "explanation": "Correct sentence: 'We wear boots to splash through puddles.' This keeps our feet dry."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Spring 'waves' good-bye to summer and welcomes winter.",
+      "answer": false,
+      "explanation": "False. Spring waves good-bye to winter (cold) and welcomes summer (warmth)."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What does a 'puddle' form from?",
+      "options": [
+        "Acorns falling from oak trees",
+        "Water accumulating on the ground after rain",
+        "Dry straw from summer hats",
+        "Icicles hanging from roofs"
+      ],
+      "answer": 1,
+      "explanation": "A puddle is formed by rainwater that collects in a small pool on the ground."
+    }
+  ]
+}

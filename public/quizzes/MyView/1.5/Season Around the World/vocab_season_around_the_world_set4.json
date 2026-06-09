@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "vocab_season_around_the_world_set4",
+    "version": "1.0",
+    "title": "Seasons Around the World — Vocabulary Set 4",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Sentence completion quiz using all 16 target words from 'Seasons Around the World' in context.",
+    "guid": "3a9814db-4712-4144-8631-baea5b397d86"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "In winter, the air is freezing cold and white _______ falls from the clouds.",
+      "options": [
+        "rain",
+        "snow",
+        "weather",
+        "sunlight"
+      ],
+      "answer": 1,
+      "explanation": "Snow falls as soft white ice crystals in winter when it is cold."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Some animals hibernate in winter, which means they sleep in a cave all winter.",
+      "answer": true,
+      "explanation": "True. Hibernation is a deep winter sleep that some animals do to survive the cold."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Antarctica is the coldest place on Earth, located in the _______ part of the world.",
+      "options": [
+        "Northern",
+        "Southern",
+        "equator",
+        "dry"
+      ],
+      "answer": 1,
+      "explanation": "Antarctica is located at the South Pole, which is in the Southern part of the world."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "The North Pole has bright, sunny days in winter when the sun never sets.",
+      "answer": false,
+      "explanation": "False. It is dark all day at the North Pole in winter because the sun never rises."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "In spring, green leaves _______ on the trees and flowers bloom.",
+      "options": [
+        "die",
+        "hibernate",
+        "appear",
+        "store"
+      ],
+      "answer": 2,
+      "explanation": "To 'appear' means to come into sight, like new leaves appearing in spring."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Water falls from the clouds in the sky as _______.",
+      "answer": "rain",
+      "acceptedAnswers": [
+        "rain",
+        "Rain"
+      ],
+      "hint": "Liquid water from clouds.",
+      "explanation": "Rain is liquid water that falls from the clouds to water the ground."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Squirrels like to _______ nuts in tree hollows for the winter.",
+      "options": [
+        "hibernate",
+        "die",
+        "store",
+        "appear"
+      ],
+      "answer": 2,
+      "explanation": "To 'store' means to keep or save something for later use, like storing food for winter."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words based on whether they refer to Geography or Weather/Nature:",
+      "items": [
+        "Northern",
+        "Southern",
+        "North Pole",
+        "rain",
+        "snow"
+      ],
+      "categories": [
+        {
+          "label": "Geography Words",
+          "answers": [
+            "Northern",
+            "Southern",
+            "North Pole"
+          ]
+        },
+        {
+          "label": "Weather/Nature Words",
+          "answers": [
+            "rain",
+            "snow"
+          ]
+        }
+      ],
+      "explanation": "'Northern,' 'Southern,' and 'North Pole' are geographic terms. 'Rain' and 'snow' are weather events."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Plants will die if they do not get water or sunlight.",
+      "answer": true,
+      "explanation": "True. Plants need water and sunlight to live. Without them, they die (stop living)."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "week14"
+      ],
+      "question": "Arrange the words to describe some places with two seasons:",
+      "words": [
+        "is",
+        "There",
+        "dry",
+        "a",
+        "season"
+      ],
+      "answer": [
+        "There",
+        "is",
+        "a",
+        "dry",
+        "season"
+      ],
+      "explanation": "Correct sentence: 'There is a dry season.' This is a season with very little rain."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "In some tropical places, there is a rainy season and a _______ season.",
+      "options": [
+        "dry",
+        "snow",
+        "dark",
+        "Northern"
+      ],
+      "answer": 0,
+      "explanation": "The two seasons in tropical places are the rainy season (wet) and the dry season (no rain)."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "The weather does not change much near the _______, where it is hot all year.",
+      "answer": "equator",
+      "acceptedAnswers": [
+        "equator",
+        "Equator"
+      ],
+      "hint": "The imaginary middle line of the Earth.",
+      "explanation": "The equator is the line around Earth's middle where the climate stays hot and stable."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "week14"
+      ],
+      "question": "Arrange the words to show when sunlight helps plants:",
+      "words": [
+        "helps",
+        "grow",
+        "plants",
+        "Sunlight",
+        "in",
+        "summer"
+      ],
+      "answer": [
+        "Sunlight",
+        "helps",
+        "plants",
+        "grow",
+        "in",
+        "summer"
+      ],
+      "explanation": "Correct sentence: 'Sunlight helps plants grow in summer.' It provides energy."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "In summer, the sun never sets in Antarctica, which is the coldest place on Earth.",
+      "answer": true,
+      "explanation": "True. Antarctica has 24 hours of sunlight in summer, yet it remains extremely cold."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "vocabulary",
+        "sentence"
+      ],
+      "question": "Which of these sentences uses the word 'weather' correctly?",
+      "options": [
+        "The weather today is warm and sunny.",
+        "We eat weather for breakfast.",
+        "I like to weather a coat.",
+        "Weather is the coldest country."
+      ],
+      "answer": 0,
+      "explanation": "Weather refers to the state of the atmosphere (rain, wind, temperature), so describing it as warm and sunny is correct."
+    }
+  ]
+}

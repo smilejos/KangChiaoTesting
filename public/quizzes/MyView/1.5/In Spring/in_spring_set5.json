@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "id": "in_spring_set5",
+    "version": "1.0",
+    "title": "In Spring — Set 5",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Challenge quiz for 'In Spring' — opinion text features, inference, and theme.",
+    "guid": "3cd047fa-1548-42f6-a888-5c20134e789c"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "inference",
+        "opinion"
+      ],
+      "question": "Why is 'In Spring' considered an opinion text rather than just a fact text?",
+      "options": [
+        "Because it has no real facts about plants or animals.",
+        "Because the author tries to persuade the reader that spring is the best season.",
+        "Because the author actually prefers the winter season.",
+        "Because it is a story about a magic squirrel."
+      ],
+      "answer": 1,
+      "explanation": "The text contains facts, but the main goal of the author is to persuade the reader of their opinion: that 'Spring is the best season.'"
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "inference",
+        "opinion"
+      ],
+      "question": "The author uses words like 'warmer' and 'longer' to show that spring days are getting better.",
+      "answer": true,
+      "explanation": "True. Comparative words like 'warmer' and 'longer' support the opinion that spring is a pleasant and good season."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "inference",
+        "animals"
+      ],
+      "question": "Why does the author mention fawns struggling to walk on young legs?",
+      "options": [
+        "To show that spring can be a sad or dangerous season for animals.",
+        "To show that spring is a special season when new baby animals are born.",
+        "To explain that baby deer cannot walk at all.",
+        "To warn readers not to walk in the woods."
+      ],
+      "answer": 1,
+      "explanation": "Baby animals are a key reason why people like spring. Showing a fawn learning to walk highlights the new life in spring."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "inference",
+        "weather"
+      ],
+      "question": "In the text, 'breezes blow hints of hotter days' means that summer weather is already here.",
+      "answer": false,
+      "explanation": "False. 'Hints' means signs or clues. The breezes show that summer is coming soon, but it is still spring."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "inference",
+        "activities"
+      ],
+      "question": "Why can children run outside after dinner without a coat in spring?",
+      "options": [
+        "Because it gets dark very early in the afternoon.",
+        "Because spring days are longer and warmer than winter days.",
+        "Because parents do not care what they wear.",
+        "Because it only rains in the morning."
+      ],
+      "answer": 1,
+      "explanation": "Longer days mean there is still light after dinner, and warmer weather means a heavy coat isn't needed."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "inference",
+        "seasons"
+      ],
+      "question": "The author says that spring _______ the cold of winter with the heat of summer.",
+      "answer": "links",
+      "acceptedAnswers": [
+        "links",
+        "Links"
+      ],
+      "hint": "Connects or joins two things.",
+      "explanation": "Spring connects (links) the two opposite seasons: cold winter and hot summer."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "inference",
+        "nature"
+      ],
+      "question": "Which animal action shows that spring weather is getting warmer and ice is disappearing?",
+      "options": [
+        "Squirrels darting in trees.",
+        "Tadpoles swimming beneath melting ice.",
+        "Worms coiling in dry grass.",
+        "Fawns learning to run."
+      ],
+      "answer": 1,
+      "explanation": "Tadpoles swimming under 'melting ice' shows the winter ice is turning back to warm water."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "details",
+        "sorting"
+      ],
+      "question": "Sort these sentences from the story into Facts (can be proven) or Opinions (feelings/beliefs):",
+      "items": [
+        "Days get longer in spring",
+        "Spring is the best season",
+        "Animals have babies in spring",
+        "Spring is the most fun"
+      ],
+      "categories": [
+        {
+          "label": "Facts",
+          "answers": [
+            "Days get longer in spring",
+            "Animals have babies in spring"
+          ]
+        },
+        {
+          "label": "Opinions",
+          "answers": [
+            "Spring is the best season",
+            "Spring is the most fun"
+          ]
+        }
+      ],
+      "explanation": "Day length and animal births can be measured (facts). Calling a season 'the best' or 'most fun' is a personal belief (opinion)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "inference",
+        "opinion"
+      ],
+      "question": "The question 'Don't you think so too?' is meant to make the reader agree with the author.",
+      "answer": true,
+      "explanation": "True. The author asks this question to encourage the reader to agree that spring is the best season."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "seasons"
+      ],
+      "question": "Arrange the words to show what spring does to winter:",
+      "words": [
+        "good-bye",
+        "waves",
+        "Spring",
+        "winter",
+        "to"
+      ],
+      "answer": [
+        "Spring",
+        "waves",
+        "good-bye",
+        "to",
+        "winter"
+      ],
+      "explanation": "Correct sentence: 'Spring waves good-bye to winter.' This means the cold season is leaving."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "inference",
+        "nature"
+      ],
+      "question": "How do spring flowers 'hide' behind trees in the woods?",
+      "options": [
+        "They move when they hear footsteps.",
+        "They grow close to tree trunks, which blocks them from view.",
+        "They only open their petals at night.",
+        "The wind cover them up with snow."
+      ],
+      "answer": 1,
+      "explanation": "Flowers grow on the forest floor, often nestled behind tree trunks, requiring you to walk in the woods to 'spy' (notice) them."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "inference",
+        "animals"
+      ],
+      "question": "A baby frog swimming in the pond is a _______, while a baby deer is a fawn.",
+      "answer": "tadpole",
+      "acceptedAnswers": [
+        "tadpole",
+        "Tadpole"
+      ],
+      "hint": "Larval frog that swims.",
+      "explanation": "Tadpoles are baby frogs, and fawns are baby deer. Both are signs of spring."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "seasons"
+      ],
+      "question": "Arrange the words to show how spring connects seasons:",
+      "words": [
+        "links",
+        "It",
+        "winter",
+        "with",
+        "summer"
+      ],
+      "answer": [
+        "It",
+        "links",
+        "winter",
+        "with",
+        "summer"
+      ],
+      "explanation": "Correct sentence: 'It links winter with summer.' 'It' refers to the spring season."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "inference",
+        "plants"
+      ],
+      "question": "Plants start growing in spring because winter temperatures are rising and days have more sunlight.",
+      "answer": true,
+      "explanation": "True. The warm weather and longer daylight hours trigger plants to grow again."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "inference",
+        "seasons"
+      ],
+      "question": "How does spring 'wave good-bye' to the winter season?",
+      "options": [
+        "By making the weather colder and blowing red leaves.",
+        "By melting pond ice, warming the days, and letting animals come outside.",
+        "By causing animals to start hibernating.",
+        "By bringing dry winds and heat waves."
+      ],
+      "answer": 1,
+      "explanation": "As temperatures rise, snow/ice melt and animals wake up, showing that the cold winter is officially over (waving good-bye)."
+    }
+  ]
+}

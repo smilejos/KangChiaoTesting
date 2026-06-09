@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "in_spring_set3",
+    "version": "1.0",
+    "title": "In Spring — Set 3",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Details and nature observation quiz for 'In Spring'.",
+    "guid": "ace554f1-381c-4c48-b793-248818eb8333"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "details",
+        "animals"
+      ],
+      "question": "Which animal has a baby called a fawn?",
+      "options": [
+        "a frog",
+        "a deer",
+        "a squirrel",
+        "a chicken"
+      ],
+      "answer": 1,
+      "explanation": "A fawn is a baby deer. The story mentions fawns struggling to walk."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "details",
+        "animals"
+      ],
+      "question": "Tadpoles swim underneath the melting ice of the pond.",
+      "answer": true,
+      "explanation": "True. The text says: 'You can see tadpoles swimming beneath the pond's melting ice.'"
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "details",
+        "plants"
+      ],
+      "question": "Where do flowers hide in spring?",
+      "options": [
+        "in mud puddles",
+        "behind trees in the woods",
+        "under mossy rocks",
+        "in the sky"
+      ],
+      "answer": 1,
+      "explanation": "The text says: 'You can walk in the woods and spy flowers hiding behind trees.'"
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "details",
+        "activities"
+      ],
+      "question": "In spring, you can run outside after breakfast with a thick winter coat.",
+      "answer": false,
+      "explanation": "False. The text says: 'You can run outside after dinner without a coat' because the days are longer and warmer."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "in-spring",
+        "details",
+        "weather"
+      ],
+      "question": "What happens to the weather and day length in spring?",
+      "options": [
+        "They get colder and shorter.",
+        "They get warmer and longer.",
+        "They stay the same as winter.",
+        "The sun never shines."
+      ],
+      "answer": 1,
+      "explanation": "In spring, days get warmer and the daylight lasts longer."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "details",
+        "animals"
+      ],
+      "question": "You can watch squirrels _______ around the yard in spring.",
+      "answer": "dart",
+      "acceptedAnswers": [
+        "dart",
+        "Dart"
+      ],
+      "hint": "Run or rush quickly and suddenly.",
+      "explanation": "The text says: 'You can watch squirrels dart around.'"
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "details",
+        "nature"
+      ],
+      "question": "What are worms doing in the spring ground?",
+      "options": [
+        "They are sleeping all winter.",
+        "They are coiling up from underneath.",
+        "They are flying in the breezes.",
+        "They are eating acorns."
+      ],
+      "answer": 1,
+      "explanation": "The text says: 'you can see worms coil up from underneath the wet ground.'"
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "details",
+        "sorting"
+      ],
+      "question": "Sort these spring occurrences into things you Feel or things you See in the story:",
+      "items": [
+        "sun's warmth",
+        "breezes blow",
+        "squirrels dart",
+        "worms coil",
+        "fawns struggle"
+      ],
+      "categories": [
+        {
+          "label": "Things You Feel",
+          "answers": [
+            "sun's warmth",
+            "breezes blow"
+          ]
+        },
+        {
+          "label": "Things You See",
+          "answers": [
+            "squirrels dart",
+            "worms coil",
+            "fawns struggle"
+          ]
+        }
+      ],
+      "explanation": "You feel breezes and warmth. You see squirrels, worms, and fawns moving."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "details",
+        "animals"
+      ],
+      "question": "A fawn struggles to walk because its legs are young and weak.",
+      "answer": true,
+      "explanation": "True. Fawns are baby deer. Their young legs are not yet strong, so they struggle to stand and walk."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "nature"
+      ],
+      "question": "Arrange the words to show what plants do:",
+      "words": [
+        "plants",
+        "spring",
+        "In",
+        "start",
+        "growing"
+      ],
+      "answer": [
+        "In",
+        "spring",
+        "plants",
+        "start",
+        "growing"
+      ],
+      "explanation": "Correct sentence: 'In spring plants start growing.' They grow after winter."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "details",
+        "seasons"
+      ],
+      "question": "Which season does spring welcome?",
+      "options": [
+        "winter",
+        "summer",
+        "fall",
+        "spring"
+      ],
+      "answer": 1,
+      "explanation": "The text says spring 'welcomes another' season, which is summer (heat of summer follows spring)."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "in-spring",
+        "details",
+        "activities"
+      ],
+      "question": "To splash through wet puddles on the ground, you should wear _______.",
+      "answer": "boots",
+      "acceptedAnswers": [
+        "boots",
+        "Boots"
+      ],
+      "hint": "Waterproof tall shoes.",
+      "explanation": "The text says: 'You can wear boots and splash through puddles.'"
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "sentence",
+        "nature"
+      ],
+      "question": "Arrange the words to describe walking in spring:",
+      "words": [
+        "woods",
+        "walk",
+        "We",
+        "can",
+        "in",
+        "the"
+      ],
+      "answer": [
+        "We",
+        "can",
+        "walk",
+        "in",
+        "the",
+        "woods"
+      ],
+      "explanation": "Correct sentence: 'We can walk in the woods.' In the woods, we spy hidden flowers."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "details",
+        "seasons"
+      ],
+      "question": "Spring waves good-bye to summer and welcomes winter.",
+      "answer": false,
+      "explanation": "False. Spring waves good-bye to winter (cold) and welcomes summer (warmth)."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "in-spring",
+        "details",
+        "seasons"
+      ],
+      "question": "Why is spring called a bridge or link between seasons?",
+      "options": [
+        "Because it has snow and hot sun at the same time.",
+        "Because it connects the cold of winter with the heat of summer.",
+        "Because it is the only season with rain.",
+        "Because we only walk in the woods."
+      ],
+      "answer": 1,
+      "explanation": "Spring lies in the middle of winter and summer, connecting the cold season we leave behind with the warm season we welcome."
+    }
+  ]
+}

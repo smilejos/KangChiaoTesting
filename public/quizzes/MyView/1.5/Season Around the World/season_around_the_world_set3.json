@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "season_around_the_world_set3",
+    "version": "1.0",
+    "title": "Seasons Around the World — Set 3",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-09",
+    "description": "Hemispheres and details fact-check quiz for 'Seasons Around the World'.",
+    "guid": "7155b07a-4499-40be-8faa-7627f1b4a804"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "winter"
+      ],
+      "question": "Near the North Pole, when does the sun never shine?",
+      "options": [
+        "in winter",
+        "in summer",
+        "in spring",
+        "in autumn"
+      ],
+      "answer": 0,
+      "explanation": "The text says: 'Near the North Pole, the sun never shines in winter. It is dark all day!'"
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "summer"
+      ],
+      "question": "In summer, the sun never sets in Antarctica.",
+      "answer": true,
+      "explanation": "True. In summer, the sun stays in the sky all day and night in Antarctica."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "geography"
+      ],
+      "question": "Which place is the coldest place on Earth?",
+      "options": [
+        "North Pole",
+        "equator",
+        "Antarctica",
+        "Mexico"
+      ],
+      "answer": 2,
+      "explanation": "Antarctica is the coldest place on Earth. It never gets warm, even in summer."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "fall"
+      ],
+      "question": "In fall, the days start to get longer again.",
+      "answer": false,
+      "explanation": "False. The text says: 'During fall, the days start to get shorter again.'"
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "seasons"
+      ],
+      "question": "How many seasons are there in some tropical parts of the world?",
+      "options": [
+        "four seasons",
+        "three seasons",
+        "two seasons",
+        "five seasons"
+      ],
+      "answer": 2,
+      "explanation": "In some parts of the world, there are only two seasons: a rainy season and a dry season."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "geography"
+      ],
+      "question": "Near the equator, the seasons do not _______ much.",
+      "answer": "change",
+      "acceptedAnswers": [
+        "change",
+        "Change"
+      ],
+      "hint": "Become different.",
+      "explanation": "The weather remains very similar all year long near the equator, so seasons don't change much."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "fall"
+      ],
+      "question": "Why do some butterflies travel from the United States to Mexico in the fall?",
+      "options": [
+        "To find more food to store.",
+        "To stay warm in winter.",
+        "To see the fall colors of the leaves.",
+        "To build nests in the trees."
+      ],
+      "answer": 1,
+      "explanation": "Butterflies travel south to Mexico in the fall so they can stay warm during the cold winter months."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "sorting"
+      ],
+      "question": "Sort these features based on whether they describe the Equator or Antarctica:",
+      "items": [
+        "Seasons do not change much",
+        "The sun never sets in summer",
+        "It is the coldest place on Earth",
+        "Spring is like other seasons"
+      ],
+      "categories": [
+        {
+          "label": "Equator Features",
+          "answers": [
+            "Seasons do not change much",
+            "Spring is like other seasons"
+          ]
+        },
+        {
+          "label": "Antarctica Features",
+          "answers": [
+            "The sun never sets in summer",
+            "It is the coldest place on Earth"
+          ]
+        }
+      ],
+      "explanation": "The equator has very little seasonal change. Antarctica has a midnight sun in summer and is extremely cold."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "winter"
+      ],
+      "question": "Most plants and trees stop growing in winter, and some die.",
+      "answer": true,
+      "explanation": "True. The cold temperature and lack of sunlight cause plants to stop growing or die in winter."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "winter"
+      ],
+      "question": "Arrange the words to describe winter days:",
+      "words": [
+        "days",
+        "shorter",
+        "In",
+        "winter",
+        "are"
+      ],
+      "answer": [
+        "In",
+        "winter",
+        "days",
+        "are",
+        "shorter"
+      ],
+      "explanation": "Correct sentence: 'In winter days are shorter.' This means we have less daylight hours."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "summer"
+      ],
+      "question": "What happens to the daylight hours in summer?",
+      "options": [
+        "The days are shorter.",
+        "The days are longer.",
+        "There is no daylight.",
+        "The days stay the same as winter."
+      ],
+      "answer": 1,
+      "explanation": "The text says: 'During summer, the days are longer than they are during other seasons.'"
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "fall"
+      ],
+      "question": "In fall, many birds and animals move to warmer places where they can find _______.",
+      "answer": "food",
+      "acceptedAnswers": [
+        "food",
+        "Food"
+      ],
+      "hint": "What living things eat to survive.",
+      "explanation": "Animals move to warmer places in autumn because it is easier to find food there during winter."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "sentence",
+        "geography"
+      ],
+      "question": "Arrange the words to show seasons near the equator:",
+      "words": [
+        "don't",
+        "Seasons",
+        "change",
+        "much",
+        "near",
+        "the",
+        "equator"
+      ],
+      "answer": [
+        "Seasons",
+        "don't",
+        "change",
+        "much",
+        "near",
+        "the",
+        "equator"
+      ],
+      "explanation": "Correct sentence: 'Seasons don't change much near the equator.' The weather is hot all year round."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "summer"
+      ],
+      "question": "In summer, Antarctica gets very warm because the sun never sets.",
+      "answer": false,
+      "explanation": "False. The text says: 'Even in summer, it never gets warm here' in Antarctica."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "season-around-the-world",
+        "details",
+        "spring"
+      ],
+      "question": "During spring, what helps plants grow?",
+      "options": [
+        "Cold snow and dark clouds.",
+        "The rain and warmer weather.",
+        "Butterflies traveling to Mexico.",
+        "Raking leaves and storing acorns."
+      ],
+      "answer": 1,
+      "explanation": "The spring section says: 'The rain and warmer weather help plants grow.'"
+    }
+  ]
+}
