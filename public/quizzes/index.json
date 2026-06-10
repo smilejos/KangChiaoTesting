@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "generated": "2026-06-09T12:29:10.614Z",
+  "generated": "2026-06-10T12:11:26.954Z",
   "books": [
     {
       "id": "MyGrammar",
@@ -1873,6 +1873,198 @@
           ]
         },
         {
+          "id": "MyView/1.4",
+          "name": "1.4",
+          "units": [
+            {
+              "id": "MyView/1.4/The First American Flag",
+              "name": "The First American Flag",
+              "quizzes": [
+                {
+                  "id": "first_american_flag_set1",
+                  "guid": "67e29f83-5b04-4c6f-9212-2994d6df33cc",
+                  "title": "The First American Flag — Set 1",
+                  "subtitle": "Comprehension on the history, stars, stripes, and makers of the American flag.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "first-american-flag",
+                    "comprehension",
+                    "colors",
+                    "history",
+                    "states"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.4/The First American Flag/first_american_flag_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "first_american_flag_set2",
+                  "guid": "208a6cea-32bf-4d5f-b9cd-22c658a6c5ad",
+                  "title": "The First American Flag — Set 2",
+                  "subtitle": "Vocabulary and word meanings in the context of 'The First American Flag'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "first-american-flag",
+                    "comprehension",
+                    "context-clues",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.4/The First American Flag/first_american_flag_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "first_american_flag_set3",
+                  "guid": "a6f40f17-e340-47bc-8729-8564f7f83d78",
+                  "title": "The First American Flag — Set 3",
+                  "subtitle": "Details on historical designs, Betsy Ross, and timeline changes of the U.S. flag.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "first-american-flag",
+                    "comprehension",
+                    "betsy-ross",
+                    "history",
+                    "francis-hopkinson"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.4/The First American Flag/first_american_flag_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "first_american_flag_set4",
+                  "guid": "51ada77a-1c4a-4827-be19-d47b82e5086a",
+                  "title": "The First American Flag — Set 4",
+                  "subtitle": "Sentence completion and fill-in-the-blank practice on the flag's history.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "first-american-flag",
+                    "sentence",
+                    "colors",
+                    "history",
+                    "states"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.4/The First American Flag/first_american_flag_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "first_american_flag_set5",
+                  "guid": "e1850beb-63f5-4de0-b39e-61a7156a85e8",
+                  "title": "The First American Flag — Set 5",
+                  "subtitle": "Challenge quiz testing inference, symbols, and the timeline of changes in 'The First American Flag'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "first-american-flag",
+                    "comprehension",
+                    "theme",
+                    "inference",
+                    "symbols"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.4/The First American Flag/first_american_flag_set5.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_first_american_flag",
+                  "guid": "7fb8cf72-5d52-4009-9e12-3e76d685db49",
+                  "title": "The First American Flag — Vocabulary Set 1",
+                  "subtitle": "Vocabulary practice using all 16 target words from 'The First American Flag'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "first-american-flag",
+                    "vocabulary",
+                    "nouns",
+                    "verbs",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.4/The First American Flag/vocab_first_american_flag.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_first_american_flag_set2",
+                  "guid": "f081cd48-1f66-4c5b-99fe-8d0f893b8143",
+                  "title": "The First American Flag — Vocabulary Set 2",
+                  "subtitle": "Vocabulary practice focusing on Part 1 words: flag, stripe, leader, state, country, count, circle, row.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "first-american-flag",
+                    "vocabulary",
+                    "part1",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.4/The First American Flag/vocab_first_american_flag_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_first_american_flag_set3",
+                  "guid": "696599df-ca3c-41fa-8038-1cea401b7b0e",
+                  "title": "The First American Flag — Vocabulary Set 3",
+                  "subtitle": "Vocabulary practice focusing on Part 2 words: seamstress, design, stand for, patch, join, add, history, symbol.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "first-american-flag",
+                    "vocabulary",
+                    "part2",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.4/The First American Flag/vocab_first_american_flag_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_first_american_flag_set4",
+                  "guid": "74aa0bdf-c047-4ed3-bb3f-cb9c03838f99",
+                  "title": "The First American Flag — Vocabulary Set 4",
+                  "subtitle": "Sentence completion practice using all 16 target words from 'The First American Flag'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "first-american-flag",
+                    "vocabulary",
+                    "sentence-context",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.4/The First American Flag/vocab_first_american_flag_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_first_american_flag_set5",
+                  "guid": "e53427f3-44b2-4b90-9564-6ee00e865d7c",
+                  "title": "The First American Flag — Vocabulary Set 5",
+                  "subtitle": "Challenge vocabulary practice (parts of speech, synonyms, antonyms) for 'The First American Flag'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "first-american-flag",
+                    "vocabulary",
+                    "synonyms",
+                    "antonyms",
+                    "parts-of-speech"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.4/The First American Flag/vocab_first_american_flag_set5.json",
+                  "questionCount": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "MyView/1.5",
           "name": "1.5",
           "units": [
@@ -2249,6 +2441,192 @@
               ]
             },
             {
+              "id": "MyView/1.5/My Autumn Book",
+              "name": "My Autumn Book",
+              "quizzes": [
+                {
+                  "id": "autumn_book_set1",
+                  "guid": "68860657-13e8-4692-a4da-52ef26de63ca",
+                  "title": "My Autumn Book — Set 1",
+                  "subtitle": "Story comprehension and key autumn events from 'My Autumn Book'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "autumn-book",
+                    "comprehension",
+                    "spider",
+                    "woodpecker",
+                    "squirrel"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/My Autumn Book/autumn_book_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "autumn_book_set2",
+                  "guid": "5f1927b4-45fc-4656-a62c-9766886af2b8",
+                  "title": "My Autumn Book — Set 2",
+                  "subtitle": "Vocabulary and word meanings in the context of 'My Autumn Book'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "autumn-book",
+                    "comprehension",
+                    "context-clues",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/My Autumn Book/autumn_book_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "autumn_book_set3",
+                  "guid": "80cdd5bb-a57d-418d-91f3-9b7d9d3d5b33",
+                  "title": "My Autumn Book — Set 3",
+                  "subtitle": "Characters, setting, details, and sequencing in 'My Autumn Book'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "autumn-book",
+                    "comprehension",
+                    "characters",
+                    "setting",
+                    "details"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/My Autumn Book/autumn_book_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "autumn_book_set4",
+                  "guid": "e1192ce9-e462-4c12-8e67-1eb1701c2427",
+                  "title": "My Autumn Book — Set 4",
+                  "subtitle": "Sentence practice and fill-in-the-blank quiz for 'My Autumn Book'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "autumn-book",
+                    "sentence",
+                    "weather",
+                    "animals",
+                    "spider"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/My Autumn Book/autumn_book_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "autumn_book_set5",
+                  "guid": "fd84de0f-04a6-4e6e-a5a4-db894576fc74",
+                  "title": "My Autumn Book — Set 5",
+                  "subtitle": "Challenge quiz testing inference, theme, and comparisons in 'My Autumn Book'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "autumn-book",
+                    "comprehension",
+                    "theme",
+                    "inference",
+                    "poetic-devices"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/My Autumn Book/autumn_book_set5.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_autumn_book",
+                  "guid": "090c6611-d84f-4ce4-8c4c-2d9878d698bf",
+                  "title": "My Autumn Book — Vocabulary Set 1",
+                  "subtitle": "Vocabulary practice using all 16 target words from 'My Autumn Book'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "autumn-book",
+                    "vocabulary",
+                    "adjectives",
+                    "nouns",
+                    "verbs"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/My Autumn Book/vocab_autumn_book.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_autumn_book_set2",
+                  "guid": "df1d8075-b177-43cb-a07a-5767cb14f1da",
+                  "title": "My Autumn Book — Vocabulary Set 2",
+                  "subtitle": "Vocabulary practice focusing on Part 1 words: crisp, weave, warning, treasure, shed, chilly, racket, beware.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "autumn-book",
+                    "vocabulary",
+                    "part1",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/My Autumn Book/vocab_autumn_book_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_autumn_book_set3",
+                  "guid": "5042a600-8d1d-48c7-90cc-7daa12e8c775",
+                  "title": "My Autumn Book — Vocabulary Set 3",
+                  "subtitle": "Vocabulary practice focusing on Part 2 words: investigate, silken, crimson, delay, sway, whirlwind, blankets, arrange.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "autumn-book",
+                    "vocabulary",
+                    "part2",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/My Autumn Book/vocab_autumn_book_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_autumn_book_set4",
+                  "guid": "1082719a-cbd1-4286-8813-38e0cc6986e8",
+                  "title": "My Autumn Book — Vocabulary Set 4",
+                  "subtitle": "Sentence completion practice using all 16 target words from 'My Autumn Book'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "autumn-book",
+                    "vocabulary",
+                    "sentence-context",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/My Autumn Book/vocab_autumn_book_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_autumn_book_set5",
+                  "guid": "e396955b-98d4-495d-bf99-39cbc97e2d2a",
+                  "title": "My Autumn Book — Vocabulary Set 5",
+                  "subtitle": "Challenge vocabulary practice (synonyms, antonyms, parts of speech) for 'My Autumn Book'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "autumn-book",
+                    "vocabulary",
+                    "antonyms",
+                    "synonyms",
+                    "parts-of-speech"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/My Autumn Book/vocab_autumn_book_set5.json",
+                  "questionCount": 15
+                }
+              ]
+            },
+            {
               "id": "MyView/1.5/Season Around the World",
               "name": "Season Around the World",
               "quizzes": [
@@ -2430,6 +2808,192 @@
                   ],
                   "difficulty": 2,
                   "file": "MyView/1.5/Season Around the World/vocab_season_around_the_world_set5.json",
+                  "questionCount": 15
+                }
+              ]
+            },
+            {
+              "id": "MyView/1.5/Signs of Winter",
+              "name": "Signs of Winter",
+              "quizzes": [
+                {
+                  "id": "signs_of_winter_set1",
+                  "guid": "83551f8a-25e5-472c-ba03-3c2f8a8e740c",
+                  "title": "Signs of Winter — Set 1",
+                  "subtitle": "Comprehension on daylight hours, Earth orbit, and animal preparation in winter.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "signs-of-winter",
+                    "comprehension",
+                    "seasons",
+                    "global-winter",
+                    "snowman"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Signs of Winter/signs_of_winter_set1.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "signs_of_winter_set2",
+                  "guid": "4db36ed0-6cdb-40f2-80b6-f5156be9c76f",
+                  "title": "Signs of Winter — Set 2",
+                  "subtitle": "Vocabulary and word meanings in the context of 'Signs of Winter'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "signs-of-winter",
+                    "comprehension",
+                    "context-clues",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Signs of Winter/signs_of_winter_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "signs_of_winter_set3",
+                  "guid": "6136f0da-f16c-442c-8174-44cd7d5db775",
+                  "title": "Signs of Winter — Set 3",
+                  "subtitle": "Details on animal preparation, plant adaptations, and winter weather facts.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "signs-of-winter",
+                    "comprehension",
+                    "plants",
+                    "animals",
+                    "beavers"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Signs of Winter/signs_of_winter_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "signs_of_winter_set4",
+                  "guid": "75da318c-feeb-4a36-8c65-3365b813f082",
+                  "title": "Signs of Winter — Set 4",
+                  "subtitle": "Sentence completion and fill-in-the-blank quiz for 'Signs of Winter'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "signs-of-winter",
+                    "sentence",
+                    "global-winter",
+                    "snowman",
+                    "plants"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Signs of Winter/signs_of_winter_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "signs_of_winter_set5",
+                  "guid": "d01b582e-e749-46e1-a225-737fc25a54a1",
+                  "title": "Signs of Winter — Set 5",
+                  "subtitle": "Challenge quiz testing inference, cause-and-effect, and comparisons in 'Signs of Winter'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "signs-of-winter",
+                    "comprehension",
+                    "theme",
+                    "inference",
+                    "text-structure"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Signs of Winter/signs_of_winter_set5.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_signs_of_winter",
+                  "guid": "b14f237e-bbe9-46e7-9027-22647be0135c",
+                  "title": "Signs of Winter — Vocabulary Set 1",
+                  "subtitle": "Vocabulary practice using all 16 target words from 'Signs of Winter'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "signs-of-winter",
+                    "vocabulary",
+                    "nouns",
+                    "adjectives",
+                    "sorting"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Signs of Winter/vocab_signs_of_winter.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_signs_of_winter_set2",
+                  "guid": "2c516202-6ca2-44e0-be23-355ac4c5c521",
+                  "title": "Signs of Winter — Vocabulary Set 2",
+                  "subtitle": "Vocabulary practice focusing on Part 1 words: daylight, bare, thick, fur, extra, season, weather, snowman.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "signs-of-winter",
+                    "vocabulary",
+                    "part1",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Signs of Winter/vocab_signs_of_winter_set2.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_signs_of_winter_set3",
+                  "guid": "ec75231b-2000-472e-9277-df8a722fb79b",
+                  "title": "Signs of Winter — Vocabulary Set 3",
+                  "subtitle": "Vocabulary practice focusing on Part 2 words: collect, needle, temperature, lodge, sled, branch, change, travel.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "signs-of-winter",
+                    "vocabulary",
+                    "part2",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Signs of Winter/vocab_signs_of_winter_set3.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_signs_of_winter_set4",
+                  "guid": "5d6ae4d5-f09c-4c29-8ee5-94463b46e465",
+                  "title": "Signs of Winter — Vocabulary Set 4",
+                  "subtitle": "Sentence completion practice using all 16 target words from 'Signs of Winter'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "signs-of-winter",
+                    "vocabulary",
+                    "sentence-context",
+                    "sorting",
+                    "sentence"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Signs of Winter/vocab_signs_of_winter_set4.json",
+                  "questionCount": 15
+                },
+                {
+                  "id": "vocab_signs_of_winter_set5",
+                  "guid": "49b3bc82-3ff2-4ab8-92ef-c38946da90fb",
+                  "title": "Signs of Winter — Vocabulary Set 5",
+                  "subtitle": "Challenge vocabulary practice (parts of speech, synonyms, antonyms) for 'Signs of Winter'.",
+                  "emoji": "📚",
+                  "color": "#6366f1",
+                  "tags": [
+                    "signs-of-winter",
+                    "vocabulary",
+                    "antonyms",
+                    "synonyms",
+                    "parts-of-speech"
+                  ],
+                  "difficulty": 2,
+                  "file": "MyView/1.5/Signs of Winter/vocab_signs_of_winter_set5.json",
                   "questionCount": 15
                 }
               ]

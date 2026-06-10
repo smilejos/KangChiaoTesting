@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "vocab_signs_of_winter_set5",
+    "version": "1.0",
+    "title": "Signs of Winter — Vocabulary Set 5",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Challenge vocabulary practice (parts of speech, synonyms, antonyms) for 'Signs of Winter'.",
+    "guid": "49b3bc82-3ff2-4ab8-92ef-c38946da90fb"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the antonym (opposite word) of 'daylight'?",
+      "options": [
+        "darkness",
+        "morning",
+        "sunlight",
+        "weather"
+      ],
+      "answer": 0,
+      "explanation": "The opposite of daylight (natural light during the day) is darkness or night."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "The words 'collect' and 'gather' have similar meanings.",
+      "answer": true,
+      "explanation": "True. Both collect and gather mean to bring things together in one place."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the antonym of 'thick' when describing a coat of fur?",
+      "options": [
+        "thin",
+        "warm",
+        "heavy",
+        "soft"
+      ],
+      "answer": 0,
+      "explanation": "The opposite of a thick (dense/heavy) coat is a thin coat."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "The word 'change' can only be a noun and cannot be used as an action verb.",
+      "answer": false,
+      "explanation": "False. 'Change' can be a noun ('a change in weather') and a verb ('seasons change')."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "What is a synonym for 'bare' when describing tree branches in winter?",
+      "options": [
+        "empty",
+        "thick",
+        "green",
+        "heavy"
+      ],
+      "answer": 0,
+      "explanation": "Bare branches are empty branches that have lost their leaves."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "A synonym for 'move' or 'make a journey' is to _______.",
+      "answer": "travel",
+      "acceptedAnswers": [
+        "travel",
+        "Travel"
+      ],
+      "hint": "To go from one place to another.",
+      "explanation": "To travel means to move or make a journey, such as Earth traveling around the sun."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "word-families"
+      ],
+      "question": "What is the plural form of the noun 'branch'?",
+      "options": [
+        "branches",
+        "branchs",
+        "branched",
+        "branching"
+      ],
+      "answer": 0,
+      "explanation": "Nouns ending in '-ch' form their plural by adding '-es' (branches)."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Part 2 words into Nouns (naming words) or action/describing words (Verbs/Adjectives):",
+      "items": [
+        "needle",
+        "lodge",
+        "snowman",
+        "collect",
+        "thick"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "needle",
+            "lodge",
+            "snowman"
+          ]
+        },
+        {
+          "label": "Verbs or Adjectives",
+          "answers": [
+            "collect",
+            "thick"
+          ]
+        }
+      ],
+      "explanation": "'Needle,' 'lodge,' and 'snowman' are nouns. 'Collect' is a verb, and 'thick' is an adjective."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "The opposite of 'extra' is 'basic' or 'standard' (having only what is normally required).",
+      "answer": true,
+      "explanation": "True. Extra means additional, so its opposite is the basic or standard amount."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "vocabulary"
+      ],
+      "question": "Arrange the words to describe what happens to temperatures in winter:",
+      "words": [
+        "drops",
+        "winter",
+        "temperature",
+        "The",
+        "in"
+      ],
+      "answer": [
+        "The",
+        "temperature",
+        "drops",
+        "in",
+        "winter"
+      ],
+      "explanation": "Correct sentence: 'The temperature drops in winter.' This means it gets colder."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In the sentence 'Beavers collect logs,' what part of speech is 'collect'?",
+      "options": [
+        "verb",
+        "noun",
+        "adjective",
+        "adverb"
+      ],
+      "answer": 0,
+      "explanation": "'Collect' is an action word, which makes it a verb."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "The opposite of 'warm' weather is _______ weather.",
+      "answer": "cold",
+      "acceptedAnswers": [
+        "cold",
+        "Cold"
+      ],
+      "hint": "What it feels like when temperature is low.",
+      "explanation": "The antonym of warm is cold, which describes winter temperatures."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "vocabulary"
+      ],
+      "question": "Arrange the words to show where we can travel:",
+      "words": [
+        "travel",
+        "around",
+        "We",
+        "world",
+        "the",
+        "can"
+      ],
+      "answer": [
+        "We",
+        "can",
+        "travel",
+        "around",
+        "the",
+        "world"
+      ],
+      "explanation": "Correct sentence: 'We can travel around the world.' Capitalize the first word."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In the sentence 'Bobby likes to go sledding,' the word 'sledding' comes from the noun 'sled.'",
+      "answer": true,
+      "explanation": "True. 'Sledding' is a gerund (verb acting as a noun) created from the base noun 'sled.'"
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "What part of speech is 'extra' in the sentence 'Beavers collect extra sticks'?",
+      "options": [
+        "adjective",
+        "noun",
+        "verb",
+        "adverb"
+      ],
+      "answer": 0,
+      "explanation": "'Extra' describes the noun 'sticks,' telling how many sticks, which makes it an adjective."
+    }
+  ]
+}

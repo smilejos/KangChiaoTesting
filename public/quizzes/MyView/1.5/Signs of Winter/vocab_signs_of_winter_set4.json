@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "vocab_signs_of_winter_set4",
+    "version": "1.0",
+    "title": "Signs of Winter — Vocabulary Set 4",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Sentence completion practice using all 16 target words from 'Signs of Winter'.",
+    "guid": "5d6ae4d5-f09c-4c29-8ee5-94463b46e465"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Many wild animals grow thick _______ to keep warm in the cold winter.",
+      "options": [
+        "needles",
+        "fur",
+        "branches",
+        "sleds"
+      ],
+      "answer": 1,
+      "explanation": "Thick fur keeps animals warm by trapping body heat during winter."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "In winter, there is very little daylight, so it gets dark early.",
+      "answer": true,
+      "explanation": "True. Shorter days in winter mean we experience less daylight."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Vanessa and Tom roll a huge snowball to build a _______.",
+      "options": [
+        "snowman",
+        "lodge",
+        "branch",
+        "needle"
+      ],
+      "answer": 0,
+      "explanation": "A snowman is a figure made by stacking large snowballs."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "We use a sled to slide down snowy hills in the winter.",
+      "answer": true,
+      "explanation": "True. Sleds are vehicles designed to slide on snow."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Winter is the coldest _______ of the year.",
+      "options": [
+        "season",
+        "weather",
+        "temperature",
+        "daylight"
+      ],
+      "answer": 0,
+      "explanation": "Winter is one of the four seasons, and it brings the coldest weather of the year."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "We check the _______ report to see if it will snow tomorrow.",
+      "answer": "weather",
+      "acceptedAnswers": [
+        "weather",
+        "Weather"
+      ],
+      "hint": "What it is like outside (clouds, rain, snow).",
+      "explanation": "A weather report tells us about atmospheric conditions like snow, rain, or sun."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "During the year, Earth will _______ around the sun.",
+      "options": [
+        "travel",
+        "collect",
+        "change",
+        "bare"
+      ],
+      "answer": 0,
+      "explanation": "To travel means to move from place to place; Earth travels (orbits) around the sun."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these sentences based on whether they describe Nature/Climate or human/animal Actions:",
+      "items": [
+        "Daylight gets shorter",
+        "Temperature gets cold",
+        "Beavers collect logs",
+        "We build a snowman",
+        "Bobby rides a sled"
+      ],
+      "categories": [
+        {
+          "label": "Nature/Climate",
+          "answers": [
+            "Daylight gets shorter",
+            "Temperature gets cold"
+          ]
+        },
+        {
+          "label": "Actions",
+          "answers": [
+            "Beavers collect logs",
+            "We build a snowman",
+            "Bobby rides a sled"
+          ]
+        }
+      ],
+      "explanation": "Daylight changes and temperature drops are natural events. Collecting, building, and sledding are actions."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Evergreen needles stay on pine branches even during winter.",
+      "answer": true,
+      "explanation": "True. Evergreen trees like pine and fir keep their needles (leaves) all winter long."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to describe winter weather:",
+      "words": [
+        "temperature",
+        "cold",
+        "The",
+        "is",
+        "very"
+      ],
+      "answer": [
+        "The",
+        "temperature",
+        "is",
+        "very",
+        "cold"
+      ],
+      "explanation": "Correct sentence: 'The temperature is very cold.' Temperature measures heat."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Beavers _______ extra logs in autumn to eat during winter.",
+      "options": [
+        "collect",
+        "change",
+        "travel",
+        "bare"
+      ],
+      "answer": 0,
+      "explanation": "To collect means to gather items together, which is what beavers do with branches."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Many tree branches are _______ in winter because they lose their leaves.",
+      "answer": "bare",
+      "acceptedAnswers": [
+        "bare",
+        "Bare"
+      ],
+      "hint": "Empty or without cover.",
+      "explanation": "Bare branches are empty branches that do not have leaves."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to show where beavers live:",
+      "words": [
+        "lodge",
+        "a",
+        "live",
+        "Beavers",
+        "in"
+      ],
+      "answer": [
+        "Beavers",
+        "live",
+        "in",
+        "a",
+        "lodge"
+      ],
+      "explanation": "Correct sentence: 'Beavers live in a lodge.' A lodge is their water home."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "A change in weather means the weather stays exactly the same.",
+      "answer": false,
+      "explanation": "False. A change in weather means it becomes different (for example, from warm to cold)."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "If you pack _______ clothes, you have packed more clothes than you usually need.",
+      "options": [
+        "extra",
+        "bare",
+        "thick",
+        "fur"
+      ],
+      "answer": 0,
+      "explanation": "Extra means additional or more than what is normal or required."
+    }
+  ]
+}

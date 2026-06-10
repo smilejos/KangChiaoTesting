@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "id": "autumn_book_set1",
+    "version": "1.0",
+    "title": "My Autumn Book — Set 1",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Story comprehension and key autumn events from 'My Autumn Book'.",
+    "guid": "68860657-13e8-4692-a4da-52ef26de63ca"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "spider"
+      ],
+      "question": "Where does the spider spin its silken thread in the story?",
+      "options": [
+        "In a corner of the garden shed",
+        "On the kitchen table",
+        "Under the narrator's bed",
+        "On top of the school roof"
+      ],
+      "answer": 0,
+      "explanation": "The story mentions: 'In a corner of the garden shed, Spider spins a silken thread.'"
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "woodpecker"
+      ],
+      "question": "The woodpecker agrees that summer is leaving by making a rap-a-tap drumming sound.",
+      "answer": true,
+      "explanation": "True. The woodpecker agrees with the cicada and drums to show that autumn is coming."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "squirrel"
+      ],
+      "question": "What does the squirrel dig a hole to bury in the ground?",
+      "options": [
+        "Its old winter toys",
+        "Its warm winter jacket",
+        "Its hidden treasure",
+        "Its colorful leaves"
+      ],
+      "answer": 2,
+      "explanation": "The story says: 'Squirrel digs a hole to bury its treasure' to prepare for the change in weather."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "caterpillar"
+      ],
+      "question": "The caterpillar knows it is time to build a cocoon.",
+      "answer": true,
+      "explanation": "True. The caterpillar knows that autumn is coming, so it is time to cocoon."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "geese"
+      ],
+      "question": "Which birds fly south in formation while honking above?",
+      "options": [
+        "Blue Jays",
+        "Geese",
+        "Woodpeckers",
+        "Robins"
+      ],
+      "answer": 1,
+      "explanation": "The story says: 'Geese honk above, Fly south in formation.'"
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "narrator"
+      ],
+      "question": "When a chilly wind blows, the narrator zips up their _______.",
+      "answer": "jacket",
+      "acceptedAnswers": [
+        "jacket",
+        "Jacket"
+      ],
+      "hint": "A short coat worn to stay warm.",
+      "explanation": "The text says: 'A chilly wind blows. I zip my jacket.'"
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "trees"
+      ],
+      "question": "The oak tree changes into a suit of yellow, while the ash tree changes into crimson.",
+      "answer": false,
+      "explanation": "False. In the story, the oak changes into rust brown, the ash is in yellow, and the dogwood is in crimson."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these actions based on whether the Narrator or the Animals do them in the story:",
+      "items": [
+        "zip my jacket",
+        "cocoon",
+        "digs a hole",
+        "empty my pack",
+        "decorate pages"
+      ],
+      "categories": [
+        {
+          "label": "Narrator",
+          "answers": [
+            "zip my jacket",
+            "empty my pack",
+            "decorate pages"
+          ]
+        },
+        {
+          "label": "Animals",
+          "answers": [
+            "cocoon",
+            "digs a hole"
+          ]
+        }
+      ],
+      "explanation": "The narrator zips their jacket, empties their pack, and decorates pages. Animals like the caterpillar cocoon and the squirrel digs a hole."
+    },
+    {
+      "id": "q9",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "narrator"
+      ],
+      "question": "Arrange the words to show what the narrator does to the pages:",
+      "words": [
+        "pages",
+        "I",
+        "my",
+        "decorate"
+      ],
+      "answer": [
+        "I",
+        "decorate",
+        "my",
+        "pages"
+      ],
+      "explanation": "Correct sentence: 'I decorate my pages.' The narrator makes a book of autumn leaves."
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "chipmunk"
+      ],
+      "question": "Why does the chipmunk scamper past with seeds packed in its cheeks?",
+      "options": [
+        "To find food for the upcoming weeks",
+        "To show its cheeks to the woodpecker",
+        "To give the seeds to the spider",
+        "To hide from the cold rain"
+      ],
+      "answer": 0,
+      "explanation": "The story says: 'Chipmunk scampers past, Seeds packed in its cheeks, Finding food for the upcoming weeks.'"
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "blue-jay"
+      ],
+      "question": "The Blue Jay cries 'Ker-YAK!' because it is surprised that autumn is arriving so soon.",
+      "answer": true,
+      "explanation": "True. The Blue Jay cries 'Ker-YAK! Autumn so soon?' as a sign of surprise at the changing season."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "leaves"
+      ],
+      "question": "The swirling and twirling leaves make a _______ of color that blankets the ground.",
+      "answer": "whirlwind",
+      "acceptedAnswers": [
+        "whirlwind",
+        "Whirlwind"
+      ],
+      "hint": "A spinning wind.",
+      "explanation": "The story describes the falling leaves as 'A whirlwind of color that blankets the ground.'"
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "seasons"
+      ],
+      "question": "Arrange the words to describe what the seasons are doing in the story:",
+      "words": [
+        "changing",
+        "are",
+        "seasons",
+        "The"
+      ],
+      "answer": [
+        "The",
+        "seasons",
+        "are",
+        "changing"
+      ],
+      "explanation": "Correct sentence: 'The seasons are changing.' This is why summer leaves and autumn comes."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "crickets"
+      ],
+      "question": "The crickets sing louder and louder late at night when the world turns cold and white.",
+      "answer": false,
+      "explanation": "False. The book ends by stating: 'When crickets no longer sing late at night and the world outside has turned cold...'"
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "main-idea"
+      ],
+      "question": "What is the main idea of 'My Autumn Book'?",
+      "options": [
+        "How a spider weaves webs to catch bugs",
+        "Observing nature and collecting signs of summer leaving and autumn arriving",
+        "Learning how to grow pine trees and keep needles green",
+        "How to stay warm indoors when winter comes"
+      ],
+      "answer": 1,
+      "explanation": "The main theme is looking for natural clues that show autumn is on the way and documenting them in a leaf scrapbook."
+    }
+  ]
+}

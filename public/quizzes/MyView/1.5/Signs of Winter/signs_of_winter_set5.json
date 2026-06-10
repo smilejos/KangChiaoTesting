@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "signs_of_winter_set5",
+    "version": "1.0",
+    "title": "Signs of Winter — Set 5",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Challenge quiz testing inference, cause-and-effect, and comparisons in 'Signs of Winter'.",
+    "guid": "d01b582e-e749-46e1-a225-737fc25a54a1"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "theme"
+      ],
+      "question": "What is the main message (theme) of 'Signs of Winter'?",
+      "options": [
+        "Winter brings changes in weather, plants, and animals, and living things prepare to survive it",
+        "France is the coldest place in the world during December",
+        "Beavers are the only animals that store food in the autumn",
+        "Snowmen are very easy to build for young children"
+      ],
+      "answer": 0,
+      "explanation": "The text shows how the winter season affects weather and how plants and animals adapt to survive the cold."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "inference"
+      ],
+      "question": "We can infer that winter temperatures are much lower than autumn temperatures.",
+      "answer": true,
+      "explanation": "True. Winter comes after autumn, and the temperature gets colder, causing rain to turn to snow."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "inference"
+      ],
+      "question": "Why do some animals move to warmer places for the winter?",
+      "options": [
+        "Because the cold temperature makes it hard to find food and stay warm",
+        "To help beavers build their wooden lodges",
+        "To find pine needles to eat in the mountains",
+        "To learn how to go sledding down hills"
+      ],
+      "answer": 0,
+      "explanation": "Some animals migrate (move) because they cannot survive the freezing cold or find food when the ground is snow-covered."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "inference"
+      ],
+      "question": "American bisons migrate to warmer countries to escape the winter cold.",
+      "answer": false,
+      "explanation": "False. Bisons do not move away; instead, they stay and grow extra long, thick coats of fur to keep warm."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "text-structure"
+      ],
+      "question": "Why does the text include 'Did You Know?' boxes?",
+      "options": [
+        "To share interesting extra facts about winter, countries, and animals",
+        "To list new vocabulary spelling words",
+        "To show readers how to roll a huge snowball",
+        "To explain why winter is better than spring"
+      ],
+      "answer": 0,
+      "explanation": "'Did You Know?' boxes are text features that provide interesting, extra information related to the main topic."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "inference"
+      ],
+      "question": "We can infer that deciduous trees lose their leaves to save energy when temperatures are _______ in winter.",
+      "answer": "cold",
+      "acceptedAnswers": [
+        "cold",
+        "Cold",
+        "freezing",
+        "Freezing",
+        "low",
+        "Low"
+      ],
+      "hint": "The opposite of warm.",
+      "explanation": "Deciduous trees shed leaves to conserve water and energy when the temperature is cold and sunlight is scarce."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "cause-effect"
+      ],
+      "question": "Based on the text, why is it winter in New Zealand in July while it is winter in France in December?",
+      "options": [
+        "Because they are on opposite sides of Earth, which tilt closer or farther from the sun at different times",
+        "Because New Zealand is always much closer to the North Pole than France",
+        "Because beavers only collect logs in New Zealand in July",
+        "Because the sun goes to sleep in July in the Southern Hemisphere"
+      ],
+      "answer": 0,
+      "explanation": "Seasons are opposite in the Northern and Southern Hemispheres because different parts of Earth get farther or closer to the sun as Earth travels."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort the survival methods of animals in winter based on whether they Prepare Food or Change Body/Fur:",
+      "items": [
+        "Beavers collect logs/bark",
+        "Bison grows long/thick coat",
+        "Animals grow warm fur",
+        "Squirrels store nuts in holes"
+      ],
+      "categories": [
+        {
+          "label": "Prepare Food",
+          "answers": [
+            "Beavers collect logs/bark",
+            "Squirrels store nuts in holes"
+          ]
+        },
+        {
+          "label": "Change Body/Fur",
+          "answers": [
+            "Bison grows long/thick coat",
+            "Animals grow warm fur"
+          ]
+        }
+      ],
+      "explanation": "Collecting logs/bark and storing nuts are food preparations. Growing long coats and warm fur are physical changes."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "inference"
+      ],
+      "question": "Building a snowman and riding down hills on a sled are both fun outdoor winter activities for humans.",
+      "answer": true,
+      "explanation": "True. The text mentions children building snowmen and Bobby going sledding as examples of winter recreation."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "inference"
+      ],
+      "question": "Arrange the words to explain how animals handle the winter:",
+      "words": [
+        "survive",
+        "winter",
+        "to",
+        "adapt",
+        "Animals"
+      ],
+      "answer": [
+        "Animals",
+        "adapt",
+        "to",
+        "survive",
+        "winter"
+      ],
+      "explanation": "Correct sentence: 'Animals adapt to survive winter.' Adaptations include thick fur and food storage."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "cause-effect"
+      ],
+      "question": "What causes it to snow instead of rain in the winter?",
+      "options": [
+        "The air temperature becomes very cold",
+        "Clouds disappear from the sky",
+        "Earth travels too close to the sun",
+        "Evergreen trees lose their pine needles"
+      ],
+      "answer": 0,
+      "explanation": "When the temperature drops below freezing, water vapor in clouds freezes and falls as snow instead of rain."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "inference"
+      ],
+      "question": "Because there is very little daylight in winter, the days are much _______ than in summer.",
+      "answer": "shorter",
+      "acceptedAnswers": [
+        "shorter",
+        "Shorter"
+      ],
+      "hint": "The opposite of longer.",
+      "explanation": "Daylight is short in winter, making the day length much shorter than the long days of summer."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "cause-effect"
+      ],
+      "question": "Arrange the words to show what changes the seasons:",
+      "words": [
+        "seasons",
+        "the",
+        "changes",
+        "sun",
+        "The"
+      ],
+      "answer": [
+        "The",
+        "sun",
+        "changes",
+        "the",
+        "seasons"
+      ],
+      "explanation": "Correct sentence: 'The sun changes the seasons.' Earth's position relative to the sun creates the seasons."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "comparison"
+      ],
+      "question": "We can infer that evergreen trees are better adapted to cold, dry winter winds than deciduous trees that lose their leaves.",
+      "answer": true,
+      "explanation": "True. Evergreen needles are thick and waxy, helping them retain water and stay on the trees all winter."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "cause-effect"
+      ],
+      "question": "What is the correct cause-and-effect chain for winter seasonal change?",
+      "options": [
+        "Earth travels around sun -> parts move farthest from sun -> temperature gets cold -> it snows and trees lose leaves",
+        "Beavers collect logs -> lodges are built in water -> Bobby goes sledding -> sun travels around Earth",
+        "Bisons grow thick coats -> temperature drops -> pine needles stay green -> children make a huge snowball",
+        "Winter comes after autumn -> daylight gets longer -> New Zealand gets warmer -> clouds disappear"
+      ],
+      "answer": 0,
+      "explanation": "The movement of Earth around the sun causes parts to get farther away, resulting in colder temperatures, snow, and leafless trees."
+    }
+  ]
+}

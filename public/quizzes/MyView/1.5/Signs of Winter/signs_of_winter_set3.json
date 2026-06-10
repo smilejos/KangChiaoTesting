@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "id": "signs_of_winter_set3",
+    "version": "1.0",
+    "title": "Signs of Winter — Set 3",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Details on animal preparation, plant adaptations, and winter weather facts.",
+    "guid": "6136f0da-f16c-442c-8174-44cd7d5db775"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "plants"
+      ],
+      "question": "What stays on pine and fir trees during the winter?",
+      "options": [
+        "needles",
+        "brown leaves",
+        "red flowers",
+        "acorns"
+      ],
+      "answer": 0,
+      "explanation": "Pine and fir trees have needles that stay green and remain on the trees all winter."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "plants"
+      ],
+      "question": "Evergreen needles fall off the trees as soon as winter begins.",
+      "answer": false,
+      "explanation": "False. Unlike deciduous leaves, evergreen needles stay on the trees during the winter."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "animals"
+      ],
+      "question": "How do animals that stay during winter keep warm in the cold temperature?",
+      "options": [
+        "Their thick fur keeps them warm",
+        "They build snowmen to play with",
+        "They wear jackets and mittens",
+        "They swim in cold water"
+      ],
+      "answer": 0,
+      "explanation": "Animals that stay through winter have a lot of fur, which acts as natural insulation to keep them warm."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "plants"
+      ],
+      "question": "Many trees are bare in winter because their branches do not have any leaves.",
+      "answer": true,
+      "explanation": "True. In winter, deciduous trees lose their leaves, leaving their branches bare."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "beavers"
+      ],
+      "question": "What do beavers collect in autumn to prepare for the winter months?",
+      "options": [
+        "Extra sticks and logs",
+        "Pine needles",
+        "Warm winter coats",
+        "Wooden sleds"
+      ],
+      "answer": 0,
+      "explanation": "Beavers prepare for winter by collecting extra sticks and logs in autumn."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "animals"
+      ],
+      "question": "Because of the cold weather, some animals _______ to warmer places for the winter.",
+      "answer": "move",
+      "acceptedAnswers": [
+        "move",
+        "Move",
+        "travel",
+        "Travel"
+      ],
+      "hint": "To go to a different place.",
+      "explanation": "Some animals migrate (move) to warmer climates where they can find food more easily in winter."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "beavers"
+      ],
+      "question": "Where do beavers keep the logs and sticks they collect?",
+      "options": [
+        "In the water near their lodges",
+        "On top of bare pine branches",
+        "Inside their warm wooden beds",
+        "Under the American bison's coat"
+      ],
+      "answer": 0,
+      "explanation": "Beavers store their food wood in the water near their lodges so they can eat the bark during winter."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these animal adaptations in winter based on whether they Stay and Adapt or Move Away:",
+      "items": [
+        "Bison grows long coat",
+        "Beaver collects logs",
+        "Animals with fur stay",
+        "Some move to warmer places"
+      ],
+      "categories": [
+        {
+          "label": "Stay and Adapt",
+          "answers": [
+            "Bison grows long coat",
+            "Beaver collects logs",
+            "Animals with fur stay"
+          ]
+        },
+        {
+          "label": "Move Away",
+          "answers": [
+            "Some move to warmer places"
+          ]
+        }
+      ],
+      "explanation": "Bisons, beavers, and furry animals stay in the winter environment. Some other animals move to warmer places."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "beavers"
+      ],
+      "question": "Beavers eat the wood logs themselves, rather than just the bark on the outside.",
+      "answer": false,
+      "explanation": "False. The text states: 'They eat the bark during the winter,' which is the outer layer of the wood."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "animals"
+      ],
+      "question": "Arrange the words to show where some animals go:",
+      "words": [
+        "places",
+        "move",
+        "warmer",
+        "Some",
+        "to",
+        "animals"
+      ],
+      "answer": [
+        "Some",
+        "animals",
+        "move",
+        "to",
+        "warmer",
+        "places"
+      ],
+      "explanation": "Correct sentence: 'Some animals move to warmer places.' They do this to stay warm."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "weather"
+      ],
+      "question": "What is the sky and precipitation like in winter according to the text?",
+      "options": [
+        "There are many clouds in the sky, and instead of raining, it snows",
+        "It is always bright and clear with no clouds",
+        "Warm rain falls every day",
+        "The sky turns purple and gold"
+      ],
+      "answer": 0,
+      "explanation": "The text states: 'In the winter, there are many clouds in the sky. Instead of raining, it snows.'"
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "beavers"
+      ],
+      "question": "Beavers store their food supply during the season of _______.",
+      "answer": "autumn",
+      "acceptedAnswers": [
+        "autumn",
+        "Autumn",
+        "fall",
+        "Fall"
+      ],
+      "hint": "The season before winter.",
+      "explanation": "The text states: 'In autumn, beavers collect extra sticks and logs' to prepare for winter."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "plants"
+      ],
+      "question": "Arrange the words to show where evergreen needles stay:",
+      "words": [
+        "stay",
+        "on",
+        "needles",
+        "The",
+        "trees",
+        "the"
+      ],
+      "answer": [
+        "The",
+        "needles",
+        "stay",
+        "on",
+        "the",
+        "trees"
+      ],
+      "explanation": "Correct sentence: 'The needles stay on the trees.' Capitalize the first word."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "animals"
+      ],
+      "question": "Finding food in winter is easy for animals because plants grow quickly in cold weather.",
+      "answer": false,
+      "explanation": "False. The text states: 'It is hard for animals to find food in the winter' because plants are bare and snow covers the ground."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "animals"
+      ],
+      "question": "Which animal grows an extra long and thick coat to keep warm?",
+      "options": [
+        "American bison",
+        "beaver",
+        "caterpillar",
+        "woodpecker"
+      ],
+      "answer": 0,
+      "explanation": "The text tells us: 'An American bison's coat grows extra long and thick in the winter.'"
+    }
+  ]
+}

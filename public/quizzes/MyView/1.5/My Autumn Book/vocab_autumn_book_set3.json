@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "vocab_autumn_book_set3",
+    "version": "1.0",
+    "title": "My Autumn Book — Vocabulary Set 3",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary practice focusing on Part 2 words: investigate, silken, crimson, delay, sway, whirlwind, blankets, arrange.",
+    "guid": "5042a600-8d1d-48c7-90cc-7daa12e8c775"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What does the word 'investigate' mean in the story?",
+      "options": [
+        "To go inside and sleep",
+        "To look at something carefully to learn about it",
+        "To draw a picture of a spider",
+        "To run away from a chilly wind"
+      ],
+      "answer": 1,
+      "explanation": "To 'investigate' means to check, look at, or study something carefully to find out facts or clues."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "The dogwood tree wears a crimson gown. 'Crimson' is a yellow color.",
+      "answer": false,
+      "explanation": "False. 'Crimson' is a deep, rich red color, not yellow."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Which of these words means soft, smooth, and shiny like silk?",
+      "options": [
+        "chilly",
+        "crimson",
+        "silken",
+        "crisp"
+      ],
+      "answer": 2,
+      "explanation": "The word 'silken' describes something that is soft and smooth, resembling silk, like a spider's thread."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "When there is 'no time to delay,' it means we must act quickly without waiting.",
+      "answer": true,
+      "explanation": "True. To delay is to wait or cause a slowdown, so 'no time to delay' means we must act right away."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "When branches 'sway' in the breeze, how do they move?",
+      "options": [
+        "They fall off the tree",
+        "They move slowly from side to side",
+        "They grow longer",
+        "They spin like a top"
+      ],
+      "answer": 1,
+      "explanation": "To sway is to swing or move gently from side to side, like branches or leaves in the wind."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Swirling leaves spinning round form a _______ of color.",
+      "answer": "whirlwind",
+      "acceptedAnswers": [
+        "whirlwind",
+        "Whirlwind"
+      ],
+      "hint": "A wind that spins rapidly in a circle.",
+      "explanation": "A whirlwind is a column of air spinning rapidly, here describing the swirling falling leaves."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What does the narrator do when they 'arrange' their collected leaves?",
+      "options": [
+        "They throw the leaves on the floor",
+        "They put them in a neat or orderly position on the pages",
+        "They color them with crayons",
+        "They eat them for dinner"
+      ],
+      "answer": 1,
+      "explanation": "To 'arrange' means to put things in a specific, neat order or placement."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words based on whether they are Verbs (action words) or Adjectives (describing words):",
+      "items": [
+        "investigate",
+        "delay",
+        "arrange",
+        "crimson",
+        "silken"
+      ],
+      "categories": [
+        {
+          "label": "Verbs",
+          "answers": [
+            "investigate",
+            "delay",
+            "arrange"
+          ]
+        },
+        {
+          "label": "Adjectives",
+          "answers": [
+            "crimson",
+            "silken"
+          ]
+        }
+      ],
+      "explanation": "'Investigate,' 'delay,' and 'arrange' are actions (verbs). 'Crimson' and 'silken' describe how things look or feel (adjectives)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "To say leaves 'blanket the ground' means the leaves cover the ground completely like a blanket.",
+      "answer": true,
+      "explanation": "True. As a verb, 'blanket' means to cover something completely with a thick layer."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "part2"
+      ],
+      "question": "Arrange the words to describe how leaves move in the wind:",
+      "words": [
+        "breeze",
+        "sway",
+        "in",
+        "the",
+        "Leaves"
+      ],
+      "answer": [
+        "Leaves",
+        "sway",
+        "in",
+        "the",
+        "breeze"
+      ],
+      "explanation": "Correct sentence: 'Leaves sway in the breeze.' Swaying is a slow side-to-side motion."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Which word is a synonym for 'postpone' or 'put off'?",
+      "options": [
+        "sway",
+        "delay",
+        "arrange",
+        "investigate"
+      ],
+      "answer": 1,
+      "explanation": "To 'delay' is to postpone something or make it happen later than planned."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "I go outside to _______ and look for signs of autumn.",
+      "answer": "investigate",
+      "acceptedAnswers": [
+        "investigate",
+        "Investigate"
+      ],
+      "hint": "To explore or search to find out facts.",
+      "explanation": "To 'investigate' is to look into or study something carefully to find out information."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "part2"
+      ],
+      "question": "Arrange the words to show what the narrator does with the leaves:",
+      "words": [
+        "arrange",
+        "leaves",
+        "the",
+        "We",
+        "neatly"
+      ],
+      "answer": [
+        "We",
+        "arrange",
+        "the",
+        "leaves",
+        "neatly"
+      ],
+      "explanation": "Correct sentence: 'We arrange the leaves neatly.' Capitalize the first word."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "The word 'silken' is derived from the noun 'silk' and functions as an adjective.",
+      "answer": true,
+      "explanation": "True. Adding '-en' to the noun 'silk' turns it into the adjective 'silken,' meaning made of or resembling silk."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "If something 'blankets' the forest floor in autumn, what is it most likely made of?",
+      "options": [
+        "Fallen leaves",
+        "Hot summer sand",
+        "Spring lilacs",
+        "Acorns in a hole"
+      ],
+      "answer": 0,
+      "explanation": "In autumn, fallen leaves cover or 'blanket' the forest floor completely."
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "vocab_autumn_book_set5",
+    "version": "1.0",
+    "title": "My Autumn Book — Vocabulary Set 5",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Challenge vocabulary practice (synonyms, antonyms, parts of speech) for 'My Autumn Book'.",
+    "guid": "e396955b-98d4-495d-bf99-39cbc97e2d2a"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the antonym (opposite word) of 'empty'?",
+      "options": [
+        "full",
+        "clean",
+        "cold",
+        "dry"
+      ],
+      "answer": 0,
+      "explanation": "The opposite of 'empty' (containing nothing) is 'full' (containing as much as possible)."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "The words 'crimson' and 'red' have very similar meanings.",
+      "answer": true,
+      "explanation": "True. Crimson is a specific shade of deep, rich red, so they are synonyms."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "Which word is a synonym for 'chilly'?",
+      "options": [
+        "cold",
+        "hot",
+        "dry",
+        "wet"
+      ],
+      "answer": 0,
+      "explanation": "Chilly means cold enough to make you feel uncomfortable or want to wear a coat."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In the sentence 'Spider spins a thread,' the word 'spins' is a noun.",
+      "answer": false,
+      "explanation": "False. 'Spins' is a verb because it describes the action the spider is doing."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "What is a synonym for 'treasure' when it refers to squirrel's stored nuts?",
+      "options": [
+        "valuable food",
+        "worthless trash",
+        "cold water",
+        "dry sand"
+      ],
+      "answer": 0,
+      "explanation": "For a squirrel preparing for winter, its stored food is highly valuable, like a treasure."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "A synonym for 'explore' or 'study' used in the story is to _______.",
+      "answer": "investigate",
+      "acceptedAnswers": [
+        "investigate",
+        "Investigate"
+      ],
+      "hint": "To look at something carefully to find out facts.",
+      "explanation": "To investigate means to study or explore carefully to gather facts, just like investigating autumn signs."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "word-families"
+      ],
+      "question": "The describing word 'silken' is part of the word family of which noun?",
+      "options": [
+        "silk",
+        "silver",
+        "silly",
+        "sink"
+      ],
+      "answer": 0,
+      "explanation": "'Silken' comes from the noun 'silk.' It means made of silk or smooth like silk."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words based on whether they are Nouns (naming words) or Adjectives (describing words):",
+      "items": [
+        "shed",
+        "whirlwind",
+        "racket",
+        "crimson",
+        "silken"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "shed",
+            "whirlwind",
+            "racket"
+          ]
+        },
+        {
+          "label": "Adjectives",
+          "answers": [
+            "crimson",
+            "silken"
+          ]
+        }
+      ],
+      "explanation": "'Shed,' 'whirlwind,' and 'racket' are nouns. 'Crimson' (red) and 'silken' (smooth) describe objects, so they are adjectives."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "The antonym of 'delay' (to make late or slow) is to 'hurry' or 'rush.'",
+      "answer": true,
+      "explanation": "True. To delay is to slow things down, whereas to hurry or rush is to speed things up."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "vocabulary"
+      ],
+      "question": "Arrange the words to show what we can do in summer:",
+      "words": [
+        "barefoot",
+        "We",
+        "summer",
+        "in",
+        "walk",
+        "can"
+      ],
+      "answer": [
+        "We",
+        "can",
+        "walk",
+        "barefoot",
+        "in",
+        "summer"
+      ],
+      "explanation": "Correct sentence: 'We can walk barefoot in summer.' Barefoot means without shoes or socks."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the antonym of 'sway' (to move side to side)?",
+      "options": [
+        "stay still",
+        "bend",
+        "tilt",
+        "spin"
+      ],
+      "answer": 0,
+      "explanation": "To sway is to move slowly. The opposite is to stand still or freeze."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In the sentence 'Cicada is warning us,' the word 'warning' is used as a _______.",
+      "answer": "verb",
+      "acceptedAnswers": [
+        "verb",
+        "Verb"
+      ],
+      "hint": "An action word.",
+      "explanation": "In this context, 'is warning' is the action being performed, making it a verb."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "vocabulary"
+      ],
+      "question": "Arrange the words to describe what a whirlwind does to leaves:",
+      "words": [
+        "leaves",
+        "A",
+        "around",
+        "spins",
+        "whirlwind",
+        "the"
+      ],
+      "answer": [
+        "A",
+        "whirlwind",
+        "spins",
+        "the",
+        "leaves",
+        "around"
+      ],
+      "explanation": "Correct sentence: 'A whirlwind spins the leaves around.' A whirlwind is a fast, spinning wind."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "The word 'blanket' can be a noun (a warm cover) and a verb (to cover completely).",
+      "answer": true,
+      "explanation": "True. In 'I sleep with a blanket,' it is a noun. In 'Leaves blanket the ground,' it is a verb."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "word-families"
+      ],
+      "question": "What is the noun form of the action verb 'arrange'?",
+      "options": [
+        "arrangement",
+        "arranger",
+        "arranged",
+        "arranging"
+      ],
+      "answer": 0,
+      "explanation": "'Arrangement' is the noun form of 'arrange,' meaning the state or result of organizing things."
+    }
+  ]
+}

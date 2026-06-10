@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "id": "first_american_flag_set5",
+    "version": "1.0",
+    "title": "The First American Flag — Set 5",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Challenge quiz testing inference, symbols, and the timeline of changes in 'The First American Flag'.",
+    "guid": "e1850beb-63f5-4de0-b39e-61a7156a85e8"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "theme"
+      ],
+      "question": "What is the primary theme or purpose of 'The First American Flag'?",
+      "options": [
+        "To explain the history and evolution of the U.S. flag's design over time",
+        "To teach readers how to become a professional seamstress",
+        "To explain why Hawaii is the best state in America",
+        "To describe the lives of early leaders in Philadelphia"
+      ],
+      "answer": 0,
+      "explanation": "The text explains the history of the flag, showing how its stars and stripes changed as the nation grew."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "inference"
+      ],
+      "question": "We can infer that the number of stars on the flag increased because the country grew with more states.",
+      "answer": true,
+      "explanation": "True. As new states joined, stars were added to represent them, raising the count from 13 to 50."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "symbols"
+      ],
+      "question": "Why do people think of their country when they see the flag?",
+      "options": [
+        "Because the flag serves as a national symbol representing their country",
+        "Because the flag is very colorful and pretty",
+        "Because the flag was sewed by Betsy Ross in Philadelphia",
+        "Because the flag has a circle of stars"
+      ],
+      "answer": 0,
+      "explanation": "A national flag is a symbol that represents the country, its people, and its values."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "history"
+      ],
+      "question": "The flag of the United States has had exactly 50 stars since the country was first founded.",
+      "answer": false,
+      "explanation": "False. It started with 13 stars and gradually grew to 50 stars as states joined."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "text-structure"
+      ],
+      "question": "Why does the book list years like 1776, 1777, 1803, and 1851?",
+      "options": [
+        "To show a timeline of how the flag's design changed over the years",
+        "To list the phone numbers of early leaders",
+        "To show when different seamstresses were born",
+        "To count the number of stripes on the flag"
+      ],
+      "answer": 0,
+      "explanation": "These dates represent milestones in the history of the flag, showing the progression of its design."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "inference"
+      ],
+      "question": "We can infer that adding a new stripe for each state would make the stripes too _______ to see clearly.",
+      "answer": "small",
+      "acceptedAnswers": [
+        "small",
+        "Small",
+        "thin",
+        "Thin"
+      ],
+      "hint": "The opposite of large or thick.",
+      "explanation": "If we added 50 stripes, each stripe would have to be very small or thin for the flag to fit on a pole."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "history"
+      ],
+      "question": "What did the 15-star and 15-stripe flag of 1795 show about the country's development?",
+      "options": [
+        "That the country was growing and trying out different flag designs",
+        "That leaders decided 15 was their favorite number",
+        "That Betsy Ross refused to sew any more stars",
+        "That Hawaii had already joined the country"
+      ],
+      "answer": 0,
+      "explanation": "The 1795 flag shows that the design was still changing as early states were added, before a final rule was set."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these flag changes based on whether they occurred Before 1800 or After 1800 according to the timeline:",
+      "items": [
+        "Flag had 13 stars (Hopkinson)",
+        "Flag had 15 stars and stripes",
+        "Flag returned to 13 stripes",
+        "Hawaii got its 50th star"
+      ],
+      "categories": [
+        {
+          "label": "Before 1800",
+          "answers": [
+            "Flag had 13 stars (Hopkinson)",
+            "Flag had 15 stars and stripes"
+          ]
+        },
+        {
+          "label": "After 1800",
+          "answers": [
+            "Flag returned to 13 stripes",
+            "Hawaii got its 50th star"
+          ]
+        }
+      ],
+      "explanation": "Hopkinson's flag (1777) and the 15-star flag (1795) were created before 1800. Returning to 13 stripes (1818) and Hawaii's star (1960) happened after 1800."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "symbols"
+      ],
+      "question": "Keeping 13 stripes on the flag today is a symbol that honors the history of the first 13 states.",
+      "answer": true,
+      "explanation": "True. The 13 stripes remain on the flag to represent and honor the original 13 states that founded the country."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "history"
+      ],
+      "question": "Arrange the words to describe how the U.S. flag changed:",
+      "words": [
+        "years",
+        "changed",
+        "flag",
+        "The",
+        "over",
+        "U.S."
+      ],
+      "answer": [
+        "The",
+        "U.S.",
+        "flag",
+        "changed",
+        "over",
+        "years"
+      ],
+      "explanation": "Correct sentence: 'The U.S. flag changed over years.' Its design grew as the country grew."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "inference"
+      ],
+      "question": "Why is the story of Betsy Ross described as something 'some people think' rather than a proven fact?",
+      "options": [
+        "Because there is no official record or proof of who made the first flag",
+        "Because historians know for sure that she did not live in Philadelphia",
+        "Because she was a famous leader, not a seamstress",
+        "Because she did not like red, white, and blue colors"
+      ],
+      "answer": 0,
+      "explanation": "The Betsy Ross story is a popular belief, but because records are missing, no one knows for sure who sewed the first flag."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "inference"
+      ],
+      "question": "Because today's flag has 50 stars, we can infer that the United States currently has _______ states.",
+      "answer": "50",
+      "acceptedAnswers": [
+        "50",
+        "fifty",
+        "Fifty"
+      ],
+      "hint": "The number of stars on today's flag.",
+      "explanation": "Each star represents one state, so 50 stars means there are 50 states in the country today."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "symbols"
+      ],
+      "question": "Arrange the words to show what a flag represents:",
+      "words": [
+        "our",
+        "flag",
+        "country",
+        "A",
+        "represents"
+      ],
+      "answer": [
+        "A",
+        "flag",
+        "represents",
+        "our",
+        "country"
+      ],
+      "explanation": "Correct sentence: 'A flag represents our country.' It serves as a visual symbol."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "history"
+      ],
+      "question": "The U.S. flag got its 50th star in the exact same year that Hawaii became a state (1959).",
+      "answer": false,
+      "explanation": "False. Hawaii became a state in 1959, but the star was officially added to the flag on July 4, 1960."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "flag-designs"
+      ],
+      "question": "Based on the history, how did the United States solve the problem of representing new states without making the flag look messy?",
+      "options": [
+        "By keeping 13 stripes for history and adding one star for each new state",
+        "By making the flag longer and taller every year",
+        "By placing all the stars in a single giant circle",
+        "By changing the color of the stripes to blue"
+      ],
+      "answer": 0,
+      "explanation": "The compromise was to keep the stripes at 13 to honor history, while adding a star for every new state to show the country's growth."
+    }
+  ]
+}

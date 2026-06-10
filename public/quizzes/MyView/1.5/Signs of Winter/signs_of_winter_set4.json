@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "id": "signs_of_winter_set4",
+    "version": "1.0",
+    "title": "Signs of Winter — Set 4",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Sentence completion and fill-in-the-blank quiz for 'Signs of Winter'.",
+    "guid": "75da318c-feeb-4a36-8c65-3365b813f082"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "global-winter"
+      ],
+      "question": "In France, it is winter during which month?",
+      "options": [
+        "December",
+        "July",
+        "March",
+        "September"
+      ],
+      "answer": 0,
+      "explanation": "The text says: 'In France it is winter in December. In New Zealand it is winter in July.'"
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "snowman"
+      ],
+      "question": "Vanessa and Tom are building a huge snowman by first making a large snowball.",
+      "answer": true,
+      "explanation": "True. The story says: 'Vanessa and Tom are building a snowman. They start by making a huge snowball.'"
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "plants"
+      ],
+      "question": "Pine and fir trees have green _______ that stay on them in winter.",
+      "answer": "needles",
+      "acceptedAnswers": [
+        "needles",
+        "needle",
+        "Needles"
+      ],
+      "hint": "Thin, pointy leaves of pine trees.",
+      "explanation": "Evergreen trees have needles instead of flat leaves, and they stay on the branches in winter."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "plants"
+      ],
+      "question": "Deciduous tree branches are bare during the winter months.",
+      "answer": true,
+      "explanation": "True. Many trees lose all their leaves in winter, making their branches bare."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "earth-orbit"
+      ],
+      "question": "What does Earth travel around to change the seasons?",
+      "options": [
+        "the sun",
+        "the moon",
+        "the North Pole",
+        "Antarctica"
+      ],
+      "answer": 0,
+      "explanation": "The text explains: 'During the year, Earth travels around the sun,' which causes changes in the seasons."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "global-winter"
+      ],
+      "question": "In New Zealand, it is winter during the month of _______.",
+      "answer": "July",
+      "acceptedAnswers": [
+        "July",
+        "july"
+      ],
+      "hint": "The summer month in the Northern Hemisphere.",
+      "explanation": "The text states: 'In New Zealand it is winter in July' due to its location in the Southern Hemisphere."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "daylight"
+      ],
+      "question": "How is daylight in the winter season?",
+      "options": [
+        "There is very little daylight, and it gets dark early",
+        "Daylight is very long and lasts all evening",
+        "There is no daylight at all during winter",
+        "Daylight starts late at night"
+      ],
+      "answer": 0,
+      "explanation": "The text says: 'There is very little daylight in winter. It gets dark out early in the evening.'"
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "sorting"
+      ],
+      "question": "Sort these statements into True or False according to the winter facts in the text:",
+      "items": [
+        "Winter comes after autumn",
+        "It snows instead of raining",
+        "Daylight is very long",
+        "Bisons lose all their fur",
+        "Beavers eat pine needles"
+      ],
+      "categories": [
+        {
+          "label": "True Statements",
+          "answers": [
+            "Winter comes after autumn",
+            "It snows instead of raining"
+          ]
+        },
+        {
+          "label": "False Statements",
+          "answers": [
+            "Daylight is very long",
+            "Bisons lose all their fur",
+            "Beavers eat pine needles"
+          ]
+        }
+      ],
+      "explanation": "Winter follows autumn and brings snow instead of rain. Daylight is short, bisons grow extra thick coats, and beavers eat wood bark."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "animals"
+      ],
+      "question": "Furry animals stay through winter because their fur keeps them warm.",
+      "answer": true,
+      "explanation": "True. The text explains: 'Animals that have a lot of fur stay during the winter. Their fur keeps them warm.'"
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "plants"
+      ],
+      "question": "Arrange the words to describe where pine needles are:",
+      "words": [
+        "needles",
+        "stay",
+        "Pine",
+        "branches",
+        "on"
+      ],
+      "answer": [
+        "Pine",
+        "needles",
+        "stay",
+        "on",
+        "branches"
+      ],
+      "explanation": "Correct sentence: 'Pine needles stay on branches.' This keeps pine trees green in winter."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "beavers"
+      ],
+      "question": "Why do beavers store wood logs in the water near their lodges?",
+      "options": [
+        "To eat the bark during the winter",
+        "To build a wooden sled for Bobby",
+        "To make a snowman on top of it",
+        "To keep the water warm"
+      ],
+      "answer": 0,
+      "explanation": "The text explains: 'They keep them in the water near their lodges. They eat the bark during the winter.'"
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "sledding"
+      ],
+      "question": "In the winter, Bobby likes to go _______ down snowy hills.",
+      "answer": "sledding",
+      "acceptedAnswers": [
+        "sledding",
+        "Sledding"
+      ],
+      "hint": "Riding on a sled.",
+      "explanation": "The text mentions: 'Bobby likes to go sledding in the winter.'"
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "seasons"
+      ],
+      "question": "Arrange the words to show when winter comes:",
+      "words": [
+        "comes",
+        "after",
+        "Winter",
+        "autumn"
+      ],
+      "answer": [
+        "Winter",
+        "comes",
+        "after",
+        "autumn"
+      ],
+      "explanation": "Correct sentence: 'Winter comes after autumn.' Autumn is the cooling season."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "snowman"
+      ],
+      "question": "Vanessa and Tom are building a wood lodge using mud in winter.",
+      "answer": false,
+      "explanation": "False. Beavers build lodges, while Vanessa and Tom are building a snowman."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "bison"
+      ],
+      "question": "What is the reason the American bison's coat grows extra long and thick in winter?",
+      "options": [
+        "Because the winter temperature is cold",
+        "To help the bison travel around the sun",
+        "To help it hide inside a beaver lodge",
+        "To catch snowballs thrown by children"
+      ],
+      "answer": 0,
+      "explanation": "The bison's coat grows thick and long to protect its body from the freezing winter temperatures."
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "vocab_autumn_book_set4",
+    "version": "1.0",
+    "title": "My Autumn Book — Vocabulary Set 4",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Sentence completion practice using all 16 target words from 'My Autumn Book'.",
+    "guid": "1082719a-cbd1-4286-8813-38e0cc6986e8"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The air is very _______ on a cool autumn morning, making us feel awake.",
+      "options": [
+        "crisp",
+        "hot",
+        "rainy",
+        "green"
+      ],
+      "answer": 0,
+      "explanation": "Crisp air is cool, dry, and fresh, which is typical for autumn mornings."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "We wear thick jackets outside because the autumn wind is chilly.",
+      "answer": true,
+      "explanation": "True. A chilly wind is cold, so wearing a jacket helps you stay warm."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "A red bird, like a cardinal, has beautiful _______ feathers.",
+      "options": [
+        "crimson",
+        "yellow",
+        "blue",
+        "gray"
+      ],
+      "answer": 0,
+      "explanation": "Crimson is a deep red color, matching the bright feathers of a cardinal."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "A spider weaves a web in the corner of the garden shed.",
+      "answer": true,
+      "explanation": "True. Spiders weave threads to construct webs in quiet places like garden sheds."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Squirrels hide their _______ of seeds and acorns under the soil.",
+      "options": [
+        "toys",
+        "treasure",
+        "blankets",
+        "sheds"
+      ],
+      "answer": 1,
+      "explanation": "A squirrel's treasure refers to the food it collects and buries to prepare for winter."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The train leaves in five minutes! We must run and cannot _______.",
+      "answer": "delay",
+      "acceptedAnswers": [
+        "delay",
+        "Delay"
+      ],
+      "hint": "To wait or make something late.",
+      "explanation": "To delay is to slow down or put off an action, so we must not delay if we want to catch the train."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Detectives like to _______ a crime scene to search for clues.",
+      "options": [
+        "investigate",
+        "sway",
+        "delay",
+        "blanket"
+      ],
+      "answer": 0,
+      "explanation": "To investigate is to examine details carefully to solve a problem or learn facts."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these sentences based on whether they describe Weather/Climate or animal/human Actions:",
+      "items": [
+        "Air is crisp",
+        "Wind is chilly",
+        "Spider weaves threads",
+        "We arrange leaves",
+        "Squirrels bury nuts"
+      ],
+      "categories": [
+        {
+          "label": "Weather/Climate",
+          "answers": [
+            "Air is crisp",
+            "Wind is chilly"
+          ]
+        },
+        {
+          "label": "Actions",
+          "answers": [
+            "Spider weaves threads",
+            "We arrange leaves",
+            "Squirrels bury nuts"
+          ]
+        }
+      ],
+      "explanation": "Crisp air and chilly winds describe weather. Weaving, arranging, and burying are actions done by people or animals."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Spider webs are made of silken threads that are very soft but strong.",
+      "answer": true,
+      "explanation": "True. Silken means smooth, soft, and shiny, which describes the silk threads of a spider web."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to show what cicadas do in summer:",
+      "words": [
+        "us",
+        "Cicadas",
+        "about",
+        "warn",
+        "autumn"
+      ],
+      "answer": [
+        "Cicadas",
+        "warn",
+        "us",
+        "about",
+        "autumn"
+      ],
+      "explanation": "Correct sentence: 'Cicadas warn us about autumn.' Their loud buzzing is a signal."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The tall grass starts to _______ back and forth when the wind blows.",
+      "options": [
+        "sway",
+        "racket",
+        "delay",
+        "arrange"
+      ],
+      "answer": 0,
+      "explanation": "To sway is to move slowly or bend from side to side in the breeze."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The loud buzzing of the cicadas serves as a _______ that cold weather is coming.",
+      "answer": "warning",
+      "acceptedAnswers": [
+        "warning",
+        "Warning"
+      ],
+      "hint": "A sign that tells of a change or danger.",
+      "explanation": "A warning tells us about a future event or change, like the end of summer."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to describe how leaves cover the grass:",
+      "words": [
+        "floor",
+        "Leaves",
+        "the",
+        "garden",
+        "blanket"
+      ],
+      "answer": [
+        "Leaves",
+        "blanket",
+        "the",
+        "garden",
+        "floor"
+      ],
+      "explanation": "Correct sentence: 'Leaves blanket the garden floor.' 'Blanket' is used as a verb here to mean cover."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "A whirlwind of leaves means the leaves are sitting completely still on the lawn.",
+      "answer": false,
+      "explanation": "False. A whirlwind is a spinning wind, so a whirlwind of leaves means they are spinning and twirling around."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "In art class, the teacher helps us _______ our colored pencils in a neat line.",
+      "options": [
+        "arrange",
+        "delay",
+        "beware",
+        "racket"
+      ],
+      "answer": 0,
+      "explanation": "To arrange is to organize or place objects in a neat order."
+    }
+  ]
+}

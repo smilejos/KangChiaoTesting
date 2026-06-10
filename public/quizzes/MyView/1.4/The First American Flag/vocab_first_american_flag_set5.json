@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "vocab_first_american_flag_set5",
+    "version": "1.0",
+    "title": "The First American Flag — Vocabulary Set 5",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Challenge vocabulary practice (parts of speech, synonyms, antonyms) for 'The First American Flag'.",
+    "guid": "e53427f3-44b2-4b90-9564-6ee00e865d7c"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "What is a synonym (similar word) for 'country'?",
+      "options": [
+        "nation",
+        "state",
+        "city",
+        "leader"
+      ],
+      "answer": 0,
+      "explanation": "A nation is a synonym for country, describing a group of people living under one government."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "The words 'count' and 'calculate' have very similar meanings.",
+      "answer": true,
+      "explanation": "True. Both count and calculate mean to determine the total number of items."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "What is the antonym (opposite word) of 'add'?",
+      "options": [
+        "subtract",
+        "join",
+        "design",
+        "count"
+      ],
+      "answer": 0,
+      "explanation": "The opposite of add (to put more pieces) is subtract or remove (to take pieces away)."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "The word 'design' can be used as both a noun and a verb.",
+      "answer": true,
+      "explanation": "True. In 'a beautiful design,' it is a noun. In 'to design a flag,' it is a verb."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "What is a synonym for 'leader'?",
+      "options": [
+        "chief",
+        "follower",
+        "seamstress",
+        "country"
+      ],
+      "answer": 0,
+      "explanation": "A chief or boss is a synonym for a leader, who guides a group."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "synonyms"
+      ],
+      "question": "History is the study of events and people in the _______.",
+      "answer": "past",
+      "acceptedAnswers": [
+        "past",
+        "Past"
+      ],
+      "hint": "The time before now.",
+      "explanation": "History focuses on past events and things that have already happened."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "word-families"
+      ],
+      "question": "What is the plural form of the noun 'state'?",
+      "options": [
+        "states",
+        "statees",
+        "stating",
+        "stated"
+      ],
+      "answer": 0,
+      "explanation": "The plural form of the regular noun 'state' is created by adding an '-s' (states)."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Part 2 words into Nouns (naming words) or Verbs (action words):",
+      "items": [
+        "flag",
+        "seamstress",
+        "symbol",
+        "join",
+        "add"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "flag",
+            "seamstress",
+            "symbol"
+          ]
+        },
+        {
+          "label": "Verbs",
+          "answers": [
+            "join",
+            "add"
+          ]
+        }
+      ],
+      "explanation": "'Flag,' 'seamstress,' and 'symbol' are nouns. 'Join' and 'add' describe actions (verbs)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "The opposite of the verb 'join' is 'leave' or 'quit.'",
+      "answer": true,
+      "explanation": "True. To join is to enter or combine with, while to leave is to exit or separate from."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "vocabulary"
+      ],
+      "question": "Arrange the words to describe what early leaders did:",
+      "words": [
+        "planned",
+        "leaders",
+        "flag",
+        "Early",
+        "the"
+      ],
+      "answer": [
+        "Early",
+        "leaders",
+        "planned",
+        "the",
+        "flag"
+      ],
+      "explanation": "Correct sentence: 'Early leaders planned the flag.' Early means in the past."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In the sentence 'Betsy Ross sewed the flag,' what part of speech is 'sewed'?",
+      "options": [
+        "verb",
+        "noun",
+        "adjective",
+        "adverb"
+      ],
+      "answer": 0,
+      "explanation": "'Sewed' is the past tense form of sew, which describes the action, making it a verb."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": "If new states do not join the country, they can choose to _______.",
+      "answer": "leave",
+      "acceptedAnswers": [
+        "leave",
+        "Leave",
+        "quit",
+        "Quit"
+      ],
+      "hint": "The opposite of join.",
+      "explanation": "To leave is the opposite of join, meaning to separate or go away."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "vocabulary"
+      ],
+      "question": "Arrange the words to show what we can add to the flag:",
+      "words": [
+        "stars",
+        "add",
+        "We",
+        "new",
+        "can"
+      ],
+      "answer": [
+        "We",
+        "can",
+        "add",
+        "new",
+        "stars"
+      ],
+      "explanation": "Correct sentence: 'We can add new stars.' Each star is a symbol."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "parts-of-speech"
+      ],
+      "question": "In the sentence 'Betsy Ross was a seamstress,' the word 'seamstress' is a noun.",
+      "answer": true,
+      "explanation": "True. 'Seamstress' is the naming word for the profession, making it a noun."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "word-families"
+      ],
+      "question": "What is the noun form of the verb 'design' when it refers to the drawing itself?",
+      "options": [
+        "design",
+        "designed",
+        "designing",
+        "designs"
+      ],
+      "answer": 0,
+      "explanation": "The word 'design' is the noun form describing the plan or drawing itself (e.g., 'a beautiful design')."
+    }
+  ]
+}

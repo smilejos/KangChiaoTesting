@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "vocab_signs_of_winter_set2",
+    "version": "1.0",
+    "title": "Signs of Winter — Vocabulary Set 2",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary practice focusing on Part 1 words: daylight, bare, thick, fur, extra, season, weather, snowman.",
+    "guid": "2c516202-6ca2-44e0-be23-355ac4c5c521"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What is the soft hair that keeps animals warm called?",
+      "options": [
+        "needle",
+        "fur",
+        "branch",
+        "lodge"
+      ],
+      "answer": 1,
+      "explanation": "Fur is the soft, thick hair that covers animals and keeps them warm in cold temperatures."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "If branches don't have any leaves, the trees are 'bare.'",
+      "answer": true,
+      "explanation": "True. 'Bare' means empty or uncovered, describing trees that have lost their leaves in winter."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "In winter, there is very little _______ because the sun sets early.",
+      "options": [
+        "daylight",
+        "snowman",
+        "fur",
+        "weather"
+      ],
+      "answer": 0,
+      "explanation": "Daylight is the natural light from the sun. Days are shorter in winter, so daylight is limited."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Winter is the hottest season of the year.",
+      "answer": false,
+      "explanation": "False. Winter is the coldest season of the year, while summer is the hottest."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What figure do kids build using packed snowballs in winter?",
+      "options": [
+        "A snowman",
+        "A wood lodge",
+        "A sand castle",
+        "A brick house"
+      ],
+      "answer": 0,
+      "explanation": "A snowman is a figure made out of packed snow, which children like to build in winter."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Bisons grow a coat that is extra long and _______ to stay warm.",
+      "answer": "thick",
+      "acceptedAnswers": [
+        "thick",
+        "Thick"
+      ],
+      "hint": "Having a lot of heavy hair or layers.",
+      "explanation": "A thick coat has heavy, dense fur, which helps protect animals from freezing temperatures."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Which word is a synonym for 'climate' or 'outside conditions'?",
+      "options": [
+        "weather",
+        "season",
+        "daylight",
+        "extra"
+      ],
+      "answer": 0,
+      "explanation": "Weather describes outside conditions like rain, wind, heat, or snow."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Part 1 words into Nouns (naming words) or Adjectives (describing words):",
+      "items": [
+        "daylight",
+        "fur",
+        "snowman",
+        "thick",
+        "bare"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "daylight",
+            "fur",
+            "snowman"
+          ]
+        },
+        {
+          "label": "Adjectives",
+          "answers": [
+            "thick",
+            "bare"
+          ]
+        }
+      ],
+      "explanation": "'Daylight,' 'fur,' and 'snowman' are nouns. 'Thick' and 'bare' describe the qualities of things (adjectives)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "If beavers collect 'extra' logs, it means they collect more than what is normal or needed.",
+      "answer": true,
+      "explanation": "True. 'Extra' means additional or more than the usual amount."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "part1"
+      ],
+      "question": "Arrange the words to describe the outside conditions in winter:",
+      "words": [
+        "weather",
+        "cold",
+        "The",
+        "is",
+        "very"
+      ],
+      "answer": [
+        "The",
+        "weather",
+        "is",
+        "very",
+        "cold"
+      ],
+      "explanation": "Correct sentence: 'The weather is very cold.' This is a typical winter description."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Why does a bison need a 'thick' coat in winter?",
+      "options": [
+        "Because the temperature is cold",
+        "Because it wants to swim in the pool",
+        "Because it wants to find green leaves",
+        "Because it has no fur"
+      ],
+      "answer": 0,
+      "explanation": "Bisons grow a thick coat to protect their bodies when the winter temperature is cold."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "In autumn, animals collect _______ food to store for winter weeks.",
+      "answer": "extra",
+      "acceptedAnswers": [
+        "extra",
+        "Extra"
+      ],
+      "hint": "More than the usual amount.",
+      "explanation": "Animals gather extra (additional) food to survive when food is hard to find in winter."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "part1"
+      ],
+      "question": "Arrange the words to show what Vanessa and Tom make:",
+      "words": [
+        "snowman",
+        "a",
+        "make",
+        "We",
+        "big"
+      ],
+      "answer": [
+        "We",
+        "make",
+        "a",
+        "big",
+        "snowman"
+      ],
+      "explanation": "Correct sentence: 'We make a big snowman.' Capitalize 'We.'"
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "The words 'weather' and 'season' mean the exact same thing.",
+      "answer": false,
+      "explanation": "False. A season is a three-month division of the year, while weather is the daily outside condition (rain, sun)."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "If a forest has 'bare' branches, what is missing from the trees?",
+      "options": [
+        "needles",
+        "leaves",
+        "wood",
+        "lodges"
+      ],
+      "answer": 1,
+      "explanation": "Bare branches in winter mean the deciduous trees have dropped all their leaves."
+    }
+  ]
+}

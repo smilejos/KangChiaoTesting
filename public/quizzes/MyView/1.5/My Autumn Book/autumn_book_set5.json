@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "autumn_book_set5",
+    "version": "1.0",
+    "title": "My Autumn Book — Set 5",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Challenge quiz testing inference, theme, and comparisons in 'My Autumn Book'.",
+    "guid": "fd84de0f-04a6-4e6e-a5a4-db894576fc74"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "theme"
+      ],
+      "question": "What is the main theme of 'My Autumn Book'?",
+      "options": [
+        "Nature changes with the seasons, and we can observe and document these changes",
+        "Winter is the best season because it is very cold",
+        "Spiders are helpful garden animals",
+        "How to build a wooden shed in the backyard"
+      ],
+      "answer": 0,
+      "explanation": "The story shows the narrator exploring the changing nature (leaves, animal behaviors) as summer transitions into autumn."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "inference"
+      ],
+      "question": "We can infer that the weather becomes colder as autumn approaches.",
+      "answer": true,
+      "explanation": "True. The chilly wind blowing and the narrator zipping their jacket show that the temperature is dropping."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "inference"
+      ],
+      "question": "Why does the narrator empty their pack on their bedroom floor?",
+      "options": [
+        "To look at and organize the autumn leaves they collected",
+        "To throw the leaves in the trash bin",
+        "To hide the leaves from their parents",
+        "To see if any spiders are inside"
+      ],
+      "answer": 0,
+      "explanation": "The narrator spreads the collected leaves to decorate pages and make their autumn scrapbook."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "inference"
+      ],
+      "question": "Caterpillars cocooning and squirrels burying treasure are signs that they are getting ready for spring.",
+      "answer": false,
+      "explanation": "False. These are preparations for the cold winter, not spring."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "poetic-devices"
+      ],
+      "question": "The story is written using rhymes (like shed/thread, wait/investigate). What does this do?",
+      "options": [
+        "It makes the story read like a song or poem",
+        "It makes the story hard to understand",
+        "It explains how trees grow leaves",
+        "It tells the reader about different animals"
+      ],
+      "answer": 0,
+      "explanation": "Rhymes give a poem a nice rhythm and flow, making it fun and song-like to read."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "inference"
+      ],
+      "question": "We can infer that geese fly south because winter in their home will be too _______.",
+      "answer": "cold",
+      "acceptedAnswers": [
+        "cold",
+        "Cold"
+      ],
+      "hint": "The opposite of hot.",
+      "explanation": "Geese migrate south in autumn because they need to find warmer areas to survive winter."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "metaphor"
+      ],
+      "question": "In the poem, how are the changing trees compared to people?",
+      "options": [
+        "They dress up in colorful gowns, suits, and crowns",
+        "They run fast in the garden woods",
+        "They sing and chirrup like crickets",
+        "They fly south in formation"
+      ],
+      "answer": 0,
+      "explanation": "The poem compares trees changing colors to dressing up (e.g., dogwood's crimson gown, oak's rust brown suit, aspen's gold crown)."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these animal behaviors in autumn based on whether they focus on Gathering Food or Changing Bodies/Homes:",
+      "items": [
+        "Chipmunk seeds in cheeks",
+        "Squirrel burying treasure",
+        "Caterpillar cocooning",
+        "Geese flying south"
+      ],
+      "categories": [
+        {
+          "label": "Gathering Food",
+          "answers": [
+            "Chipmunk seeds in cheeks",
+            "Squirrel burying treasure"
+          ]
+        },
+        {
+          "label": "Changing Bodies/Homes",
+          "answers": [
+            "Caterpillar cocooning",
+            "Geese flying south"
+          ]
+        }
+      ],
+      "explanation": "Chipmunks and squirrels collect and store food. Caterpillars make cocoons (body change) and geese move to new homes (fly south)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "inference"
+      ],
+      "question": "The woodpecker drumming on the tree agrees with the cicada's warning that summer is leaving.",
+      "answer": true,
+      "explanation": "True. The woodpecker's rap-a-tap drumming is a sign of agreement that the weather is changing."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "inference"
+      ],
+      "question": "Arrange the words to show what animals do in autumn:",
+      "words": [
+        "prepare",
+        "winter",
+        "the",
+        "for",
+        "Animals"
+      ],
+      "answer": [
+        "Animals",
+        "prepare",
+        "for",
+        "the",
+        "winter"
+      ],
+      "explanation": "Correct sentence: 'Animals prepare for the winter.' They store food or change their homes."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "inference"
+      ],
+      "question": "Why is the book at the end of the story called 'My Autumn Book'?",
+      "options": [
+        "Because the narrator made it using leaves and drawings collected during autumn",
+        "Because it teaches how to grow plants in spring",
+        "Because the narrator bought it at a store in autumn",
+        "Because it is a book about why summer is leaving"
+      ],
+      "answer": 0,
+      "explanation": "The narrator spent the day collecting autumn leaves and objects, then arranged them on the pages of their scrapbook."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "inference"
+      ],
+      "question": "When the crickets no longer sing and the outside world turns cold, we can infer that winter is _______.",
+      "answer": "here",
+      "acceptedAnswers": [
+        "here",
+        "Here",
+        "coming",
+        "Coming"
+      ],
+      "hint": "Arrived or close by.",
+      "explanation": "When crickets stop singing and the world turns white with cold, winter has finally arrived."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "inference"
+      ],
+      "question": "Arrange the words to show when nature changes:",
+      "words": [
+        "season",
+        "each",
+        "changes",
+        "during",
+        "Nature"
+      ],
+      "answer": [
+        "Nature",
+        "changes",
+        "during",
+        "each",
+        "season"
+      ],
+      "explanation": "Correct sentence: 'Nature changes during each season.' We see this in plants and animals."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "inference"
+      ],
+      "question": "The narrator zips up their jacket because they expect the weather to get warmer.",
+      "answer": false,
+      "explanation": "False. The narrator zips their jacket because they feel a chilly wind, which means the weather is getting colder."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "inference"
+      ],
+      "question": "Based on the story, how is a leaf scrapbook helpful to the narrator?",
+      "options": [
+        "It preserves memories of the colorful autumn even when the outside world turns cold and white",
+        "It helps the narrator learn how to fly south with geese",
+        "It shows the spider how to weave a better web",
+        "It provides food for the chipmunk during the winter"
+      ],
+      "answer": 0,
+      "explanation": "A scrapbook preserves the colors and memories of autumn so the narrator can enjoy them when the outside world is cold and colorless."
+    }
+  ]
+}

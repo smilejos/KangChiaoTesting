@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "signs_of_winter_set2",
+    "version": "1.0",
+    "title": "Signs of Winter — Set 2",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary and word meanings in the context of 'Signs of Winter'.",
+    "guid": "4db36ed0-6cdb-40f2-80b6-f5156be9c76f"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "What happens to 'daylight' in the winter according to the story?",
+      "options": [
+        "There is very little daylight, and it gets dark early",
+        "The daylight lasts all night long",
+        "It stays bright and sunny all day",
+        "Daylight disappears completely for months"
+      ],
+      "answer": 0,
+      "explanation": "The text states: 'There is very little daylight in winter. It gets dark out early in the evening.'"
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "Pine and fir trees have 'needles.' In this text, needles are thin, pointy leaves that stay on the trees during winter.",
+      "answer": true,
+      "explanation": "True. The text explains: 'Pine and fir trees have needles. The needles stay on the trees during winter.'"
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "In winter, many trees are 'bare.' What does 'bare' mean?",
+      "options": [
+        "Their branches don't have any leaves",
+        "They are covered in warm blankets",
+        "They are full of red and yellow leaves",
+        "They grow a lot of acorns"
+      ],
+      "answer": 0,
+      "explanation": "The text explains: 'In winter many trees are bare. Their branches don't have any leaves.'"
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "In the sentence 'Bobby likes to go sledding,' 'sledding' means building a snowman.",
+      "answer": false,
+      "explanation": "False. Sledding means riding on a sled (a vehicle for sliding down snowy hills)."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "A bison's coat grows 'extra long and thick.' What does 'thick' mean here?",
+      "options": [
+        "Heavy and dense to keep out the cold",
+        "Light and thin for hot days",
+        "Made of wood and sticks",
+        "Green like grass"
+      ],
+      "answer": 0,
+      "explanation": "A thick coat has lots of heavy hair close together, which acts as warm insulation against cold temperatures."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "The measurement of how hot or cold it is for animals and people is called the _______.",
+      "answer": "temperature",
+      "acceptedAnswers": [
+        "temperature",
+        "Temperature"
+      ],
+      "hint": "A measure of hot or cold.",
+      "explanation": "The text says: 'The temperature is cold for animals too.' Temperature is how we measure hot or cold."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "What does it mean when beavers 'collect' sticks and logs?",
+      "options": [
+        "They pick them up and gather them in one place",
+        "They throw them away into the forest",
+        "They chop them into tiny seeds",
+        "They paint them in bright colors"
+      ],
+      "answer": 0,
+      "explanation": "To collect means to gather things together in one place, like beavers storing wood."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these terms based on whether they describe Plants or Beavers in winter:",
+      "items": [
+        "pine needle",
+        "bare branch",
+        "beaver lodge",
+        "collect sticks",
+        "eat the bark"
+      ],
+      "categories": [
+        {
+          "label": "Plant Details",
+          "answers": [
+            "pine needle",
+            "bare branch"
+          ]
+        },
+        {
+          "label": "Beaver Details",
+          "answers": [
+            "beaver lodge",
+            "collect sticks",
+            "eat the bark"
+          ]
+        }
+      ],
+      "explanation": "Needles and bare branches are plant details. Lodges, collecting wood, and eating bark are beaver details."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "A beaver's 'lodge' is a dome-shaped home made of sticks and mud built in or near water.",
+      "answer": true,
+      "explanation": "True. The glossary and text explain that beavers keep logs near their lodges, which are their homes."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "context-clues"
+      ],
+      "question": "Arrange the words to describe bare trees in winter:",
+      "words": [
+        "branches",
+        "leaves",
+        "The",
+        "don't",
+        "have"
+      ],
+      "answer": [
+        "The",
+        "branches",
+        "don't",
+        "have",
+        "leaves"
+      ],
+      "explanation": "Correct sentence: 'The branches don't have leaves.' This means they are bare."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "The text states that weather, plants, animals, and daylight 'change.' What does 'change' mean?",
+      "options": [
+        "To become different",
+        "To stay exactly the same",
+        "To sleep all winter",
+        "To melt into water"
+      ],
+      "answer": 0,
+      "explanation": "To change is to become different or be altered, like the weather transitioning from hot to cold."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "A bison's coat grows extra long. 'Extra' means _______ than what is normal or usual.",
+      "answer": "more",
+      "acceptedAnswers": [
+        "more",
+        "More",
+        "longer",
+        "Longer"
+      ],
+      "hint": "Additional or greater in amount.",
+      "explanation": "Extra means additional, meaning the coat grows more or longer than it does in other seasons."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "context-clues"
+      ],
+      "question": "Arrange the words to show how Earth moves around the sun:",
+      "words": [
+        "sun",
+        "around",
+        "travels",
+        "Earth",
+        "the"
+      ],
+      "answer": [
+        "Earth",
+        "travels",
+        "around",
+        "the",
+        "sun"
+      ],
+      "explanation": "Correct sentence: 'Earth travels around the sun.' This journey changes our seasons."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "When beavers eat the 'bark' of logs, it means they are making barking noises like a dog.",
+      "answer": false,
+      "explanation": "False. 'Bark' refers to the tough outer skin or covering of tree trunks and logs."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "What does Earth's 'travel' around the sun cause on our planet?",
+      "options": [
+        "It causes different parts of Earth to experience seasons like winter and summer",
+        "It causes snowmen to turn into pine needles",
+        "It forces all animals to move to the North Pole",
+        "It stops the wind from blowing"
+      ],
+      "answer": 0,
+      "explanation": "As Earth travels, different parts get closer or farther from the sun's warmth, creating seasonal changes."
+    }
+  ]
+}

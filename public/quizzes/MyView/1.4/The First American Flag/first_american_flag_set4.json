@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "id": "first_american_flag_set4",
+    "version": "1.0",
+    "title": "The First American Flag — Set 4",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Sentence completion and fill-in-the-blank practice on the flag's history.",
+    "guid": "51ada77a-1c4a-4827-be19-d47b82e5086a"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "colors"
+      ],
+      "question": "What colors are used on the U.S. flag?",
+      "options": [
+        "red, white, and blue",
+        "green and yellow",
+        "black and white",
+        "purple and gold"
+      ],
+      "answer": 0,
+      "explanation": "The U.S. flag uses three colors: red, white, and blue."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "history"
+      ],
+      "question": "When the country was new, the first flag had a star and a stripe for each state.",
+      "answer": true,
+      "explanation": "True. The text explains: 'The first flag had a star and a stripe for each state.' Back then, there were 13 states."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "history"
+      ],
+      "question": "When our country was new, the leaders decided we needed a _______.",
+      "answer": "flag",
+      "acceptedAnswers": [
+        "flag",
+        "Flag"
+      ],
+      "hint": "A national cloth symbol with stars and stripes.",
+      "explanation": "The leaders decided that the new country needed a flag to represent it."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "states"
+      ],
+      "question": "Our flag today has fifty stars, one for each state.",
+      "answer": true,
+      "explanation": "True. The text states: 'Our flag today has 50 stars. There is one for each state.'"
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "flag-designs"
+      ],
+      "question": "How many stripes does the U.S. flag have today?",
+      "options": [
+        "13 stripes",
+        "50 stripes",
+        "15 stripes",
+        "20 stripes"
+      ],
+      "answer": 0,
+      "explanation": "Today's U.S. flag has 13 stripes representing the original 13 states."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "flag-designs"
+      ],
+      "question": "The stars on the flag are placed on a blue _______ in the corner.",
+      "answer": "patch",
+      "acceptedAnswers": [
+        "patch",
+        "Patch",
+        "field",
+        "Field"
+      ],
+      "hint": "A small piece or area of cloth.",
+      "explanation": "The corner has 13 or 50 stars on a blue patch or field of the flag."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "states"
+      ],
+      "question": "What does each star on the U.S. flag represent today?",
+      "options": [
+        "Each state in the country",
+        "Each leader who designed the flag",
+        "Each year the country has existed",
+        "Each city where seamstresses live"
+      ],
+      "answer": 0,
+      "explanation": "There is one star for each state, totaling 50 stars today."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "sorting"
+      ],
+      "question": "Sort these sentence fragments based on whether they describe Old Flags or Today's Flag:",
+      "items": [
+        "Had 13 stars and 13 stripes",
+        "Had stars in a circle",
+        "Has 50 stars and 13 stripes",
+        "Got its 50th star in 1960",
+        "Had 15 stars and 15 stripes"
+      ],
+      "categories": [
+        {
+          "label": "Old Flags",
+          "answers": [
+            "Had 13 stars and 13 stripes",
+            "Had stars in a circle",
+            "Had 15 stars and 15 stripes"
+          ]
+        },
+        {
+          "label": "Today's Flag",
+          "answers": [
+            "Has 50 stars and 13 stripes",
+            "Got its 50th star in 1960"
+          ]
+        }
+      ],
+      "explanation": "Old flags had 13 or 15 stars/stripes and stars in circles. Today's flag has 50 stars, 13 stripes, and got its 50th star in 1960."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "flag-designs"
+      ],
+      "question": "Adding a new stripe for each new state would make the stripes too small or the flag too tall.",
+      "answer": true,
+      "explanation": "True. That is why the country went back to 13 stripes and only added stars for new states."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "flag-designs"
+      ],
+      "question": "Arrange the words to describe the flag's stripes today:",
+      "words": [
+        "flag",
+        "stripes",
+        "The",
+        "thirteen",
+        "has"
+      ],
+      "answer": [
+        "The",
+        "flag",
+        "has",
+        "thirteen",
+        "stripes"
+      ],
+      "explanation": "Correct sentence: 'The flag has thirteen stripes.' These represent the first 13 states."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "states"
+      ],
+      "question": "Which state does the 50th star on the flag represent?",
+      "options": [
+        "Hawaii",
+        "Alaska",
+        "Philadelphia",
+        "California"
+      ],
+      "answer": 0,
+      "explanation": "The 50th star represents Hawaii, which joined the country in 1959."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "history"
+      ],
+      "question": "On June 14, 1777, Hopkinson's flag became the first official U.S. _______.",
+      "answer": "flag",
+      "acceptedAnswers": [
+        "flag",
+        "Flag"
+      ],
+      "hint": "A national cloth symbol.",
+      "explanation": "June 14, 1777, is when Hopkinson's design became the first official flag of the United States."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "history"
+      ],
+      "question": "Arrange the words to describe the action of early leaders:",
+      "words": [
+        "needed",
+        "we",
+        "decided",
+        "The",
+        "leaders",
+        "flag",
+        "a"
+      ],
+      "answer": [
+        "The",
+        "leaders",
+        "decided",
+        "we",
+        "needed",
+        "a",
+        "flag"
+      ],
+      "explanation": "Correct sentence: 'The leaders decided we needed a flag.' Capitalize the first word."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "flag-designs"
+      ],
+      "question": "Today's U.S. flag has 50 stars and 50 stripes.",
+      "answer": false,
+      "explanation": "False. It has 50 stars but only 13 stripes."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "history"
+      ],
+      "question": "What is the meaning of the sentence 'The flag of the United States has come a long way'?",
+      "options": [
+        "The design and history of the U.S. flag have progressed and changed significantly over time",
+        "The flag has traveled a very long distance across the ocean",
+        "The flagpole is extremely tall and heavy",
+        "The flag is carried by leaders during a long march"
+      ],
+      "answer": 0,
+      "explanation": "The idiom 'come a long way' means to have made major progress or undergone significant development."
+    }
+  ]
+}

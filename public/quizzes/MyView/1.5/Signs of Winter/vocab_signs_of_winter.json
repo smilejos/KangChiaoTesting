@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "vocab_signs_of_winter",
+    "version": "1.0",
+    "title": "Signs of Winter — Vocabulary Set 1",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary practice using all 16 target words from 'Signs of Winter'.",
+    "guid": "b14f237e-bbe9-46e7-9027-22647be0135c"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Which word refers to the light during the day?",
+      "options": [
+        "daylight",
+        "temperature",
+        "needle",
+        "fur"
+      ],
+      "answer": 0,
+      "explanation": "Daylight is the natural light from the sun during the daytime."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "A tree is 'bare' if it is completely covered in thick green leaves.",
+      "answer": false,
+      "explanation": "False. 'Bare' means empty or uncovered. A bare tree has lost all its leaves."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "What is the soft, thick hair that covers the bodies of many animals?",
+      "options": [
+        "needle",
+        "branch",
+        "fur",
+        "sled"
+      ],
+      "answer": 2,
+      "explanation": "Fur is the thick growth of hair that keeps animals warm in cold weather."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "A 'snowman' is a figure shaped like a person made out of packed snow.",
+      "answer": true,
+      "explanation": "True. Children like to roll snowballs to construct a snowman in winter."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "What is a 'season'?",
+      "options": [
+        "A measure of temperature",
+        "A wooden sled for hills",
+        "One of the four divisions of the year (spring, summer, autumn, winter)",
+        "A pine needle"
+      ],
+      "answer": 2,
+      "explanation": "A season is one of the four main periods of the year characterized by weather changes."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "We check the _______ to see if it is rainy or snowy outside.",
+      "answer": "weather",
+      "acceptedAnswers": [
+        "weather",
+        "Weather"
+      ],
+      "hint": "What it is like outside (rainy, sunny, snowy).",
+      "explanation": "Weather describes the conditions outside, such as cloud cover, rain, snow, or wind."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "If an animal has a 'thick' coat, what does it mean?",
+      "options": [
+        "The coat is very light and thin",
+        "The coat has heavy, close-growing fur to stay warm",
+        "The coat has no hair at all",
+        "The coat is made of wood"
+      ],
+      "answer": 1,
+      "explanation": "A thick coat has dense or heavy fur, providing excellent protection against cold temperatures."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words into Nouns (naming words) or Verbs (action words):",
+      "items": [
+        "lodge",
+        "branch",
+        "sled",
+        "collect",
+        "travel"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "lodge",
+            "branch",
+            "sled"
+          ]
+        },
+        {
+          "label": "Verbs",
+          "answers": [
+            "collect",
+            "travel"
+          ]
+        }
+      ],
+      "explanation": "'Lodge,' 'branch,' and 'sled' are naming words (nouns). 'Collect' and 'travel' are action words (verbs)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "The word 'extra' means having less of something than you need.",
+      "answer": false,
+      "explanation": "False. 'Extra' means more than what is usual or expected, such as extra logs or extra fur."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "nouns"
+      ],
+      "question": "Arrange the words to describe what pine trees have:",
+      "words": [
+        "stay",
+        "needles",
+        "trees",
+        "on",
+        "Pine"
+      ],
+      "answer": [
+        "Pine",
+        "needles",
+        "stay",
+        "on",
+        "trees"
+      ],
+      "explanation": "Correct sentence: 'Pine needles stay on trees.' Needles are the pointy leaves of evergreen trees."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Which word describes how hot or cold something is?",
+      "options": [
+        "daylight",
+        "temperature",
+        "weather",
+        "season"
+      ],
+      "answer": 1,
+      "explanation": "Temperature is the measurement of heat or coldness, measured in degrees."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "In autumn, beavers _______ extra sticks to prepare for winter.",
+      "answer": "collect",
+      "acceptedAnswers": [
+        "collect",
+        "Collect"
+      ],
+      "hint": "To gather or pick up things from different places.",
+      "explanation": "To 'collect' means to gather items together in one place, like gather sticks."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "nouns"
+      ],
+      "question": "Arrange the words to show how we slide on snow:",
+      "words": [
+        "ride",
+        "wooden",
+        "We",
+        "sled",
+        "a",
+        "can"
+      ],
+      "answer": [
+        "We",
+        "can",
+        "ride",
+        "a",
+        "wooden",
+        "sled"
+      ],
+      "explanation": "Correct sentence: 'We can ride a wooden sled.' A sled is used to slide down snowy hills."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "To 'change' means to become different or be altered.",
+      "answer": true,
+      "explanation": "True. To change is to make or become different, like the change in seasons."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Which of these refers to a beaver's dome-shaped home made of wood and mud?",
+      "options": [
+        "lodge",
+        "branch",
+        "needle",
+        "snowman"
+      ],
+      "answer": 0,
+      "explanation": "A lodge is the home built by beavers using mud, logs, and sticks."
+    }
+  ]
+}

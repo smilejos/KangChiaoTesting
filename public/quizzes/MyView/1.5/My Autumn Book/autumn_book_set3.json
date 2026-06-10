@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "id": "autumn_book_set3",
+    "version": "1.0",
+    "title": "My Autumn Book — Set 3",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Characters, setting, details, and sequencing in 'My Autumn Book'.",
+    "guid": "80cdd5bb-a57d-418d-91f3-9b7d9d3d5b33"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "characters"
+      ],
+      "question": "Who is the main character and narrator in 'My Autumn Book'?",
+      "options": [
+        "A child who explores outside and collects leaves",
+        "A busy squirrel digging holes",
+        "A green caterpillar looking for a cocoon",
+        "A woodpecker drumming on trees"
+      ],
+      "answer": 0,
+      "explanation": "The story is written from the perspective of a child ('I can hardly wait, To go outside and investigate') who collects leaves and makes a scrapbook."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "setting"
+      ],
+      "question": "Most of the outdoor exploration in the story happens in or around the narrator's garden and nearby trees.",
+      "answer": true,
+      "explanation": "True. The narrator starts by going to the garden shed and exploring the garden and surrounding trees."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "details"
+      ],
+      "question": "Where does the narrator go at the end of the story to make the book?",
+      "options": [
+        "Up to their bedroom",
+        "To the local library",
+        "Into the garden shed",
+        "To the school classroom"
+      ],
+      "answer": 0,
+      "explanation": "The story says: 'I dash up to my room And open the door... I decorate pages, Arrange to make space.'"
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "characters"
+      ],
+      "question": "The Blue Jay cries 'Autumn so soon?' because winter is already over.",
+      "answer": false,
+      "explanation": "False. The Blue Jay is surprised that autumn is arriving so quickly after summer."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "details"
+      ],
+      "question": "Which tree wears 'a crown of gold on its head' in the story?",
+      "options": [
+        "Aspen",
+        "Maple",
+        "Oak",
+        "Ash"
+      ],
+      "answer": 0,
+      "explanation": "The poem mentions: 'Aspen, a crown of gold on its head.'"
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "details"
+      ],
+      "question": "The narrator finds a spider spinning a silken thread in a corner of the garden _______.",
+      "answer": "shed",
+      "acceptedAnswers": [
+        "shed",
+        "Shed"
+      ],
+      "hint": "A small building used for storing tools.",
+      "explanation": "The poem states: 'In a corner of the garden shed, Spider spins a silken thread.'"
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "sequencing"
+      ],
+      "question": "What is the first thing the narrator does after returning to their bedroom?",
+      "options": [
+        "Go straight to sleep",
+        "Empty their pack and spread their collected items on the floor",
+        "Draw a picture of a spider",
+        "Read a storybook about winter"
+      ],
+      "answer": 1,
+      "explanation": "The poem says: 'I dash up to my room And open the door. Empty my pack, Spread things on the floor.'"
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these trees based on the color their leaves turn in the autumn:",
+      "items": [
+        "ash",
+        "aspen",
+        "dogwood",
+        "maple",
+        "oak"
+      ],
+      "categories": [
+        {
+          "label": "Yellow or Gold Leaves",
+          "answers": [
+            "ash",
+            "aspen"
+          ]
+        },
+        {
+          "label": "Red or Brown Leaves",
+          "answers": [
+            "dogwood",
+            "maple",
+            "oak"
+          ]
+        }
+      ],
+      "explanation": "Ash (yellow) and aspen (gold) turn yellow/gold. Dogwood (crimson/red), maple (red), and oak (rust brown) turn red/brown."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "details"
+      ],
+      "question": "The narrator searches high and low and finds leaves from five different trees: ginkgo, willow, elm, birch, and beech.",
+      "answer": true,
+      "explanation": "True. The poem lists: 'A ginkgo, a willow, An elm, birch, and beech.'"
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "details"
+      ],
+      "question": "Arrange the words to describe the maple tree's autumn color:",
+      "words": [
+        "wears",
+        "maple",
+        "red",
+        "The"
+      ],
+      "answer": [
+        "The",
+        "maple",
+        "wears",
+        "red"
+      ],
+      "explanation": "Correct sentence: 'The maple wears red.' This is a detail from the leaf description page."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "details"
+      ],
+      "question": "What is the squirrel doing in the yard to prepare for the change in weather?",
+      "options": [
+        "Digging a hole to bury its food treasure",
+        "Spinning a silken thread on the fence",
+        "Zipping up its warm winter jacket",
+        "Flying south with the geese"
+      ],
+      "answer": 0,
+      "explanation": "The story tells us: 'Squirrel digs a hole to bury its treasure. Squirrel is expecting a change in the weather.'"
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "details"
+      ],
+      "question": "The narrator sees geese honking above as they fly _______ in formation.",
+      "answer": "south",
+      "acceptedAnswers": [
+        "south",
+        "South"
+      ],
+      "hint": "The opposite of north.",
+      "explanation": "Geese fly south in formation to find warmer weather for winter."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "sequencing"
+      ],
+      "question": "Arrange the words to show how the narrator looks for leaves:",
+      "words": [
+        "low",
+        "and",
+        "high",
+        "search",
+        "I"
+      ],
+      "answer": [
+        "I",
+        "search",
+        "high",
+        "and",
+        "low"
+      ],
+      "explanation": "Correct sentence: 'I search high and low.' This means they looked everywhere."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "details"
+      ],
+      "question": "When the crickets no longer sing, it means the outside world has turned warm and bright.",
+      "answer": false,
+      "explanation": "False. When crickets stop singing late at night, the outside world has turned 'cold, black and white' (winter)."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "sequencing"
+      ],
+      "question": "What is the correct sequence of events when the narrator creates their book?",
+      "options": [
+        "Empty the pack -> Spread things on floor -> Decorate pages -> Arrange in place",
+        "Decorate pages -> Empty the pack -> Go outside -> Spread things on floor",
+        "Spread things on floor -> Go outside -> Decorate pages -> Zip jacket",
+        "Empty the pack -> Go to sleep -> Decorate pages -> Find a ginkgo leaf"
+      ],
+      "answer": 0,
+      "explanation": "In pages 155 and 157, the narrator first opens the door and empties the pack, spreads things, decorates the pages, and finally arranges everything in place."
+    }
+  ]
+}

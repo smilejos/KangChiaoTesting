@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "vocab_autumn_book_set2",
+    "version": "1.0",
+    "title": "My Autumn Book — Vocabulary Set 2",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary practice focusing on Part 1 words: crisp, weave, warning, treasure, shed, chilly, racket, beware.",
+    "guid": "df1d8075-b177-43cb-a07a-5767cb14f1da"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What is the garden 'shed' in the story?",
+      "options": [
+        "A small tool building",
+        "A large swimming pool",
+        "A baby animal",
+        "A red tree leaf"
+      ],
+      "answer": 0,
+      "explanation": "A shed is a small building, often in a garden, used for storing tools or objects."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "A 'chilly' wind is warm and feels nice in summer.",
+      "answer": false,
+      "explanation": "False. A 'chilly' wind is cold and makes you feel cold."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "If the sky turns gray and the air is 'crisp,' what season is starting?",
+      "options": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "answer": 2,
+      "explanation": "Crisp, cool air is a sign that autumn (fall) is starting."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "A 'warning' helps us prepare for a change or danger.",
+      "answer": true,
+      "explanation": "True. A warning is a message that tells us to prepare or look out for something coming."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What 'treasure' does a squirrel bury?",
+      "options": [
+        "Gold coins",
+        "Nuts and seeds",
+        "Old books",
+        "Toy cars"
+      ],
+      "answer": 1,
+      "explanation": "A squirrel's 'treasure' is the food (like acorns and seeds) it stores for winter."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Spiders _______ silken threads to make their webs.",
+      "answer": "weave",
+      "acceptedAnswers": [
+        "weave",
+        "Weave"
+      ],
+      "hint": "To cross threads over and under each other.",
+      "explanation": "Spiders weave (or spin) threads to construct a web for catching insects."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What is a 'racket' in the treetops?",
+      "options": [
+        "A quiet whisper",
+        "A loud, noisy sound",
+        "A yellow bird",
+        "A long tree branch"
+      ],
+      "answer": 1,
+      "explanation": "A 'racket' is a loud, confusing noise, like the buzzing sound cicadas make in trees."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words into Nouns (names of things) or Describing Words (adjectives):",
+      "items": [
+        "shed",
+        "treasure",
+        "racket",
+        "chilly",
+        "crisp"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "shed",
+            "treasure",
+            "racket"
+          ]
+        },
+        {
+          "label": "Describing Words",
+          "answers": [
+            "chilly",
+            "crisp"
+          ]
+        }
+      ],
+      "explanation": "'Shed,' 'treasure,' and 'racket' are nouns. 'Chilly' and 'crisp' describe the air or weather (adjectives)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "The phrase 'Better beware!' means you do not need to pay attention to anything.",
+      "answer": false,
+      "explanation": "False. 'Beware' means to be careful or alert to danger or changes."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "part1"
+      ],
+      "question": "Arrange the words to describe the wind in autumn:",
+      "words": [
+        "wind",
+        "is",
+        "chilly",
+        "The",
+        "very"
+      ],
+      "answer": [
+        "The",
+        "wind",
+        "is",
+        "very",
+        "chilly"
+      ],
+      "explanation": "Correct sentence: 'The wind is very chilly.' This wind makes us wear jackets."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Who gives the warning about summer leaving in the treetops?",
+      "options": [
+        "The spider",
+        "The cicada",
+        "The caterpillar",
+        "The dogwood"
+      ],
+      "answer": 1,
+      "explanation": "In the story, the cicada's buzzing warning tells us summer is leaving."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Cicada warns us: Better _______! Autumn is coming.",
+      "answer": "beware",
+      "acceptedAnswers": [
+        "beware",
+        "Beware"
+      ],
+      "hint": "Be careful or alert.",
+      "explanation": "The cicada says: 'Better beware! Summer is leaving! Autumn coming!'"
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "part1"
+      ],
+      "question": "Arrange the words to show where we keep tools:",
+      "words": [
+        "keep",
+        "tools",
+        "We",
+        "shed",
+        "in",
+        "the"
+      ],
+      "answer": [
+        "We",
+        "keep",
+        "tools",
+        "in",
+        "the",
+        "shed"
+      ],
+      "explanation": "Correct sentence: 'We keep tools in the shed.' The first word is capitalized."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "The words 'crisp' and 'chilly' can both describe cool weather.",
+      "answer": true,
+      "explanation": "True. Both words relate to coldness; 'crisp' air is cool and fresh, and a 'chilly' breeze is cold."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Which word describes what we do to make a basket or web using threads?",
+      "options": [
+        "beware",
+        "shed",
+        "weave",
+        "bury"
+      ],
+      "answer": 2,
+      "explanation": "To weave means to make a pattern or item (like a basket, web, or cloth) by crossing threads."
+    }
+  ]
+}

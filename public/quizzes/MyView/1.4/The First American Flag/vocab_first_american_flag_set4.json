@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "vocab_first_american_flag_set4",
+    "version": "1.0",
+    "title": "The First American Flag — Vocabulary Set 4",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Sentence completion practice using all 16 target words from 'The First American Flag'.",
+    "guid": "74aa0bdf-c047-4ed3-bb3f-cb9c03838f99"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "We raise the red, white, and blue _______ at the start of the school day.",
+      "options": [
+        "flag",
+        "state",
+        "patch",
+        "row"
+      ],
+      "answer": 0,
+      "explanation": "A flag is a national symbol made of cloth that is raised on a pole."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The U.S. flag has thirteen red and white stripes.",
+      "answer": true,
+      "explanation": "True. The flag has 13 stripes representing the original 13 states."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Taiwan is a beautiful _______ with friendly people and high mountains.",
+      "options": [
+        "state",
+        "country",
+        "leader",
+        "seamstress"
+      ],
+      "answer": 1,
+      "explanation": "Taiwan is a country, which is a land where people live together under one government."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "A seamstress is a person who builds stone houses.",
+      "answer": false,
+      "explanation": "False. A seamstress is a person who sews clothes and cloth items."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Hawaii became the fiftieth _______ to join the United States.",
+      "options": [
+        "state",
+        "country",
+        "leader",
+        "symbol"
+      ],
+      "answer": 0,
+      "explanation": "Hawaii is the 50th state of the United States, represented by the 50th star on the flag."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Please _______ the stars on the paper to find the total.",
+      "answer": "count",
+      "acceptedAnswers": [
+        "count",
+        "Count"
+      ],
+      "hint": "To say numbers one by one.",
+      "explanation": "To count means to say numbers in order to find how many items are present."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "Architects make drawings to _______ how a new house should look.",
+      "options": [
+        "design",
+        "count",
+        "join",
+        "add"
+      ],
+      "answer": 0,
+      "explanation": "To design is to plan and draw the appearance or structure of something."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these sentences based on whether they describe History/Governance or Shapes/Designs:",
+      "items": [
+        "We study the history",
+        "The stars are in a circle",
+        "Early leaders made laws",
+        "Stars are in straight rows",
+        "A flag is a symbol"
+      ],
+      "categories": [
+        {
+          "label": "History/Governance",
+          "answers": [
+            "We study the history",
+            "Early leaders made laws",
+            "A flag is a symbol"
+          ]
+        },
+        {
+          "label": "Shapes/Designs",
+          "answers": [
+            "The stars are in a circle",
+            "Stars are in straight rows"
+          ]
+        }
+      ],
+      "explanation": "History, leaders making laws, and symbols relate to history/governance. Circles and rows describe geometric shapes and designs."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The white stars on the blue field stand for the states of the country.",
+      "answer": true,
+      "explanation": "True. In this context, 'stand for' means they represent the states."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to describe the blue part of the flag:",
+      "words": [
+        "corner",
+        "has",
+        "blue",
+        "patch",
+        "The",
+        "a"
+      ],
+      "answer": [
+        "The",
+        "corner",
+        "has",
+        "a",
+        "blue",
+        "patch"
+      ],
+      "explanation": "Correct sentence: 'The corner has a blue patch.' The stars are sewn on this patch."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The class chose a student to be the _______ and guide the game.",
+      "options": [
+        "leader",
+        "patch",
+        "stripe",
+        "history"
+      ],
+      "answer": 0,
+      "explanation": "A leader is a person who guides or directs a group of people."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "When new students enter the class, they _______ the group.",
+      "answer": "join",
+      "acceptedAnswers": [
+        "join",
+        "Join",
+        "joined",
+        "Joined"
+      ],
+      "hint": "Become part of.",
+      "explanation": "To join means to become a part or member of a group or class."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "sentence-context"
+      ],
+      "question": "Arrange the words to show what we do in history class:",
+      "words": [
+        "study",
+        "history",
+        "We",
+        "the",
+        "can"
+      ],
+      "answer": [
+        "We",
+        "can",
+        "study",
+        "the",
+        "history"
+      ],
+      "explanation": "Correct sentence: 'We can study the history.' Capitalize the first word."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "To join a club means to leave it and never go back.",
+      "answer": false,
+      "explanation": "False. To join means to become a part of a club, which is the opposite of leaving."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sentence-context"
+      ],
+      "question": "The red heart is a _______ that stands for love and kindness.",
+      "options": [
+        "symbol",
+        "seamstress",
+        "history",
+        "leader"
+      ],
+      "answer": 0,
+      "explanation": "A symbol is an object or picture that represents a special idea, like a heart for love."
+    }
+  ]
+}

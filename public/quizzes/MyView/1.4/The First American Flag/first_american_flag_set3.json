@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "id": "first_american_flag_set3",
+    "version": "1.0",
+    "title": "The First American Flag — Set 3",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Details on historical designs, Betsy Ross, and timeline changes of the U.S. flag.",
+    "guid": "a6f40f17-e340-47bc-8729-8564f7f83d78"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "betsy-ross"
+      ],
+      "question": "In what city did the famous seamstress Betsy Ross live?",
+      "options": [
+        "Philadelphia",
+        "New York",
+        "Washington",
+        "Boston"
+      ],
+      "answer": 0,
+      "explanation": "The text states: 'Some people think it was a seamstress who lived in Philadelphia. Her name was Betsy Ross.'"
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "history"
+      ],
+      "question": "Historians know for sure exactly who sewed the very first American flag.",
+      "answer": false,
+      "explanation": "False. The text states: 'Who made the first flag? No one knows for sure.'"
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "francis-hopkinson"
+      ],
+      "question": "How many points did the stars have on Francis Hopkinson's flag?",
+      "options": [
+        "six points",
+        "five points",
+        "seven points",
+        "eight points"
+      ],
+      "answer": 0,
+      "explanation": "The text states: 'The corner had 13 six-pointed stars on a patch of blue.'"
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "flag-designs"
+      ],
+      "question": "On today's U.S. flag, the stars are arranged in a round circle.",
+      "answer": false,
+      "explanation": "False. Today's flag has stars arranged in rows, representing the 50 states."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "flag-designs"
+      ],
+      "question": "How many stripes are on the U.S. flag today?",
+      "options": [
+        "13 stripes",
+        "50 stripes",
+        "15 stripes",
+        "20 stripes"
+      ],
+      "answer": 0,
+      "explanation": "Today's U.S. flag has 13 stripes representing the original 13 states."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "flag-designs"
+      ],
+      "question": "The corner patch of the flag contains white stars on a background of _______.",
+      "answer": "blue",
+      "acceptedAnswers": [
+        "blue",
+        "Blue"
+      ],
+      "hint": "The color of the sky on a sunny day.",
+      "explanation": "The stars are placed on a blue field or patch in the top corner of the flag."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "history"
+      ],
+      "question": "By 1795, after new states joined, how many stars and stripes did the flag have?",
+      "options": [
+        "15 stars and 15 stripes",
+        "13 stars and 13 stripes",
+        "20 stars and 13 stripes",
+        "50 stars and 13 stripes"
+      ],
+      "answer": 0,
+      "explanation": "The text states: 'By 1795, the flag had 15 stars and 15 stripes' as new states were added."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these names based on whether they are associated with Flag Making/Designing or represent Other entities in the story:",
+      "items": [
+        "Betsy Ross",
+        "Francis Hopkinson",
+        "Hawaii",
+        "George Washington"
+      ],
+      "categories": [
+        {
+          "label": "Flag Makers/Designers",
+          "answers": [
+            "Betsy Ross",
+            "Francis Hopkinson"
+          ]
+        },
+        {
+          "label": "Other Mentions",
+          "answers": [
+            "Hawaii",
+            "George Washington"
+          ]
+        }
+      ],
+      "explanation": "Betsy Ross and Francis Hopkinson are associated with making or designing the flag. Hawaii is a state, and George Washington was an early leader."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "history"
+      ],
+      "question": "On June 14, 1777, 'Hopkinson's flag' became the first official flag of the United States.",
+      "answer": true,
+      "explanation": "True. The text explains: 'On June 14, 1777, “Hopkinson’s flag” became the first flag of the United States.'"
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "flag-designs"
+      ],
+      "question": "Arrange the words to describe how stars were placed on some old flags:",
+      "words": [
+        "rows",
+        "in",
+        "stars",
+        "The",
+        "were"
+      ],
+      "answer": [
+        "The",
+        "stars",
+        "were",
+        "in",
+        "rows"
+      ],
+      "explanation": "Correct sentence: 'The stars were in rows.' Some old flags used straight rows."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "history"
+      ],
+      "question": "What did the country decide to do in 1818 when there were 20 states?",
+      "options": [
+        "Go back to a flag with 13 stripes and add a star for each new state",
+        "Add 20 stripes to the flag",
+        "Remove all red stripes and make the flag solid blue",
+        "Stop using stars on the flag"
+      ],
+      "answer": 0,
+      "explanation": "The text states: 'By 1818, there were 20 states... So, the country went back to a flag with 13 stripes. A star was added for each new state.'"
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "history"
+      ],
+      "question": "The flag got its 50th star on July 4, _______.",
+      "answer": "1960",
+      "acceptedAnswers": [
+        "1960"
+      ],
+      "hint": "The year after 1959.",
+      "explanation": "Hawaii became the 50th state, and its star was added to the flag on July 4, 1960."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "flag-designs"
+      ],
+      "question": "Arrange the words to describe what some old flags had:",
+      "words": [
+        "circles",
+        "had",
+        "flags",
+        "Some",
+        "old"
+      ],
+      "answer": [
+        "Some",
+        "old",
+        "flags",
+        "had",
+        "circles"
+      ],
+      "explanation": "Correct sentence: 'Some old flags had circles.' The stars were placed in circular patterns."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "francis-hopkinson"
+      ],
+      "question": "Francis Hopkinson's flag design had 13 red and white stripes and 13 six-pointed stars on blue.",
+      "answer": true,
+      "explanation": "True. The text explains: 'His flag had 13 red and white stripes. The corner had 13 six-pointed stars on a patch of blue.'"
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "flag-designs"
+      ],
+      "question": "Why did early flags have stars in different patterns, like circles or rows?",
+      "options": [
+        "Because there was no single rule about how to arrange the stars as states joined",
+        "Because early leaders forgot how to sew straight lines",
+        "Because states wanted to design their own private flags",
+        "Because seamstresses wanted to show off different styles"
+      ],
+      "answer": 0,
+      "explanation": "The text shows that as states were added, stars were placed in circles or rows depending on the maker, before a final standard row design was chosen."
+    }
+  ]
+}

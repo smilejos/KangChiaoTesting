@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "id": "vocab_first_american_flag_set3",
+    "version": "1.0",
+    "title": "The First American Flag — Vocabulary Set 3",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary practice focusing on Part 2 words: seamstress, design, stand for, patch, join, add, history, symbol.",
+    "guid": "696599df-ca3c-41fa-8038-1cea401b7b0e"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What is a 'seamstress'?",
+      "options": [
+        "A woman who sews cloth items and clothes for a living",
+        "A leader who designs national flags",
+        "A country with 13 states",
+        "A round patch on a piece of clothing"
+      ],
+      "answer": 0,
+      "explanation": "A seamstress is a woman whose job is sewing and making clothes or cloth items."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "To 'design' something means to throw it away without looking at it.",
+      "answer": false,
+      "explanation": "False. To 'design' means to plan and draw the look or structure of something before making it."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "The flag is a _______ of our country because it represents our nation's identity.",
+      "options": [
+        "symbol",
+        "seamstress",
+        "patch",
+        "history"
+      ],
+      "answer": 0,
+      "explanation": "A 'symbol' is an object or picture that stands for or represents a larger idea or country."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "In the sentence 'The stars stand for the states,' 'stand for' means they represent the states.",
+      "answer": true,
+      "explanation": "True. To stand for means to represent, symbolize, or mean something."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What is a 'patch' as described in the story?",
+      "options": [
+        "A small piece or area of cloth that is different from the rest",
+        "A long line of red color",
+        "A woman who sews flags",
+        "A story about the past"
+      ],
+      "answer": 0,
+      "explanation": "A patch is a small area or piece of material, like the blue patch in the corner of the U.S. flag."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Over the years, new states _______ the country, making it larger.",
+      "answer": "joined",
+      "acceptedAnswers": [
+        "joined",
+        "join",
+        "Join",
+        "Joined"
+      ],
+      "hint": "Became part of or united with.",
+      "explanation": "To 'join' means to become a part or member of a larger group or country."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What is 'history'?",
+      "options": [
+        "The study of events that happened in the past",
+        "A plan for sewing a flag",
+        "A round shape made of stars",
+        "A leader who rules a state"
+      ],
+      "answer": 0,
+      "explanation": "History is the study or record of past events and people who lived before us."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Part 2 words into Nouns (naming words) or Verbs (action words):",
+      "items": [
+        "seamstress",
+        "patch",
+        "history",
+        "symbol",
+        "join"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "seamstress",
+            "patch",
+            "history",
+            "symbol"
+          ]
+        },
+        {
+          "label": "Verbs",
+          "answers": [
+            "join"
+          ]
+        }
+      ],
+      "explanation": "'Seamstress,' 'patch,' 'history,' and 'symbol' are naming words (nouns). 'Join' is an action word (verb)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "To 'add' something means to put it with something else to make it larger.",
+      "answer": true,
+      "explanation": "True. To add is to put extra pieces or items together with what is already there."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "part2"
+      ],
+      "question": "Arrange the words to show what stars represent on the flag:",
+      "words": [
+        "stand",
+        "for",
+        "The",
+        "stars",
+        "states"
+      ],
+      "answer": [
+        "The",
+        "stars",
+        "stand",
+        "for",
+        "states"
+      ],
+      "explanation": "Correct sentence: 'The stars stand for states.' Each star represents one state."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Who designed the first official U.S. flag on June 14, 1777?",
+      "options": [
+        "Francis Hopkinson",
+        "Betsy Ross",
+        "George Washington",
+        "Bobby Ross"
+      ],
+      "answer": 0,
+      "explanation": "Many people believe Francis Hopkinson designed the first flag, which was called the Stars and Stripes."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "When new states join, we must _______ stars to the flag.",
+      "answer": "add",
+      "acceptedAnswers": [
+        "add",
+        "Add"
+      ],
+      "hint": "To put something extra to make it larger.",
+      "explanation": "To 'add' means to join something extra, like adding stars for new states."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "part2"
+      ],
+      "question": "Arrange the words to show what we can study:",
+      "words": [
+        "study",
+        "history",
+        "We",
+        "the",
+        "can"
+      ],
+      "answer": [
+        "We",
+        "can",
+        "study",
+        "the",
+        "history"
+      ],
+      "explanation": "Correct sentence: 'We can study the history.' Capitalize the first word."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "The words 'join' and 'leave' have the exact same meaning.",
+      "answer": false,
+      "explanation": "False. They are opposites (antonyms). Join means to come together, and leave means to go away."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Which of these is a synonym for 'designed' in the context of creating a flag?",
+      "options": [
+        "planned and drew",
+        "sewed and sold",
+        "counted and wrote",
+        "joined and left"
+      ],
+      "answer": 0,
+      "explanation": "To design something means to plan and draw how it should look before it is made."
+    }
+  ]
+}

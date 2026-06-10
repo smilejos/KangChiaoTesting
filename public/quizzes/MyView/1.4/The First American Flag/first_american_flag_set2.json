@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "first_american_flag_set2",
+    "version": "1.0",
+    "title": "The First American Flag — Set 2",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary and word meanings in the context of 'The First American Flag'.",
+    "guid": "208a6cea-32bf-4d5f-b9cd-22c658a6c5ad"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "In the story, 'leaders' decided the country needed a flag. Who are leaders?",
+      "options": [
+        "People who guide and make decisions for a country",
+        "People who buy flags from other nations",
+        "Women who sew clothes in Philadelphia",
+        "The white stars on the blue field"
+      ],
+      "answer": 0,
+      "explanation": "Leaders are the people in charge of a country or group, like the early leaders of the United States."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "A 'stripe' on the flag refers to a round circle of stars.",
+      "answer": false,
+      "explanation": "False. Stripes are the long, straight red and white bands of color on the flag."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "What does each white star on the flag represent?",
+      "options": [
+        "A state",
+        "A leader",
+        "A seamstress",
+        "A blue corner"
+      ],
+      "answer": 0,
+      "explanation": "The text explains: 'A star was added for each new state.' So each star represents a state."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "Betsy Ross was a 'seamstress,' which means she sewed clothes and flags.",
+      "answer": true,
+      "explanation": "True. A seamstress is a woman who earns a living by sewing and making items from cloth."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "Over the years, new states 'joined' the country. What does 'joined' mean?",
+      "options": [
+        "Became part of the country",
+        "Left the country to be alone",
+        "Fell off the flag's blue field",
+        "Turned red and white"
+      ],
+      "answer": 0,
+      "explanation": "To join means to become part of a group, so joining the country means becoming a new state."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "Francis Hopkinson _______ the first official U.S. flag on June 14, 1777.",
+      "answer": "designed",
+      "acceptedAnswers": [
+        "designed",
+        "Designed"
+      ],
+      "hint": "Planned and drew how the flag should look.",
+      "explanation": "Hopkinson planned and drew the structure of the first flag, which makes him the designer."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "In the sentence 'The star stands for the state of Hawaii,' what does 'stands for' mean?",
+      "options": [
+        "represents or symbolizes",
+        "stands up on two legs",
+        "draws a picture of",
+        "counts to fifty"
+      ],
+      "answer": 0,
+      "explanation": "To stand for means to represent or serve as a symbol of an idea or region."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these flag items based on whether they represent Today's States or the Original States:",
+      "items": [
+        "50 stars",
+        "13 stripes",
+        "One star",
+        "First 13 states"
+      ],
+      "categories": [
+        {
+          "label": "Represents Today's States",
+          "answers": [
+            "50 stars",
+            "One star"
+          ]
+        },
+        {
+          "label": "Represents Original States",
+          "answers": [
+            "13 stripes",
+            "First 13 states"
+          ]
+        }
+      ],
+      "explanation": "Today's 50 stars and each individual star represent the current states. The 13 stripes represent the original 13 states."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "A blue 'patch' in the corner is the small area of cloth where the stars are placed.",
+      "answer": true,
+      "explanation": "True. A patch is a distinct small area of cloth, here containing the stars on a patch of blue."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "context-clues"
+      ],
+      "question": "Arrange the words to show where stars were placed on Hopkinson's flag:",
+      "words": [
+        "patch",
+        "corner",
+        "had",
+        "blue",
+        "The",
+        "a"
+      ],
+      "answer": [
+        "The",
+        "corner",
+        "had",
+        "a",
+        "blue",
+        "patch"
+      ],
+      "explanation": "Correct sentence: 'The corner had a blue patch.' This patch held the 13 stars."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "Early leaders decided we needed a flag when our 'country was new.' What is a country?",
+      "options": [
+        "A nation with its own government and land",
+        "A local school in Philadelphia",
+        "A type of sewing needle",
+        "A group of red stripes"
+      ],
+      "answer": 0,
+      "explanation": "A country is an independent nation that occupies a particular territory and has its own government."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "When new states were added, it means they were joined _______ the nation.",
+      "answer": "to",
+      "acceptedAnswers": [
+        "to",
+        "To"
+      ],
+      "hint": "A preposition showing connection.",
+      "explanation": "To add new states means to connect them to the existing country, increasing its size."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "context-clues"
+      ],
+      "question": "Arrange the words to describe what the country did in 1818:",
+      "words": [
+        "stripes",
+        "back",
+        "went",
+        "country",
+        "The",
+        "to",
+        "thirteen"
+      ],
+      "answer": [
+        "The",
+        "country",
+        "went",
+        "back",
+        "to",
+        "thirteen",
+        "stripes"
+      ],
+      "explanation": "Correct sentence: 'The country went back to thirteen stripes.' Capitalize 'The.'"
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "The word 'count' in 'Count them!' is an action telling us to find the number of stars.",
+      "answer": true,
+      "explanation": "True. Count is a verb that directs the reader to determine the total number of items."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "What does the sentence 'The flag of the United States has come a long way' mean?",
+      "options": [
+        "The flag has changed and developed a lot over its long history",
+        "The flag has traveled a very far distance from another land",
+        "The flag is very heavy and long",
+        "The flag is carried by leaders who walk a long way"
+      ],
+      "answer": 0,
+      "explanation": "To 'come a long way' is an idiom meaning to make significant progress or change over time."
+    }
+  ]
+}

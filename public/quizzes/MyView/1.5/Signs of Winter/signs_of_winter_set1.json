@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "id": "signs_of_winter_set1",
+    "version": "1.0",
+    "title": "Signs of Winter — Set 1",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Comprehension on daylight hours, Earth orbit, and animal preparation in winter.",
+    "guid": "83551f8a-25e5-472c-ba03-3c2f8a8e740c"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "seasons"
+      ],
+      "question": "How many seasons are there during the year?",
+      "options": [
+        "two",
+        "three",
+        "four",
+        "five"
+      ],
+      "answer": 2,
+      "explanation": "There are four seasons during the year: spring, summer, autumn, and winter."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "global-winter"
+      ],
+      "question": "In France it is winter in December, but in New Zealand it is winter in July.",
+      "answer": true,
+      "explanation": "True. Because they are in different hemispheres, France and New Zealand experience winter in different months."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "snowman"
+      ],
+      "question": "What are Vanessa and Tom building in the winter?",
+      "options": [
+        "A snowman",
+        "A wood lodge",
+        "A sand castle",
+        "A brick house"
+      ],
+      "answer": 0,
+      "explanation": "The text says: 'Vanessa and Tom are building a snowman. They start by making a huge snowball.'"
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "daylight"
+      ],
+      "question": "There is very little daylight in winter, so it gets dark early in the evening.",
+      "answer": true,
+      "explanation": "True. Winter has shorter days and longer nights, meaning it gets dark early."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "trees"
+      ],
+      "question": "What do pine and fir trees have that stay on them during the winter?",
+      "options": [
+        "needles",
+        "flowers",
+        "large apples",
+        "red leaves"
+      ],
+      "answer": 0,
+      "explanation": "The text mentions: 'Pine and fir trees have needles. The needles stay on the trees during winter.'"
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "earth-orbit"
+      ],
+      "question": "Winter happens in the parts of Earth that are _______ from the sun.",
+      "answer": "farthest",
+      "acceptedAnswers": [
+        "farthest",
+        "Farthest"
+      ],
+      "hint": "The opposite of closest.",
+      "explanation": "Earth's orbit around the sun brings some parts closer to it, while other parts get farther. Winter happens in the parts farthest from the sun."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "trees"
+      ],
+      "question": "Many trees are bare in winter because their branches grow thick green leaves.",
+      "answer": false,
+      "explanation": "False. 'Bare' means their branches do not have any leaves at all in winter."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these details based on whether they describe Plants or Animals in winter:",
+      "items": [
+        "pine needles stay",
+        "branches don't have leaves",
+        "fur keeps them warm",
+        "bison coat grows long",
+        "collect sticks and logs"
+      ],
+      "categories": [
+        {
+          "label": "Plants",
+          "answers": [
+            "pine needles stay",
+            "branches don't have leaves"
+          ]
+        },
+        {
+          "label": "Animals",
+          "answers": [
+            "fur keeps them warm",
+            "bison coat grows long",
+            "collect sticks and logs"
+          ]
+        }
+      ],
+      "explanation": "Needles and leafless branches describe plants. Fur coats and collecting sticks describe animal adaptations."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "beavers"
+      ],
+      "question": "Beavers eat the bark of sticks and logs during the winter.",
+      "answer": true,
+      "explanation": "True. Beavers collect sticks and logs in autumn and eat the bark during the cold winter."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "earth-orbit"
+      ],
+      "question": "Arrange the words to show how Earth moves:",
+      "words": [
+        "sun",
+        "around",
+        "travels",
+        "Earth",
+        "the"
+      ],
+      "answer": [
+        "Earth",
+        "travels",
+        "around",
+        "the",
+        "sun"
+      ],
+      "explanation": "Correct sentence: 'Earth travels around the sun.' This movement changes the seasons."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "bison"
+      ],
+      "question": "Why does an American bison's coat grow extra long and thick in winter?",
+      "options": [
+        "To keep it warm in the cold temperature",
+        "To help it run faster in deep snow",
+        "To hide from other animals in the forest",
+        "To collect extra sticks and logs"
+      ],
+      "answer": 0,
+      "explanation": "The thick and long coat of the bison keeps it warm when the temperature is very cold."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "beavers"
+      ],
+      "question": "Beavers store extra logs in the water near their _______.",
+      "answer": "lodges",
+      "acceptedAnswers": [
+        "lodges",
+        "lodge",
+        "Lodges"
+      ],
+      "hint": "A beaver's home made of mud and wood.",
+      "explanation": "Beavers store logs in the water near their lodges to eat the bark during winter."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "weather"
+      ],
+      "question": "Arrange the words to describe the winter weather:",
+      "words": [
+        "temperature",
+        "The",
+        "is",
+        "very",
+        "cold"
+      ],
+      "answer": [
+        "The",
+        "temperature",
+        "is",
+        "very",
+        "cold"
+      ],
+      "explanation": "Correct sentence: 'The temperature is very cold.' This makes animals grow thick coats."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "sledding"
+      ],
+      "question": "Bobby likes to build a wooden lodge in the water in winter.",
+      "answer": false,
+      "explanation": "False. In the text, Bobby likes to go sledding in the winter, while beavers build lodges."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "comprehension",
+        "seasons"
+      ],
+      "question": "Based on the text, what is the main cause of the seasons changing on Earth?",
+      "options": [
+        "Earth traveling around the sun, which moves parts of Earth closer or farther from it",
+        "Animals moving to warmer places for the winter",
+        "Vanessa and Tom making a huge snowman in December",
+        "Crickets singing late at night"
+      ],
+      "answer": 0,
+      "explanation": "Seasons change because Earth travels around the sun, causing different parts of the planet to get closer or farther from the sun's warmth."
+    }
+  ]
+}

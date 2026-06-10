@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "autumn_book_set2",
+    "version": "1.0",
+    "title": "My Autumn Book — Set 2",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary and word meanings in the context of 'My Autumn Book'.",
+    "guid": "5f1927b4-45fc-4656-a62c-9766886af2b8"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "In the story, 'The air is crisp' means the weather is:",
+      "options": [
+        "Hot and sticky",
+        "Cool, fresh, and dry",
+        "Very wet and rainy",
+        "Dark and cloudy"
+      ],
+      "answer": 1,
+      "explanation": "Crisp air is cool and dry, which is how the air feels when autumn starts."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "To 'investigate' in the story means to run upstairs and hide in the bedroom.",
+      "answer": false,
+      "explanation": "False. To 'investigate' means to go outside and search for signs of autumn."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "In the garden shed, what is the spider 'weaving'?",
+      "options": [
+        "A silken thread to make a web",
+        "A warm winter jacket",
+        "A pile of dry leaves",
+        "A nest for baby birds"
+      ],
+      "answer": 0,
+      "explanation": "The spider weaves (spins) a silken thread, which is how it builds a spider web."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "A 'chilly' wind is very hot and makes you want to go barefoot.",
+      "answer": false,
+      "explanation": "False. A 'chilly' wind is cold, which is why the narrator zips up their jacket."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "The woodpecker agrees that summer is leaving with a 'rap-a-tap drumming.' What is drumming?",
+      "options": [
+        "Singing a high song",
+        "Tapping fast on a tree trunk with its beak",
+        "Sleeping inside a cocoon",
+        "Flying south in formation"
+      ],
+      "answer": 1,
+      "explanation": "A woodpecker drums by tapping its beak quickly on tree bark, making a sound like a drum."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "The squirrel digs a hole to bury its treasure. The 'treasure' refers to the squirrel's winter _______.",
+      "answer": "food",
+      "acceptedAnswers": [
+        "food",
+        "Food",
+        "nuts",
+        "Nuts"
+      ],
+      "hint": "What squirrels eat to survive winter.",
+      "explanation": "The squirrel's treasure is the acorns and seeds it collects and hides to eat when it gets cold."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "The dogwood tree shows off a 'crimson gown.' A 'gown' is a word describing:",
+      "options": [
+        "The roots of the tree under the ground",
+        "The beautiful red leaves covering the tree like a dress",
+        "The acorns falling onto the grass",
+        "The bird nest on the branches"
+      ],
+      "answer": 1,
+      "explanation": "A 'gown' is a long dress. The author compares the crimson leaves covering the tree to a beautiful gown."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort the colors of trees in the fall celebration based on their descriptions:",
+      "items": [
+        "crimson (dogwood)",
+        "rust brown (oak)",
+        "yellow (ash)",
+        "red (maple)",
+        "gold (aspen)"
+      ],
+      "categories": [
+        {
+          "label": "Red or Brown Shades",
+          "answers": [
+            "crimson (dogwood)",
+            "rust brown (oak)",
+            "red (maple)"
+          ]
+        },
+        {
+          "label": "Yellow or Gold Shades",
+          "answers": [
+            "yellow (ash)",
+            "gold (aspen)"
+          ]
+        }
+      ],
+      "explanation": "Dogwood (crimson), oak (rust brown), and maple (red) are red/brown. Ash (yellow) and aspen (gold) are yellow/gold."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "In the phrase 'crickets chirruping in the clover,' 'chirruping' means the crickets are making high, short sounds.",
+      "answer": true,
+      "explanation": "True. Chirruping is the sound crickets make, which is another word for chirping."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "context-clues"
+      ],
+      "question": "Arrange the words to describe how the leaves move in the air:",
+      "words": [
+        "round",
+        "leaves",
+        "spinning",
+        "The",
+        "are"
+      ],
+      "answer": [
+        "The",
+        "leaves",
+        "are",
+        "spinning",
+        "round"
+      ],
+      "explanation": "Correct sentence: 'The leaves are spinning round.' This is a sign of autumn winds."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "When the author says there is 'no time to delay,' it means the narrator must:",
+      "options": [
+        "Go to sleep immediately",
+        "Rush outside quickly before the season changes completely",
+        "Wait for the sun to rise",
+        "Stop collecting leaves"
+      ],
+      "answer": 1,
+      "explanation": "No time to delay means to move quickly because changes are happening fast in nature."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "When trees sway in the breeze, they move gently from side to _______.",
+      "answer": "side",
+      "acceptedAnswers": [
+        "side",
+        "Side"
+      ],
+      "hint": "The opposite of side.",
+      "explanation": "To 'sway' means to move slowly and gently back and forth or side to side."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "context-clues"
+      ],
+      "question": "Arrange the words to show what happens to acorns in the wind:",
+      "words": [
+        "breeze",
+        "in",
+        "shake",
+        "the",
+        "Acorns",
+        "loose"
+      ],
+      "answer": [
+        "Acorns",
+        "shake",
+        "loose",
+        "in",
+        "the",
+        "breeze"
+      ],
+      "explanation": "Correct sentence: 'Acorns shake loose in the breeze.' Capitalize 'Acorns.'"
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "A 'whirlwind of color' means the leaves are falling in a straight, quiet line.",
+      "answer": false,
+      "explanation": "False. A whirlwind is a spinning wind, so a whirlwind of color means leaves are spinning and dancing in circles."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "comprehension",
+        "context-clues"
+      ],
+      "question": "What does 'blankets the ground' mean in 'A whirlwind of color that blankets the ground'?",
+      "options": [
+        "It covers the ground completely like a thick cover",
+        "It makes the ground very hot",
+        "It keeps the trees warm",
+        "It blows all the dirt away"
+      ],
+      "answer": 0,
+      "explanation": "To 'blanket' means to cover a surface completely, just as fallen leaves cover the grass."
+    }
+  ]
+}

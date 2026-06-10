@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "vocab_first_american_flag_set2",
+    "version": "1.0",
+    "title": "The First American Flag — Vocabulary Set 2",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary practice focusing on Part 1 words: flag, stripe, leader, state, country, count, circle, row.",
+    "guid": "f081cd48-1f66-4c5b-99fe-8d0f893b8143"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What represents a country and is made of red, white, and blue cloth?",
+      "options": [
+        "flag",
+        "state",
+        "patch",
+        "row"
+      ],
+      "answer": 0,
+      "explanation": "A flag is a cloth representation of a nation. The U.S. flag is red, white, and blue."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "A 'stripe' is a round shape like a wheel.",
+      "answer": false,
+      "explanation": "False. A stripe is a long, straight band of color, whereas a circle is a round shape."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Which word describes a land where people live together under one government?",
+      "options": [
+        "state",
+        "country",
+        "circle",
+        "row"
+      ],
+      "answer": 1,
+      "explanation": "A country is an area of land that forms a politically independent nation."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "A 'circle' is a round shape with no corners.",
+      "answer": true,
+      "explanation": "True. A circle is a perfectly round, cornerless shape. Sometimes stars on flags were in a circle."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "What is a 'state' in the United States?",
+      "options": [
+        "A part of the country with its own local laws and government",
+        "A leader who decides flag designs",
+        "A seamstress who sews clothes",
+        "A round line of white stars"
+      ],
+      "answer": 0,
+      "explanation": "A state is one of the fifty regions that make up the United States, each having its own local government."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "The teacher asked the children to _______ the stripes on the flag.",
+      "answer": "count",
+      "acceptedAnswers": [
+        "count",
+        "Count"
+      ],
+      "hint": "To say numbers one by one to find the total.",
+      "explanation": "To 'count' is to enumerate numbers in order to determine the total quantity."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Who is a 'leader' in a country?",
+      "options": [
+        "A person who guides or rules a group or nation",
+        "A person who sews clothes for money",
+        "A stripe of red color on a flag",
+        "A region like Hawaii or Alaska"
+      ],
+      "answer": 0,
+      "explanation": "A leader is a person who directs or guides a group, such as the leaders who decided the country needed a flag."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Part 1 words into Nouns (naming words) or Verbs (action words):",
+      "items": [
+        "flag",
+        "country",
+        "leader",
+        "row",
+        "count"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "flag",
+            "country",
+            "leader",
+            "row"
+          ]
+        },
+        {
+          "label": "Verbs",
+          "answers": [
+            "count"
+          ]
+        }
+      ],
+      "explanation": "'Flag,' 'country,' 'leader,' and 'row' are nouns. 'Count' is the action of naming numbers (verb)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "A 'row' is a straight line of things side by side.",
+      "answer": true,
+      "explanation": "True. A row describes objects placed side-by-side in a straight line, like stars arranged in rows."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "part1"
+      ],
+      "question": "Arrange the words to describe how stars were placed on some old flags:",
+      "words": [
+        "circle",
+        "were",
+        "stars",
+        "in",
+        "The",
+        "a"
+      ],
+      "answer": [
+        "The",
+        "stars",
+        "were",
+        "in",
+        "a",
+        "circle"
+      ],
+      "explanation": "Correct sentence: 'The stars were in a circle.' This is how one old design looked."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "Why did leaders decide the country needed a flag when it was new?",
+      "options": [
+        "To represent the new country and states",
+        "To sell flags to other countries",
+        "To help children learn how to count to thirteen",
+        "To cover the windows of the garden shed"
+      ],
+      "answer": 0,
+      "explanation": "Leaders wanted a flag to serve as a symbol of unity and representation for the new country."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "George Washington was a famous American _______ during the war.",
+      "answer": "leader",
+      "acceptedAnswers": [
+        "leader",
+        "Leader"
+      ],
+      "hint": "A person who guides or rules a group.",
+      "explanation": "A leader guides or directs others, which describes the role of early country builders."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "part1"
+      ],
+      "question": "Arrange the words to show what we can do to the flag's lines:",
+      "words": [
+        "count",
+        "red",
+        "We",
+        "stripes",
+        "the",
+        "can"
+      ],
+      "answer": [
+        "We",
+        "can",
+        "count",
+        "the",
+        "red",
+        "stripes"
+      ],
+      "explanation": "Correct sentence: 'We can count the red stripes.' Capitalize the first word."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "The words 'circle' and 'row' describe the exact same shape.",
+      "answer": false,
+      "explanation": "False. A circle is a round loop, while a row is a straight, flat line."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "part1"
+      ],
+      "question": "How many red and white stripes are on the U.S. flag today?",
+      "options": [
+        "13 stripes",
+        "50 stripes",
+        "20 stripes",
+        "15 stripes"
+      ],
+      "answer": 0,
+      "explanation": "There are 13 stripes representing the original 13 states that founded the country."
+    }
+  ]
+}

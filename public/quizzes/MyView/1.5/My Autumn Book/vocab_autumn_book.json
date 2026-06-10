@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "id": "vocab_autumn_book",
+    "version": "1.0",
+    "title": "My Autumn Book — Vocabulary Set 1",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary practice using all 16 target words from 'My Autumn Book'.",
+    "guid": "090c6611-d84f-4ce4-8c4c-2d9878d698bf"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "If the weather or air is 'crisp,' what does it mean?",
+      "options": [
+        "Warm and wet",
+        "Fresh, cold, and dry",
+        "Hot and sunny",
+        "Very dark and rainy"
+      ],
+      "answer": 1,
+      "explanation": "Crisp air is pleasantly cool, fresh, and dry, which is typical for autumn days."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "The word 'silken' describes something that is rough and hard like stone.",
+      "answer": false,
+      "explanation": "False. 'Silken' describes something soft, smooth, and shiny, like a spider's silk thread."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Which word refers to a rich, deep red color?",
+      "options": [
+        "crimson",
+        "yellow",
+        "rust",
+        "gold"
+      ],
+      "answer": 0,
+      "explanation": "Crimson is a deep red color, like the gown worn by the dogwood tree in autumn."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "To 'delay' means to wait or make something happen later.",
+      "answer": true,
+      "explanation": "True. To delay is to slow down or put off an action until a later time."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "What is a 'warning'?",
+      "options": [
+        "A welcome party",
+        "A statement telling you of a danger or change",
+        "A kind of bird",
+        "A dry leaf"
+      ],
+      "answer": 1,
+      "explanation": "A warning is a sign or message telling you to be careful because of a danger or change."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Squirrel digs a hole to bury its hidden _______.",
+      "answer": "treasure",
+      "acceptedAnswers": [
+        "treasure",
+        "Treasure"
+      ],
+      "hint": "Something valuable or special that is saved or hidden.",
+      "explanation": "In the story, the squirrel buries its 'treasure' (acorns/nuts) in the ground."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "What does it mean to 'weave'?",
+      "options": [
+        "To run very fast",
+        "To spin threads together to make something",
+        "To make a loud sound",
+        "To fall off a branch"
+      ],
+      "answer": 1,
+      "explanation": "To weave is to make something (like a web or cloth) by crossing threads over and under each other."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words into Nouns (naming words) or Verbs (action words):",
+      "items": [
+        "shed",
+        "racket",
+        "treasure",
+        "investigate",
+        "arrange"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "shed",
+            "racket",
+            "treasure"
+          ]
+        },
+        {
+          "label": "Verbs",
+          "answers": [
+            "investigate",
+            "arrange"
+          ]
+        }
+      ],
+      "explanation": "'Shed' (a building), 'racket' (a loud noise), and 'treasure' are nouns. 'Investigate' and 'arrange' are verbs."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "To 'sway' means to move quickly up and down like a bouncing ball.",
+      "answer": false,
+      "explanation": "False. To 'sway' is to move slowly back and forth or side to side, like branches in a gentle breeze."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "verbs"
+      ],
+      "question": "Arrange the words to show what a spider does:",
+      "words": [
+        "web",
+        "spider",
+        "weaves",
+        "The",
+        "a"
+      ],
+      "answer": [
+        "The",
+        "spider",
+        "weaves",
+        "a",
+        "web"
+      ],
+      "explanation": "Correct sentence: 'The spider weaves a web.' Woven threads form the spider's home."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "What is a 'whirlwind'?",
+      "options": [
+        "A pool of cold rain on the ground",
+        "A spinning wind that moves quickly",
+        "A small animal in the forest",
+        "A heavy blanket used for sleeping"
+      ],
+      "answer": 1,
+      "explanation": "A whirlwind is a wind that spins rapidly in a circle, like swirling leaves on a windy day."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "A whirlwind of color _______ the ground with beautiful leaves.",
+      "answer": "blankets",
+      "acceptedAnswers": [
+        "blankets",
+        "blanket",
+        "Blankets"
+      ],
+      "hint": "Covers something completely like a blanket.",
+      "explanation": "To blanket means to cover a surface completely, just like leaves cover the soil in autumn."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "verbs"
+      ],
+      "question": "Arrange the words to show what we do to the garden shed:",
+      "words": [
+        "garden",
+        "We",
+        "shed",
+        "investigate",
+        "the"
+      ],
+      "answer": [
+        "We",
+        "investigate",
+        "the",
+        "garden",
+        "shed"
+      ],
+      "explanation": "Correct sentence: 'We investigate the garden shed.' Investigate means to explore and study."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "adjectives"
+      ],
+      "question": "If a wind is 'chilly,' it means the wind is hot and makes you sweat.",
+      "answer": false,
+      "explanation": "False. A 'chilly' wind is cold and makes you feel cold or want to zip your jacket."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "Which of these words means to put things in a neat or orderly position?",
+      "options": [
+        "sway",
+        "delay",
+        "arrange",
+        "weave"
+      ],
+      "answer": 2,
+      "explanation": "To 'arrange' means to place or organize things in a particular order or space, like leaves in a scrapbook."
+    }
+  ]
+}

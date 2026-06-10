@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "id": "first_american_flag_set1",
+    "version": "1.0",
+    "title": "The First American Flag — Set 1",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Comprehension on the history, stars, stripes, and makers of the American flag.",
+    "guid": "67e29f83-5b04-4c6f-9212-2994d6df33cc"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "colors"
+      ],
+      "question": "What colors are on the American flag?",
+      "options": [
+        "red, white, and blue",
+        "green, yellow, and red",
+        "black, white, and red",
+        "blue, yellow, and green"
+      ],
+      "answer": 0,
+      "explanation": "The text states: 'Our flag is red, white, and blue. It has stars and stripes.'"
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "history"
+      ],
+      "question": "The American flag has always looked exactly the same as it does today.",
+      "answer": false,
+      "explanation": "False. The text states: 'But did you know that the American flag has not always looked the same?'"
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "states"
+      ],
+      "question": "How many states were in the country when the first flag was made?",
+      "options": [
+        "13 states",
+        "20 states",
+        "50 states",
+        "15 states"
+      ],
+      "answer": 0,
+      "explanation": "The text says: 'Back then, there were only 13 states. The first flag had a star and a stripe for each state.'"
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "betsy-ross"
+      ],
+      "question": "Some people think that Betsy Ross, a seamstress in Philadelphia, made the first flag.",
+      "answer": true,
+      "explanation": "True. The text mentions: 'Some people think it was a seamstress who lived in Philadelphia. Her name was Betsy Ross.'"
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "flag-designs"
+      ],
+      "question": "How many stars and stripes did the very first American flag have?",
+      "options": [
+        "13 stars and 13 stripes",
+        "50 stars and 13 stripes",
+        "13 stars and 50 stripes",
+        "50 stars and 50 stripes"
+      ],
+      "answer": 0,
+      "explanation": "The text states: 'The first flag had 13 stars and 13 stripes, like this one.'"
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "history"
+      ],
+      "question": "Over the years, as new states joined the country, _______ were added to the blue field.",
+      "answer": "stars",
+      "acceptedAnswers": [
+        "stars",
+        "Stars"
+      ],
+      "hint": "The white shapes on the blue patch.",
+      "explanation": "The text states: 'Stars were added to the blue field' as new states joined."
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "flag-designs"
+      ],
+      "question": "The stars on old flags were always arranged in straight rows, never in a circle.",
+      "answer": false,
+      "explanation": "False. The text states: 'Sometimes the stars were in a circle. Other times they were in rows.'"
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "sorting"
+      ],
+      "question": "Sort these flags based on whether they had 13 Stripes or 15 Stripes according to the text:",
+      "items": [
+        "First U.S. flag (1777)",
+        "Flag in 1795",
+        "Flag in 1818",
+        "Today's U.S. flag"
+      ],
+      "categories": [
+        {
+          "label": "13 Stripes",
+          "answers": [
+            "First U.S. flag (1777)",
+            "Flag in 1818",
+            "Today's U.S. flag"
+          ]
+        },
+        {
+          "label": "15 Stripes",
+          "answers": [
+            "Flag in 1795"
+          ]
+        }
+      ],
+      "explanation": "The first flag, the 1818 flag, and today's flag have 13 stripes. The 1795 flag had 15 stripes before the country decided to return to 13."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "francis-hopkinson"
+      ],
+      "question": "Hopkinson's flag, which became the first official flag on June 14, 1777, was called the Stars and Stripes.",
+      "answer": true,
+      "explanation": "True. The text states: 'On June 14, 1777, “Hopkinson’s flag” became the first flag... It was called the Stars and Stripes.'"
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "states"
+      ],
+      "question": "Arrange the words to describe today's country size:",
+      "words": [
+        "states",
+        "country",
+        "fifty",
+        "has",
+        "Our"
+      ],
+      "answer": [
+        "Our",
+        "country",
+        "has",
+        "fifty",
+        "states"
+      ],
+      "explanation": "Correct sentence: 'Our country has fifty states.' There is one star for each state on the flag today."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "flag-designs"
+      ],
+      "question": "Why did the country go back to having only 13 stripes on the flag in 1818?",
+      "options": [
+        "Adding a new stripe for each state would make stripes too small or the flag too tall",
+        "The leaders ran out of red fabric to make stripes",
+        "Betsy Ross did not want to sew any more stripes",
+        "Some states decided to leave the country"
+      ],
+      "answer": 0,
+      "explanation": "The text states: 'Adding a new stripe for each new state would mean very small stripes or a very tall flag! So, the country went back to a flag with 13 stripes.'"
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "history"
+      ],
+      "question": "Today's flag got its 50th star on July 4, _______.",
+      "answer": "1960",
+      "acceptedAnswers": [
+        "1960"
+      ],
+      "hint": "The year after 1959.",
+      "explanation": "The text states: 'The flag got its 50th star on July 4, 1960.'"
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "betsy-ross"
+      ],
+      "question": "Arrange the words to show what Betsy Ross did:",
+      "words": [
+        "first",
+        "flag",
+        "made",
+        "the",
+        "Betsy",
+        "Ross"
+      ],
+      "answer": [
+        "Betsy",
+        "Ross",
+        "made",
+        "the",
+        "first",
+        "flag"
+      ],
+      "explanation": "Correct sentence: 'Betsy Ross made the first flag.' Many people believe she was the maker."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "states"
+      ],
+      "question": "The 50th star added to the blue field of the flag stands for the state of Hawaii.",
+      "answer": true,
+      "explanation": "True. The text explains: 'The star stands for the state of Hawaii,' which joined as the 50th state."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "comprehension",
+        "symbols"
+      ],
+      "question": "What is the meaning of the 13 stripes on the flag today?",
+      "options": [
+        "They stand for the first 13 states that started the country",
+        "They represent the 13 leaders who designed the flag",
+        "They represent 13 months of the year",
+        "They are just a decorative pattern with no meaning"
+      ],
+      "answer": 0,
+      "explanation": "The text states: 'It has 13 stripes, for the first 13 states.' They represent the original 13 colonies."
+    }
+  ]
+}

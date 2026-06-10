@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "vocab_first_american_flag",
+    "version": "1.0",
+    "title": "The First American Flag — Vocabulary Set 1",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary practice using all 16 target words from 'The First American Flag'.",
+    "guid": "7fb8cf72-5d52-4009-9e12-3e76d685db49"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "Which word refers to a piece of cloth with a special design that represents a country?",
+      "options": [
+        "flag",
+        "patch",
+        "stripe",
+        "state"
+      ],
+      "answer": 0,
+      "explanation": "A flag is a piece of cloth containing colors and patterns that represents a country or group."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "A 'stripe' is a long, narrow band or line of a different color.",
+      "answer": true,
+      "explanation": "True. The American flag has red and white stripes, which are long, colored bands."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "What is a 'country'?",
+      "options": [
+        "A small garden shed",
+        "A land where people live under one government",
+        "A round shape like a circle",
+        "A woman who sews clothes"
+      ],
+      "answer": 1,
+      "explanation": "A country is an area of land that is controlled by its own government, like Taiwan or the United States."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "A 'seamstress' is a woman who sews clothes and other cloth items for a living.",
+      "answer": true,
+      "explanation": "True. Betsy Ross was a famous seamstress who earned her living by sewing flags and clothes."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "What is a 'state' in the context of a country?",
+      "options": [
+        "A region or part of a country that has its own local government",
+        "A leader who rules the land",
+        "A long stripe of red color",
+        "The study of the past"
+      ],
+      "answer": 0,
+      "explanation": "A state is a political division of a country, like Hawaii or California in the United States."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "Please _______ the stars on the flag to see how many there are.",
+      "answer": "count",
+      "acceptedAnswers": [
+        "count",
+        "Count"
+      ],
+      "hint": "To say numbers in order to find the total.",
+      "explanation": "To 'count' means to name numbers in order to find the total number of items."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "A 'leader' is a person who:",
+      "options": [
+        "Guides or rules a group of people or a country",
+        "Sews flags using red and white stripes",
+        "Slides down a snowy hill on a wooden vehicle",
+        "Draws plans for how a flag should look"
+      ],
+      "answer": 0,
+      "explanation": "A leader is a person who is in charge of guiding, directing, or ruling others."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these words into Nouns (naming words) or Verbs (action words):",
+      "items": [
+        "flag",
+        "country",
+        "patch",
+        "join",
+        "add"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "flag",
+            "country",
+            "patch"
+          ]
+        },
+        {
+          "label": "Verbs",
+          "answers": [
+            "join",
+            "add"
+          ]
+        }
+      ],
+      "explanation": "'Flag,' 'country,' and 'patch' are naming words (nouns). 'Join' and 'add' describe actions (verbs)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "To 'stand for' something means to stand up when someone enters the room.",
+      "answer": false,
+      "explanation": "False. In this context, to 'stand for' means to represent or mean a specific idea or thing."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "nouns"
+      ],
+      "question": "Arrange the words to describe the first flag:",
+      "words": [
+        "had",
+        "stars",
+        "first",
+        "flag",
+        "The"
+      ],
+      "answer": [
+        "The",
+        "first",
+        "flag",
+        "had",
+        "stars"
+      ],
+      "explanation": "Correct sentence: 'The first flag had stars.' These stars were on a patch of blue."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "verbs"
+      ],
+      "question": "What does it mean to 'design' something?",
+      "options": [
+        "To make a plan and drawing of how something should look",
+        "To count items to find a total",
+        "To join a group of states",
+        "To study past events"
+      ],
+      "answer": 0,
+      "explanation": "To 'design' is to plan and draw the structure or appearance of something before it is made."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "The flag is a _______ that represents the freedom of our country.",
+      "answer": "symbol",
+      "acceptedAnswers": [
+        "symbol",
+        "Symbol"
+      ],
+      "hint": "An object or drawing that stands for an idea.",
+      "explanation": "A 'symbol' is an object or picture that represents a larger concept or country."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "sentence",
+        "verbs"
+      ],
+      "question": "Arrange the words to show what the country can do:",
+      "words": [
+        "new",
+        "add",
+        "We",
+        "states",
+        "can"
+      ],
+      "answer": [
+        "We",
+        "can",
+        "add",
+        "new",
+        "states"
+      ],
+      "explanation": "Correct sentence: 'We can add new states.' Each new state gets a star."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "The word 'history' refers to the study of events that will happen in the future.",
+      "answer": false,
+      "explanation": "False. 'History' is the study of events that happened in the past."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "first-american-flag",
+        "vocabulary",
+        "nouns"
+      ],
+      "question": "What is a 'patch' as described in the flag design?",
+      "options": [
+        "A small area or piece of cloth that is different from the main part",
+        "A long line of red and white colors",
+        "A leader who rules over 13 states",
+        "A wooden tool to slide on the grass"
+      ],
+      "answer": 0,
+      "explanation": "A 'patch' is a small, distinct area of cloth or surface, like the blue corner patch of the flag."
+    }
+  ]
+}

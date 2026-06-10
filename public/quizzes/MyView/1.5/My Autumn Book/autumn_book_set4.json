@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "id": "autumn_book_set4",
+    "version": "1.0",
+    "title": "My Autumn Book — Set 4",
+    "subject": "English Reading",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Sentence practice and fill-in-the-blank quiz for 'My Autumn Book'.",
+    "guid": "e1192ce9-e462-4c12-8e67-1eb1701c2427"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "weather"
+      ],
+      "question": "What kind of wind is blowing when the narrator zips their jacket?",
+      "options": [
+        "chilly",
+        "warm",
+        "gentle",
+        "dry"
+      ],
+      "answer": 0,
+      "explanation": "The story says: 'A chilly wind blows. I zip my jacket.' Chilly wind is cold."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "animals"
+      ],
+      "question": "The chipmunk scampers past with seeds packed in its mouth.",
+      "answer": false,
+      "explanation": "False. The poem says the chipmunk has 'seeds packed in its cheeks,' not its mouth."
+    },
+    {
+      "id": "q3",
+      "type": "fill-in",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "spider"
+      ],
+      "question": "In a corner of the garden shed, Spider spins a _______ thread.",
+      "answer": "silken",
+      "acceptedAnswers": [
+        "silken",
+        "Silken"
+      ],
+      "hint": "Smooth and shiny like silk.",
+      "explanation": "The story says: 'Spider spins a silken thread' in the garden shed."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "geese"
+      ],
+      "question": "Geese honk above and fly south in formation.",
+      "answer": true,
+      "explanation": "True. The poem states: 'Geese honk above, Fly south in formation' to escape the cold."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "woodpecker"
+      ],
+      "question": "Who agrees that summer is leaving with a 'rap-a-tap' drumming sound?",
+      "options": [
+        "Woodpecker",
+        "Squirrel",
+        "Spider",
+        "Blue Jay"
+      ],
+      "answer": 0,
+      "explanation": "The story says: 'Summer is leaving! Autumn coming! Woodpecker agrees, rap-a-tap drumming.'"
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "cicada"
+      ],
+      "question": "The cicada warns us that summer is _______.",
+      "answer": "leaving",
+      "acceptedAnswers": [
+        "leaving",
+        "Leaving"
+      ],
+      "hint": "Going away.",
+      "explanation": "The poem states: 'Cicada is warning us: Better beware! Summer is leaving!'"
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "leaves"
+      ],
+      "question": "What blankets the ground in a whirlwind of color?",
+      "options": [
+        "Fallen leaves",
+        "Cold winter snow",
+        "Spring flowers",
+        "Acorns in holes"
+      ],
+      "answer": 0,
+      "explanation": "In autumn, a whirlwind of spinning leaves blankets the ground in beautiful colors."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "sorting"
+      ],
+      "question": "Sort these tree leaf actions/colors based on their description in the story:",
+      "items": [
+        "shows off crimson gown",
+        "suit of rust brown",
+        "cloaked in yellow",
+        "wears red",
+        "crown of gold"
+      ],
+      "categories": [
+        {
+          "label": "Red or Brown Trees (Dogwood, Oak, Maple)",
+          "answers": [
+            "shows off crimson gown",
+            "suit of rust brown",
+            "wears red"
+          ]
+        },
+        {
+          "label": "Yellow or Gold Trees (Ash, Aspen)",
+          "answers": [
+            "cloaked in yellow",
+            "crown of gold"
+          ]
+        }
+      ],
+      "explanation": "Dogwood (crimson gown), oak (rust brown suit), and maple (wears red) are red/brown. Ash (cloaked in yellow) and aspen (crown of gold) are yellow/gold."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "squirrel"
+      ],
+      "question": "The squirrel digs a hole to bury its treasure because it expects a change in the weather.",
+      "answer": true,
+      "explanation": "True. The squirrel expects cold weather, so it buries food to eat during the winter."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "weather"
+      ],
+      "question": "Arrange the words to describe the autumn air:",
+      "words": [
+        "air",
+        "crisp",
+        "The",
+        "is",
+        "very"
+      ],
+      "answer": [
+        "The",
+        "air",
+        "is",
+        "very",
+        "crisp"
+      ],
+      "explanation": "Correct sentence: 'The air is very crisp.' This describes the cool, fresh weather."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "caterpillar"
+      ],
+      "question": "What does the caterpillar know it is time to do?",
+      "options": [
+        "cocoon",
+        "fly south",
+        "drum rap-a-tap",
+        "zip its jacket"
+      ],
+      "answer": 0,
+      "explanation": "The poem says: 'Caterpillar knows it's time to cocoon' as autumn approaches."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "narrator"
+      ],
+      "question": "The narrator dashes to their room to decorate _______ in their book.",
+      "answer": "pages",
+      "acceptedAnswers": [
+        "pages",
+        "Pages"
+      ],
+      "hint": "The sheets of paper in a book.",
+      "explanation": "The story ends with: 'I decorate pages, Arrange to make space...'"
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "narrator"
+      ],
+      "question": "Arrange the words to show how fast we must act:",
+      "words": [
+        "delay",
+        "to",
+        "time",
+        "no",
+        "have",
+        "We"
+      ],
+      "answer": [
+        "We",
+        "have",
+        "no",
+        "time",
+        "to",
+        "delay"
+      ],
+      "explanation": "Correct sentence: 'We have no time to delay.' The seasons change quickly, so they must act fast."
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "leaves"
+      ],
+      "question": "In autumn, leaves whisper and sway in the breeze, shaking loose acorns.",
+      "answer": true,
+      "explanation": "True. The poem states: 'Together they whisper and sway in the breeze, Shaking loose acorns and batches of leaves.'"
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "autumn-book",
+        "sentence",
+        "seasons"
+      ],
+      "question": "When crickets no longer sing and the outside world turns cold, which season has arrived?",
+      "options": [
+        "winter",
+        "autumn",
+        "summer",
+        "spring"
+      ],
+      "answer": 0,
+      "explanation": "When crickets stop singing and the world turns cold and white, it is the transition into winter."
+    }
+  ]
+}

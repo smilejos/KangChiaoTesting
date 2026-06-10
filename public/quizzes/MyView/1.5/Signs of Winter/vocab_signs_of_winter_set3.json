@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "id": "vocab_signs_of_winter_set3",
+    "version": "1.0",
+    "title": "Signs of Winter — Vocabulary Set 3",
+    "subject": "English Vocabulary",
+    "level": "Elementary Grade 3–4",
+    "created": "2026-06-10",
+    "description": "Vocabulary practice focusing on Part 2 words: collect, needle, temperature, lodge, sled, branch, change, travel.",
+    "guid": "ec75231b-2000-472e-9277-df8a722fb79b"
+  },
+  "settings": {
+    "shuffle": true,
+    "maxQuestions": null
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What is the wood or plastic vehicle used to ride down snowy hills?",
+      "options": [
+        "branch",
+        "needle",
+        "sled",
+        "lodge"
+      ],
+      "answer": 2,
+      "explanation": "A sled is a vehicle that you sit on to slide down snowy slopes."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Pine and fir trees have thin, pointy leaves called needles.",
+      "answer": true,
+      "explanation": "True. Needles are the thin, sharp leaves found on evergreen trees like pine and fir."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What does a beaver build using mud and wood to live in?",
+      "options": [
+        "lodge",
+        "branch",
+        "sled",
+        "needle"
+      ],
+      "answer": 0,
+      "explanation": "A lodge is the dome-shaped home built by beavers in water."
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "To 'collect' means to throw things away in different places.",
+      "answer": false,
+      "explanation": "False. To 'collect' means to gather or pick up items from different places."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "difficulty": 1,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What do we measure when we want to know how hot or cold something is?",
+      "options": [
+        "temperature",
+        "lodge",
+        "sled",
+        "branch"
+      ],
+      "answer": 0,
+      "explanation": "Temperature is the measurement of how hot or cold the air or an object is."
+    },
+    {
+      "id": "q6",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "A tree _______ grows out from the trunk and holds the leaves.",
+      "answer": "branch",
+      "acceptedAnswers": [
+        "branch",
+        "Branch"
+      ],
+      "hint": "A woody part of a tree that grows out from the main trunk.",
+      "explanation": "Branches are the limbs of a tree that grow outward from the trunk."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "What does it mean to 'change'?",
+      "options": [
+        "To make or become different",
+        "To stay exactly the same",
+        "To travel very fast",
+        "To slide on the snow"
+      ],
+      "answer": 0,
+      "explanation": "To change means to alter or make something become different, like changing seasons."
+    },
+    {
+      "id": "q8",
+      "type": "categorize",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "sorting"
+      ],
+      "question": "Sort these Part 2 words into Nouns (naming words) or Verbs (action words):",
+      "items": [
+        "needle",
+        "lodge",
+        "branch",
+        "change",
+        "travel"
+      ],
+      "categories": [
+        {
+          "label": "Nouns",
+          "answers": [
+            "needle",
+            "lodge",
+            "branch"
+          ]
+        },
+        {
+          "label": "Verbs",
+          "answers": [
+            "change",
+            "travel"
+          ]
+        }
+      ],
+      "explanation": "'Needle,' 'lodge,' and 'branch' are nouns. 'Change' and 'travel' are actions (verbs)."
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "To 'travel' means to move from one place to another, like Earth orbiting the sun.",
+      "answer": true,
+      "explanation": "True. To travel means to make a journey or move across space or distance."
+    },
+    {
+      "id": "q10",
+      "type": "reorder",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "part2"
+      ],
+      "question": "Arrange the words to show what beavers do before winter:",
+      "words": [
+        "wood",
+        "collect",
+        "Beavers",
+        "winter",
+        "for"
+      ],
+      "answer": [
+        "Beavers",
+        "collect",
+        "wood",
+        "for",
+        "winter"
+      ],
+      "explanation": "Correct sentence: 'Beavers collect wood for winter.' They gather logs and branches."
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Where do beavers keep their food logs?",
+      "options": [
+        "In the water near their lodges",
+        "On top of pine branches",
+        "Inside a wooden sled",
+        "Under the bison's coat"
+      ],
+      "answer": 0,
+      "explanation": "Beavers store food branches in the water near their lodges to preserve them and keep them accessible."
+    },
+    {
+      "id": "q12",
+      "type": "fill-in",
+      "difficulty": 2,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Pine and fir tree leaves are called _______ because they are thin and pointy.",
+      "answer": "needles",
+      "acceptedAnswers": [
+        "needles",
+        "needle",
+        "Needles"
+      ],
+      "hint": "Pointy leaves of evergreen trees.",
+      "explanation": "Needles are pointy, narrow leaves that help evergreens survive cold, dry winters."
+    },
+    {
+      "id": "q13",
+      "type": "reorder",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "sentence",
+        "part2"
+      ],
+      "question": "Arrange the words to describe how we use a sled:",
+      "words": [
+        "ride",
+        "fast",
+        "We",
+        "sled",
+        "a"
+      ],
+      "answer": [
+        "We",
+        "ride",
+        "a",
+        "fast",
+        "sled"
+      ],
+      "explanation": "Correct sentence: 'We ride a fast sled.' Capitalize 'We.'"
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "Earth travels around the sun once every week.",
+      "answer": false,
+      "explanation": "False. Earth travels around the sun once every year (365 days), not every week."
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "difficulty": 3,
+      "tags": [
+        "signs-of-winter",
+        "vocabulary",
+        "part2"
+      ],
+      "question": "If a winter storm breaks a 'branch,' what has happened to the tree?",
+      "options": [
+        "A large woody limb has snapped off the trunk",
+        "A pine needle has changed color",
+        "The beaver lodge has flooded",
+        "The roots have traveled deep"
+      ],
+      "answer": 0,
+      "explanation": "A branch is a large woody limb, so a broken branch means a tree limb has snapped off."
+    }
+  ]
+}
